@@ -4,13 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/PackingArchivesAction.java" timestamp="1492843285651" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/exhibitionInfoList.vm" timestamp="1492843645816">
-        <mark key="[" line="91" column="13" />
-        <mark key="]" line="91" column="13" />
-        <mark key="." line="91" column="13" />
-        <mark key="^" line="80" column="32" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/exhibitionInfoList.vm" timestamp="1492847813735">
+        <mark key="[" line="62" column="23" />
+        <mark key="]" line="61" column="79" />
+        <mark key="." line="61" column="79" />
+        <mark key="^" line="61" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492844692818">
+      <file name="/Dummy.txt" timestamp="1492846908370">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -19,7 +19,7 @@
         <mark key="'" line="70" column="98" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/CustomerEncyclopediaAction.java" timestamp="1492843507061" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/ExhibitionInfoAction.java" timestamp="1492843602566" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/ExhibitionInfoAction.java" timestamp="1492847781776" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/marketTrainingList.vm" timestamp="1492843202972">
         <mark key="[" line="155" column="31" />
         <mark key="]" line="156" column="31" />
@@ -43,6 +43,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/KnowledgeBaseAction.java" timestamp="1492846913659" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/BusinessOrderAction.java" timestamp="1492843908631" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/offer.vm" timestamp="1492844686052">
         <mark key="'" line="566" column="24" />
