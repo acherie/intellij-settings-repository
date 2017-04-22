@@ -4,11 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/PackingArchivesAction.java" timestamp="1492843285651" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/exhibitionInfoList.vm" timestamp="1492847813735">
-        <mark key="[" line="62" column="23" />
-        <mark key="]" line="61" column="79" />
-        <mark key="." line="61" column="79" />
-        <mark key="^" line="61" column="79" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/exhibitionInfoList.vm" timestamp="1492848680350">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="121" column="13" />
+        <mark key="]" line="123" column="24" />
+        <mark key="." line="123" column="24" />
+        <mark key="^" line="123" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1492846908370">
         <mark key="[" line="0" column="0" />
@@ -19,7 +20,13 @@
         <mark key="'" line="70" column="98" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/CustomerEncyclopediaAction.java" timestamp="1492843507061" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/ExhibitionInfoAction.java" timestamp="1492847781776" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/ExhibitionInfoAction.java" timestamp="1492847994010">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="110" column="75" />
+        <mark key="]" line="110" column="78" />
+        <mark key="." line="110" column="78" />
+        <mark key="^" line="110" column="78" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/marketTrainingList.vm" timestamp="1492843202972">
         <mark key="[" line="155" column="31" />
         <mark key="]" line="156" column="31" />
@@ -64,37 +71,54 @@
       <jump line="55" column="35" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/packingCostList.vm" />
       <jump line="70" column="98" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/packingCostList.vm" />
       <jump line="566" column="24" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/offer.vm" />
+      <jump line="87" column="71" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/ExhibitionInfoAction.java" />
+      <jump line="94" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/ExhibitionInfoAction.java" />
+      <jump line="96" column="37" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/exhibitionInfoList.vm" />
+      <jump line="121" column="11" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/exhibitionInfoList.vm" />
+      <jump line="58" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/exhibitionInfoList.vm" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1MDYyZGI2OGViM2RmMzkwYzYzNjVhNTM1NDZmMDM3YWZmOTJlMmYxCg==</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZpcm0oIsm+s/24w9W5u+G2r8yso78iKSkgewogICAgICAgICAgICAgICAgdmFyIHVybCA9ICcke3JjLmNvbnRleHRQYXRofS9leGhpYml0aW9uSW5mby9kZWxldGVFeGhpYml0aW9uSW5mbyc7CiAgICAgICAgICAgICAgICAkLnBvc3QodXJsLCB7CiAgICAgICAgICAgICAgICAgICAgaWQ6IGlkCiAgICAgICAgICAgICAgICB9LCBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5jb2RlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIsm+s/2zybmmo6EiKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgiyb6z/cqnsNyjoSIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>o</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgPHRkPjxhIGhyZWY9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vYnVzaW5lc3NPcmRlci9pbnRvT2ZmZXJvck9yZGVyP29yZGVySWQ9PCU9ZGF0YVtpXS5vcmRlcklkJT4iPjwlPWRhdGFbaV0ub3JkZXJJZCU+PC9hPjwvdGQ+CiAgICAgICAgPHRkPjxhIGhyZWY9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vYnVzaW5lc3NPcmRlci9pbnRvQnVzaW5lc3NPcHBvcnR1bml0eUluZm8/YnVzaW5lc3NJZD08JT1kYXRhW2ldLmJ1c2luZXNzSWQlPiI+PCU9ZGF0YVtpXS5idXNpbmVzc0lkJT48L2E+PC90ZD4KICAgICAgICA8dGQ+PCU9ZGF0YVtpXS5jdXN0b21lck5hbWUlPjwvdGQ+CiAgICAgICAgPHRkIGxhbmc9InpoIj48JT1jdXN0b21lckxldmVsTGlzdFtkYXRhW2ldLmN1c3RvbWVyTGV2ZWwgLSAxXSU+PC90ZD4KICAgICAgICA8dGQgbGFuZz0iemgiPjwlPWRhdGFbaV0uZW50ZXJwcmlzZU5hdHVyZSU+PC90ZD4KICAgICAgICA8dGQ+PCU9ZGF0YVtpXS5hbW91bnRQYXlhYmxlJT48L3RkPgogICAgICAgIDx0ZD48JT1kYXRhW2ldLm9yZGVyUHJvZHVjdCU+PC90ZD4KICAgICAgICA8JWlmICgoZGF0YVtpXS5zdGF0dXMrMikhPTIpIHslPgogICAgICAgIDx0ZCBsYW5nPSJ6aCI+PCU9YnVzaW5lc3NTdGF0ZUxpc3RbZGF0YVtpXS5zdGF0dXMgKyAyXSU+PC90ZD4KPT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIFlVSSBDb21wcmVzc29yIC0tPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+eXVpY29tcHJlc3NvcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+eXVpY29tcHJlc3NvcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40Ljc8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+SUtBbmFseXplcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+SUtBbmFseXplcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MjAxMkZGX3UxPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
-      </register>
-      <register name=":" type="4">
-        <text>vsp</text>
+        <text>click</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>click</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbENcPg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgdmFyIGRlbGV0ZSA9IGZ1bmN0aW9uIChpZCkgewogICAgICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZpcm0oIsm+s/24w9W5u+G2r8yso78iKSkgewogICAgICAgICAgICAgICAgdmFyIHVybCA9ICcke3JjLmNvbnRleHRQYXRofS9leGhpYml0aW9uSW5mby9kZWxldGVFeGhpYml0aW9uSW5mbyc7CiAgICAgICAgICAgICAgICAkLnBvc3QodXJsLCB7CiAgICAgICAgICAgICAgICAgICAgaWQ6IGlkCiAgICAgICAgICAgICAgICB9LCBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5jb2RlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIsm+s/2zybmmo6EiKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgiyb6z/cqnsNyjoSIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiA1MDYyZGI2OGViM2RmMzkwYzYzNjVhNTM1NDZmMDM3YWZmOTJlMmYxCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgPHRkPjxhIGhyZWY9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vYnVzaW5lc3NPcmRlci9pbnRvT2ZmZXJvck9yZGVyP29yZGVySWQ9PCU9ZGF0YVtpXS5vcmRlcklkJT4iPjwlPWRhdGFbaV0ub3JkZXJJZCU+PC9hPjwvdGQ+CiAgICAgICAgPHRkPjxhIGhyZWY9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vYnVzaW5lc3NPcmRlci9pbnRvQnVzaW5lc3NPcHBvcnR1bml0eUluZm8/YnVzaW5lc3NJZD08JT1kYXRhW2ldLmJ1c2luZXNzSWQlPiI+PCU9ZGF0YVtpXS5idXNpbmVzc0lkJT48L2E+PC90ZD4KICAgICAgICA8dGQ+PCU9ZGF0YVtpXS5jdXN0b21lck5hbWUlPjwvdGQ+CiAgICAgICAgPHRkIGxhbmc9InpoIj48JT1jdXN0b21lckxldmVsTGlzdFtkYXRhW2ldLmN1c3RvbWVyTGV2ZWwgLSAxXSU+PC90ZD4KICAgICAgICA8dGQgbGFuZz0iemgiPjwlPWRhdGFbaV0uZW50ZXJwcmlzZU5hdHVyZSU+PC90ZD4KICAgICAgICA8dGQ+PCU9ZGF0YVtpXS5hbW91bnRQYXlhYmxlJT48L3RkPgogICAgICAgIDx0ZD48JT1kYXRhW2ldLm9yZGVyUHJvZHVjdCU+PC90ZD4KICAgICAgICA8JWlmICgoZGF0YVtpXS5zdGF0dXMrMikhPTIpIHslPgogICAgICAgIDx0ZCBsYW5nPSJ6aCI+PCU9YnVzaW5lc3NTdGF0ZUxpc3RbZGF0YVtpXS5zdGF0dXMgKyAyXSU+PC90ZD4KPT09PT09PQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>vsp</text>
       </register>
     </registers>
     <search>
