@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/OrganizationVO.java" timestamp="1493006721500">
-        <mark key="[" line="6" column="47" />
-        <mark key="]" line="6" column="52" />
-        <mark key="." line="6" column="52" />
-        <mark key="^" line="6" column="52" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/OrganizationVO.java" timestamp="1493007016102">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/AreaClassService.java" timestamp="1493003274464" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/commons/commons.js" timestamp="1492998405201" />
@@ -36,6 +36,7 @@
         <mark key="." line="182" column="36" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/AreaCodeServiceImpl.java" timestamp="1493003692706" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/OrganizationController.java" timestamp="1493006999616" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-manager/pom.xml" timestamp="1493004098012">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
@@ -65,19 +66,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/OrganizationTrees.java" timestamp="1493006261411">
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="22" column="57" />
-        <mark key="." line="22" column="45" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/OrganizationTrees.java" timestamp="1493006763453">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
         <mark key="^" line="22" column="44" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/AreaCodeController.java" timestamp="1493003345181" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/AreaCodeService.java" timestamp="1493002024212" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1493006081070">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1493006977129">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
         <mark key="^" line="23" column="59" />
-        <mark key="." line="26" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/BaseTreeableService.java" timestamp="1493005985916" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/pom.xml" timestamp="1493003975745">
@@ -92,11 +93,12 @@
         <mark key="." line="4" column="62" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-manager/src/main/java/com/fuhuadata/manager/impl/NCExchange/CustomerInfoToNCImpl.java" timestamp="1493003961368" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/Trees.java" timestamp="1493006277680">
-        <mark key="[" line="102" column="22" />
-        <mark key="]" line="102" column="27" />
-        <mark key="." line="102" column="27" />
-        <mark key="^" line="102" column="27" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/NodeRoot.java" timestamp="1493006921937" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/Trees.java" timestamp="1493006887290">
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+        <mark key="^" line="34" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1493005257012">
         <mark key="[" line="0" column="0" />
@@ -126,11 +128,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZpcm0oIsm+s/24w9W5u+G2r8yso78iKSkgewogICAgICAgICAgICAgICAgdmFyIHVybCA9ICcke3JjLmNvbnRleHRQYXRofS9leGhpYml0aW9uSW5mby9kZWxldGVFeGhpYml0aW9uSW5mbyc7CiAgICAgICAgICAgICAgICAkLnBvc3QodXJsLCB7CiAgICAgICAgICAgICAgICAgICAgaWQ6IGlkCiAgICAgICAgICAgICAgICB9LCBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5jb2RlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIsm+s/2zybmmo6EiKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgiyb6z/cqnsNyjoSIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>isParent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvcmdzLmFkZChnZXRSb290KCkpOwogICAgICAgIEhhc2hTZXQ8SW50ZWdlcj4gcGFyZW50SWRzID0gU2V0cy5uZXdIYXNoU2V0KGdldFJvb3QoKS5nZXRJZCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>isParent</text>
+        <text>, parentIds</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJBcmVhVHJlZVRvTGVmdFw+</text>
@@ -139,7 +141,7 @@
         <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJ0X2luY290ZXJtIiBkb21haW5PYmplY3ROYW1lPSJJbmNvdGVybSIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBPcmdhbml6YXRpb25UcmVlcyhMaXN0PE9yZ2FuaXphdGlvbj4gZmxhdEl0ZW1zLCBIYXNoU2V0PEludGVnZXI+IHBhcmVudElkcykgewo=</text>
+        <text encoding="base64">ICAgICAgICBvcmdzLmFkZChnZXRSb290KCkpOwogICAgICAgIEhhc2hTZXQ8SW50ZWdlcj4gcGFyZW50SWRzID0gU2V0cy5uZXdIYXNoU2V0KGdldFJvb3QoKS5nZXRJZCgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -148,25 +150,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBPcmdhbml6YXRpb25UcmVlcyhMaXN0PE9yZ2FuaXphdGlvbj4gZmxhdEl0ZW1zLCBIYXNoU2V0PFN0cmluZz4gcGFyZW50SWRzKSB7CiAgICAgICAgc3VwZXIoZmxhdEl0ZW1zLCBwYXJlbnRJZHMpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBjb3VudE5leHRJbmRleChJbnRlZ2VyIHBhcmVudElkKSB7CiAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBkZWxldGVTZWxmQW5kQ2hpbGRyZW4oT3JnYW5pemF0aW9uIHNlbGYpIHsKICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBzdXBwb3J0ZWQgeWV0LiIpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCB1cGRhdGVDaGlsZHJlblBhcmVudElkcyhTdHJpbmcgbmV3Q2hpbGRyZW5QYXJlbnRJZHMsIFN0cmluZyBvbGRDaGlsZHJlblBhcmVudElkcykgewogICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8T3JnYW5pemF0aW9uPiBsaXN0U2VsZkFuZE5leHRTaWJsaW5ncyhJbnRlZ2VyIHBhcmVudElkLCBpbnQgd2VpZ2h0KSB7CiAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwo=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBib29sZWFuIGlzUm9vdChPcmdhbml6YXRpb25WTyBub2RlKSB7CiAgICAgICAgcmV0dXJuIG5vZGUuZ2V0UGlkKCkgIT0gbnVsbCAmJiBub2RlLmdldFBpZCgpID09IDA7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBPcmdhbml6YXRpb25UcmVlcyhMaXN0PE9yZ2FuaXphdGlvbj4gZmxhdEl0ZW1zLCBIYXNoU2V0PEludGVnZXI+IHBhcmVudElkcykgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICA8dmVyc2lvbj4yLjU8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBjb3VudE5leHRJbmRleChJbnRlZ2VyIHBhcmVudElkKSB7CiAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBkZWxldGVTZWxmQW5kQ2hpbGRyZW4oT3JnYW5pemF0aW9uIHNlbGYpIHsKICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBzdXBwb3J0ZWQgeWV0LiIpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCB1cGRhdGVDaGlsZHJlblBhcmVudElkcyhTdHJpbmcgbmV3Q2hpbGRyZW5QYXJlbnRJZHMsIFN0cmluZyBvbGRDaGlsZHJlblBhcmVudElkcykgewogICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8T3JnYW5pemF0aW9uPiBsaXN0U2VsZkFuZE5leHRTaWJsaW5ncyhJbnRlZ2VyIHBhcmVudElkLCBpbnQgd2VpZ2h0KSB7CiAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJ0X2luY290ZXJtIiBkb21haW5PYmplY3ROYW1lPSJJbmNvdGVybSIvPgo=</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
