@@ -10,11 +10,11 @@
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Microsoft YaHei Mono" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
 </scheme>
