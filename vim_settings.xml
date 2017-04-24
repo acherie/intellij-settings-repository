@@ -56,7 +56,7 @@
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1493004001689" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserAreaService.java" timestamp="1493001922302" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1493013538859">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1493013907229">
         <mark key="[" line="157" column="40" />
         <mark key="]" line="158" column="36" />
         <mark key="." line="158" column="36" />
@@ -79,6 +79,12 @@
         <mark key="]" line="12" column="55" />
         <mark key="." line="12" column="55" />
         <mark key="^" line="12" column="55" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/AreaCl.java" timestamp="1493014636623">
+        <mark key="[" line="128" column="29" />
+        <mark key="]" line="129" column="65" />
+        <mark key="^" line="129" column="65" />
+        <mark key="." line="129" column="65" />
       </file>
       <file name="/Dummy.txt" timestamp="1493013699588">
         <mark key="[" line="0" column="0" />
@@ -106,7 +112,7 @@
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/AreaCodeController.java" timestamp="1493003345181" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/AreaCodeService.java" timestamp="1493002024212" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1493012675257">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1493014661357">
         <mark key="'" line="46" column="8" />
         <mark key="[" line="71" column="22" />
         <mark key="]" line="71" column="34" />
@@ -163,7 +169,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZpcm0oIsm+s/24w9W5u+G2r8yso78iKSkgewogICAgICAgICAgICAgICAgdmFyIHVybCA9ICcke3JjLmNvbnRleHRQYXRofS9leGhpYml0aW9uSW5mby9kZWxldGVFeGhpYml0aW9uSW5mbyc7CiAgICAgICAgICAgICAgICAkLnBvc3QodXJsLCB7CiAgICAgICAgICAgICAgICAgICAgaWQ6IGlkCiAgICAgICAgICAgICAgICB9LCBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5jb2RlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIsm+s/2zybmmo6EiKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgiyb6z/cqnsNyjoSIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>String.valueOf(org.getId())</text>
@@ -175,31 +181,31 @@
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJuYW1lIiBqZGJjVHlwZT0iVkFSQ0hBUiIgcHJvcGVydHk9Im5hbWUiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZsYXRJdGVtcyA9IGZsYXRJdGVtczsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJvb3RhYmxlID0gbmV3IE5vZGVSb290PFQsIElEPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNvZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFN0cmluZyBnZXREZWZhdWx0T3JkZXJCeSgpIHsKICAgICAgICByZXR1cm4gInBhcmVudF9pZCBhc2MsIG9yZ19pZCBhc2MiOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIE9yZ2FuaXphdGlvblNlcnZpY2UgZ2V0T3JnYW5pemF0aW9uU2VydmljZSgpIHsKICAgICAgICByZXR1cm4gKE9yZ2FuaXphdGlvblNlcnZpY2UpIGJhc2VTZXJ2aWNlOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZsYXRJdGVtcyA9IGZsYXRJdGVtczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmdzLmFkZChnZXRSb290KCkpOwogICAgICAgIEhhc2hTZXQ8SW50ZWdlcj4gcGFyZW50SWRzID0gU2V0cy5uZXdIYXNoU2V0KGdldFJvb3QoKS5nZXRJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJvb3RhYmxlID0gbmV3IE5vZGVSb290PFQsIElEPigpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
