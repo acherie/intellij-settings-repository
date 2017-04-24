@@ -16,27 +16,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="30" column="49" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-manager/pom.xml" timestamp="1493004098012">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-      </file>
       <file name="D:/IdeaProjects/es/web/src/main/resources/ehcache/ehcache_es.xml" timestamp="1493033595584" />
       <file name="D:/IdeaProjects/es/web/src/main/resources/spring-config.xml" timestamp="1493033626009" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/cache/BaseCacheAspect.java" timestamp="1493031509171" />
       <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1493004001689" />
       <file name="D:/IdeaProjects/jeesite/pom.xml" timestamp="1493030809937" />
       <file name="D:/Maven/Repository/Repo/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCache.java" timestamp="1493031300001" />
-      <file name="D:/IdeaProjects/es/pom.xml" timestamp="1493027486700">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/pom.xml" timestamp="1492780061862">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/AreaClVo.java" timestamp="1493022402060">
         <mark key="[" line="6" column="21" />
       </file>
@@ -65,14 +50,11 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/UserAccountMapper.java" timestamp="1493016394064" />
       <file name="D:/IdeaProjects/es/web/src/main/java/org/apache/shiro/cache/spring/SpringCacheManagerWrapper.java" timestamp="1493031264766" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserAccountMapper.xml" timestamp="1493016422762" />
-      <file name="D:/IdeaProjects/es/web/pom.xml" timestamp="1493027283657">
-        <mark key="'" line="95" column="12" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/AreaClCache.java" timestamp="1493032140868">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/AreaClCache.java" timestamp="1493035452762">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserService.java" timestamp="1493016536009">
         <mark key="[" line="31" column="4" />
@@ -82,10 +64,11 @@
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/NodeRoot.java" timestamp="1493006921937" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/BaseTreeableController.java" timestamp="1493019343679" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1493035482321" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/UserTreeCache.java" timestamp="1493031196322" />
       <file name="D:/IdeaProjects/es/web/src/main/resources/spring-config-cache.xml" timestamp="1493033573315" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/AreaClassService.java" timestamp="1493003274464" />
-      <file name="D:/IdeaProjects/jeesite/src/main/resources/spring-context.xml" timestamp="1493033386579" />
+      <file name="D:/IdeaProjects/jeesite/src/main/resources/spring-context.xml" timestamp="1493035433043" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Organization.java" timestamp="1493012934173">
         <mark key="[" line="31" column="7" />
         <mark key="]" line="32" column="23" />
@@ -107,11 +90,7 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="D:/IdeaProjects/jeesite/src/main/java/com/thinkgem/jeesite/common/utils/CacheUtils.java" timestamp="1493031224496" />
-      <file name="/Dummy.txt" timestamp="1493027374153">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="D:/Maven/Repository/Repo/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" timestamp="1493034991847" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/UserLogUtils.java" timestamp="1493031561872" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/UserController.java" timestamp="1493018293012">
         <mark key="[" line="72" column="66" />
@@ -126,11 +105,8 @@
         <mark key="^" line="61" column="35" />
         <mark key="." line="61" column="35" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/pom.xml" timestamp="1493003975745">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
+      <file name="D:/Maven/Repository/Repo/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/guava/GuavaCacheManager.java" timestamp="1493035023696" />
+      <file name="D:/Maven/Repository/Repo/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/support/SimpleCacheManager.java" timestamp="1493035217540" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/springmvc.xml" timestamp="1493026488174" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-manager/src/main/java/com/fuhuadata/manager/impl/NCExchange/CustomerInfoToNCImpl.java" timestamp="1493003961368" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/Trees.java" timestamp="1493022243528">
