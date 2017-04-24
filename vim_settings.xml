@@ -1,9 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/PackingArchivesAction.java" timestamp="1492843285651" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/exhibitionInfoList.vm" timestamp="1492849646872">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="119" column="51" />
@@ -16,10 +15,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/commons/commons.js" timestamp="1492998405201" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/packingCostList.vm" timestamp="1492843445330">
         <mark key="'" line="70" column="98" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/CustomerEncyclopediaAction.java" timestamp="1492843507061" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/ExhibitionInfoAction.java" timestamp="1492847994010">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="110" column="75" />
@@ -45,13 +44,18 @@
         <mark key="^" line="182" column="36" />
         <mark key="." line="182" column="36" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" timestamp="1493000459102">
+        <mark key="'" line="487" column="21" />
+        <mark key="[" line="1147" column="53" />
+        <mark key="]" line="1147" column="60" />
+        <mark key="." line="1147" column="60" />
+        <mark key="^" line="1147" column="60" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/pom.xml" timestamp="1492779786060">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/KnowledgeBaseAction.java" timestamp="1492846913659" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/BusinessOrderAction.java" timestamp="1492843908631" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/offer.vm" timestamp="1492844686052">
         <mark key="'" line="566" column="24" />
         <mark key="[" line="183" column="21" />
@@ -59,7 +63,6 @@
         <mark key="." line="183" column="21" />
         <mark key="^" line="183" column="21" />
       </file>
-      <file name="/offer.vm" timestamp="1492844164676" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/pom.xml" timestamp="1492780061862">
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
@@ -76,55 +79,66 @@
       <jump line="96" column="37" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/exhibitionInfoList.vm" />
       <jump line="121" column="11" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/exhibitionInfoList.vm" />
       <jump line="58" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/exhibitionInfoList.vm" />
+      <jump line="21" column="21" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
+      <jump line="1029" column="8" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
+      <jump line="1152" column="52" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
+      <jump line="507" column="4" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
+      <jump line="487" column="21" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZpcm0oIsm+s/24w9W5u+G2r8yso78iKSkgewogICAgICAgICAgICAgICAgdmFyIHVybCA9ICcke3JjLmNvbnRleHRQYXRofS9leGhpYml0aW9uSW5mby9kZWxldGVFeGhpYml0aW9uSW5mbyc7CiAgICAgICAgICAgICAgICAkLnBvc3QodXJsLCB7CiAgICAgICAgICAgICAgICAgICAgaWQ6IGlkCiAgICAgICAgICAgICAgICB9LCBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5jb2RlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIsm+s/2zybmmo6EiKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgiyb6z/cqnsNyjoSIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIHJvdyA9IA==</text>
+        <text encoding="base64">U0VMRUNUIHVyLmlkLCB1ci51c2VyX2lkLCB1ci5yb2xlX2lkLCB1ci5iZWdpbl90aW1lLCB1ci5lbmRfdGltZSwgdXIuYXV0aF91c2VyX2lkLCB1ci5hdXRoX3VzZXJfbmFtZSwgdXIuYXV0aF90aW1lICwgdWEuaWQgdXNlcl9pZCwgdWEubG9naW5fbmFtZSB1c2VyX2xvZ2luX25hbWUsIHVhLmxvZ2luX3Bhc3N3b3JkIHVzZXJfbG9naW5fcGFzc3dvcmQsIHVhLm5hbWUgdXNlcl9uYW1lLCB1YS5tb2JpbGUgdXNlcl9tb2JpbGUsIHVhLmJpcnRoZGF0ZSB1c2VyX2JpcnRoZGF0ZSwgdWEuY29kZSB1c2VyX2NvZGUsIHVhLnBrX2dyb3VwIHVzZXJfcGtfZ3JvdXAsIHVhLnBrX29yZyB1c2VyX3BrX29yZywgdWEucGtfcHNuZG9jIHVzZXJfcGtfcHNuZG9jLCB1YS5sYXN0X21vZGlmeV90aW1lIHVzZXJfbGFzdF9tb2RpZnlfdGltZSAsIGFyLmFyZWFpZCB1c2VyX2FyZWFfYXJlYWlkLCBhci5hcmVhX25hbWUgdXNlcl9hcmVhX2FyZWFfbmFtZSwgYXIuZV9hcmVhX25hbWUgdXNlcl9hcmVhX2VfYXJlYV9uYW1lLCBhci5wYXJlbnRfaWQgdXNlcl9hcmVhX3BhcmVudF9pZCwgYXIuYXJlYWNsYXNzX2lkIHVzZXJfYXJlYV9hcmVhY2xhc3NfaWQsIGFyLmxldmVsIHVzZXJfYXJlYV9sZXZlbCwgYXIuY3JlYXRlX3RpbWUgdXNlcl9hcmVhX2NyZWF0ZV90aW1lLCBhci5tb2RpZnlfdGltZSB1c2VyX2FyZWFfbW9kaWZ5X3RpbWUgRlJPTSBwX3VzZXJfcm9sZSB1ciBMRUZUIEpPSU4gcF91c2VyX2FjY291bnQgdWEgT04gdWEuaWQ9dXIudXNlcl9pZCBMRUZUIEpPSU4gcF91c2VyX2FyZWEgdXNfYXIgT04gdXNfYXIudXNlcl9pZD11YS5pZCBMRUZUIEpPSU4gcF9hcmVhX2NvZGUgYXIgT04gYXIuYXJlYWlkPXVzX2FyLmFyZWFfaWQgV0hFUkUgdXIucm9sZV9pZD0/IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIHJvdyA9IA==</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbENcPg==</text>
+        <text encoding="base64">XDxyZW5kZXJBcmVhVHJlZVRvTGVmdFw+</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">U0VMRUNUIHVyLmlkLCB1ci51c2VyX2lkLCB1ci5yb2xlX2lkLCB1ci5iZWdpbl90aW1lLCB1ci5lbmRfdGltZSwgdXIuYXV0aF91c2VyX2lkLCB1ci5hdXRoX3VzZXJfbmFtZSwgdXIuYXV0aF90aW1lICwgdWEuaWQgdXNlcl9pZCwgdWEubG9naW5fbmFtZSB1c2VyX2xvZ2luX25hbWUsIHVhLmxvZ2luX3Bhc3N3b3JkIHVzZXJfbG9naW5fcGFzc3dvcmQsIHVhLm5hbWUgdXNlcl9uYW1lLCB1YS5tb2JpbGUgdXNlcl9tb2JpbGUsIHVhLmJpcnRoZGF0ZSB1c2VyX2JpcnRoZGF0ZSwgdWEuY29kZSB1c2VyX2NvZGUsIHVhLnBrX2dyb3VwIHVzZXJfcGtfZ3JvdXAsIHVhLnBrX29yZyB1c2VyX3BrX29yZywgdWEucGtfcHNuZG9jIHVzZXJfcGtfcHNuZG9jLCB1YS5sYXN0X21vZGlmeV90aW1lIHVzZXJfbGFzdF9tb2RpZnlfdGltZSAsIGFyLmFyZWFpZCB1c2VyX2FyZWFfYXJlYWlkLCBhci5hcmVhX25hbWUgdXNlcl9hcmVhX2FyZWFfbmFtZSwgYXIuZV9hcmVhX25hbWUgdXNlcl9hcmVhX2VfYXJlYV9uYW1lLCBhci5wYXJlbnRfaWQgdXNlcl9hcmVhX3BhcmVudF9pZCwgYXIuYXJlYWNsYXNzX2lkIHVzZXJfYXJlYV9hcmVhY2xhc3NfaWQsIGFyLmxldmVsIHVzZXJfYXJlYV9sZXZlbCwgYXIuY3JlYXRlX3RpbWUgdXNlcl9hcmVhX2NyZWF0ZV90aW1lLCBhci5tb2RpZnlfdGltZSB1c2VyX2FyZWFfbW9kaWZ5X3RpbWUgRlJPTSBwX3VzZXJfcm9sZSB1ciBMRUZUIEpPSU4gcF91c2VyX2FjY291bnQgdWEgT04gdWEuaWQ9dXIudXNlcl9pZCBMRUZUIEpPSU4gcF91c2VyX2FyZWEgdXNfYXIgT04gdXNfYXIudXNlcl9pZD11YS5pZCBMRUZUIEpPSU4gcF9hcmVhX2NvZGUgYXIgT04gYXIuYXJlYWlkPXVzX2FyLmFyZWFfaWQgV0hFUkUgdXIucm9sZV9pZD0/IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFyIGRlbGV0ZSA9IGZ1bmN0aW9uIChpZCkgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZpcm0oIsm+s/24w9W5u+G2r8yso78iKSkgewogICAgICAgICAgICAgICAgdmFyIHVybCA9ICcke3JjLmNvbnRleHRQYXRofS9leGhpYml0aW9uSW5mby9kZWxldGVFeGhpYml0aW9uSW5mbyc7CiAgICAgICAgICAgICAgICAkLnBvc3QodXJsLCB7CiAgICAgICAgICAgICAgICAgICAgaWQ6IGlkCiAgICAgICAgICAgICAgICB9LCBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5jb2RlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIsm+s/2zybmmo6EiKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgiyb6z/cqnsNyjoSIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWdlLnJlbmRlckFyZWFUcmVlVG9TTW9kYWxMKGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkLm1hcChkYXRhKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA1MDYyZGI2OGViM2RmMzkwYzYzNjVhNTM1NDZmMDM3YWZmOTJlMmYxCg==</text>
+        <text encoding="base64">ICAgIC8vILHgvK231sXktdjH+AogICAgcGFnZS51c2VyVGFibGUub24oJ2NsaWNrLmFyZWEnLCAnW25hbWU9ImFyZWFUcmVlIl0nLCBmdW5jdGlvbiAoZSkgewogICAgICAgIHZhciBpZCA9ICQoZS50YXJnZXQpLnBhcmVudHMoJ3RyJykuZmluZCgndGQnKS5maXJzdCgpOwogICAgICAgICQoJyN1c2VySWQnKS52YWwoaWQpOwogICAgICAgICQoJyNtdWx0aXBsZScpLmZpbmQoJ1tkYXRhLWJ0bj0iZmluaXNoIl0nKS5hdHRyKCdpZCcsICdzYXZlQXJlYScpOwogICAgICAgIHBhZ2Uuc01vZEwuaHRtbCgnJyk7CiAgICAgICAgQ1JNLmFqYXhDYWxsKHsKICAgICAgICAgICAgdXJsOiBDUk0udXJsLkFSRUFfVFJFRV9HRVQsCiAgICAgICAgICAgIHR5cGU6ICdHRVQnLAogICAgICAgICAgICBjYWxsYmFjazogcGFnZS5yZW5kZXJBcmVhVHJlZVRvTGVmdAogICAgICAgIH0pOwogICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgPHRkPjxhIGhyZWY9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vYnVzaW5lc3NPcmRlci9pbnRvT2ZmZXJvck9yZGVyP29yZGVySWQ9PCU9ZGF0YVtpXS5vcmRlcklkJT4iPjwlPWRhdGFbaV0ub3JkZXJJZCU+PC9hPjwvdGQ+CiAgICAgICAgPHRkPjxhIGhyZWY9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vYnVzaW5lc3NPcmRlci9pbnRvQnVzaW5lc3NPcHBvcnR1bml0eUluZm8/YnVzaW5lc3NJZD08JT1kYXRhW2ldLmJ1c2luZXNzSWQlPiI+PCU9ZGF0YVtpXS5idXNpbmVzc0lkJT48L2E+PC90ZD4KICAgICAgICA8dGQ+PCU9ZGF0YVtpXS5jdXN0b21lck5hbWUlPjwvdGQ+CiAgICAgICAgPHRkIGxhbmc9InpoIj48JT1jdXN0b21lckxldmVsTGlzdFtkYXRhW2ldLmN1c3RvbWVyTGV2ZWwgLSAxXSU+PC90ZD4KICAgICAgICA8dGQgbGFuZz0iemgiPjwlPWRhdGFbaV0uZW50ZXJwcmlzZU5hdHVyZSU+PC90ZD4KICAgICAgICA8dGQ+PCU9ZGF0YVtpXS5hbW91bnRQYXlhYmxlJT48L3RkPgogICAgICAgIDx0ZD48JT1kYXRhW2ldLm9yZGVyUHJvZHVjdCU+PC90ZD4KICAgICAgICA8JWlmICgoZGF0YVtpXS5zdGF0dXMrMikhPTIpIHslPgogICAgICAgIDx0ZCBsYW5nPSJ6aCI+PCU9YnVzaW5lc3NTdGF0ZUxpc3RbZGF0YVtpXS5zdGF0dXMgKyAyXSU+PC90ZD4KPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgdmFyIGRlbGV0ZSA9IGZ1bmN0aW9uIChpZCkgewogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbENcPg==</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJBcmVhVHJlZVRvTGVmdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbENcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJBcmVhVHJlZVRvTGVmdFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -132,6 +146,9 @@
       <history-search>
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxvbENcPg==</entry>
+        <entry encoding="base64">XDxBUkVBX1RSRUVfR0VUXD4=</entry>
+        <entry>j-are</entry>
+        <entry encoding="base64">XDxyZW5kZXJBcmVhVHJlZVRvTGVmdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
