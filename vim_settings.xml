@@ -1,42 +1,18 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/OrganizationVO.java" timestamp="1493014746271">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.15.1/struts2-core-2.3.15.1.pom" timestamp="1493142576891" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Principal.java" timestamp="1493108525124" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/impl/CustomerAreaDaoImpl.java" timestamp="1493106094032" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/AreaClassServiceImpl.java" timestamp="1493099456274">
-        <mark key="[" line="34" column="53" />
-        <mark key="]" line="34" column="52" />
-        <mark key="^" line="34" column="52" />
-        <mark key="." line="34" column="52" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/AreaClController.java" timestamp="1493120166200">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="47" column="13" />
         <mark key="." line="47" column="13" />
         <mark key="^" line="47" column="13" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/AreaClTrees.java" timestamp="1493091933029">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/commons/ajax.js" timestamp="1493130804258" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/OrganizationController.java" timestamp="1493012578637">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="30" column="49" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserAreaServiceImpl.java" timestamp="1493109116614">
         <mark key="[" line="40" column="31" />
         <mark key="]" line="40" column="36" />
@@ -51,45 +27,15 @@
         <mark key="." line="501" column="0" />
         <mark key="^" line="286" column="11" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/MixNodeVO.java" timestamp="1493114278844">
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="43" column="33" />
-        <mark key="^" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.4.Final/hibernate-validator-5.3.4.Final-sources.jar!/org/hibernate/validator/messageinterpolation/ResourceBundleMessageInterpolator.java" timestamp="1493133978818" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.9.RELEASE/spring-webmvc-4.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerExceptionResolver.java" timestamp="1493150337544" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/AreaClVo.java" timestamp="1493109244369">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="39" />
-        <mark key="^" line="14" column="39" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.9.RELEASE/spring-webmvc-4.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerExceptionResolver.java" timestamp="1493150672635" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/log4j.properties" timestamp="1493107443761">
         <mark key="[" line="25" column="40" />
         <mark key="]" line="25" column="43" />
         <mark key="." line="25" column="43" />
         <mark key="^" line="25" column="43" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/AreaCl.java" timestamp="1493019044526">
-        <mark key="[" line="128" column="29" />
-        <mark key="]" line="129" column="65" />
-        <mark key="^" line="129" column="65" />
-        <mark key="." line="129" column="65" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/query/Result.java" timestamp="1493141502436" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/OrganizationTrees.java" timestamp="1493013417590">
-        <mark key="[" line="21" column="61" />
-        <mark key="]" line="22" column="43" />
-        <mark key="^" line="22" column="43" />
-        <mark key="." line="22" column="43" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/BaseTreeVo.java" timestamp="1493013301175">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1493113076638">
         <mark key="[" line="85" column="38" />
         <mark key="]" line="86" column="34" />
@@ -103,18 +49,7 @@
         <mark key="." line="46" column="35" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/datasource/HandleDataSource.java" timestamp="1493105118732" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/AreaClCache.java" timestamp="1493035452762">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserService.java" timestamp="1493113850131">
-        <mark key="[" line="43" column="16" />
-        <mark key="]" line="43" column="18" />
-        <mark key="^" line="43" column="18" />
-        <mark key="." line="43" column="18" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.9.RELEASE/spring-webmvc-4.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/support/DefaultHandlerExceptionResolver.java" timestamp="1493150855724" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/BaseTreeableController.java" timestamp="1493141668705">
         <mark key="[" line="156" column="62" />
         <mark key="k" line="159" column="0" />
@@ -144,19 +79,7 @@
         <mark key="^" line="49" column="7" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Organization.java" timestamp="1493012934173">
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="32" column="23" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE-sources.jar!/org/springframework/context/support/ReloadableResourceBundleMessageSource.java" timestamp="1493132966487" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/mybatis-config.xml" timestamp="1493107172976">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="31" />
-        <mark key="^" line="39" column="31" />
-        <mark key="." line="39" column="31" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1493113596202">
         <mark key="[" line="53" column="42" />
         <mark key="]" line="53" column="56" />
@@ -166,6 +89,7 @@
       <file name="D:/IdeaProjects/webside/webside-dtgrid/src/main/java/com/webside/exception/controller/GlobalDefaultExceptionHandler.java" timestamp="1493146735916" />
       <file name="D:/IdeaProjects/jeesite/src/main/resources/log4j.properties" timestamp="1493107441150" />
       <file name="D:/IdeaProjects/jeesite/src/main/java/com/thinkgem/jeesite/common/web/BaseController.java" timestamp="1493134773434" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.9.RELEASE/spring-webmvc-4.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerExceptionResolver.java" timestamp="1493150793178" />
       <file name="/Dummy.txt" timestamp="1493141826191">
         <mark key="[" line="0" column="0" />
       </file>
@@ -182,40 +106,10 @@
         <mark key="." line="72" column="69" />
         <mark key="^" line="72" column="69" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/DeptService.java" timestamp="1493016811749">
-        <mark key="[" line="59" column="40" />
-        <mark key="]" line="61" column="35" />
-        <mark key="^" line="61" column="35" />
-        <mark key="." line="61" column="35" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/CustomerAreaCategory.xml" timestamp="1493107981532" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.0.0.RELEASE/spring-core-4.0.0.RELEASE-sources.jar!/org/springframework/util/Assert.java" timestamp="1493135357048" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/web/controller/BaseCRUDController.java" timestamp="1493140263126" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/AreaClMapper.java" timestamp="1493108058761">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="32" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/springmvc.xml" timestamp="1493133810791">
-        <mark key="[" line="27" column="26" />
-        <mark key="]" line="27" column="46" />
-        <mark key="^" line="27" column="46" />
-        <mark key="." line="27" column="46" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.java" timestamp="1493134271125" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/Trees.java" timestamp="1493022243528">
-        <mark key="[" line="43" column="56" />
-        <mark key="]" line="44" column="23" />
-        <mark key="." line="44" column="23" />
-        <mark key="^" line="44" column="23" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/srping-config-cache.xml" timestamp="1493088055244">
-        <mark key="[" line="11" column="56" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="12" column="58" />
-        <mark key="^" line="12" column="58" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="111" column="34" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/packingCostList.vm" />
