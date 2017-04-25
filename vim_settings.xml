@@ -48,10 +48,11 @@
         <mark key="[" line="173" column="46" />
         <mark key="]" line="173" column="87" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1493133685745">
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="290" column="24" />
-        <mark key="." line="291" column="0" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1493144790452">
+        <mark key="'" line="66" column="28" />
+        <mark key="[" line="501" column="0" />
+        <mark key="]" line="501" column="0" />
+        <mark key="." line="501" column="0" />
         <mark key="^" line="286" column="11" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/MixNodeVO.java" timestamp="1493114278844">
@@ -142,6 +143,7 @@
         <mark key="^" line="24" column="86" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/CustomerSubcompanyInfo.java" timestamp="1493130549704" />
+      <file name="D:/Projects/springrain/springrain/src/main/resources/message/messageResources_en.properties" timestamp="1493145847116" />
       <file name="D:/IdeaProjects/jeesite/src/main/java/com/thinkgem/jeesite/common/beanvalidator/BeanValidators.java" timestamp="1493134481169" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/pom.xml" timestamp="1493133716716">
         <mark key="'" line="26" column="8" />
@@ -284,61 +286,71 @@
       <jump line="22" column="4" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" />
       <jump line="50" column="37" filename="D:/IdeaProjects/es/parent/pom.xml" />
       <jump line="26" column="8" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/pom.xml" />
+      <jump line="509" column="35" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="460" column="0" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="35" column="29" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="59" column="25" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="60" column="28" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="61" column="27" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="206" column="59" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="503" column="28" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="501" column="0" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="66" column="28" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkKCcjbXVsdGlwbGUnKS5maW5kKCcuai1jYW5kaScpLmh0bWwoIrT90aHTw7unIik7CiAgICAgICAgJCgnI211bHRpcGxlJykuZmluZCgnLmotc2VsZWN0ZWQnKS5odG1sKCLS0dGh08O7pyIpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TGlzdDxPYmplY3RFcnJvcj4gYWxsRXJyb3JzID0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3NwcmluZy52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">TGlzdDxPYmplY3RFcnJvcj4gYWxsRXJyb3JzID0g</text>
       </register>
       <register name="/" type="4">
-        <text>hiber</text>
+        <text>spring-test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuaGliZXJuYXRlPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLXZhbGlkYXRvcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7aGliZXJuYXRlLnZhbGlkYXRvci52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtoaWJlcm5hdGUudmFsaWRhdG9yLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3NwcmluZy52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5qdW5pdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+JHtqdW5pdC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtoaWJlcm5hdGUudmFsaWRhdG9yLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0eXBlPmphcjwvdHlwZT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0eXBlPmphcjwvdHlwZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0eXBlPmphcjwvdHlwZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0eXBlPmphcjwvdHlwZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0eXBlPmphcjwvdHlwZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>hiber</last-search>
+      <last-search>spring-test</last-search>
       <last-offset />
-      <last-pattern>hiber</last-pattern>
+      <last-pattern>spring-test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -355,6 +367,8 @@
         <entry encoding="base64">XDxjdXN0b21lcklkXD4=</entry>
         <entry encoding="base64">XDxhZGRhbm90aGVybmFtZVw+</entry>
         <entry>hiber</entry>
+        <entry>junit</entry>
+        <entry>spring-test</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
