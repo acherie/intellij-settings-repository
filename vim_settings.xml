@@ -62,7 +62,7 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/AreaClServiceImpl.java" timestamp="1493026928531">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/AreaClServiceImpl.java" timestamp="1493088096283">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="^" line="27" column="48" />
@@ -87,11 +87,11 @@
         <mark key="^" line="44" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/guava/GuavaCache.java" timestamp="1493085534894" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/srping-config-cache.xml" timestamp="1493085456377">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="40" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/srping-config-cache.xml" timestamp="1493088055244">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="12" column="58" />
+        <mark key="." line="12" column="58" />
+        <mark key="^" line="12" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1493033358059">
         <mark key="[" line="0" column="0" />
