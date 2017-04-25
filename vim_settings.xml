@@ -9,6 +9,7 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.15.1/struts2-core-2.3.15.1.pom" timestamp="1493142576891" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Principal.java" timestamp="1493108525124" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/impl/CustomerAreaDaoImpl.java" timestamp="1493106094032" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/AreaClassServiceImpl.java" timestamp="1493099456274">
@@ -108,20 +109,6 @@
         <mark key="^" line="46" column="35" />
         <mark key="." line="46" column="35" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/system/systemRoleManage.vm" timestamp="1493124126493">
-        <mark key="'" line="244" column="50" />
-        <mark key="[" line="244" column="40" />
-        <mark key="]" line="244" column="50" />
-        <mark key="^" line="244" column="50" />
-        <mark key="." line="244" column="50" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserAccountMapper.xml" timestamp="1493113745660">
-        <mark key="'" line="27" column="19" />
-        <mark key="[" line="71" column="58" />
-        <mark key="]" line="72" column="58" />
-        <mark key="." line="72" column="58" />
-        <mark key="^" line="72" column="58" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/datasource/HandleDataSource.java" timestamp="1493105118732" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/AreaClCache.java" timestamp="1493035452762">
         <mark key="[" line="7" column="24" />
@@ -173,28 +160,7 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/customer/customerAnotherNamer.js" timestamp="1493132513312">
-        <mark key="'" line="176" column="13" />
-        <mark key="[" line="28" column="103" />
-        <mark key="]" line="28" column="153" />
-        <mark key="." line="28" column="153" />
-        <mark key="^" line="28" column="153" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE-sources.jar!/org/springframework/context/support/ReloadableResourceBundleMessageSource.java" timestamp="1493132966487" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/AreaClService.java" timestamp="1493105910697">
-        <mark key="'" line="37" column="18" />
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/AreaClServiceImpl.java" timestamp="1493108124836">
-        <mark key="'" line="29" column="46" />
-        <mark key="[" line="59" column="15" />
-        <mark key="]" line="62" column="43" />
-        <mark key="^" line="62" column="43" />
-        <mark key="." line="62" column="43" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/mybatis-config.xml" timestamp="1493107172976">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="39" column="31" />
@@ -212,7 +178,7 @@
       <file name="/Dummy.txt" timestamp="1493141826191">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Menu.java" timestamp="1493135127284">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Menu.java" timestamp="1493143261073">
         <mark key="[" line="29" column="7" />
         <mark key="]" line="30" column="11" />
         <mark key="^" line="30" column="11" />
