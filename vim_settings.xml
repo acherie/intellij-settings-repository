@@ -30,9 +30,6 @@
         <mark key="^" line="19" column="32" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/commons/ajax.js" timestamp="1493130804258" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserAccount.java" timestamp="1493109747822">
-        <mark key="'" line="113" column="4" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/OrganizationController.java" timestamp="1493012578637">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -45,8 +42,16 @@
         <mark key="^" line="40" column="36" />
         <mark key="." line="40" column="36" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/customerInfo/customerAnotherNamer.vm" timestamp="1493130117448">
-        <mark key="'" line="220" column="79" />
+      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/Validator.java" timestamp="1493133875922" />
+      <file name="D:/IdeaProjects/es/web/src/main/resources/spring-config.xml" timestamp="1493133187657">
+        <mark key="[" line="173" column="46" />
+        <mark key="]" line="173" column="87" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1493133685745">
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="290" column="24" />
+        <mark key="." line="291" column="0" />
+        <mark key="^" line="286" column="11" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/MixNodeVO.java" timestamp="1493114278844">
         <mark key="[" line="42" column="37" />
@@ -54,6 +59,7 @@
         <mark key="^" line="43" column="33" />
         <mark key="." line="43" column="33" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.4.Final/hibernate-validator-5.3.4.Final-sources.jar!/org/hibernate/validator/messageinterpolation/ResourceBundleMessageInterpolator.java" timestamp="1493133978818" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/AreaClVo.java" timestamp="1493109244369">
         <mark key="[" line="13" column="41" />
         <mark key="]" line="14" column="39" />
@@ -83,6 +89,11 @@
         <mark key="]" line="17" column="33" />
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
+      </file>
+      <file name="D:/IdeaProjects/es/parent/pom.xml" timestamp="1493133674621">
+        <mark key="'" line="50" column="37" />
+        <mark key="[" line="533" column="0" />
+        <mark key="]" line="537" column="20" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1493113076638">
         <mark key="[" line="85" column="38" />
@@ -123,19 +134,36 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="18" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/BaseTreeableController.java" timestamp="1493119169176" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/BaseTreeableController.java" timestamp="1493134888897">
+        <mark key="[" line="147" column="50" />
+        <mark key="]" line="147" column="76" />
+        <mark key="^" line="147" column="76" />
+        <mark key="." line="147" column="76" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserRoleMapper.xml" timestamp="1493109790199">
         <mark key="[" line="65" column="49" />
         <mark key="]" line="65" column="79" />
         <mark key="." line="65" column="79" />
         <mark key="^" line="65" column="79" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1493134393165">
+        <mark key="[" line="23" column="104" />
+        <mark key="]" line="23" column="104" />
+        <mark key="." line="23" column="104" />
+        <mark key="^" line="24" column="86" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/CustomerSubcompanyInfo.java" timestamp="1493130549704" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserServiceImpl.java" timestamp="1493118111935">
-        <mark key="'" line="129" column="8" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
+      <file name="D:/IdeaProjects/jeesite/src/main/java/com/thinkgem/jeesite/common/beanvalidator/BeanValidators.java" timestamp="1493134481169" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/pom.xml" timestamp="1493133716716">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="49" column="7" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/jeesite/src/main/resources/spring-context.xml" timestamp="1493133064526">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="53" column="106" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Organization.java" timestamp="1493012934173">
         <mark key="[" line="31" column="7" />
@@ -143,22 +171,14 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" timestamp="1493124944600">
-        <mark key="a" line="1134" column="24" />
-        <mark key="s" line="146" column="0" />
-        <mark key="'" line="1120" column="38" />
-        <mark key="[" line="1157" column="51" />
-        <mark key="]" line="1157" column="52" />
-        <mark key="^" line="1157" column="52" />
-        <mark key="." line="1157" column="52" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/customer/customerAnotherNamer.js" timestamp="1493131023498">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/customer/customerAnotherNamer.js" timestamp="1493132513312">
         <mark key="'" line="176" column="13" />
         <mark key="[" line="28" column="103" />
         <mark key="]" line="28" column="153" />
         <mark key="." line="28" column="153" />
         <mark key="^" line="28" column="153" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE-sources.jar!/org/springframework/context/support/ReloadableResourceBundleMessageSource.java" timestamp="1493132966487" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/AreaClService.java" timestamp="1493105910697">
         <mark key="'" line="37" column="18" />
         <mark key="[" line="13" column="18" />
@@ -186,8 +206,15 @@
         <mark key="^" line="53" column="56" />
       </file>
       <file name="D:/IdeaProjects/jeesite/src/main/resources/log4j.properties" timestamp="1493107441150" />
+      <file name="D:/IdeaProjects/jeesite/src/main/java/com/thinkgem/jeesite/common/web/BaseController.java" timestamp="1493134773434" />
       <file name="/Dummy.txt" timestamp="1493131039612">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Menu.java" timestamp="1493135109986">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="21" column="10" />
+        <mark key="^" line="21" column="10" />
+        <mark key="." line="21" column="10" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/RoleController.java" timestamp="1493118460672" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/UserController.java" timestamp="1493118719506">
@@ -214,6 +241,17 @@
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/AreaCodeMapper.xml" timestamp="1493109572087">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="58" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/springmvc.xml" timestamp="1493133810791">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="46" />
+        <mark key="^" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.java" timestamp="1493134271125" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/Trees.java" timestamp="1493022243528">
         <mark key="[" line="43" column="56" />
         <mark key="]" line="44" column="23" />
@@ -225,9 +263,6 @@
         <mark key="]" line="12" column="58" />
         <mark key="." line="12" column="58" />
         <mark key="^" line="12" column="58" />
-      </file>
-      <file name="/fragment.java" timestamp="1493117535882">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -281,61 +316,64 @@
       <jump line="232" column="10" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/customerInfo/customerAnotherNamer.vm" />
       <jump line="220" column="79" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/customerInfo/customerAnotherNamer.vm" />
       <jump line="176" column="13" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/customer/customerAnotherNamer.js" />
+      <jump line="22" column="4" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" />
+      <jump line="50" column="37" filename="D:/IdeaProjects/es/parent/pom.xml" />
+      <jump line="26" column="8" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkKCcjbXVsdGlwbGUnKS5maW5kKCcuai1jYW5kaScpLmh0bWwoIrT90aHTw7unIik7CiAgICAgICAgJCgnI211bHRpcGxlJykuZmluZCgnLmotc2VsZWN0ZWQnKS5odG1sKCLS0dGh08O7pyIpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QFJlcXVlc3RCb2R5IA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QFJlcXVlc3RCb2R5IA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRhbm90aGVybmFtZVw+</text>
+        <text>hiber</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjbXVsdGlwbGUnKS5maW5kKCcuai1jYW5kaScpLmh0bWwoIrT90aHTw7unIik7CiAgICAgICAgJCgnI211bHRpcGxlJykuZmluZCgnLmotc2VsZWN0ZWQnKS5odG1sKCLS0dGh08O7pyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuaGliZXJuYXRlPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGliZXJuYXRlLXZhbGlkYXRvcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7aGliZXJuYXRlLnZhbGlkYXRvci52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtoaWJlcm5hdGUudmFsaWRhdG9yLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vILHgvK252MGq08O7pwogICAgcGFnZS5lZGl0VXNlclRyZWUub24oJ2NsaWNrLnVzZXInLCBmdW5jdGlvbiAoZSkgewoKICAgICAgICAkKCcjbXVsdGlwbGUnKS5maW5kKCdbZGF0YS1idG49ImZpbmlzaCJdJykuYXR0cignaWQnLCAnc2F2ZVVzZXInKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0eXBlPmphcjwvdHlwZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwTm9kZS5hZGRDaGlsZE5vZGUobm9kZVZPKTsKICAgICAgICAgICAgICAgICAgICBsb29rdXAucHV0KHBOb2RlLmdldENpZCgpLCBwTm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0eXBlPmphcjwvdHlwZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0eXBlPmphcjwvdHlwZT4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb290cy5hZGQobm9kZVZPKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBpZCA9IHBOb2RlLmdldFBpZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRhbm90aGVybmFtZVw+</last-search>
+      <last-search>hiber</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRhbm90aGVybmFtZVw+</last-pattern>
+      <last-pattern>hiber</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -351,6 +389,7 @@
         <entry>userTree</entry>
         <entry encoding="base64">XDxjdXN0b21lcklkXD4=</entry>
         <entry encoding="base64">XDxhZGRhbm90aGVybmFtZVw+</entry>
+        <entry>hiber</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
