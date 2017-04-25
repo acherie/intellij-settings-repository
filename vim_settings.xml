@@ -78,6 +78,7 @@
         <mark key="^" line="129" column="65" />
         <mark key="." line="129" column="65" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/query/Result.java" timestamp="1493141502436" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/OrganizationTrees.java" timestamp="1493013417590">
         <mark key="[" line="21" column="61" />
         <mark key="]" line="22" column="43" />
@@ -134,11 +135,12 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="18" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/BaseTreeableController.java" timestamp="1493134888897">
-        <mark key="[" line="147" column="50" />
-        <mark key="]" line="147" column="76" />
-        <mark key="^" line="147" column="76" />
-        <mark key="." line="147" column="76" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/BaseTreeableController.java" timestamp="1493141668705">
+        <mark key="[" line="156" column="62" />
+        <mark key="k" line="159" column="0" />
+        <mark key="]" line="157" column="41" />
+        <mark key="^" line="157" column="41" />
+        <mark key="." line="157" column="41" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserRoleMapper.xml" timestamp="1493109790199">
         <mark key="[" line="65" column="49" />
@@ -207,7 +209,7 @@
       </file>
       <file name="D:/IdeaProjects/jeesite/src/main/resources/log4j.properties" timestamp="1493107441150" />
       <file name="D:/IdeaProjects/jeesite/src/main/java/com/thinkgem/jeesite/common/web/BaseController.java" timestamp="1493134773434" />
-      <file name="/Dummy.txt" timestamp="1493131039612">
+      <file name="/Dummy.txt" timestamp="1493141826191">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Menu.java" timestamp="1493135127284">
@@ -322,10 +324,10 @@
         <text encoding="base64">ICAgICAgICAkKCcjbXVsdGlwbGUnKS5maW5kKCcuai1jYW5kaScpLmh0bWwoIrT90aHTw7unIik7CiAgICAgICAgJCgnI211bHRpcGxlJykuZmluZCgnLmotc2VsZWN0ZWQnKS5odG1sKCLS0dGh08O7pyIpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">TGlzdDxPYmplY3RFcnJvcj4gYWxsRXJyb3JzID0g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">TGlzdDxPYmplY3RFcnJvcj4gYWxsRXJyb3JzID0g</text>
       </register>
       <register name="/" type="4">
         <text>hiber</text>
