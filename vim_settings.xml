@@ -9,6 +9,7 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserServiceImpl.java" timestamp="1493110883602" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Principal.java" timestamp="1493108525124" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/impl/CustomerAreaDaoImpl.java" timestamp="1493106094032" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/AreaClassServiceImpl.java" timestamp="1493099456274">
@@ -78,6 +79,12 @@
         <mark key="^" line="39" column="31" />
         <mark key="." line="39" column="31" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1493113596202">
+        <mark key="[" line="53" column="42" />
+        <mark key="]" line="53" column="56" />
+        <mark key="." line="53" column="56" />
+        <mark key="^" line="53" column="56" />
+      </file>
       <file name="D:/IdeaProjects/jeesite/src/main/resources/log4j.properties" timestamp="1493107441150" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/AreaClVo.java" timestamp="1493109244369">
         <mark key="[" line="13" column="41" />
@@ -112,16 +119,18 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/UserController.java" timestamp="1493018293012">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/RoleController.java" timestamp="1493113434208" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/UserController.java" timestamp="1493111338093">
         <mark key="[" line="72" column="66" />
         <mark key="]" line="72" column="69" />
         <mark key="." line="72" column="69" />
         <mark key="^" line="72" column="69" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/velocity/VelocityToolbox20View.java" timestamp="1493107389491">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1493113076638">
+        <mark key="[" line="85" column="38" />
+        <mark key="]" line="86" column="34" />
+        <mark key="." line="86" column="34" />
+        <mark key="^" line="86" column="34" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/DeptService.java" timestamp="1493016811749">
         <mark key="[" line="59" column="40" />
@@ -136,7 +145,7 @@
         <mark key="^" line="46" column="35" />
         <mark key="." line="46" column="35" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserAccountMapper.xml" timestamp="1493109680052">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserAccountMapper.xml" timestamp="1493110904905">
         <mark key="'" line="27" column="19" />
         <mark key="[" line="71" column="58" />
         <mark key="]" line="72" column="58" />
@@ -184,7 +193,7 @@
         <mark key="." line="65" column="79" />
         <mark key="^" line="65" column="79" />
       </file>
-      <file name="/fragment.java" timestamp="1493109730380">
+      <file name="/fragment.java" timestamp="1493112949507">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -236,11 +245,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZpcm0oIsm+s/24w9W5u+G2r8yso78iKSkgewogICAgICAgICAgICAgICAgdmFyIHVybCA9ICcke3JjLmNvbnRleHRQYXRofS9leGhpYml0aW9uSW5mby9kZWxldGVFeGhpYml0aW9uSW5mbyc7CiAgICAgICAgICAgICAgICAkLnBvc3QodXJsLCB7CiAgICAgICAgICAgICAgICAgICAgaWQ6IGlkCiAgICAgICAgICAgICAgICB9LCBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5jb2RlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIsm+s/2zybmmo6EiKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgiyb6z/cqnsNyjoSIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>AreaCodeMapper.UserAreasJoin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG5jSWQgPSBub2RlLmdldE5jSWQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>AreaCodeMapper.UserAreasJoin</text>
+        <text encoding="base64">U3RyaW5nVXRpbHMuaXNOb3RCbGFuayhub2RlVk8uZ2V0UGlkKCkpICYmIG5vZGVWTy5nZXRQaWQoKS5lcXVhbHMoIjAiKTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUkVBX1RSRUVfT0ZfVVNFUl9HRVRcPg==</text>
@@ -249,7 +258,7 @@
         <text encoding="base64">ICAgICAgICBMRUZUIEpPSU4gcF91c2VyX2FyZWEgdXNfYXIgT04gdXNfYXIudXNlcl9pZD11YS5pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG5jSWQgPSBub2RlLmdldE5jSWQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -258,31 +267,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJlYUNsIGFyZWFDbCA9IGFyZWFDbFNlcnZpY2UuZ2V0QnlBcmVhQ29kZShhcmVhSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5vZGUuZ2V0VHlwZSgpID09IE5vZGVUeXBlLk9SRy5rZXkpIHsKICAgICAgICAgICAgICAgIC8vIMXQts/X6davyse38df3zqqyv8PFyc+8trG7zO2807n9CiAgICAgICAgICAgICAgICBpZiAobG9va3VwLmdldChuY0lkKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgbm9kZS5zZXROb2Rlcyhsb29rdXAuZ2V0KG5jSWQpLmdldE5vZGVzKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgbG9va3VwLnB1dChuY0lkLCBub2RlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGFyZWFEYXRhID0gOwo=</text>
+        <text encoding="base64">CiAgICAvLyDJz7y2vdq1486qMNTyzqq4+b3ateMKICAgIHByaXZhdGUgYm9vbGVhbiBpc09yZ1Jvb3QoTWl4Tm9kZVZPIG5vZGVWTykgewogICAgICAgIHJldHVybiBub2RlVk8uaXNSb290KCk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>$.map(data, function (item, idx) {
-                            return {
-                                id: item.cid,
-                                name: item.name,
-                                pId: item.pid
-                            }
-                        });</text>
+        <text encoding="base64">bmV3IFRyZWVSb290PE1peE5vZGVWTywgU3RyaW5nPigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGlzUm9vdChNaXhOb2RlVk8gbm9kZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGlzT3JnUm9vdChub2RlKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+        <text encoding="base64">bmV3IFRyZWVSb290PE1peE5vZGVWTywgU3RyaW5nPigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGlzUm9vdChNaXhOb2RlVk8gbm9kZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGlzT3JnUm9vdChub2RlKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiA0LzI1LzIwMTcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJlYUNsIGFyZWFDbCA9IGFyZWFDbFNlcnZpY2UuZ2V0QnlBcmVhQ29kZShhcmVhSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
