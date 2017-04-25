@@ -23,11 +23,11 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/AreaClController.java" timestamp="1493108317179">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/AreaClController.java" timestamp="1493120166200">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="47" column="13" />
+        <mark key="." line="47" column="13" />
+        <mark key="^" line="47" column="13" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/AreaClTrees.java" timestamp="1493091933029">
         <mark key="[" line="19" column="15" />
@@ -50,14 +50,14 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="30" column="49" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" timestamp="1493119202437">
-        <mark key="a" line="1137" column="24" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" timestamp="1493120716445">
+        <mark key="a" line="1138" column="24" />
         <mark key="s" line="146" column="0" />
-        <mark key="'" line="1123" column="38" />
-        <mark key="[" line="1014" column="51" />
-        <mark key="]" line="1015" column="29" />
-        <mark key="." line="1015" column="29" />
-        <mark key="^" line="1015" column="29" />
+        <mark key="'" line="1124" column="38" />
+        <mark key="[" line="280" column="24" />
+        <mark key="]" line="281" column="31" />
+        <mark key="." line="281" column="31" />
+        <mark key="^" line="281" column="31" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserAreaServiceImpl.java" timestamp="1493109116614">
         <mark key="[" line="40" column="31" />
@@ -156,6 +156,12 @@
         <mark key="]" line="46" column="35" />
         <mark key="^" line="46" column="35" />
         <mark key="." line="46" column="35" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/system/systemRoleManage.vm" timestamp="1493121639308">
+        <mark key="[" line="142" column="62" />
+        <mark key="]" line="142" column="62" />
+        <mark key="^" line="142" column="99" />
+        <mark key="." line="142" column="62" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserAccountMapper.xml" timestamp="1493113745660">
         <mark key="'" line="27" column="19" />
@@ -260,11 +266,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZpcm0oIsm+s/24w9W5u+G2r8yso78iKSkgewogICAgICAgICAgICAgICAgdmFyIHVybCA9ICcke3JjLmNvbnRleHRQYXRofS9leGhpYml0aW9uSW5mby9kZWxldGVFeGhpYml0aW9uSW5mbyc7CiAgICAgICAgICAgICAgICAkLnBvc3QodXJsLCB7CiAgICAgICAgICAgICAgICAgICAgaWQ6IGlkCiAgICAgICAgICAgICAgICB9LCBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5jb2RlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIsm+s/2zybmmo6EiKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgiyb6z/cqnsNyjoSIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29udHJvbC1sYWJlbCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIA==</text>
+        <text encoding="base64">Y29udHJvbC1sYWJlbCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUkVBX1RSRUVfT0ZfVVNFUl9HRVRcPg==</text>
