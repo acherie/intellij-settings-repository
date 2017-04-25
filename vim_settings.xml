@@ -24,6 +24,7 @@
         <mark key="^" line="129" column="65" />
         <mark key="." line="129" column="65" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/cache/CacheBuilder.java" timestamp="1493084403035" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/plugin/OrganizationTrees.java" timestamp="1493013417590">
         <mark key="[" line="21" column="61" />
         <mark key="]" line="22" column="43" />
@@ -48,6 +49,7 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
+      <file name="D:/IdeaProjects/es/web/src/main/resources/spring-config-cache.xml" timestamp="1493084532171" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Organization.java" timestamp="1493012934173">
         <mark key="[" line="31" column="7" />
         <mark key="]" line="32" column="23" />
@@ -84,8 +86,12 @@
         <mark key="." line="44" column="23" />
         <mark key="^" line="44" column="23" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/srping-config-cache.xml" timestamp="1493083701724">
-        <mark key="[" line="4" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/guava/GuavaCache.java" timestamp="1493085534894" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/srping-config-cache.xml" timestamp="1493085456377">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1493033358059">
         <mark key="[" line="0" column="0" />
@@ -124,10 +130,10 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbmZpcm0oIsm+s/24w9W5u+G2r8yso78iKSkgewogICAgICAgICAgICAgICAgdmFyIHVybCA9ICcke3JjLmNvbnRleHRQYXRofS9leGhpYml0aW9uSW5mby9kZWxldGVFeGhpYml0aW9uSW5mbyc7CiAgICAgICAgICAgICAgICAkLnBvc3QodXJsLCB7CiAgICAgICAgICAgICAgICAgICAgaWQ6IGlkCiAgICAgICAgICAgICAgICB9LCBmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdC5jb2RlID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIsm+s/2zybmmo6EiKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgiyb6z/cqnsNyjoSIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPnNvdXJjZWZvcmdlLXJlbGVhc2VzPC9pZD4KICAgICAgICAgICAgPG5hbWU+U291cmNlZm9yZ2UgUmVsZWFzZXM8L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cHM6Ly9vc3Muc29uYXR5cGUub3JnL2NvbnRlbnQvcmVwb3NpdG9yaWVzL3NvdXJjZWZvcmdlLXJlbGVhc2VzPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyZWYgYmVhbj0iYXJlYUd1YXZhQ2FjaGUiLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>node</text>
+        <text>areaGuavaCache</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJBcmVhVHJlZVRvTGVmdFw+</text>
@@ -136,34 +142,34 @@
         <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvZGVwdC91c2Vycy9wb2pvIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBAUmVzcG9uc2VCb2R5CiAgICBwdWJsaWMgUmVzdWx0UG9qbyBnZXRVc2VyVHJlZUJ5RGVwdElkKEBSZXF1ZXN0UGFyYW0oInBpZCIpIFN0cmluZyBkZXB0SWQpIHsKICAgICAgICBSZXN1bHQ8TGlzdDxNaXhOb2RlVk8+PiByZXN1bHQgPSBSZXN1bHQubmV3UmVzdWx0KGZhbHNlKTsKCiAgICAgICAgcmVzdWx0LmFkZERlZmF1bHRNb2RlbCh1c2VyU2VydmljZS5saXN0VXNlck5vZGVzQnlEZXB0KGRlcHRJZCkpOwogICAgICAgIHJlc3VsdC5zZXRTdWNjZXNzKHRydWUpOwogICAgICAgIHJldHVybiByZXN1bHQuZ2V0UmVzdWx0UG9qbygpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPnNvdXJjZWZvcmdlLXJlbGVhc2VzPC9pZD4KICAgICAgICAgICAgPG5hbWU+U291cmNlZm9yZ2UgUmVsZWFzZXM8L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cHM6Ly9vc3Muc29uYXR5cGUub3JnL2NvbnRlbnQvcmVwb3NpdG9yaWVzL3NvdXJjZWZvcmdlLXJlbGVhc2VzPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyZWYgYmVhbj0iYXJlYUd1YXZhQ2FjaGUiLz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPmNsb3VkaG9wcGVyPC9pZD4KICAgICAgICAgICAgPG5hbWU+UmVwb3NpdG9yeSBmb3IgQ2xvdWRob3BwZXI8L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL21hdmVuLmNsb3VkaG9wcGVyLmNvbS9yZXBvcy90aGlyZC1wYXJ0eS88L3VybD4KICAgICAgICA8L3JlcG9zaXRvcnk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPnNvdXJjZWZvcmdlLXJlbGVhc2VzPC9pZD4KICAgICAgICAgICAgPG5hbWU+U291cmNlZm9yZ2UgUmVsZWFzZXM8L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cHM6Ly9vc3Muc29uYXR5cGUub3JnL2NvbnRlbnQvcmVwb3NpdG9yaWVzL3NvdXJjZWZvcmdlLXJlbGVhc2VzPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPmNsb3VkaG9wcGVyPC9pZD4KICAgICAgICAgICAgPG5hbWU+UmVwb3NpdG9yeSBmb3IgQ2xvdWRob3BwZXI8L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL21hdmVuLmNsb3VkaG9wcGVyLmNvbS9yZXBvcy90aGlyZC1wYXJ0eS88L3VybD4KICAgICAgICA8L3JlcG9zaXRvcnk+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWl4Tm9kZVZPIGNvbnZlcnRUb05vZGUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
