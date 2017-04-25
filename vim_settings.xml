@@ -223,11 +223,6 @@
         <mark key="." line="72" column="69" />
         <mark key="^" line="72" column="69" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/CustomerSubcompanyInfoAction.java" timestamp="1493131001708">
-        <mark key="[" line="102" column="48" />
-        <mark key="]" line="102" column="48" />
-        <mark key="." line="102" column="48" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/DeptService.java" timestamp="1493016811749">
         <mark key="[" line="59" column="40" />
         <mark key="]" line="61" column="35" />
@@ -236,6 +231,7 @@
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/CustomerAreaCategory.xml" timestamp="1493107981532" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.0.0.RELEASE/spring-core-4.0.0.RELEASE-sources.jar!/org/springframework/util/Assert.java" timestamp="1493135357048" />
+      <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/web/controller/BaseCRUDController.java" timestamp="1493140263126" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/AreaClMapper.java" timestamp="1493108058761">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="32" />
