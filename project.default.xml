@@ -23,7 +23,7 @@
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="userSettingsFile" value="E:\Maven\settings.xml" />
+            <option name="userSettingsFile" value="D:\Maven\Repository\settings.xml" />
           </MavenGeneralSettings>
         </option>
       </component>
@@ -58,7 +58,7 @@
         <property name="project.structure.last.edited" value="Problems" />
         <property name="project.structure.proportion" value="0.0" />
         <property name="project.structure.side.proportion" value="0.26378676" />
-        <property name="settings.editor.selected.configurable" value="terminal" />
+        <property name="settings.editor.selected.configurable" value="fileTemplates" />
         <property name="last_opened_file_path" value="E:/Java Debug Tools/visualvm_139/bin/visualvm.exe" />
       </component>
       <component name="RunManager">
