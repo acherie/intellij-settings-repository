@@ -14,6 +14,7 @@
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/oracle/IncomeMapper.java" timestamp="1492605412231">
         <mark key="[" line="5" column="55" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Principal.java" timestamp="1493282530354" />
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1492658962466">
         <mark key="[" line="84" column="9" />
         <mark key="]" line="86" column="19" />
@@ -26,6 +27,7 @@
       <file name="/JUnit5 Test Class.txt.ft" timestamp="1492610603001">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserAccount.java" timestamp="1493282680058" />
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/common/modificationPassword.vm" timestamp="1492696172483">
         <mark key="[" line="84" column="45" />
         <mark key="]" line="84" column="58" />
@@ -248,6 +250,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1492651831257">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/user/PasswordChangeFilter.java" timestamp="1493282514399" />
       <file name="/Fragment.txt.ft" timestamp="1492651078066">
         <mark key="[" line="0" column="0" />
       </file>
@@ -260,12 +263,12 @@
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Incoterm.java" timestamp="1492609533871">
         <mark key="[" line="10" column="7" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserAccountMapper.xml" timestamp="1493281580251">
-        <mark key="'" line="48" column="24" />
-        <mark key="[" line="125" column="24" />
-        <mark key="]" line="125" column="38" />
-        <mark key="." line="125" column="38" />
-        <mark key="^" line="125" column="38" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserAccountMapper.xml" timestamp="1493282790214">
+        <mark key="'" line="49" column="24" />
+        <mark key="[" line="125" column="53" />
+        <mark key="]" line="126" column="14" />
+        <mark key="." line="126" column="14" />
+        <mark key="^" line="126" column="14" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1492651853541">
         <mark key="[" line="0" column="0" />
@@ -328,7 +331,7 @@
       <file name="/spring-beans.schema.txt.ft" timestamp="1492610614606">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492744668946">
+      <file name="/Dummy.txt" timestamp="1493282902123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/customer/customerMarketingAjax.js" timestamp="1492741512597">
@@ -498,8 +501,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogZW0oJ7HYzO4nLCd0b3A6LTI5cHgnLCdyaWdodDowJykK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>BaseColumns</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -520,7 +523,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>BaseColumns</text>
+        <text>lastLoginIp</text>
       </register>
       <register name="/" type="4">
         <text>usermapper</text>
@@ -529,40 +532,40 @@
         <text>getOrderDetailUrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1YS5pZCwKICAgICAgICB1YS5sb2dpbl9uYW1lLAogICAgICAgIHVhLm5hbWUsCiAgICAgICAgdWEubW9iaWxlLAogICAgICAgIHVhLmJpcnRoZGF0ZSwKICAgICAgICB1YS5jb2RlLAogICAgICAgIHVhLnBrX2dyb3VwLAogICAgICAgIHVhLnBrX29yZywKICAgICAgICB1YS5wa19wc25kb2MsCiAgICAgICAgdWEubGFzdF9tb2RpZnlfdGltZQo=</text>
+        <text encoding="base64">ICAgICAgICA8cmVzdWx0IGNvbHVtbj0ibGFzdF9sb2dpbl9pcCIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJsYXN0TG9naW5JcCIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1YS5pZCwKICAgICAgICB1YS5sb2dpbl9uYW1lLAogICAgICAgIHVhLm5hbWUsCiAgICAgICAgdWEubW9iaWxlLAogICAgICAgIHVhLmJpcnRoZGF0ZSwKICAgICAgICB1YS5jb2RlLAogICAgICAgIHVhLnBrX2dyb3VwLAogICAgICAgIHVhLnBrX29yZywKICAgICAgICB1YS5wa19wc25kb2MsCiAgICAgICAgdWEubGFzdF9tb2RpZnlfdGltZQo=</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1YS5pZCwKICAgICAgICB1YS5sb2dpbl9uYW1lLAogICAgICAgIHVhLm5hbWUsCiAgICAgICAgdWEubW9iaWxlLAogICAgICAgIHVhLmJpcnRoZGF0ZSwKICAgICAgICB1YS5jb2RlLAogICAgICAgIHVhLnBrX2dyb3VwLAogICAgICAgIHVhLnBrX29yZywKICAgICAgICB1YS5wa19wc25kb2MsCiAgICAgICAgdWEubGFzdF9tb2RpZnlfdGltZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">IGNsYXNzPSJ0ZXh0LWNlbnRlciI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFeGFtcGxlIGV4YW1wbGUgPSBuZXcgRXhhbXBsZShVc2VyQWNjb3VudC5jbGFzcyk7CiAgICAgICAgZXhhbXBsZS5jcmVhdGVDcml0ZXJpYSgpLmFuZEVxdWFsVG8oImNvZGUiLCBsb2dpbk5hbWUpOwoKICAgICAgICBMaXN0PFVzZXJBY2NvdW50PiB1c2VycyA9IGdldFVzZXJNYXBwZXIoKS5zZWxlY3RCeUV4YW1wbGUoZXhhbXBsZSk7CiAgICAgICAgaW50IHNpemUgPSB1c2Vycy5zaXplKCk7CiAgICAgICAgaWYgKHNpemUgPT0gMSkgewogICAgICAgICAgICByZXR1cm4gdXNlcnMuZ2V0KDApOwogICAgICAgIH0gZWxzZSBpZiAoc2l6ZSA+IDEpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oItPDu6e1x8K8w/ujuiIgKyBsb2dpbk5hbWUgKyAisrvOqNK7Iik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBFeGFtcGxlIGV4YW1wbGUgPSBuZXcgRXhhbXBsZShVc2VyQWNjb3VudC5jbGFzcyk7CiAgICAgICAgZXhhbXBsZS5jcmVhdGVDcml0ZXJpYSgpLmFuZEVxdWFsVG8oImNvZGUiLCBsb2dpbk5hbWUpOwoKICAgICAgICBMaXN0PFVzZXJBY2NvdW50PiB1c2VycyA9IGdldFVzZXJNYXBwZXIoKS5zZWxlY3RCeUV4YW1wbGUoZXhhbXBsZSk7CiAgICAgICAgaW50IHNpemUgPSB1c2Vycy5zaXplKCk7CiAgICAgICAgaWYgKHNpemUgPT0gMSkgewogICAgICAgICAgICByZXR1cm4gdXNlcnMuZ2V0KDApOwogICAgICAgIH0gZWxzZSBpZiAoc2l6ZSA+IDEpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oItPDu6e1x8K8w/ujuiIgKyBsb2dpbk5hbWUgKyAisrvOqNK7Iik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4yPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS42Ljk8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4yPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
