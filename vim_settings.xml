@@ -11,20 +11,9 @@
       <file name="/File Header.txt.ft" timestamp="1492651734941">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Service.txt.ft" timestamp="1492651076853">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/IncomeMapper.java" timestamp="1492608826459">
-        <mark key="[" line="4" column="55" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/reflection/ParamNameResolver.java" timestamp="1493279430633" />
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/oracle/IncomeMapper.java" timestamp="1492605412231">
         <mark key="[" line="5" column="55" />
-      </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/BaseNcSyncService.java" timestamp="1492674727589">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="56" column="23" />
-        <mark key="." line="56" column="23" />
-        <mark key="^" line="56" column="23" />
       </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1492658962466">
         <mark key="[" line="84" column="9" />
@@ -32,16 +21,10 @@
         <mark key="." line="86" column="19" />
         <mark key="^" line="86" column="19" />
       </file>
-      <file name="/I18nized Groovy string.txt.ft" timestamp="1492651856994">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1492757440373">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JUnit5 Test Class.txt.ft" timestamp="1492610603001">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/XSLT Stylesheet.txt.ft" timestamp="1492651940940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/binding/MapperMethod.java" timestamp="1493279258219" />
@@ -50,14 +33,6 @@
         <mark key="]" line="84" column="58" />
         <mark key="." line="84" column="58" />
         <mark key="^" line="84" column="58" />
-      </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/businessOpportunityAdd.vm" timestamp="1492756252776">
-        <mark key="a" line="266" column="15" />
-        <mark key="'" line="236" column="51" />
-        <mark key="[" line="371" column="0" />
-        <mark key="]" line="371" column="0" />
-        <mark key="^" line="51" column="54" />
-        <mark key="." line="371" column="0" />
       </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/datasource/DataSource.java" timestamp="1492679974306">
         <mark key="[" line="16" column="19" />
@@ -90,12 +65,6 @@
       <file name="/Unnamed.txt.ft" timestamp="1492651892186">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig_oracle.xml" timestamp="1492608046542">
-        <mark key="[" line="57" column="57" />
-        <mark key="]" line="57" column="64" />
-        <mark key="^" line="57" column="64" />
-        <mark key="." line="57" column="64" />
-      </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/IncotermMapper.java" timestamp="1492608819210">
         <mark key="[" line="4" column="59" />
       </file>
@@ -126,23 +95,11 @@
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/customerInfo/customerBasicInfo.vm" timestamp="1492743196643">
         <mark key="'" line="543" column="94" />
       </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1492651831257">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Fragment.txt.ft" timestamp="1492651078066">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/service/DeptServiceTest.java" timestamp="1492660347924">
-        <mark key="[" line="26" column="54" />
-        <mark key="]" line="26" column="54" />
-        <mark key="^" line="26" column="26" />
-        <mark key="." line="26" column="54" />
-      </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Incoterm.java" timestamp="1492609533871">
-        <mark key="[" line="10" column="7" />
-      </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1492651853541">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/UserAccountMapper.java" timestamp="1493280779505">
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="17" column="53" />
+        <mark key="^" line="17" column="53" />
+        <mark key="." line="17" column="53" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/binding/MapperProxy.java" timestamp="1493278772830" />
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/BaseNcService.java" timestamp="1492673729996">
@@ -154,32 +111,14 @@
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/commons/commons.js" timestamp="1492759356137">
         <mark key="'" line="275" column="9" />
       </file>
-      <file name="/JUnit4 Parameters Method.txt.ft" timestamp="1492610597224">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JUnit3 SetUp Method.txt.ft" timestamp="1492610594962">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/NcDocService.java" timestamp="1492669162251">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="25" column="29" />
         <mark key="^" line="25" column="29" />
         <mark key="." line="25" column="29" />
       </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/oracle/NcDocService.java" timestamp="1492669066111">
-        <mark key="[" line="19" column="25" />
-      </file>
-      <file name="/spring-beans.2_0.txt.ft" timestamp="1492610664162">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Application.txt.ft" timestamp="1492651077588">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/customerInfo/customerMarketingInfo.vm" timestamp="1492740326714">
         <mark key="'" line="13" column="36" />
-      </file>
-      <file name="/JUnit4 SetUp Method.txt.ft" timestamp="1492610597841">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/module-context.txt.ft" timestamp="1492610625349">
         <mark key="[" line="0" column="0" />
@@ -190,37 +129,8 @@
         <mark key="^" line="74" column="33" />
         <mark key="." line="74" column="33" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserServiceImpl.java" timestamp="1493278707199" />
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/offerInfo.vm" timestamp="1492759967652">
-        <mark key="'" line="489" column="35" />
-        <mark key="[" line="340" column="33" />
-        <mark key="]" line="254" column="18" />
-        <mark key="^" line="254" column="18" />
-        <mark key="." line="254" column="18" />
-      </file>
-      <file name="/JUnit5 TearDown Method.txt.ft" timestamp="1492610603409">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/I18nized JSP Expression.txt.ft" timestamp="1492651857873">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JavaFXApplication.txt.ft" timestamp="1492651925678">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/BaseService.java" timestamp="1492688049155">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-      </file>
       <file name="/Mybatis Mapper.txt.ft" timestamp="1492610645925">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/UserController.java" timestamp="1492668315673">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="4" />
-        <mark key="^" line="18" column="4" />
       </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Currtype.java" timestamp="1492609553863">
         <mark key="[" line="10" column="7" />
@@ -231,14 +141,8 @@
       <file name="/spring-beans.1_0.txt.ft" timestamp="1492610665010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Custclass.java" timestamp="1492609560184">
-        <mark key="[" line="10" column="7" />
-      </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/InComeService.java" timestamp="1492676028142">
         <mark key="[" line="16" column="0" />
-      </file>
-      <file name="/spring-beans.schema.txt.ft" timestamp="1492610614606">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/DeptController.java" timestamp="1492668323701">
         <mark key="[" line="16" column="3" />
@@ -267,26 +171,11 @@
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Income.java" timestamp="1492609528663">
         <mark key="[" line="11" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492744668946">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/customer/customerMarketingAjax.js" timestamp="1492741512597">
-        <mark key="[" line="253" column="29" />
-        <mark key="]" line="253" column="49" />
-        <mark key="^" line="209" column="51" />
-        <mark key="." line="253" column="29" />
-      </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1492694611202">
         <mark key="[" line="117" column="83" />
         <mark key="]" line="100" column="22" />
         <mark key="^" line="100" column="22" />
         <mark key="." line="100" column="22" />
-      </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1492659992284">
-        <mark key="[" line="118" column="29" />
-        <mark key="]" line="118" column="29" />
-        <mark key="^" line="125" column="14" />
-        <mark key="." line="118" column="29" />
       </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1492689024770">
         <mark key="[" line="152" column="5" />
@@ -295,9 +184,6 @@
         <mark key="^" line="79" column="16" />
       </file>
       <file name="/I18nized Expression.txt.ft" timestamp="1492651856194">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JUnit3 Test Class.txt.ft" timestamp="1492651859170">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/CountryZoneService.java" timestamp="1492680575253">
@@ -312,9 +198,6 @@
         <mark key="." line="5" column="55" />
         <mark key="^" line="5" column="59" />
       </file>
-      <file name="/JUnit5 SetUp Method.txt.ft" timestamp="1492610645227">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/JavaScript File.txt.ft" timestamp="1492651872765">
         <mark key="[" line="0" column="0" />
       </file>
@@ -323,6 +206,150 @@
         <mark key="]" line="71" column="32" />
         <mark key="." line="71" column="32" />
         <mark key="^" line="71" column="32" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/layout/layout.vm" timestamp="1492744664661">
+        <mark key="[" line="21" column="56" />
+        <mark key="]" line="21" column="90" />
+        <mark key="." line="21" column="90" />
+        <mark key="^" line="21" column="90" />
+      </file>
+      <file name="/MobileResourceBundle.txt.ft" timestamp="1492651918872">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Service.txt.ft" timestamp="1492651076853">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/IncomeMapper.java" timestamp="1492608826459">
+        <mark key="[" line="4" column="55" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/BaseNcSyncService.java" timestamp="1492674727589">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="56" column="23" />
+        <mark key="." line="56" column="23" />
+        <mark key="^" line="56" column="23" />
+      </file>
+      <file name="/I18nized Groovy string.txt.ft" timestamp="1492651856994">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/XSLT Stylesheet.txt.ft" timestamp="1492651940940">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/businessOpportunityAdd.vm" timestamp="1492756252776">
+        <mark key="a" line="266" column="15" />
+        <mark key="'" line="236" column="51" />
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="^" line="51" column="54" />
+        <mark key="." line="371" column="0" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig_oracle.xml" timestamp="1492608046542">
+        <mark key="[" line="57" column="57" />
+        <mark key="]" line="57" column="64" />
+        <mark key="^" line="57" column="64" />
+        <mark key="." line="57" column="64" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1492651831257">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Fragment.txt.ft" timestamp="1492651078066">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/service/DeptServiceTest.java" timestamp="1492660347924">
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="54" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="54" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Incoterm.java" timestamp="1492609533871">
+        <mark key="[" line="10" column="7" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserAccountMapper.xml" timestamp="1493281144129">
+        <mark key="[" line="118" column="53" />
+        <mark key="]" line="122" column="24" />
+        <mark key="^" line="122" column="24" />
+        <mark key="." line="122" column="24" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1492651853541">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JUnit4 Parameters Method.txt.ft" timestamp="1492610597224">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JUnit3 SetUp Method.txt.ft" timestamp="1492610594962">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/oracle/NcDocService.java" timestamp="1492669066111">
+        <mark key="[" line="19" column="25" />
+      </file>
+      <file name="/spring-beans.2_0.txt.ft" timestamp="1492610664162">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Application.txt.ft" timestamp="1492651077588">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JUnit4 SetUp Method.txt.ft" timestamp="1492610597841">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserServiceImpl.java" timestamp="1493281178646">
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="219" column="27" />
+        <mark key="." line="219" column="27" />
+        <mark key="^" line="219" column="27" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/offerInfo.vm" timestamp="1492759967652">
+        <mark key="'" line="489" column="35" />
+        <mark key="[" line="340" column="33" />
+        <mark key="]" line="254" column="18" />
+        <mark key="^" line="254" column="18" />
+        <mark key="." line="254" column="18" />
+      </file>
+      <file name="/JUnit5 TearDown Method.txt.ft" timestamp="1492610603409">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/I18nized JSP Expression.txt.ft" timestamp="1492651857873">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaFXApplication.txt.ft" timestamp="1492651925678">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/BaseService.java" timestamp="1492688049155">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/UserController.java" timestamp="1492668315673">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Custclass.java" timestamp="1492609560184">
+        <mark key="[" line="10" column="7" />
+      </file>
+      <file name="/spring-beans.schema.txt.ft" timestamp="1492610614606">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1492744668946">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/customer/customerMarketingAjax.js" timestamp="1492741512597">
+        <mark key="[" line="253" column="29" />
+        <mark key="]" line="253" column="49" />
+        <mark key="^" line="209" column="51" />
+        <mark key="." line="253" column="29" />
+      </file>
+      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1492659992284">
+        <mark key="[" line="118" column="29" />
+        <mark key="]" line="118" column="29" />
+        <mark key="^" line="125" column="14" />
+        <mark key="." line="118" column="29" />
+      </file>
+      <file name="/JUnit3 Test Class.txt.ft" timestamp="1492651859170">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JUnit5 SetUp Method.txt.ft" timestamp="1492610645227">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Class.txt.ft" timestamp="1492651937824">
         <mark key="[" line="0" column="0" />
@@ -351,12 +378,6 @@
       <file name="/Mobile I18N.txt.ft" timestamp="1492610602056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/layout/layout.vm" timestamp="1492744664661">
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="21" column="90" />
-        <mark key="." line="21" column="90" />
-        <mark key="^" line="21" column="90" />
-      </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/OrganizationService.java" timestamp="1492658751772">
         <mark key="[" line="30" column="34" />
         <mark key="]" line="32" column="39" />
@@ -364,9 +385,6 @@
         <mark key="." line="32" column="39" />
       </file>
       <file name="/JUnit3 Test Method.txt.ft" timestamp="1492651859617">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/MobileResourceBundle.txt.ft" timestamp="1492651918872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" timestamp="1492608388431">
@@ -483,7 +501,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogZW0oJ7HYzO4nLCd0b3A6LTI5cHgnLCdyaWdodDowJykK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4yPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBFeGFtcGxlIGV4YW1wbGUgPSBuZXcgRXhhbXBsZShVc2VyQWNjb3VudC5jbGFzcyk7CiAgICAgICAgZXhhbXBsZS5jcmVhdGVDcml0ZXJpYSgpLmFuZEVxdWFsVG8oImNvZGUiLCBsb2dpbk5hbWUpOwoKICAgICAgICBMaXN0PFVzZXJBY2NvdW50PiB1c2VycyA9IGdldFVzZXJNYXBwZXIoKS5zZWxlY3RCeUV4YW1wbGUoZXhhbXBsZSk7CiAgICAgICAgaW50IHNpemUgPSB1c2Vycy5zaXplKCk7CiAgICAgICAgaWYgKHNpemUgPT0gMSkgewogICAgICAgICAgICByZXR1cm4gdXNlcnMuZ2V0KDApOwogICAgICAgIH0gZWxzZSBpZiAoc2l6ZSA+IDEpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oItPDu6e1x8K8w/ujuiIgKyBsb2dpbk5hbWUgKyAisrvOqNK7Iik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -504,7 +522,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9mb3JtPg==</text>
+        <text>resultType=&quot;com.fuhuadata.domain.mybatis.UserAccount&quot;</text>
       </register>
       <register name="/" type="4">
         <text>usermapper</text>
@@ -516,16 +534,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogZW0oJ7HYzO4nLCd0b3A6LTI5cHgnLCdyaWdodDowJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4yPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBFeGFtcGxlIGV4YW1wbGUgPSBuZXcgRXhhbXBsZShVc2VyQWNjb3VudC5jbGFzcyk7CiAgICAgICAgZXhhbXBsZS5jcmVhdGVDcml0ZXJpYSgpLmFuZEVxdWFsVG8oImNvZGUiLCBsb2dpbk5hbWUpOwoKICAgICAgICBMaXN0PFVzZXJBY2NvdW50PiB1c2VycyA9IGdldFVzZXJNYXBwZXIoKS5zZWxlY3RCeUV4YW1wbGUoZXhhbXBsZSk7CiAgICAgICAgaW50IHNpemUgPSB1c2Vycy5zaXplKCk7CiAgICAgICAgaWYgKHNpemUgPT0gMSkgewogICAgICAgICAgICByZXR1cm4gdXNlcnMuZ2V0KDApOwogICAgICAgIH0gZWxzZSBpZiAoc2l6ZSA+IDEpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oItPDu6e1x8K8w/ujuiIgKyBsb2dpbk5hbWUgKyAisrvOqNK7Iik7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS42Ljk8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS42Ljk8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi4yPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">IGNsYXNzPSJ0ZXh0LWNlbnRlciI=</text>
@@ -534,31 +552,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS42Ljk8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS42Ljk8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCfR6dakzai5/ScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS42Ljk8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdG51bGwgPSAkKCcubm90bnVsbCcpOwogICAgICAgICAgICB2YXIgc3VibWl0X3Blcm1pdCA9IHRydWU7CiAgICAgICAgICAgIG5vdG51bGwuZWFjaChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICB2YXIgdmFsID0gJCh0aGlzKS52YWwoKTsKICAgICAgICAgICAgICAgIGlmICh2YWwgPT0gJycgfHwgdmFsID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBhbGVydCgnx+vN6snGse21pbHYzO7P7icpOwogICAgICAgICAgICAgICAgICAgIHN1Ym1pdF9wZXJtaXQgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCfR6dakzai5/ScpOwo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdG51bGwgPSAkKCcubm90bnVsbCcpOwogICAgICAgICAgICB2YXIgc3VibWl0X3Blcm1pdCA9IHRydWU7CiAgICAgICAgICAgIG5vdG51bGwuZWFjaChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICB2YXIgdmFsID0gJCh0aGlzKS52YWwoKTsKICAgICAgICAgICAgICAgIGlmICh2YWwgPT0gJycgfHwgdmFsID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBhbGVydCgnx+vN6snGse21pbHYzO7P7icpOwogICAgICAgICAgICAgICAgICAgIHN1Ym1pdF9wZXJtaXQgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>
