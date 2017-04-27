@@ -18,6 +18,10 @@
           <option name="url" value="https://git.oschina.net/wjggwm/webside.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jirutka/spring-rest-exception-handler.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
