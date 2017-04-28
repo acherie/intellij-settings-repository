@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -178,6 +178,7 @@
         <mark key="." line="5" column="55" />
         <mark key="^" line="5" column="59" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/context/support/ReloadableResourceBundleMessageSource.java" timestamp="1493396771850" />
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/query/Result.java" timestamp="1492666944516">
         <mark key="[" line="70" column="43" />
         <mark key="]" line="71" column="32" />
@@ -229,6 +230,9 @@
         <mark key="^" line="36" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/context/support/AbstractMessageSource.java" timestamp="1493396574243" />
+      <file name="/fragment.java" timestamp="1493396772544">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" timestamp="1492608388431">
         <mark key="[" line="57" column="56" />
         <mark key="]" line="57" column="63" />
