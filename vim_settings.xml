@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -98,6 +98,7 @@
       <file name="/Sass File.txt.ft" timestamp="1493865433164">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1493884183457" />
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/NcDocService.java" timestamp="1492669162251">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="25" column="29" />
@@ -286,6 +287,13 @@
         <mark key="." line="10" column="6" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/CustomerSaleProduct.xml" timestamp="1493863855255" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1493884144508">
+        <mark key="'" line="28" column="35" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
+        <mark key="^" line="227" column="44" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/layout/layout.vm" timestamp="1493800905453">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="56" />
@@ -328,6 +336,7 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="26" column="54" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.1/pagehelper-5.0.1.pom" timestamp="1493884098036" />
       <file name="/MybatisService.txt.ft" timestamp="1493865536691">
         <mark key="[" line="0" column="0" />
       </file>
@@ -366,6 +375,11 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="18" column="4" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/mybatis-config.xml" timestamp="1493884474550">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="/ActionScript Class.txt.ft" timestamp="1493865431948">
         <mark key="[" line="0" column="0" />
       </file>
@@ -389,6 +403,9 @@
       </file>
       <file name="/Singleton.txt.ft" timestamp="1493865483169">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/CustomerPurchaseProductService.java" timestamp="1493884794015">
+        <mark key="[" line="9" column="103" />
       </file>
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/customer/customerMarketingAjax.js" timestamp="1492741512597">
         <mark key="[" line="253" column="29" />
@@ -442,6 +459,12 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/pom.xml" timestamp="1493884120154">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+      </file>
       <file name="/JUnit5 Test Method.txt.ft" timestamp="1493865379593">
         <mark key="[" line="0" column="0" />
       </file>
@@ -468,8 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="5" filename="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/productProblemList.vm" />
-      <jump line="90" column="0" filename="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/MenuMapper.xml" />
       <jump line="67" column="0" filename="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/MenuMapper.xml" />
       <jump line="157" column="24" filename="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/processCostList.vm" />
       <jump line="0" column="0" filename="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/pom.xml" />
@@ -568,6 +589,8 @@
       <jump line="22" column="25" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/processCost.js" />
       <jump line="503" column="12" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/processCostList.vm" />
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/pom.xml" />
+      <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="28" column="35" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -595,10 +618,10 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>Supplier</text>
+        <text>PageHelper</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3N0QWRkbW9kYWxcPg==</text>
+        <text encoding="base64">XDxwYWdlaGVscGVyXD4=</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -613,23 +636,19 @@
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>JSON.stringify({
-                    componentCosts: deleteIds
-                })</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">IGNsYXNzPSJ0ZXh0LWNlbnRlciI=</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-                    componentCosts: deleteIds
-                }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
@@ -640,22 +659,20 @@
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-                    
-                }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3N0SWRzOiBKU09OLnN0cmluZ2lmeShkZWxldGVJZHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGNvc3RJZHMgPSBKc29uTWFwcGVyLmZyb21Kc29uU3RyaW5nKGNvc3RJZHNTdHIsIG5ldyBUeXBlUmVmZXJlbmNlPExpc3Q8SW50ZWdlcj4+KCkgewogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>
@@ -665,17 +682,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3N0QWRkbW9kYWxcPg==</last-search>
+      <last-search encoding="base64">XDxwYWdlaGVscGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3N0QWRkbW9kYWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYWdlaGVscGVyXD4=</last-pattern>
       <last-replace>\$radios</last-replace>
       <last-substitute encoding="base64">XDxlZGl0XD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZWRpcmVjdEF0dHJpYnV0ZXNcPg==</entry>
         <entry encoding="base64">XDxhc2lkZVRyZWVPbkNsaWNrXD4=</entry>
         <entry encoding="base64">XDxleHBvc2VTZXNzaW9uQXR0cmlidXRlc1w+</entry>
         <entry encoding="base64">XDzIq7K/XD4=</entry>
@@ -695,6 +711,7 @@
         <entry encoding="base64">XDxidXNpbmVzc3Byb2R1Y3RcPg==</entry>
         <entry>costAdd</entry>
         <entry encoding="base64">XDxjb3N0QWRkbW9kYWxcPg==</entry>
+        <entry encoding="base64">XDxwYWdlaGVscGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>hl</entry>
