@@ -84,6 +84,7 @@
         <mark key="^" line="24" column="28" />
         <mark key="." line="10" column="17" />
       </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1493946544173" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CustomerPurchaseSupplierServiceImpl.java" timestamp="1493889487440">
         <mark key="[" line="21" column="70" />
         <mark key="]" line="22" column="30" />
@@ -129,7 +130,6 @@
         <mark key="^" line="159" column="42" />
         <mark key="." line="159" column="42" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1493884183457" />
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/NcDocService.java" timestamp="1492669162251">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="25" column="29" />
@@ -163,7 +163,7 @@
         <mark key="^" line="105" column="15" />
         <mark key="." line="105" column="15" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerMarketController.java" timestamp="1493890223353">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerMarketController.java" timestamp="1493947337088">
         <mark key="[" line="33" column="50" />
         <mark key="]" line="33" column="43" />
         <mark key="." line="33" column="43" />
@@ -241,7 +241,6 @@
         <mark key="." line="21" column="99" />
         <mark key="^" line="21" column="99" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.1/pagehelper-5.0.1-sources.jar!/com/github/pagehelper/page/PageMethod.java" timestamp="1493886486715" />
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/oracle/FtpubPortdocMapper.java" timestamp="1492605384090">
         <mark key="[" line="5" column="67" />
         <mark key="]" line="5" column="55" />
@@ -317,7 +316,6 @@
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1493865513425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/MarketInfoAction.java" timestamp="1493867744833" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomerSaleProduct.java" timestamp="1493865072511">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="58" />
@@ -330,7 +328,6 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/CustomerSaleProduct.xml" timestamp="1493863855255" />
       <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1493884144508">
         <mark key="'" line="28" column="35" />
         <mark key="[" line="229" column="0" />
@@ -386,15 +383,12 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="26" column="54" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.1/pagehelper-5.0.1.pom" timestamp="1493884098036" />
       <file name="/MybatisService.txt.ft" timestamp="1493865536691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1493865377102">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/CustomerPurchaseProduct.xml" timestamp="1493887545982" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/AreaClassService.java" timestamp="1493865570196" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserServiceImpl.java" timestamp="1493281672701">
         <mark key="[" line="236" column="99" />
         <mark key="]" line="239" column="53" />
@@ -469,7 +463,7 @@
         <mark key="^" line="209" column="51" />
         <mark key="." line="253" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.1/pagehelper-5.0.1-sources.jar!/com/github/pagehelper/Page.java" timestamp="1493886236178" />
+      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.1/pagehelper-5.0.1-sources.jar!/com/github/pagehelper/PageInfo.java" timestamp="1493947346202" />
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1492659992284">
         <mark key="[" line="118" column="29" />
         <mark key="]" line="118" column="29" />
@@ -488,8 +482,6 @@
       <file name="/JUnit5 SetUp Method.txt.ft" timestamp="1493865379150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/impl/CustomerSaleProductDaoImpl.java" timestamp="1493863845229" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/query/PageBase.java" timestamp="1493886528327" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/springmvc.xml" timestamp="1493711410927">
         <mark key="[" line="55" column="46" />
         <mark key="]" line="55" column="49" />
@@ -513,12 +505,6 @@
         <mark key="]" line="7" column="24" />
         <mark key="^" line="7" column="24" />
         <mark key="." line="7" column="24" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/pom.xml" timestamp="1493884120154">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
       </file>
       <file name="/JUnit5 Test Method.txt.ft" timestamp="1493865379593">
         <mark key="[" line="0" column="0" />
@@ -743,7 +729,7 @@
       <last-replace>\$radios</last-replace>
       <last-substitute encoding="base64">XDxlZGl0XD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
