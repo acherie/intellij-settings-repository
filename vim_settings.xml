@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -497,6 +497,7 @@
       <file name="/Dummy.txt" timestamp="1494211858071">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/ProductInfoAction.java" timestamp="1494212781484" />
       <file name="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/customer/customerMarketingAjax.js" timestamp="1492741512597">
         <mark key="[" line="253" column="29" />
         <mark key="]" line="253" column="49" />
