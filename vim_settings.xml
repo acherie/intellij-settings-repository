@@ -20,6 +20,7 @@
         <mark key="." line="53" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.9.RELEASE/spring-webmvc-4.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyAdviceChain.java" timestamp="1494296033995" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/CustomerBaseInfo.java" timestamp="1494310548327" />
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1493865513425">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,11 +44,12 @@
       <file name="/Unnamed.txt.ft" timestamp="1493865499917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerBaseInfo.java" timestamp="1494308326826">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="260" column="0" />
-        <mark key="]" line="260" column="35" />
-        <mark key="." line="260" column="0" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerBaseInfo.java" timestamp="1494310735063">
+        <mark key="'" line="77" column="4" />
+        <mark key="[" line="280" column="7" />
+        <mark key="]" line="281" column="36" />
+        <mark key="." line="281" column="36" />
+        <mark key="^" line="281" column="36" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1494291394000" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1493865487375">
@@ -56,9 +58,6 @@
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0-sources.jar!/com/fasterxml/jackson/annotation/JsonInclude.java" timestamp="1494297157825" />
       <file name="/SCSS File.txt.ft" timestamp="1493865433591">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/impl/CustomerBaseInfoDaoImpl.java" timestamp="1494228209680">
-        <mark key="'" line="152" column="28" />
       </file>
       <file name="/Kotlin Interface.txt.ft" timestamp="1493865381198">
         <mark key="[" line="0" column="0" />
@@ -105,6 +104,7 @@
       <file name="/Mobile I18N Concatenation.txt.ft" timestamp="1493865379917">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0-sources.jar!/com/fasterxml/jackson/annotation/JsonFormat.java" timestamp="1494310711960" />
       <file name="/ColdFusion Script Component.txt.ft" timestamp="1493865431437">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,7 +117,7 @@
       <file name="/Singleton.txt.ft" timestamp="1493865483169">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494308524203">
+      <file name="/Dummy.txt" timestamp="1494311132936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/json/Views.java" timestamp="1494298923585">
