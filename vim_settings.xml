@@ -43,7 +43,7 @@
       <file name="/Unnamed.txt.ft" timestamp="1493865499917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerBaseInfo.java" timestamp="1494299035990">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerBaseInfo.java" timestamp="1494308326826">
         <mark key="'" line="76" column="4" />
         <mark key="[" line="260" column="0" />
         <mark key="]" line="260" column="35" />
@@ -82,11 +82,11 @@
       <file name="/Maven Profiles.txt.ft" timestamp="1493865361350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerMarketController.java" timestamp="1494296250045">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerMarketController.java" timestamp="1494308520831">
         <mark key="'" line="136" column="37" />
-        <mark key="[" line="138" column="15" />
-        <mark key="]" line="138" column="58" />
-        <mark key="." line="138" column="58" />
+        <mark key="[" line="152" column="37" />
+        <mark key="]" line="152" column="37" />
+        <mark key="." line="152" column="37" />
         <mark key="^" line="138" column="58" />
       </file>
       <file name="/JavaFXApplication.txt.ft" timestamp="1493865482698">
@@ -148,12 +148,12 @@
       <file name="/Maven Settings.txt.ft" timestamp="1493865362107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerSaleProduct.java" timestamp="1494209850766">
-        <mark key="'" line="144" column="9" />
-        <mark key="[" line="147" column="36" />
-        <mark key="]" line="147" column="35" />
-        <mark key="^" line="147" column="35" />
-        <mark key="." line="147" column="35" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerSaleProduct.java" timestamp="1494308131606">
+        <mark key="'" line="58" column="28" />
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="55" column="11" />
+        <mark key="^" line="55" column="11" />
+        <mark key="." line="55" column="11" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/springmvc.xml" timestamp="1494297236315" />
       <file name="/New Kotlin Function Body.txt.ft" timestamp="1493865486992">
@@ -172,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="530" column="38" filename="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/offerInfo.vm" />
       <jump line="600" column="22" filename="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/offerInfo.vm" />
       <jump line="13" column="73" filename="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/offerInfo.vm" />
       <jump line="14" column="56" filename="W:/ProjectCode/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/offerInfo.vm" />
@@ -272,13 +271,14 @@
       <jump line="54" column="29" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerPurchaseProduct.java" />
       <jump line="76" column="4" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerBaseInfo.java" />
       <jump line="136" column="37" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerMarketController.java" />
+      <jump line="58" column="28" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerSaleProduct.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5JbnRlcm5hbC5jbGFzcykK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5JbnRlcm5hbC5jbGFzcykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QEpzb25WaWV3KFZpZXdzLkVkaXRhYmxlLmNsYXNzKSBAUmVxdWVzdEJvZHkg</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -299,7 +299,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>Internal</text>
+        <text encoding="base64">QEpzb25WaWV3KFZpZXdzLkVkaXRhYmxlLmNsYXNzKSBAUmVxdWVzdEJvZHkg</text>
       </register>
       <register name="/" type="4">
         <text>Editable</text>
