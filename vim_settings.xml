@@ -43,12 +43,11 @@
       <file name="/Unnamed.txt.ft" timestamp="1493865499917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerBaseInfo.java" timestamp="1494298156250">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerBaseInfo.java" timestamp="1494299035990">
         <mark key="'" line="76" column="4" />
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="27" />
-        <mark key="^" line="13" column="27" />
-        <mark key="." line="13" column="27" />
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="35" />
+        <mark key="." line="260" column="0" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1494291394000" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1493865487375">
@@ -121,11 +120,11 @@
       <file name="/Dummy.txt" timestamp="1494236126145">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/json/Views.java" timestamp="1494298136600">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="10" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="18" column="10" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/json/Views.java" timestamp="1494298923585">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+        <mark key="." line="16" column="44" />
       </file>
       <file name="/Gradle Build Script with wrapper.txt.ft" timestamp="1493865523097">
         <mark key="[" line="0" column="0" />
@@ -140,11 +139,11 @@
       <file name="/JUnit5 SetUp Method.txt.ft" timestamp="1493865379150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/com/fuhua/common/JsonMapperTest.java" timestamp="1494297781746">
-        <mark key="[" line="27" column="65" />
-        <mark key="]" line="27" column="68" />
-        <mark key="." line="27" column="68" />
-        <mark key="^" line="27" column="68" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/com/fuhua/common/JsonMapperTest.java" timestamp="1494299070433">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="39" />
+        <mark key="^" line="27" column="39" />
       </file>
       <file name="/Maven Settings.txt.ft" timestamp="1493865362107">
         <mark key="[" line="0" column="0" />
@@ -276,10 +275,10 @@
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogZW0oJ7HYzO4nLCd0b3A6LTI5cHgnLCdyaWdodDowJykK</text>
+        <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5JbnRlcm5hbC5jbGFzcykK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5JbnRlcm5hbC5jbGFzcykK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -300,7 +299,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Internal</text>
       </register>
       <register name="/" type="4">
         <text>Editable</text>
@@ -309,34 +308,34 @@
         <text>getOrderDetailUrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5FZGl0YWJsZS5jbGFzcykK</text>
+        <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5JbnRlcm5hbC5jbGFzcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5JbnRlcm5hbC5jbGFzcykK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFRlc3QK</text>
+        <text encoding="base64">ICAgIEBKc29uVmlldygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBKc29uVmlldygpCg==</text>
       </register>
-      <register name="s" type="4">
-        <text encoding="base64">IGNsYXNzPSJ0ZXh0LWNlbnRlciI=</text>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgc3RhcnRKb2RhID0gTG9jYWxEYXRlLmZyb21EYXRlRmllbGRzKHN0YXJ0Q29vcGVyYXRpb25UaW1lKTsKICAgICAgICBMb2NhbERhdGUgbm93Sm9kYSA9IExvY2FsRGF0ZS5ub3coKTsKCiAgICAgICAgaW50IG1vbnRocyA9IE1vbnRocy5tb250aHNCZXR3ZWVuKG5vd0pvZGEsIHN0YXJ0Sm9kYSkuZ2V0TW9udGhzKCk7CgogICAgICAgIGN1c3RvbWVyLnNldENvb3BlcmF0aW9uRHVyYXRpb24obW9udGhzKTsvLyC6z9f3yrG85Ao=</text>
+        <text encoding="base64">QFRlc3QK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgZGF5cyA9IERheXMuZGF5c0JldHdlZW4obm93Sm9kYSwgc3RhcnRKb2RhKS5nZXREYXlzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
@@ -348,13 +347,13 @@
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+am9kYS10aW1lPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qb2RhLXRpbWU8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgc3RhcnRKb2RhID0gTG9jYWxEYXRlLmZyb21EYXRlRmllbGRzKHN0YXJ0Q29vcGVyYXRpb25UaW1lKTsKICAgICAgICBMb2NhbERhdGUgbm93Sm9kYSA9IExvY2FsRGF0ZS5ub3coKTsKCiAgICAgICAgaW50IG1vbnRocyA9IE1vbnRocy5tb250aHNCZXR3ZWVuKG5vd0pvZGEsIHN0YXJ0Sm9kYSkuZ2V0TW9udGhzKCk7CgogICAgICAgIGN1c3RvbWVyLnNldENvb3BlcmF0aW9uRHVyYXRpb24obW9udGhzKTsvLyC6z9f3yrG85Ao=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiA1LzUvMjAxNyC78cihus/X97/Nu6fQxc+iCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZGF5cyA9IERheXMuZGF5c0JldHdlZW4obm93Sm9kYSwgc3RhcnRKb2RhKS5nZXREYXlzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>
