@@ -8,6 +8,12 @@
       <file name="/File Header.txt.ft" timestamp="1493865348888">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CustomerBaseInfoServiceImpl.java" timestamp="1494226952109">
+        <mark key="[" line="38" column="51" />
+        <mark key="]" line="38" column="52" />
+        <mark key="." line="38" column="52" />
+        <mark key="^" line="38" column="52" />
+      </file>
       <file name="/a.dummy" timestamp="1493866962532">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,6 +24,9 @@
         <mark key="^" line="53" column="30" />
         <mark key="." line="53" column="30" />
       </file>
+      <file name="/XSLT Stylesheet.txt.ft" timestamp="1493865513425">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Maven Project.txt.ft" timestamp="1493865358376">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,83 +36,6 @@
         <mark key="^" line="42" column="3" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Unnamed.txt.ft" timestamp="1493865499917">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/LocalDate.java" timestamp="1494225775196" />
-      <file name="/Kotlin Interface.txt.ft" timestamp="1493865381198">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/MybatisServer.txt.ft" timestamp="1493865473959">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Sass File.txt.ft" timestamp="1493865433164">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ColdFusion Tag Interface.txt.ft" timestamp="1493865430911">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/impl/ProductInfoDaoImpl.java" timestamp="1494211037594" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerSaleProductController.java" timestamp="1494227923753">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="43" column="42" />
-        <mark key="^" line="43" column="42" />
-        <mark key="." line="43" column="42" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerMarketController.java" timestamp="1494235717986">
-        <mark key="'" line="136" column="37" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="142" column="12" />
-        <mark key="." line="142" column="12" />
-        <mark key="^" line="142" column="12" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/ProductInfoServiceImpl.java" timestamp="1494211013512" />
-      <file name="/Jspx File.txt.ft" timestamp="1493865485911">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Gradle Build Script.txt.ft" timestamp="1493865526532">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Mobile I18N Concatenation.txt.ft" timestamp="1493865379917">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ColdFusion Script Component.txt.ft" timestamp="1493865431437">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1493865497459">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Gradle Build Script with wrapper.txt.ft" timestamp="1493865523097">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.1/pagehelper-5.0.1-sources.jar!/com/github/pagehelper/page/PageMethod.java" timestamp="1494227598174" />
-      <file name="/tsconfig.json.txt.ft" timestamp="1493865429645">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.9.RELEASE/spring-webmvc-4.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/JsonViewResponseBodyAdvice.java" timestamp="1494235909472" />
-      <file name="/Maven Settings.txt.ft" timestamp="1493865362107">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/ProductInfo.xml" timestamp="1494211518777" />
-      <file name="/New Kotlin Function Body.txt.ft" timestamp="1493865486992">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/MobileResourceBundle.txt.ft" timestamp="1493865487865">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/UTCDateTimeZone.java" timestamp="1494226252770" />
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0-sources.jar!/com/fasterxml/jackson/annotation/JsonView.java" timestamp="1494233154046" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CustomerBaseInfoServiceImpl.java" timestamp="1494226952109">
-        <mark key="[" line="38" column="51" />
-        <mark key="]" line="38" column="52" />
-        <mark key="." line="38" column="52" />
-        <mark key="^" line="38" column="52" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/Period.java" timestamp="1494225033181" />
-      <file name="/XSLT Stylesheet.txt.ft" timestamp="1493865513425">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/MarketInfoAction.java" timestamp="1494228157062" />
       <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1494224346688">
         <mark key="'" line="33" column="34" />
         <mark key="[" line="325" column="25" />
@@ -118,6 +50,9 @@
         <mark key="." line="50" column="12" />
         <mark key="^" line="50" column="23" />
       </file>
+      <file name="/Unnamed.txt.ft" timestamp="1493865499917">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerBaseInfo.java" timestamp="1494234853615">
         <mark key="'" line="76" column="4" />
         <mark key="[" line="13" column="20" />
@@ -125,7 +60,7 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/ReadableInstant.java" timestamp="1494226073034" />
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1494291394000" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1493865487375">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,51 +76,96 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/impl/CustomerBaseInfoDaoImpl.java" timestamp="1494228209680">
         <mark key="'" line="152" column="28" />
       </file>
+      <file name="/Kotlin Interface.txt.ft" timestamp="1493865381198">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/MybatisServer.txt.ft" timestamp="1493865473959">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/MybatisService.txt.ft" timestamp="1493865536691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1493865377102">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Sass File.txt.ft" timestamp="1493865433164">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.9.RELEASE/spring-web-4.2.9.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java" timestamp="1494292009744" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/query/CustomerPurchaseProductInfo.java" timestamp="1494227962296">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="15" column="15" />
         <mark key="^" line="15" column="15" />
         <mark key="." line="15" column="15" />
       </file>
+      <file name="/ColdFusion Tag Interface.txt.ft" timestamp="1493865430911">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Maven Profiles.txt.ft" timestamp="1493865361350">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerSaleProductController.java" timestamp="1494227923753">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="42" />
+        <mark key="^" line="43" column="42" />
+        <mark key="." line="43" column="42" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerMarketController.java" timestamp="1494235717986">
+        <mark key="'" line="136" column="37" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="142" column="12" />
+        <mark key="." line="142" column="12" />
+        <mark key="^" line="142" column="12" />
       </file>
       <file name="/JavaFXApplication.txt.ft" timestamp="1493865482698">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/mybatis-config.xml" timestamp="1494227851717" />
+      <file name="/Jspx File.txt.ft" timestamp="1493865485911">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Gradle Build Script.txt.ft" timestamp="1493865526532">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/ActionScript Class.txt.ft" timestamp="1493865431948">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Mobile I18N Concatenation.txt.ft" timestamp="1493865379917">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ColdFusion Script Component.txt.ft" timestamp="1493865431437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Less File.txt.ft" timestamp="1493865438169">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1493865497459">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Singleton.txt.ft" timestamp="1493865483169">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/CustomerBaseInfoServiceImpl.java" timestamp="1494228191956" />
       <file name="/Dummy.txt" timestamp="1494236126145">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/ProductInfoAction.java" timestamp="1494228103579" />
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Date.java" timestamp="1494224607229" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/json/Views.java" timestamp="1494234699716">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="10" />
         <mark key="^" line="18" column="10" />
         <mark key="." line="18" column="10" />
       </file>
+      <file name="/Gradle Build Script with wrapper.txt.ft" timestamp="1493865523097">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tsconfig.json.txt.ft" timestamp="1493865429645">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/ColdFusion File.txt.ft" timestamp="1493865430256">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.9/joda-time-2.9.9-sources.jar!/org/joda/time/Months.java" timestamp="1494225938965" />
       <file name="/JUnit5 SetUp Method.txt.ft" timestamp="1493865379150">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Maven Settings.txt.ft" timestamp="1493865362107">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CustomerSaleProduct.java" timestamp="1494209850766">
@@ -195,11 +175,16 @@
         <mark key="^" line="147" column="35" />
         <mark key="." line="147" column="35" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/query/PageBase.java" timestamp="1494227673809" />
+      <file name="/New Kotlin Function Body.txt.ft" timestamp="1493865486992">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/JUnit5 Test Method.txt.ft" timestamp="1493865379593">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1493970207355">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/MobileResourceBundle.txt.ft" timestamp="1493865487865">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -401,7 +386,7 @@
       <last-replace>\$radios</last-replace>
       <last-substitute encoding="base64">XDxlZGl0XD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
