@@ -171,12 +171,12 @@
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1493865513425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" timestamp="1494401520866">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="79" column="44" />
-        <mark key="]" line="81" column="23" />
-        <mark key="." line="81" column="23" />
-        <mark key="^" line="81" column="23" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" timestamp="1494406723483">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="81" column="21" />
+        <mark key="." line="81" column="21" />
+        <mark key="^" line="81" column="21" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/IncoTermService.java" timestamp="1494385908852">
         <mark key="[" line="13" column="30" />
@@ -308,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="4" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/RestExceptionHandler.java" />
       <jump line="27" column="4" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/RestExceptionHandler.java" />
       <jump line="67" column="4" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/RestExceptionHandler.java" />
       <jump line="56" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/RestExceptionHandler.java" />
@@ -408,6 +407,7 @@
       <jump line="43" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" />
       <jump line="45" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" />
       <jump line="73" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" />
+      <jump line="91" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
