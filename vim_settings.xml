@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -38,6 +38,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/es/common/src/test/java/com/sishuok/es/common/utils/forbidden/ForbiddenWordUtilsTest.java" timestamp="1494403609177" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/resources/spring-test.xml" timestamp="1494405695070">
+        <mark key="[" line="43" column="66" />
+        <mark key="]" line="43" column="67" />
+        <mark key="." line="43" column="67" />
+        <mark key="^" line="43" column="66" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/scheduling/annotation/Async.java" timestamp="1494383551433" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/constant/Currency.java" timestamp="1494398539545">
         <mark key="[" line="2" column="3" />
@@ -103,6 +109,12 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/test/java/com/fuhua/fuhuadata_service/AppTest.java" timestamp="1494377921724" />
       <file name="/ColdFusion Script Component.txt.ft" timestamp="1493865431437">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/com/fuhua/doc/service/CurrencyRateServiceIT.java" timestamp="1494405530269">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="18" column="39" />
+        <mark key="." line="18" column="39" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/task/SyncDocFromNc.java" timestamp="1494386190538">
         <mark key="[" line="44" column="0" />
@@ -283,10 +295,10 @@
       </file>
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/entity/search/utils/SearchableConvertUtils.java" timestamp="1494403713084" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/com/fuhua/test/BaseIT.java" timestamp="1494403970454">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/JUnit5 Test Method.txt.ft" timestamp="1493865379593">
         <mark key="[" line="0" column="0" />
@@ -402,7 +414,7 @@
         <text encoding="base64">PHRhYmxlIHRhYmxlTmFtZT0idF9jdXJyZW5jeV9yYXRlIiBkb21haW5PYmplY3ROYW1lPSJDdXJyZW5jeVJhdGUiPgogICAgICAgICAgICA8Z2VuZXJhdGVkS2V5IGNvbHVtbj0iaWQiIHNxbFN0YXRlbWVudD0iTXlTcWwiIGlkZW50aXR5PSJ0cnVlIiB0eXBlPSJwb3N0Ii8+CiAgICAgICAgPC90YWJsZT4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CurrencyRateQuery</text>
+        <text>test</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -423,7 +435,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>CurrencyRateQuery</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>Editable</text>
@@ -435,13 +447,13 @@
         <text encoding="base64">ICAgICAgICBDdXJydHlwZSB1c2RDdXJyID0gY3VycnR5cGVTZXJ2aWNlLmdldEJ5Q29kZShDdXJyZW5jeS5VU0QuY29kZSk7CiAgICAgICAgZ2VuZXJhdGVUb2RheVJhdGUoY3VycnR5cGUsIHVzZEN1cnIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDwhLS0gufq8yruvtcTP+8+i18rUtM7EvP6jqLG+z7XNs9bQ1vfSqtPD09rP1Mq+L7TtzvPP+8+itqjWxqOpIC0tPgogICAgPGJlYW4gaWQ9Im1lc3NhZ2VTb3VyY2UiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuc3VwcG9ydC5SZWxvYWRhYmxlUmVzb3VyY2VCdW5kbGVNZXNzYWdlU291cmNlIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0iYmFzZW5hbWVzIj4KICAgICAgICAgICAgPGxpc3Q+CiAgICAgICAgICAgICAgICA8IS0tINTad2Viu7e+s9bQ0ru2qNKqtqjOu7W9Y2xhc3NwYXRoILfx1PLErMjPtb21scewd2Vi06bTw8/C1dIgIC0tPgogICAgICAgICAgICAgICAgPHZhbHVlPmNsYXNzcGF0aDptZXNzYWdlcy9tZXNzYWdlczwvdmFsdWU+CiAgICAgICAgICAgICAgICA8dmFsdWU+Y2xhc3NwYXRoOm1lc3NhZ2VzL1ZhbGlkYXRpb25NZXNzYWdlczwvdmFsdWU+CiAgICAgICAgICAgIDwvbGlzdD4KICAgICAgICA8L3Byb3BlcnR5PgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJ1c2VDb2RlQXNEZWZhdWx0TWVzc2FnZSIgdmFsdWU9ImZhbHNlIi8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9ImRlZmF1bHRFbmNvZGluZyIgdmFsdWU9IlVURi04Ii8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9ImNhY2hlU2Vjb25kcyIgdmFsdWU9IjYwIi8+CiAgICA8L2JlYW4+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -450,22 +462,22 @@
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gxeTWwyBKU1IzMDMgQmVhbiBWYWxpZGF0b3IgtqjS5SAtLT4KICAgIDxiZWFuIGlkPSJ2YWxpZGF0b3IiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLnZhbGlkYXRpb24uYmVhbnZhbGlkYXRpb24uTG9jYWxWYWxpZGF0b3JGYWN0b3J5QmVhbiI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InByb3ZpZGVyQ2xhc3MiIHZhbHVlPSJvcmcuaGliZXJuYXRlLnZhbGlkYXRvci5IaWJlcm5hdGVWYWxpZGF0b3IiLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0idmFsaWRhdGlvbk1lc3NhZ2VTb3VyY2UiIHJlZj0ibWVzc2FnZVNvdXJjZSIvPgogICAgPC9iZWFuPgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RheVJhdGUuc2V0UmF0ZShuZXdlc3RSYXRlLmdldFJhdGUoKSk7CiAgICAgICAgdG9kYXlSYXRlLnNldFNob3dUaW1lKG5ld2VzdFJhdGUuZ2V0U2hvd1RpbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RheVJhdGUuc2V0UmF0ZShuZXdlc3RSYXRlLmdldFJhdGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICoguPm+3bHS1tYKICAgICAqIEBwYXJhbSBjb2RlCiAgICAgKiBAcmV0dXJuCiAgICAgKi8KICAgIEN1cnJlbmN5UmF0ZSBnZXRCeUNvZGUoU3RyaW5nIGNvZGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
@@ -477,7 +489,7 @@
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0b2RheVJhdGUuc2V0UmF0ZShuZXdlc3RSYXRlLmdldFJhdGUoKSk7CiAgICAgICAgdG9kYXlSYXRlLnNldFNob3dUaW1lKG5ld2VzdFJhdGUuZ2V0U2hvd1RpbWUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>
