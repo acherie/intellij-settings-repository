@@ -55,11 +55,6 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="82" column="32" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1494469869006">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerMarketController.java" timestamp="1494480465480" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/messages/messages_zh_CN.properties" timestamp="1494481521217">
         <mark key="[" line="51" column="49" />
@@ -118,6 +113,7 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/customer/customerMarketingInteraction.js" timestamp="1494483387577" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/context/annotation/CommonAnnotationBeanPostProcessor.java" timestamp="1494470657276" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/entity/ErrorResponse.java" timestamp="1494481466606" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CustomerPurchaseProductServiceImpl.java" timestamp="1494482636556">
@@ -165,7 +161,7 @@
         <mark key="." line="11" column="22" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/annotation/Resource.java" timestamp="1494470080740" />
-      <file name="/Dummy.txt" timestamp="1494483016107">
+      <file name="/Dummy.txt" timestamp="1494483178267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/json/Views.java" timestamp="1494298923585">
@@ -207,6 +203,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="28" column="10" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/customerInfo/customerMarketingInfo.vm" timestamp="1494483348075" />
     </filemarks>
     <jumps>
       <jump line="27" column="4" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/RestExceptionHandler.java" />
