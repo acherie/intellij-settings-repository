@@ -89,6 +89,9 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/pom.xml" timestamp="1494813680111">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1494550741106" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1493865487375">
         <mark key="[" line="0" column="0" />
@@ -382,7 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="11" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/MessageUtils.java" />
       <jump line="2" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/MessageUtils.java" />
       <jump line="16" column="77" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/MessageUtils.java" />
       <jump line="24" column="5" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/MessageUtils.java" />
@@ -482,6 +484,7 @@
       <jump line="42" column="33" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/task/SyncDocFromNc.java" />
       <jump line="2" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" />
       <jump line="104" column="8" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerSaleProductController.java" />
+      <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
