@@ -14,6 +14,7 @@
       <file name="/File Header.txt.ft" timestamp="1493865348888">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Principal.java" timestamp="1494905286220" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/ReceiptServiceImpl.java" timestamp="1494490127539">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="10" column="7" />
@@ -50,7 +51,6 @@
       <file name="/Maven Project.txt.ft" timestamp="1493865358376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.pom" timestamp="1494819146070" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/IncoTermService.java" timestamp="1494490394171">
         <mark key="[" line="13" column="30" />
         <mark key="]" line="14" column="15" />
@@ -219,7 +219,6 @@
       <file name="/JavaFXApplication.txt.ft" timestamp="1493865482698">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerMarketController.java" timestamp="1494840111690" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/messages/messages_zh_CN.properties" timestamp="1494481521217">
         <mark key="[" line="51" column="49" />
       </file>
@@ -241,7 +240,6 @@
       <file name="/Mobile I18N Concatenation.txt.ft" timestamp="1493865379917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/maven/tomcat-maven-plugin/2.2/tomcat-maven-plugin-2.2.pom" timestamp="1494819121451" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/InComeService.java" timestamp="1494490485839">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="14" column="15" />
