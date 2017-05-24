@@ -5,6 +5,13 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" timestamp="1495596362025">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="87" />
+        <mark key="]" line="48" column="47" />
+        <mark key="." line="48" column="47" />
+        <mark key="^" line="48" column="47" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/supplier/ProduceFactoryServiceImpl.java" timestamp="1495510363088">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -26,12 +33,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryMapper.xml" timestamp="1495595497953">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryMapper.xml" timestamp="1495595938876">
         <mark key="'" line="47" column="3" />
-        <mark key="[" line="88" column="23" />
-        <mark key="]" line="95" column="12" />
-        <mark key="." line="95" column="12" />
-        <mark key="^" line="95" column="12" />
+        <mark key="[" line="95" column="38" />
+        <mark key="]" line="96" column="35" />
+        <mark key="." line="96" column="35" />
+        <mark key="^" line="96" column="35" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CustomerPurchaseProductServiceImpl.java" timestamp="1495592427258">
         <mark key="[" line="89" column="0" />
@@ -44,6 +51,12 @@
         <mark key="]" line="5" column="60" />
         <mark key="^" line="5" column="60" />
         <mark key="." line="5" column="60" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" timestamp="1495596019034">
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/supplier/ProduceFactoryProduceAddrMapper.java" timestamp="1495524145784">
         <mark key="[" line="5" column="31" />
@@ -60,6 +73,12 @@
         <mark key="]" line="57" column="92" />
         <mark key="." line="57" column="92" />
         <mark key="^" line="57" column="92" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryService.java" timestamp="1495595977632">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactory.java" timestamp="1495594233492">
         <mark key="[" line="919" column="0" />
@@ -82,19 +101,19 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/supplier/ProduceFactoryMapper.java" timestamp="1495590439200">
-        <mark key="[" line="7" column="83" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/supplier/ProduceFactoryMapper.java" timestamp="1495595943215">
+        <mark key="[" line="8" column="83" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/supplier/ProduceFactoryProductAddrMapper.java" timestamp="1495524152604">
         <mark key="]" line="5" column="37" />
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
+      <file name="/fragment.java" timestamp="1495595945620">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="72" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/util/WebUtils.java" />
-      <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/processCost.js" />
-      <jump line="333" column="35" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/offerInfo.vm" />
       <jump line="411" column="51" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/offerInfo.vm" />
       <jump line="124" column="43" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/processCostList.vm" />
       <jump line="126" column="32" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/processCostList.vm" />
@@ -192,6 +211,9 @@
       <jump line="78" column="8" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryMapper.xml" />
       <jump line="85" column="16" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryMapper.xml" />
       <jump line="47" column="3" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryMapper.xml" />
+      <jump line="22" column="46" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" />
+      <jump line="71" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" />
+      <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -219,7 +241,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>desc.getName()</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
@@ -237,43 +259,43 @@
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRGYWN0b3J5U2VydmljZShQcm9kdWNlRmFjdG9yeVNlcnZpY2UgZmFjdG9yeVNlcnZpY2UpIHsKICAgICAgICB0aGlzLmZhY3RvcnlTZXJ2aWNlID0gZmFjdG9yeVNlcnZpY2U7CiAgICB9Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIChQcm9wZXJ0eURlc2NyaXB0b3IgZGVzYyA6IHByb3BlcnR5RGVzY3JpcHRvcnMpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJwZi4iICsgQ2FzZUZvcm1hdC5MT1dFUl9DQU1FTC50byhDYXNlRm9ybWF0LkxPV0VSX1VOREVSU0NPUkUsIGRlc2MuZ2V0TmFtZSgpKSArICIsIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFByb3BlcnR5RGVzY3JpcHRvciBkZXNjIDogcHJvcGVydHlEZXNjcmlwdG9ycykgewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZi5hYmJyLAogICAgICAgIHBmLmFkZHJlc3MsCiAgICAgICAgcGYuYmFuaywKICAgICAgICBwZi5iYW5rQWNjb3VudCwKICAgICAgICBwZi5iYW5rQ2xhc3MsCiAgICAgICAgcGYuYmFua1VzZXJuYW1lLAogICAgICAgIHBmLmNsYXNzLAogICAgICAgIHBmLmNvZGUsCiAgICAgICAgcGYuY29vcGVyYXRlVGltZSwKICAgICAgICBwZi5jcmVhdGVBY2NvdW50LAogICAgICAgIHBmLmNyZWF0ZU5hbWUsCiAgICAgICAgcGYuY3JlYXRlVGltZSwKICAgICAgICBwZi5jdXJyZW5jeUNvZGUsCiAgICAgICAgcGYuZGlzY2hhcmdlUGVybWl0LAogICAgICAgIHBmLmVtYWlsLAogICAgICAgIHBmLmlkLAogICAgICAgIHBmLmxpbmtNYW4sCiAgICAgICAgcGYubGlua1Bob25lLAogICAgICAgIHBmLm1hbmFnZXIsCiAgICAgICAgcGYubWFuYWdlckNvZGUsCiAgICAgICAgcGYubWFuYWdlckRlcENvZGUsCiAgICAgICAgcGYubWFuYWdlckRlcE5hbWUsCiAgICAgICAgcGYubWFuYWdlck9yZ0NvZGUsCiAgICAgICAgcGYubWFuYWdlck9yZ05hbWUsCiAgICAgICAgcGYubW9kaWZ5QWNjb3VudCwKICAgICAgICBwZi5tb2RpZnlOYW1lLAogICAgICAgIHBmLm1vZGlmeVRpbWUsCiAgICAgICAgcGYubmFtZSwKICAgICAgICBwZi5vbGROYW1lLAogICAgICAgIHBmLnBlc3RpY2lkZVJlZ2lzdHJhdGlvbiwKICAgICAgICBwZi5wa0N1c3RiYW5rLAogICAgICAgIHBmLnBrT3JnLAogICAgICAgIHBmLnBrU3VwbGlua21hbiwKICAgICAgICBwZi5wa1N1cHBsaWVyLAogICAgICAgIHBmLnByb2R1Y3Rpb25MaWNlbnNlcywKICAgICAgICBwZi5wcm9kdWN0cywKICAgICAgICBwZi5yZWdpc3RlcmZ1bmQsCiAgICAgICAgcGYucmVtYXJrLAogICAgICAgIHBmLnNjb3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9j</text>
