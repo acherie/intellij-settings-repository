@@ -18,6 +18,13 @@
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="30" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1495680725534">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="1" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryProductAddrMapper.xml" timestamp="1495617743459">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="11" column="50" />
@@ -141,8 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="529" column="33" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/processCostList.vm" />
-      <jump line="501" column="32" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/processCostList.vm" />
       <jump line="507" column="24" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/processCostList.vm" />
       <jump line="547" column="33" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/processCostList.vm" />
       <jump line="105" column="91" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/processCostList.vm" />
@@ -241,13 +246,15 @@
       <jump line="73" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactoryProduct.java" />
       <jump line="209" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactoryProduct.java" />
       <jump line="30" column="25" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryProductMapper.xml" />
+      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">PHRhYmxlIHRhYmxlTmFtZT0idF9yZWNlaXB0IiBkb21haW5PYmplY3ROYW1lPSJSZWNlaXB0Ij4KICAgICAgICAgICAgPGdlbmVyYXRlZEtleSBjb2x1bW49ImlkIiBzcWxTdGF0ZW1lbnQ9Ik15U3FsIiBpZGVudGl0eT0idHJ1ZSIgdHlwZT0icG9zdCIvPgogICAgICAgIDwvdGFibGU+</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3JlYXRlIHRhYmxlICJzX2Jhbmt0eXBlIiAoCiAgImNvZGUiIHZhcmNoYXIgKDQwKSBub3QgbnVsbCwKICAiY3JlYXRpb250aW1lIiBjaGFyKDE5KSwKICAiY3JlYXRvciIgdmFyY2hhciAoMjApIGRlZmF1bHQgJ34nLAogICJkYXRhb3JpZ2luZmxhZyIgZGVjaW1hbCAoMzgsIDApLAogICJkZWYxIiB2YXJjaGFyICgxMDEpLAogICJkZWYyIiB2YXJjaGFyICgxMDEpLAogICJkZWYzIiB2YXJjaGFyICgxMDEpLAogICJkZWY0IiB2YXJjaGFyICgxMDEpLAogICJkZWY1IiB2YXJjaGFyICgxMDEpLAogICJkciIgYmlnaW50IGRlZmF1bHQgMCwKICAiaXNwcmVkYXRhIiBjaGFyKDEpLAogICJtbmVjb2RlIiB2YXJjaGFyICg1MCksCiAgIm1vZGlmaWVkdGltZSIgY2hhcigxOSksCiAgIm1vZGlmaWVyIiB2YXJjaGFyICgyMCkgZGVmYXVsdCAnficsCiAgIm5hbWUiIHZhcmNoYXIgKDMwMCkgbm90IG51bGwsCiAgIm5hbWUyIiB2YXJjaGFyICgzMDApLAogICJuYW1lMyIgdmFyY2hhciAoMzAwKSwKICAibmFtZTQiIHZhcmNoYXIgKDMwMCksCiAgIm5hbWU1IiB2YXJjaGFyICgzMDApLAogICJuYW1lNiIgdmFyY2hhciAoMzAwKSwKICAicGtfYmFua3R5cGUiIGNoYXIoMjApIG5vdCBudWxsLAogICJwa19ncm91cCIgdmFyY2hhciAoMjApIGRlZmF1bHQgJ34nLAogICJwa19vcmciIHZhcmNoYXIgKDIwKSBkZWZhdWx0ICd+JwopCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
