@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -25,11 +25,29 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="20" column="1" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/BankDoc.java" timestamp="1495699311326">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/BankAccBas.java" timestamp="1495699333870">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="9" column="49" />
+        <mark key="." line="9" column="49" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryProductAddrMapper.xml" timestamp="1495617743459">
         <mark key="[" line="11" column="44" />
         <mark key="]" line="11" column="50" />
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="50" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/BankTypeMapper.java" timestamp="1495699417637">
+        <mark key="[" line="4" column="59" />
+        <mark key="]" line="4" column="67" />
+        <mark key="^" line="4" column="67" />
+        <mark key="." line="4" column="67" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactoryProductAddr.java" timestamp="1495617718252">
         <mark key="'" line="8" column="67" />
@@ -76,11 +94,17 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" timestamp="1495596019034">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" timestamp="1495699537835">
         <mark key="[" line="28" column="42" />
         <mark key="]" line="30" column="40" />
         <mark key="." line="30" column="40" />
         <mark key="^" line="30" column="40" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/BankType.java" timestamp="1495699275080">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1495675444174" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryProductAddrService.java" timestamp="1495677971052">
@@ -136,6 +160,18 @@
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/supplier/ProduceFactoryMapper.java" timestamp="1495595943215">
         <mark key="[" line="8" column="83" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/BankAccBasMapper.java" timestamp="1495699460526">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="71" />
+        <mark key="^" line="4" column="71" />
+        <mark key="." line="4" column="71" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/BankDocMapper.java" timestamp="1495699447169">
+        <mark key="[" line="4" column="57" />
+        <mark key="]" line="4" column="65" />
+        <mark key="^" line="4" column="65" />
+        <mark key="." line="4" column="65" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/supplier/ProduceFactoryProductAddrMapper.java" timestamp="1495608899652">
         <mark key="[" line="10" column="35" />
