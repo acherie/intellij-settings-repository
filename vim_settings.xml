@@ -5,13 +5,6 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" timestamp="1495849698756">
-        <mark key="'" line="116" column="11" />
-        <mark key="[" line="42" column="59" />
-        <mark key="]" line="43" column="16" />
-        <mark key="." line="43" column="16" />
-        <mark key="^" line="43" column="16" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/BankAccBasMapper.xml" timestamp="1495769511211">
         <mark key="'" line="38" column="8" />
         <mark key="[" line="82" column="14" />
@@ -208,9 +201,9 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="22" column="40" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" timestamp="1495783769848">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="73" column="15" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" timestamp="1495850412369">
+        <mark key="'" line="97" column="55" />
+        <mark key="[" line="111" column="48" />
         <mark key="]" line="73" column="21" />
         <mark key="^" line="73" column="21" />
         <mark key="." line="73" column="21" />
@@ -220,6 +213,9 @@
         <mark key="]" line="35" column="35" />
         <mark key="." line="35" column="35" />
         <mark key="^" line="35" column="35" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1495849928299">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryProductServiceImpl.java" timestamp="1495692067816">
         <mark key="[" line="28" column="15" />
@@ -268,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CustomerPurchaseProductServiceImpl.java" />
       <jump line="71" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CustomerPurchaseProductServiceImpl.java" />
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/CustomerBaseInfo.xml" />
       <jump line="88" column="12" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/CustomerMarketController.java" />
@@ -368,6 +363,7 @@
       <jump line="13" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" />
       <jump line="21" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="14" column="13" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactory.java" />
+      <jump line="97" column="55" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
