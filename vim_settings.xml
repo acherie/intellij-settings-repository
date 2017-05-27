@@ -229,7 +229,7 @@
         <mark key="." line="22" column="69" />
         <mark key="^" line="22" column="69" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactoryInfo.java" timestamp="1495778127087">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactoryInfo.java" timestamp="1495876680361">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="16" column="39" />
         <mark key="^" line="16" column="39" />
@@ -248,11 +248,11 @@
         <mark key="^" line="22" column="40" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" timestamp="1495873945612">
-        <mark key="'" line="102" column="87" />
-        <mark key="[" line="130" column="24" />
-        <mark key="]" line="130" column="32" />
-        <mark key="^" line="130" column="32" />
-        <mark key="." line="130" column="32" />
+        <mark key="'" line="101" column="87" />
+        <mark key="[" line="129" column="24" />
+        <mark key="]" line="129" column="32" />
+        <mark key="^" line="129" column="32" />
+        <mark key="." line="129" column="32" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/doc/BankDocServiceImpl.java" timestamp="1495787356699">
         <mark key="[" line="35" column="15" />
@@ -260,7 +260,7 @@
         <mark key="." line="35" column="35" />
         <mark key="^" line="35" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495868891359">
+      <file name="/Dummy.txt" timestamp="1495876728549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryProductServiceImpl.java" timestamp="1495868883328">
@@ -282,6 +282,7 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/stream/Stream.java" timestamp="1495876463900" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/common/BankAccBasServiceImpl.java" timestamp="1495871502620">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="42" column="0" />
