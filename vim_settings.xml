@@ -27,6 +27,9 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1496228440653">
+        <mark key="'" line="389" column="34" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryMapper.xml" timestamp="1496199392536">
         <mark key="'" line="44" column="3" />
         <mark key="[" line="34" column="68" />
@@ -265,10 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="19" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/CurrencyRate.java" />
-      <jump line="42" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" />
-      <jump line="44" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" />
-      <jump line="50" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" />
       <jump line="53" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" />
       <jump line="59" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" />
       <jump line="43" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CurrencyRateServiceImpl.java" />
@@ -365,6 +364,10 @@
       <jump line="102" column="87" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" />
       <jump line="187" column="29" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactory.java" />
       <jump line="61" column="40" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" />
+      <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="391" column="16" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="388" column="34" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="389" column="34" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -395,7 +398,7 @@
         <text>multiDataSource</text>
       </register>
       <register name="/" type="4">
-        <text>dis</text>
+        <text>ehcache</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -456,17 +459,16 @@
       </register>
     </registers>
     <search>
-      <last-search>dis</last-search>
+      <last-search>ehcache</last-search>
       <last-offset />
-      <last-pattern>dis</last-pattern>
+      <last-pattern>ehcache</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYW5jZWxcPg==</entry>
         <entry encoding="base64">XDxteUZvcm1cPg==</entry>
         <entry encoding="base64">XDxub3RudWxsXD4=</entry>
         <entry encoding="base64">XDxlZGl0SGlkZVw+</entry>
@@ -486,6 +488,7 @@
         <entry>$</entry>
         <entry>backDocName</entry>
         <entry>dis</entry>
+        <entry>ehcache</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
