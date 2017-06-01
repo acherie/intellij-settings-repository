@@ -5,6 +5,13 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" timestamp="1496303896592">
+        <mark key="'" line="55" column="4" />
+        <mark key="[" line="102" column="48" />
+        <mark key="]" line="102" column="68" />
+        <mark key="^" line="102" column="68" />
+        <mark key="." line="102" column="68" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1495866188648">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="23" />
@@ -189,6 +196,7 @@
       <file name="/HTML File.txt.ft" timestamp="1496285583037">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-ehcache/1.3.2/shiro-ehcache-1.3.2-sources.jar!/org/apache/shiro/cache/ehcache/EhCacheManager.java" timestamp="1496304429666" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/doc/BankDocServiceImpl.java" timestamp="1495787356699">
         <mark key="[" line="35" column="15" />
         <mark key="]" line="35" column="35" />
