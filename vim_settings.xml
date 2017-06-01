@@ -5,13 +5,6 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" timestamp="1496193938039">
-        <mark key="'" line="55" column="4" />
-        <mark key="[" line="102" column="48" />
-        <mark key="]" line="102" column="68" />
-        <mark key="^" line="102" column="68" />
-        <mark key="." line="102" column="68" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1495866188648">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="23" />
@@ -29,13 +22,6 @@
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1496228440653">
         <mark key="'" line="389" column="34" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryMapper.xml" timestamp="1496199392536">
-        <mark key="'" line="44" column="3" />
-        <mark key="[" line="34" column="68" />
-        <mark key="]" line="34" column="79" />
-        <mark key="^" line="34" column="79" />
-        <mark key="." line="34" column="79" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/CustomerPurchaseProductServiceImpl.java" timestamp="1495592427258">
         <mark key="[" line="89" column="0" />
@@ -74,7 +60,7 @@
         <mark key="." line="30" column="11" />
         <mark key="^" line="30" column="11" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactory.java" timestamp="1496208889012">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactory.java" timestamp="1496279581732">
         <mark key="'" line="194" column="29" />
         <mark key="[" line="78" column="4" />
         <mark key="]" line="80" column="14" />
