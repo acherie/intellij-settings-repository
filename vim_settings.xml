@@ -54,6 +54,12 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1496224704289" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" timestamp="1496369820087">
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="54" column="26" />
+        <mark key="^" line="54" column="7" />
+        <mark key="." line="54" column="26" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1495787953856">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="13" />
@@ -382,7 +388,7 @@
         <text encoding="base64">PHRhYmxlIHRhYmxlTmFtZT0idF9yZWNlaXB0IiBkb21haW5PYmplY3ROYW1lPSJSZWNlaXB0Ij4KICAgICAgICAgICAgPGdlbmVyYXRlZEtleSBjb2x1bW49ImlkIiBzcWxTdGF0ZW1lbnQ9Ik15U3FsIiBpZGVudGl0eT0idHJ1ZSIgdHlwZT0icG9zdCIvPgogICAgICAgIDwvdGFibGU+</text>
       </register>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>s_factory_eva_item</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -403,7 +409,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>s_factory_eva_item</text>
       </register>
       <register name="/" type="4">
         <text>ehcache</text>
@@ -412,7 +418,7 @@
         <text>getOrderDetailUrl</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">amRiYzpteXNxbDovLzE5Mi4xNjguMzAuMTIwOjMzMDYvZnVodWFkYXRhP3VzZVVuaWNvZGU9dHJ1ZSZhbXA7Y2hhcmFjdGVyRW5jb2Rpbmc9VVRGOCZhbXA7emVyb0RhdGVUaW1lQmVoYXZpb3I9Y29udmVydFRvTnVsbA==</text>
+        <text encoding="base64">PHRhYmxlIHRhYmxlTmFtZT0ic19mYWN0b3J5X2V2YV9pdGVtIiBkb21haW5PYmplY3ROYW1lPSJGYWN0b3J5RXZhSXRlbSI+CiAgICAgICAgICAgIDxnZW5lcmF0ZWRLZXkgY29sdW1uPSJpZCIgc3FsU3RhdGVtZW50PSJNeVNxbCIgaWRlbnRpdHk9InRydWUiIHR5cGU9InBvc3QiLz4KICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
