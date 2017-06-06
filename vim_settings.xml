@@ -45,8 +45,8 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1496728483109">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1496729493944">
+        <mark key="'" line="389" column="34" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/ehcache.xml" timestamp="1496728259756" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/BaseEntity.java" timestamp="1496632164319">
@@ -92,6 +92,7 @@
         <mark key="^" line="31" column="12" />
         <mark key="." line="31" column="12" />
       </file>
+      <file name="D:/IdeaProjects/es/parent/pom.xml" timestamp="1496729563060" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/FactoryEvaScoreServiceImpl.java" timestamp="1496651475275">
         <mark key="[" line="33" column="65" />
         <mark key="]" line="36" column="20" />
@@ -472,7 +473,6 @@
       <jump line="61" column="40" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" />
       <jump line="391" column="16" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
       <jump line="388" column="34" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
-      <jump line="389" column="34" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
       <jump line="34" column="5" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/OrganizationService.java" />
       <jump line="27" column="15" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/doc/BankDocServiceImpl.java" />
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/doc/BankDocServiceImpl.java" />
@@ -487,6 +487,7 @@
       <jump line="55" column="18" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/FactoryEvaItemServiceImpl.java" />
       <jump line="29" column="4" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/common/JsonMapper.java" />
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="389" column="34" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
