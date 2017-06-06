@@ -38,12 +38,14 @@
         <mark key="." line="73" column="40" />
         <mark key="^" line="73" column="40" />
       </file>
+      <file name="D:/IdeaProjects/es/web/src/main/resources/ehcache/ehcache_es.xml" timestamp="1496716305655" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1496654647744">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="18" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/ehcache.xml" timestamp="1496716349153" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/BaseEntity.java" timestamp="1496632164319">
         <mark key="[" line="38" column="32" />
         <mark key="]" line="38" column="47" />
@@ -75,13 +77,6 @@
         <mark key="." line="6" column="6" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1496711364774" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" timestamp="1496628577098">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="51" column="75" />
-        <mark key="]" line="51" column="79" />
-        <mark key="^" line="51" column="79" />
-        <mark key="." line="51" column="79" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1495787953856">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="13" />
@@ -281,24 +276,10 @@
         <mark key="^" line="41" column="43" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/FactoryEvaItemServiceImpl.java" timestamp="1496651503272">
-        <mark key="[" line="80" column="15" />
-        <mark key="]" line="80" column="19" />
-        <mark key="." line="80" column="19" />
-        <mark key="^" line="80" column="19" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/FactoryEvaTotal.java" timestamp="1496630937234">
-        <mark key="'" line="8" column="27" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="31" column="10" />
-        <mark key="^" line="31" column="10" />
-        <mark key="." line="31" column="10" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" timestamp="1496644896192">
-        <mark key="'" line="69" column="40" />
-        <mark key="[" line="96" column="69" />
-        <mark key="]" line="96" column="78" />
-        <mark key="." line="96" column="78" />
-        <mark key="^" line="96" column="78" />
+        <mark key="[" line="78" column="15" />
+        <mark key="]" line="78" column="19" />
+        <mark key="." line="78" column="19" />
+        <mark key="^" line="78" column="19" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1496285583037">
         <mark key="[" line="0" column="0" />
@@ -309,7 +290,7 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496645018393">
+      <file name="/Dummy.txt" timestamp="1496712601228">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/supplier/FactoryEvaItemMapper.java" timestamp="1496633282066">
