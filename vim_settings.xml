@@ -32,6 +32,7 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/javax/cache/cache-api/1.0.0/cache-api-1.0.0-sources.jar!/javax/cache/spi/CachingProvider.java" timestamp="1496739624876" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/BankAccBasMapper.xml" timestamp="1496393349868">
         <mark key="[" line="73" column="37" />
         <mark key="]" line="73" column="40" />
@@ -71,6 +72,7 @@
         <mark key="^" line="61" column="30" />
         <mark key="." line="61" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/ehcache/ehcache/3.3.1/ehcache-3.3.1-sources.jar!/org/ehcache/jsr107/EhcacheCachingProvider.java" timestamp="1496739317146" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/FactoryEvaScore.java" timestamp="1496370105229">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="10" />
@@ -304,6 +306,7 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/JCacheManagerFactoryBean.java" timestamp="1496739598306" />
       <file name="/Dummy.txt" timestamp="1496712601228">
         <mark key="[" line="0" column="0" />
       </file>
@@ -378,11 +381,6 @@
         <mark key="]" line="10" column="90" />
         <mark key="^" line="10" column="90" />
         <mark key="." line="10" column="90" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/common/JsonMapper.java" timestamp="1496654364479">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="54" column="10" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/srping-config-cache.xml" timestamp="1496737575770">
         <mark key="[" line="5" column="116" />
