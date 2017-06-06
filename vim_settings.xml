@@ -72,7 +72,7 @@
         <mark key="^" line="61" column="30" />
         <mark key="." line="61" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/ehcache/ehcache/3.3.1/ehcache-3.3.1-sources.jar!/org/ehcache/jsr107/EhcacheCachingProvider.java" timestamp="1496739317146" />
+      <file name="$MAVEN_REPOSITORY$/org/ehcache/ehcache/3.3.1/ehcache-3.3.1-sources.jar!/org/ehcache/jsr107/EhcacheCachingProvider.java" timestamp="1496740804953" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/FactoryEvaScore.java" timestamp="1496370105229">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="10" />
@@ -85,8 +85,7 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1496711364774" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/JCacheCacheManager.java" timestamp="1496737475220" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/JCacheCacheManager.java" timestamp="1496741167423" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1495787953856">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="13" />
@@ -99,6 +98,7 @@
         <mark key="^" line="31" column="12" />
         <mark key="." line="31" column="12" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/config/JCacheConfigurerSupport.java" timestamp="1496740478580" />
       <file name="D:/IdeaProjects/es/parent/pom.xml" timestamp="1496729563060" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/FactoryEvaScoreServiceImpl.java" timestamp="1496651475275">
         <mark key="[" line="33" column="65" />
@@ -291,6 +291,7 @@
         <mark key="." line="41" column="43" />
         <mark key="^" line="41" column="43" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/config/AbstractJCacheConfiguration.java" timestamp="1496740239943" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/FactoryEvaItemServiceImpl.java" timestamp="1496651503272">
         <mark key="[" line="78" column="15" />
         <mark key="]" line="78" column="19" />
@@ -300,13 +301,14 @@
       <file name="/HTML File.txt.ft" timestamp="1496285583037">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" timestamp="1496741024923" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/CurrtypeService.java" timestamp="1496365853510">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="2" />
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/JCacheManagerFactoryBean.java" timestamp="1496739598306" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/JCacheManagerFactoryBean.java" timestamp="1496740329265" />
       <file name="/Dummy.txt" timestamp="1496712601228">
         <mark key="[" line="0" column="0" />
       </file>
@@ -358,6 +360,7 @@
         <mark key="^" line="18" column="86" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/config/JCacheConfigurer.java" timestamp="1496740431003" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/doc/BankTypeServiceImpl.java" timestamp="1496394836335">
         <mark key="[" line="30" column="24" />
         <mark key="]" line="31" column="23" />
@@ -390,12 +393,6 @@
       </file>
       <file name="/fragment.java" timestamp="1496370136073">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/FactoryEvaTotalServiceImpl.java" timestamp="1496712254105">
-        <mark key="'" line="55" column="54" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
       </file>
     </filemarks>
     <jumps>
