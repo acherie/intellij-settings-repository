@@ -84,6 +84,7 @@
         <mark key="." line="6" column="6" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1496711364774" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/JCacheCacheManager.java" timestamp="1496737475220" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1495787953856">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="13" />
@@ -380,6 +381,12 @@
         <mark key="'" line="29" column="4" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="54" column="10" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/srping-config-cache.xml" timestamp="1496737559961">
+        <mark key="[" line="5" column="116" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1496370136073">
         <mark key="[" line="0" column="0" />
