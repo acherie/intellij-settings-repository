@@ -141,6 +141,7 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE.jar!/org/springframework/cache/config/spring-cache-4.2.xsd" timestamp="1496737615936" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1496210558889">
         <mark key="[" line="62" column="41" />
         <mark key="]" line="63" column="47" />
@@ -245,6 +246,7 @@
         <mark key="^" line="15" column="81" />
         <mark key="." line="15" column="81" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/annotation/AbstractCachingConfiguration.java" timestamp="1496738308989" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryProductAddrMapper.xml" timestamp="1495770897366">
         <mark key="[" line="34" column="32" />
         <mark key="]" line="34" column="40" />
@@ -382,11 +384,11 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="54" column="10" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/srping-config-cache.xml" timestamp="1496737559961">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/srping-config-cache.xml" timestamp="1496737575770">
         <mark key="[" line="5" column="116" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
+        <mark key="]" line="6" column="115" />
+        <mark key="^" line="6" column="115" />
+        <mark key="." line="6" column="115" />
       </file>
       <file name="/fragment.java" timestamp="1496370136073">
         <mark key="[" line="0" column="0" />
