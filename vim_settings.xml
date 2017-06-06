@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -45,8 +45,12 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1496729493944">
+      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1496733262463">
         <mark key="'" line="389" column="34" />
+        <mark key="[" line="391" column="25" />
+        <mark key="]" line="394" column="23" />
+        <mark key="^" line="394" column="23" />
+        <mark key="." line="394" column="23" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/ehcache.xml" timestamp="1496728259756" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/BaseEntity.java" timestamp="1496632164319">
