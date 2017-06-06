@@ -256,6 +256,7 @@
         <mark key="." line="3" column="66" />
         <mark key="^" line="3" column="66" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/config/ProxyJCacheConfiguration.java" timestamp="1496757346146" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/FactoryEvaTotalMapper.java" timestamp="1496629432787">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -359,6 +360,7 @@
         <mark key="^" line="9" column="105" />
         <mark key="." line="9" column="105" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aspects/4.2.9.RELEASE/spring-aspects-4.2.9.RELEASE-sources.jar!/org/springframework/cache/aspectj/AspectJJCacheConfiguration.java" timestamp="1496757328462" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/supplier/ProduceFactoryProductAddrMapper.java" timestamp="1495608899652">
         <mark key="[" line="10" column="35" />
         <mark key="]" line="10" column="90" />
