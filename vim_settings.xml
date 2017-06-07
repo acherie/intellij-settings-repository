@@ -5,15 +5,14 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheOperationInvocationContext.java" timestamp="1496795942872" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/UserTreeCache.java" timestamp="1496827090382">
         <mark key="[" line="23" column="48" />
         <mark key="]" line="23" column="63" />
         <mark key="." line="23" column="48" />
         <mark key="^" line="38" column="58" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/ehcache/ehcache-jsr107.xml" timestamp="1496827548071">
-        <mark key="[" line="22" column="19" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/ehcache/ehcache-jsr107.xml" timestamp="1496837094406">
+        <mark key="[" line="22" column="28" />
         <mark key="]" line="24" column="11" />
         <mark key="^" line="24" column="11" />
         <mark key="." line="24" column="11" />
@@ -25,16 +24,16 @@
         <mark key="^" line="278" column="53" />
         <mark key="." line="278" column="53" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheInterceptor.java" timestamp="1496803935263" />
-      <file name="D:/IdeaProjects/es/web/src/main/resources/ehcache/ehcache_es.xml" timestamp="1496799700612" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/cache/BaseCacheAspect.java" timestamp="1496826899178">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="62" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1496825842313" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/MixNodeVO.java" timestamp="1496815766405" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/interceptor/SimpleCacheResolver.java" timestamp="1496796016868" />
-      <file name="D:/IdeaProjects/jeesite/src/main/java/com/thinkgem/jeesite/common/utils/CacheUtils.java" timestamp="1496826598173" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/cache/ehcache/MixNodeVoCopier.java" timestamp="1496837067304">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/log4j.properties" timestamp="1496801461207">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="25" />
@@ -42,6 +41,7 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1496836460054" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/ehcache/ehcache-jsr107.xml.xsl" timestamp="1496799463316">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="18" />
@@ -49,7 +49,6 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/vo/BaseTreeVo.java" timestamp="1496815778166" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/UserController.java" timestamp="1496802564338">
         <mark key="[" line="84" column="30" />
         <mark key="]" line="88" column="51" />
@@ -62,22 +61,14 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="55" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/interceptor/AbstractCacheResolver.java" timestamp="1496795994898" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/factory/Aware.java" timestamp="1496797463813" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheAspectSupport.java" timestamp="1496803988960" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/doc/BankDocService.java" timestamp="1496799047643" />
-      <file name="$MAVEN_REPOSITORY$/org/ehcache/ehcache/3.3.1/ehcache-3.3.1-sources.jar!/org/ehcache/impl/copy/SerializingCopier.java" timestamp="1496827468009" />
-      <file name="D:/IdeaProjects/jeesite/src/main/java/com/thinkgem/jeesite/common/security/shiro/session/CacheSessionDAO.java" timestamp="1496826513281" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/support/SimpleCacheManager.java" timestamp="1496797997368" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/annotation/CachingConfigurerSupport.java" timestamp="1496796961032" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/context/annotation/ImportAware.java" timestamp="1496797409132" />
-      <file name="$MAVEN_REPOSITORY$/org/ehcache/ehcache/3.3.1/ehcache-3.3.1-sources.jar!/org/ehcache/impl/copy/ReadWriteCopier.java" timestamp="1496827174308" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1496801550144">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="48" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/interceptor/AnnotationJCacheOperationSource.java" timestamp="1496796170556" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/cache/ehcache/MixNodeVoCopier.java" timestamp="1496836798302">
+        <mark key="[" line="6" column="28" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="46" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" />
@@ -185,8 +176,8 @@
       <register name="a" type="4">
         <text>sys-orgDepCache</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8a2V5LXR5cGU+amF2YS5sYW5nLk9iamVjdDwva2V5LXR5cGU+CiAgICAgICAgPHZhbHVlLXR5cGU+amF2YS5sYW5nLk9iamVjdDwvdmFsdWUtdHlwZT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TWl4Tm9kZVZPIG1peE5vZGVWTyA9IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -207,7 +198,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>userCache</text>
+        <text encoding="base64">TWl4Tm9kZVZPIG1peE5vZGVWTyA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>ehcache</text>
