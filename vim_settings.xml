@@ -5,21 +5,11 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/interceptor/CacheOperationInvocationContext.java" timestamp="1496795942872" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/interceptor/AbstractCacheResolver.java" timestamp="1496795994898" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/interceptor/SimpleCacheResolver.java" timestamp="1496796016868" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/interceptor/AnnotationJCacheOperationSource.java" timestamp="1496796170556" />
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1496748098532" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/interceptor/JCacheOperationSourcePointcut.java" timestamp="1496758986319" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/JCacheCacheManager.java" timestamp="1496758233309" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/interceptor/JCacheInterceptor.java" timestamp="1496759193226" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/interceptor/JCacheAspectSupport.java" timestamp="1496749188015" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/interceptor/BeanFactoryJCacheOperationSourceAdvisor.java" timestamp="1496749398105" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.9.RELEASE/spring-aop-4.2.9.RELEASE-sources.jar!/org/springframework/aop/support/AbstractBeanFactoryPointcutAdvisor.java" timestamp="1496757832603" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/annotation/CachingConfigurationSelector.java" timestamp="1496757622343" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/annotation/EnableCaching.java" timestamp="1496758625372" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/cache/annotation/AbstractCachingConfiguration.java" timestamp="1496758575810" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/config/ProxyJCacheConfiguration.java" timestamp="1496759172995" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/config/AbstractJCacheConfiguration.java" timestamp="1496758847698" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/transaction/AbstractTransactionSupportingCacheManager.java" timestamp="1496758226080" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.9.RELEASE/spring-context-support-4.2.9.RELEASE-sources.jar!/org/springframework/cache/jcache/interceptor/DefaultJCacheOperationSource.java" timestamp="1496758001279" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aspects/4.2.9.RELEASE/spring-aspects-4.2.9.RELEASE-sources.jar!/org/springframework/cache/aspectj/AspectJJCacheConfiguration.java" timestamp="1496757328462" />
     </filemarks>
     <jumps>
       <jump line="5" column="7" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactoryQuery.java" />
