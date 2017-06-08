@@ -11,21 +11,11 @@
         <mark key="." line="23" column="48" />
         <mark key="^" line="38" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496901638045">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/ehcache/ehcache-jsr107.xml" timestamp="1496837094406">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="24" column="11" />
         <mark key="^" line="24" column="11" />
         <mark key="." line="24" column="11" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/ehcache/ehcache-jsr107.xml.xsl" timestamp="1496799463316">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserServiceImpl.java" timestamp="1496901404029">
         <mark key="'" line="293" column="27" />
@@ -34,37 +24,11 @@
         <mark key="^" line="173" column="40" />
         <mark key="." line="173" column="40" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/UserController.java" timestamp="1496802564338">
-        <mark key="[" line="84" column="30" />
-        <mark key="]" line="88" column="51" />
-        <mark key="." line="88" column="51" />
-        <mark key="^" line="88" column="51" />
-      </file>
       <file name="/a.dummy" timestamp="1496902411458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-cache.xml" timestamp="1496800168456">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="55" />
-        <mark key="^" line="11" column="55" />
-        <mark key="." line="11" column="55" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1496893767641">
-        <mark key="[" line="44" column="12" />
-        <mark key="]" line="44" column="24" />
-        <mark key="^" line="44" column="24" />
-        <mark key="." line="44" column="24" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/ProductCategoryServiceImpl.java" timestamp="1496902429947" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.3.2/shiro-core-1.3.2-sources.jar!/org/apache/shiro/realm/CachingRealm.java" timestamp="1496892468367" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/cache/interceptor/BaseCacheAspect.java" timestamp="1496893203015">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="62" column="12" />
-        <mark key="]" line="62" column="22" />
-        <mark key="." line="62" column="22" />
-        <mark key="^" line="62" column="22" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.3.2/shiro-core-1.3.2-sources.jar!/org/apache/shiro/realm/AuthenticatingRealm.java" timestamp="1496892715010" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/cache/BaseCacheAspect.java" timestamp="1496893050533">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="80" column="4" />
@@ -83,7 +47,6 @@
         <mark key="^" line="90" column="24" />
         <mark key="." line="90" column="24" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/BusinessOrderProductAction.java" timestamp="1496902417651" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/log4j.properties" timestamp="1496801461207">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="25" />
@@ -91,16 +54,47 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1496801550144">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="48" />
-        <mark key="." line="49" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-ehcache/1.3.2/shiro-ehcache-1.3.2-sources.jar!/org/apache/shiro/cache/ehcache/EhCacheManager.java" timestamp="1496891981440" />
+      <file name="/Dummy.txt" timestamp="1496901638045">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/ehcache/ehcache-jsr107.xml.xsl" timestamp="1496799463316">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/UserController.java" timestamp="1496802564338">
+        <mark key="[" line="84" column="30" />
+        <mark key="]" line="88" column="51" />
+        <mark key="." line="88" column="51" />
+        <mark key="^" line="88" column="51" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-cache.xml" timestamp="1496800168456">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="55" />
+        <mark key="^" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1496893767641">
+        <mark key="[" line="44" column="12" />
+        <mark key="]" line="44" column="24" />
+        <mark key="^" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/cache/interceptor/BaseCacheAspect.java" timestamp="1496893203015">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="62" column="12" />
+        <mark key="]" line="62" column="22" />
+        <mark key="." line="62" column="22" />
+        <mark key="^" line="62" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.3.2/shiro-core-1.3.2-sources.jar!/org/apache/shiro/realm/AuthenticatingRealm.java" timestamp="1496892715010" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/BusinessOrderProductAction.java" timestamp="1496902417651" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/cache/ehcache/MixNodeVoCopier.java" timestamp="1496836798302">
         <mark key="[" line="6" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-ehcache/1.3.2/shiro-ehcache-1.3.2-sources.jar!/org/apache/shiro/cache/ehcache/EhCacheManager.java" timestamp="1496891981440" />
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1496836460054" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" />

@@ -46,7 +46,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Merge">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="SHOW_LINE_NUMBERS" value="false" />
+        </PlaceSettings>
       </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings />
