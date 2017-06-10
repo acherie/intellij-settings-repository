@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -24,8 +24,6 @@
       <file name="/a.dummy" timestamp="1496994341395">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserAccount.java" timestamp="1496993557829" />
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/extra/aop/UserCacheAspect.java" timestamp="1496999275230" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/cache/BaseCacheAspect.java" timestamp="1496928553982">
         <mark key="[" line="51" column="16" />
         <mark key="]" line="51" column="33" />
@@ -54,7 +52,6 @@
         <mark key="^" line="34" column="29" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1496919904552" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/OrganizationService.java" timestamp="1497000223997" />
       <file name="/Dummy.txt" timestamp="1496901638045">
         <mark key="[" line="0" column="0" />
       </file>
@@ -83,7 +80,6 @@
         <mark key="^" line="48" column="24" />
         <mark key="." line="48" column="24" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/BaseService.java" timestamp="1496993627840" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/DeptService.java" timestamp="1497000365281">
         <mark key="[" line="61" column="16" />
         <mark key="]" line="61" column="11" />
@@ -103,7 +99,6 @@
         <mark key="." line="62" column="22" />
         <mark key="^" line="62" column="22" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserAccountMapper.xml" timestamp="1496996504339" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/cache/interceptor/OrgDeptCacheAspect.java" timestamp="1496994326652">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="14" column="36" />
@@ -312,7 +307,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
