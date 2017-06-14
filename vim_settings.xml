@@ -89,7 +89,6 @@
         <mark key="^" line="14" column="30" />
         <mark key="." line="14" column="30" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/OrganizationServiceImpl.java" timestamp="1497449605996" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/BusinessOrgiContractMapper.java" timestamp="1497320824847">
         <mark key="[" line="4" column="83" />
         <mark key="]" line="4" column="91" />
@@ -120,17 +119,11 @@
         <mark key="^" line="13" column="67" />
         <mark key="." line="13" column="67" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/UserTreeCache.java" timestamp="1496995553700">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/UserTreeCache.java" timestamp="1497451158056">
         <mark key="[" line="23" column="48" />
         <mark key="]" line="23" column="63" />
         <mark key="." line="23" column="48" />
         <mark key="^" line="38" column="58" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserServiceImpl.java" timestamp="1497448868330">
-        <mark key="[" line="45" column="28" />
-        <mark key="]" line="45" column="61" />
-        <mark key="." line="45" column="61" />
-        <mark key="^" line="45" column="61" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/common/BankAccBasService.java" timestamp="1497251776548">
         <mark key="[" line="32" column="21" />
@@ -164,11 +157,8 @@
         <mark key="." line="13" column="36" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1497449680400">
-        <mark key="'" line="209" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="197" column="30" />
-        <mark key="." line="44" column="0" />
+        <mark key="'" line="250" column="0" />
+        <mark key="^" line="238" column="30" />
       </file>
       <file name="D:/Projects/fuhuadata-mybatis-generator/pom.xml" timestamp="1497428613769">
         <mark key="[" line="6" column="15" />
