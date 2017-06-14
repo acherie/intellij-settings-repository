@@ -158,7 +158,7 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1497444639463">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1497446668811">
         <mark key="'" line="209" column="0" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -219,7 +219,7 @@
         <mark key="." line="71" column="44" />
         <mark key="^" line="71" column="44" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/cache/interceptor/OrgDepCacheAspect.java" timestamp="1497445596316">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/cache/interceptor/OrgDepCacheAspect.java" timestamp="1497446475652">
         <mark key="[" line="228" column="28" />
         <mark key="]" line="228" column="56" />
         <mark key="^" line="228" column="56" />
@@ -266,6 +266,9 @@
         <mark key="]" line="107" column="7" />
         <mark key="." line="107" column="7" />
         <mark key="^" line="107" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1497446672452">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
