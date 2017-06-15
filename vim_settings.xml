@@ -71,6 +71,7 @@
         <mark key="." line="35" column="27" />
         <mark key="^" line="35" column="27" />
       </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1497487400103" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/business/BusinessBuyContractServiceImpl.java" timestamp="1497340591794">
         <mark key="[" line="25" column="52" />
         <mark key="]" line="25" column="56" />
@@ -83,6 +84,7 @@
         <mark key="^" line="4" column="89" />
         <mark key="." line="4" column="89" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/WarehouseInfoController.java" timestamp="1497488498608" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/business/BusinessBuyContractQuery.java" timestamp="1497340515154">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="14" column="30" />
@@ -119,19 +121,12 @@
         <mark key="^" line="13" column="67" />
         <mark key="." line="13" column="67" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/util/UserTreeCache.java" timestamp="1497451158056">
-        <mark key="[" line="23" column="48" />
-        <mark key="]" line="23" column="63" />
-        <mark key="." line="23" column="48" />
-        <mark key="^" line="38" column="58" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/common/BankAccBasService.java" timestamp="1497251776548">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="27" />
         <mark key="^" line="32" column="27" />
         <mark key="." line="32" column="27" />
       </file>
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/extra/aop/UserCacheAspect.java" timestamp="1497443838054" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/cache/ehcache/PlainObjectSerializingCopier.java" timestamp="1497250408721">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="96" />
@@ -157,8 +152,8 @@
         <mark key="." line="13" column="36" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1497449680400">
-        <mark key="'" line="250" column="0" />
-        <mark key="^" line="238" column="30" />
+        <mark key="'" line="246" column="0" />
+        <mark key="^" line="234" column="30" />
       </file>
       <file name="D:/Projects/fuhuadata-mybatis-generator/pom.xml" timestamp="1497428613769">
         <mark key="[" line="6" column="15" />
@@ -183,6 +178,9 @@
         <mark key="]" line="4" column="103" />
         <mark key="^" line="4" column="103" />
         <mark key="." line="4" column="103" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1497488222884">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryProductServiceImpl.java" timestamp="1497336143730">
         <mark key="[" line="63" column="9" />
@@ -214,7 +212,6 @@
         <mark key="." line="71" column="44" />
         <mark key="^" line="71" column="44" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/cache/interceptor/OrgDepCacheAspect.java" timestamp="1497450491974" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/business/BusinessOrgiContractService.java" timestamp="1497419440822">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="14" column="69" />
