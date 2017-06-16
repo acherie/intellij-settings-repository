@@ -53,6 +53,7 @@
         <mark key="^" line="34" column="19" />
         <mark key="." line="34" column="19" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/ProduceFactoryMapper.xml" timestamp="1497594680029" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/cache/ehcache/MixNodeVoCopier.java" timestamp="1496891010275">
         <mark key="[" line="16" column="9" />
         <mark key="]" line="17" column="22" />
@@ -178,6 +179,7 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" timestamp="1497594700503" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/cache/ehcache/PlainJavaObjectCopier.java" timestamp="1497444953589">
         <mark key="[" line="19" column="51" />
         <mark key="]" line="19" column="53" />
@@ -193,7 +195,7 @@
       <file name="/Dummy.txt" timestamp="1497515515374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryProductServiceImpl.java" timestamp="1497516869171">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryProductServiceImpl.java" timestamp="1497594287764">
         <mark key="[" line="63" column="9" />
         <mark key="]" line="81" column="33" />
         <mark key="." line="81" column="33" />
