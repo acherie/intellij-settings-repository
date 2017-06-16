@@ -23,6 +23,9 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="6" column="65" />
       </file>
+      <file name="/a.dummy" timestamp="1497599931407">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/BusinessOrgiContractMapper.xml" timestamp="1497403764622">
         <mark key="[" line="41" column="61" />
         <mark key="]" line="42" column="40" />
@@ -189,10 +192,6 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/DeptServiceImpl.java" timestamp="1497449680400">
-        <mark key="'" line="246" column="0" />
-        <mark key="^" line="234" column="30" />
-      </file>
       <file name="D:/Projects/fuhuadata-mybatis-generator/pom.xml" timestamp="1497428613769">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="16" />
@@ -223,7 +222,7 @@
         <mark key="^" line="4" column="103" />
         <mark key="." line="4" column="103" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497515515374">
+      <file name="/Dummy.txt" timestamp="1497599234424">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryProductServiceImpl.java" timestamp="1497599222625">
@@ -267,6 +266,12 @@
         <mark key="]" line="25" column="57" />
         <mark key="^" line="25" column="57" />
         <mark key="." line="25" column="57" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/FreightForwardingMapper.xml" timestamp="1497599948845">
+        <mark key="[" line="53" column="52" />
+        <mark key="]" line="53" column="51" />
+        <mark key="^" line="53" column="51" />
+        <mark key="." line="53" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.3.9/mapper-3.3.9-sources.jar!/tk/mybatis/mapper/common/base/update/UpdateByPrimaryKeyMapper.java" timestamp="1497596295745" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/business/BusinessBuyContractProductServiceImpl.java" timestamp="1497339500715">
