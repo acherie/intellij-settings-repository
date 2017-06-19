@@ -105,6 +105,7 @@
         <mark key="." line="35" column="27" />
         <mark key="^" line="35" column="27" />
       </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1497834941323" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/business/BusinessBuyContractServiceImpl.java" timestamp="1497602674603">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="26" column="67" />
@@ -141,7 +142,6 @@
         <mark key="^" line="4" column="91" />
         <mark key="." line="4" column="91" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1497596289450" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/supplier/SupplierLinkman.java" timestamp="1497597494042">
         <mark key="[" line="99" column="7" />
         <mark key="]" line="100" column="13" />
@@ -220,7 +220,6 @@
         <mark key="^" line="33" column="31" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/common/macro.vm" timestamp="1497602151311" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" timestamp="1497597281039">
         <mark key="[" line="129" column="31" />
         <mark key="]" line="130" column="37" />
@@ -279,6 +278,9 @@
         <mark key="." line="71" column="44" />
         <mark key="^" line="71" column="44" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/common/poi/ExcelToList.java" timestamp="1497852104831">
+        <mark key="[" line="6" column="26" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/business/BusinessOrgiContractService.java" timestamp="1497419440822">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="14" column="69" />
@@ -297,7 +299,6 @@
         <mark key="^" line="53" column="51" />
         <mark key="." line="53" column="51" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.3.9/mapper-3.3.9-sources.jar!/tk/mybatis/mapper/common/base/update/UpdateByPrimaryKeyMapper.java" timestamp="1497596295745" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/business/BusinessBuyContractProductServiceImpl.java" timestamp="1497602661598">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -532,7 +533,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
