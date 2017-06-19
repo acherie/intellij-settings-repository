@@ -44,6 +44,7 @@
         <mark key="^" line="121" column="13" />
         <mark key="." line="121" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.9.RELEASE/spring-core-4.2.9.RELEASE-sources.jar!/org/springframework/core/convert/support/GenericConversionService.java" timestamp="1497861490609" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/business/BusinessOrgiContract.java" timestamp="1497403691863">
         <mark key="[" line="58" column="4" />
         <mark key="]" line="60" column="11" />
@@ -96,13 +97,6 @@
         <mark key="^" line="52" column="40" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/supplier/SupplierLinkmanServiceImpl.java" timestamp="1497597408082">
-        <mark key="'" line="32" column="29" />
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="32" column="33" />
-        <mark key="^" line="32" column="33" />
-        <mark key="." line="32" column="33" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/business/BusinessBuyContractMapper.java" timestamp="1497335007150">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="42" />
@@ -134,6 +128,7 @@
         <mark key="^" line="4" column="89" />
         <mark key="." line="4" column="89" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/format/support/DefaultFormattingConversionService.java" timestamp="1497861270207" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/business/BusinessBuyContractQuery.java" timestamp="1497340515154">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="14" column="30" />
@@ -228,6 +223,8 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/PropertyEditorRegistrySupport.java" timestamp="1497860810882" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/format/FormatterRegistrar.java" timestamp="1497861389155" />
       <file name="D:/Projects/fuhuadata-mybatis-generator/pom.xml" timestamp="1497428613769">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="16" />
@@ -266,13 +263,6 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
         <mark key="^" line="97" column="54" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/supplierInformation/factoryOrder.vm" timestamp="1497602122194">
-        <mark key="'" line="141" column="42" />
-        <mark key="[" line="100" column="47" />
-        <mark key="]" line="100" column="64" />
-        <mark key="." line="100" column="64" />
-        <mark key="^" line="100" column="64" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/BusinessBuyContract.java" timestamp="1497320602183">
         <mark key="[" line="7" column="33" />
