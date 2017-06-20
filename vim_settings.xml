@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -21,26 +21,6 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/com/fuhua/customs/service/CustomsDataServiceIT.java" timestamp="1497948798214">
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="32" column="34" />
-        <mark key="." line="32" column="34" />
-        <mark key="^" line="32" column="34" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomsData.java" timestamp="1497927421216">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="47" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/customs/CustomsDataServiceImpl.java" timestamp="1497942333632">
-        <mark key="[" line="89" column="9" />
-        <mark key="]" line="92" column="31" />
-        <mark key="." line="92" column="31" />
-        <mark key="^" line="92" column="31" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/session/SqlSession.java" timestamp="1497948334622" />
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1497946307573" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-manager/src/main/java/com/fuhuadata/manager/impl/NCExchange/PDFTempletToPDFImpl.java" timestamp="1497866419365">
         <mark key="[" line="59" column="58" />
         <mark key="]" line="59" column="66" />
@@ -60,6 +40,13 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" timestamp="1497957932275">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="114" column="49" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomsData.java" timestamp="1497951486984">
         <mark key="'" line="654" column="15" />
       </file>
@@ -68,23 +55,40 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/com/fuhua/customs/service/CustomsDataServiceIT.java" timestamp="1497957637537">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+        <mark key="^" line="32" column="34" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomesDataTypePropertyEditor.java" timestamp="1497927813612">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="19" column="32" />
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java" timestamp="1497948562478" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1497948609079">
         <mark key="[" line="106" column="24" />
         <mark key="]" line="106" column="38" />
         <mark key="." line="106" column="38" />
         <mark key="^" line="106" column="38" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomsData.java" timestamp="1497927421216">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/customs/CustomsDataServiceImpl.java" timestamp="1497942333632">
+        <mark key="[" line="89" column="9" />
+        <mark key="]" line="92" column="31" />
+        <mark key="." line="92" column="31" />
+        <mark key="^" line="92" column="31" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/resources/springbeans-dao.xml" timestamp="1497957876666" />
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1497946307573" />
     </filemarks>
     <jumps>
-      <jump line="228" column="10" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactoryProduct.java" />
-      <jump line="8" column="13" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactoryProductAddr.java" />
       <jump line="9" column="13" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactoryProduct.java" />
       <jump line="51" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryProductAction.java" />
       <jump line="19" column="31" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryProductService.java" />
@@ -183,6 +187,8 @@
       <jump line="488" column="36" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
       <jump line="486" column="0" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
       <jump line="406" column="36" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="102" column="7" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" />
+      <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -191,7 +197,7 @@
                         .orElse(null)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBgaWRgLAo=</text>
+        <text encoding="base64">ICAgICAgICBzcWxTZXNzaW9uQmF0Y2guY29tbWl0KCk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -224,13 +230,13 @@
         <text encoding="base64">ICAgICAgICAje30sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBgaWRgLAo=</text>
+        <text encoding="base64">ICAgICAgICBzcWxTZXNzaW9uQmF0Y2guY29tbWl0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScsCiAgICAgICAgJ2N1c3RvbXNfb3JnJywKICAgICAgICAnY3VzdG9tc19hcmVhJywKICAgICAgICAncG9ydCcsCiAgICAgICAgJ3RyYW5zaXRfY291bnRyeScsCiAgICAgICAgJ29yaWdpbl9kZXN0X2NvdW50cnknLAogICAgICAgICdjb250aW5lbnQnLAogICAgICAgICdkZWNsYXJlX2NvbXBhbnknLAogICAgICAgICdzaGlwcGVyX2NvbXBhbnknLAogICAgICAgICdvcGVyYXRpb25fY29tcGFueScsCiAgICAgICAgJ29wZXJhdGlvbl9jb21fY29kZScsCiAgICAgICAgJ3Byb2R1Y3RfbWFya2V0X2xvY2F0aW9uJywKICAgICAgICAnY3VzdG9tc19jb2RlJywKICAgICAgICAncHJvZHVjdF9uYW1lJywKICAgICAgICAnc3BlY2lmaWNhdGlvbnMnLAogICAgICAgICdkZWFsX21ldGhvZCcsCiAgICAgICAgJ2RlY2xhcmVfcHJpY2UnLAogICAgICAgICdwcmljZV91bml0JywKICAgICAgICAnZGVjbGFyZV9udW0nLAogICAgICAgICdkZWNsYXJlX251bV91bml0JywKICAgICAgICAndG90YWxfcHJpY2UnLAogICAgICAgICdsZWdhbF9udW0nLAogICAgICAgICdsZWdhbF91bml0JywKICAgICAgICAnZG9sbGFyX3ByaWNlJywKICAgICAgICAnZG9sbGFyX3RvdGFsJywKICAgICAgICAnZG9sbGFyX2NycmVuY3knLAogICAgICAgICdncm9zc193ZWlnaHQnLAogICAgICAgICduZXRfd2VpZ2h0JywKICAgICAgICAnd2VpZ2h0X3VuaXQnLAogICAgICAgICd0cmFkZV9tb2RlJywKICAgICAgICAndHJhbnNwb3J0X21vZGUnLAogICAgICAgICdudW1iZXJfb2ZfcGFja2FnZXMnLAogICAgICAgICdwYWNraW5nX3R5cGUnLAogICAgICAgICdlbnRlcnByaXNlX25hdHVyZScsCiAgICAgICAgJ2FkZHJlc3MnLAogICAgICAgICd0ZWxlcGhvbmVfbnVtYmVyJywKICAgICAgICAnZmF4JywKICAgICAgICAncG9zdF9jb2RlJywKICAgICAgICAnZW1haWwnLAogICAgICAgICdjb250YWN0X21hbicsCiAgICAgICAgJ2NyZWF0ZV90aW1lJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbFNlc3Npb25CYXRjaC5jb21taXQoKTsKICAgICAgICAgICAgICAgIHNxbFNlc3Npb25CYXRjaC5jbGVhckNhY2hlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -239,34 +245,34 @@
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbFNlc3Npb25CYXRjaC5jb21taXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3VzdG9tc0RhdGFzLnNpemUoKSAlIEJBVENIX1NJWkUgIT0gMCkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxTZXNzaW9uQmF0Y2guZmx1c2hTdGF0ZW1lbnRzKCkK</text>
+        <text encoding="base64">ICAgICAgICBzcWxTZXNzaW9uQmF0Y2guZmx1c2hTdGF0ZW1lbnRzKCk7Cg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnQrKzsK</text>
+        <text encoding="base64">ICAgICAgICBgaWRgLAo=</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29udGV4dDpleGNsdWRlLWZpbHRlciB0eXBlPSJhc3BlY3RqIiBleHByZXNzaW9uPSJjb20uZnVodWFkYXRhLnNlcnZpY2UubXliYXRpcy5zdXBwbGllci5Qcm9kdWNlRmFjdG9yeVByb2R1Y3RTZXJ2aWNlSW1wbCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScsCiAgICAgICAgJ2N1c3RvbXNfb3JnJywKICAgICAgICAnY3VzdG9tc19hcmVhJywKICAgICAgICAncG9ydCcsCiAgICAgICAgJ3RyYW5zaXRfY291bnRyeScsCiAgICAgICAgJ29yaWdpbl9kZXN0X2NvdW50cnknLAogICAgICAgICdjb250aW5lbnQnLAogICAgICAgICdkZWNsYXJlX2NvbXBhbnknLAogICAgICAgICdzaGlwcGVyX2NvbXBhbnknLAogICAgICAgICdvcGVyYXRpb25fY29tcGFueScsCiAgICAgICAgJ29wZXJhdGlvbl9jb21fY29kZScsCiAgICAgICAgJ3Byb2R1Y3RfbWFya2V0X2xvY2F0aW9uJywKICAgICAgICAnY3VzdG9tc19jb2RlJywKICAgICAgICAncHJvZHVjdF9uYW1lJywKICAgICAgICAnc3BlY2lmaWNhdGlvbnMnLAogICAgICAgICdkZWFsX21ldGhvZCcsCiAgICAgICAgJ2RlY2xhcmVfcHJpY2UnLAogICAgICAgICdwcmljZV91bml0JywKICAgICAgICAnZGVjbGFyZV9udW0nLAogICAgICAgICdkZWNsYXJlX251bV91bml0JywKICAgICAgICAndG90YWxfcHJpY2UnLAogICAgICAgICdsZWdhbF9udW0nLAogICAgICAgICdsZWdhbF91bml0JywKICAgICAgICAnZG9sbGFyX3ByaWNlJywKICAgICAgICAnZG9sbGFyX3RvdGFsJywKICAgICAgICAnZG9sbGFyX2NycmVuY3knLAogICAgICAgICdncm9zc193ZWlnaHQnLAogICAgICAgICduZXRfd2VpZ2h0JywKICAgICAgICAnd2VpZ2h0X3VuaXQnLAogICAgICAgICd0cmFkZV9tb2RlJywKICAgICAgICAndHJhbnNwb3J0X21vZGUnLAogICAgICAgICdudW1iZXJfb2ZfcGFja2FnZXMnLAogICAgICAgICdwYWNraW5nX3R5cGUnLAogICAgICAgICdlbnRlcnByaXNlX25hdHVyZScsCiAgICAgICAgJ2FkZHJlc3MnLAogICAgICAgICd0ZWxlcGhvbmVfbnVtYmVyJywKICAgICAgICAnZmF4JywKICAgICAgICAncG9zdF9jb2RlJywKICAgICAgICAnZW1haWwnLAogICAgICAgICdjb250YWN0X21hbicsCiAgICAgICAgJ2NyZWF0ZV90aW1lJwo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29udGV4dDppbmNsdWRlLWZpbHRlciB0eXBlPSJhc3BlY3RqIiBleHByZXNzaW9uPSJjb20uZnVodWFkYXRhLnNlcnZpY2UubXliYXRpcy5jdXN0b21zLkN1c3RvbXNEYXRhU2VydmljZSsiLz4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
