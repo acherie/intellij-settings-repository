@@ -15,24 +15,18 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/3.16/poi-3.16-sources.jar!/org/apache/poi/POIDocument.java" timestamp="1497941987819" />
-      <file name="D:/IdeaProjects/es/web/src/main/resources/spring-config.xml" timestamp="1497937332271" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1-sources.jar!/org/apache/commons/collections4/ListValuedMap.java" timestamp="1497930717290" />
       <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1497930630927">
         <mark key="'" line="406" column="36" />
         <mark key="[" line="404" column="0" />
         <mark key="]" line="408" column="24" />
         <mark key="." line="486" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.16/poi-ooxml-3.16-sources.jar!/org/apache/poi/xssf/usermodel/XSSFWorkbook.java" timestamp="1497930383257" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/com/fuhua/customs/service/CustomsDataServiceIT.java" timestamp="1497942613497">
         <mark key="[" line="32" column="33" />
         <mark key="]" line="32" column="34" />
         <mark key="." line="32" column="34" />
         <mark key="^" line="32" column="34" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/beans/PropertyEditorSupport.java" timestamp="1497925307155" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/3.16/poi-3.16-sources.jar!/org/apache/poi/hssf/usermodel/HSSFWorkbook.java" timestamp="1497941983131" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomsData.java" timestamp="1497927421216">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="7" column="47" />
@@ -45,18 +39,7 @@
         <mark key="." line="92" column="31" />
         <mark key="^" line="92" column="31" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/propertyeditors/UUIDEditor.java" timestamp="1497925326843" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/resources/spring-test.xml" timestamp="1497943607222">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/PropertyEditorRegistry.java" timestamp="1497926069584" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.16/poi-ooxml-3.16-sources.jar!/org/apache/poi/ss/usermodel/WorkbookFactory.java" timestamp="1497930240279" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryProductServiceImpl.java" timestamp="1497943265537" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/3.9/poi-3.9-sources.jar!/org/apache/poi/ss/usermodel/Cell.java" timestamp="1497922454640" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/util/ReflectUtils.java" timestamp="1497929075517" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE.jar!/org/springframework/context/config/spring-context-4.2.xsd" timestamp="1497943145233" />
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1497946307573" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-manager/src/main/java/com/fuhuadata/manager/impl/NCExchange/PDFTempletToPDFImpl.java" timestamp="1497866419365">
         <mark key="[" line="59" column="58" />
         <mark key="]" line="59" column="66" />
@@ -90,16 +73,6 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/beans/PropertyEditor.java" timestamp="1497925183898" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.9.RELEASE/spring-web-4.2.9.RELEASE-sources.jar!/org/springframework/web/multipart/MultipartFile.java" timestamp="1497941653014" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1497946178877">
-        <mark key="[" line="107" column="9" />
-        <mark key="]" line="109" column="41" />
-        <mark key="^" line="109" column="41" />
-        <mark key="." line="109" column="41" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/3.16/poi-3.16-sources.jar!/org/apache/poi/ss/usermodel/CellType.java" timestamp="1497928882278" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/3.16/poi-3.16-sources.jar!/org/apache/poi/ss/usermodel/Cell.java" timestamp="1497928878232" />
     </filemarks>
     <jumps>
       <jump line="228" column="10" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactoryProduct.java" />
@@ -301,7 +274,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
