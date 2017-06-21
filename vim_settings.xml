@@ -11,6 +11,9 @@
         <mark key="^" line="187" column="10" />
         <mark key="." line="100" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1498012561218">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/customs/CustomsDataService.java" timestamp="1497940383883">
         <mark key="]" line="13" column="51" />
         <mark key="." line="13" column="51" />
@@ -42,10 +45,10 @@
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" timestamp="1497959260566">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="104" column="0" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="103" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomsData.java" timestamp="1497951486984">
         <mark key="'" line="654" column="15" />
@@ -55,6 +58,7 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/BusinessBuyContractProductMapper.xml" timestamp="1498012686872" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/com/fuhua/customs/service/CustomsDataServiceIT.java" timestamp="1497957637537">
         <mark key="[" line="32" column="33" />
         <mark key="]" line="32" column="34" />
@@ -85,7 +89,6 @@
         <mark key="." line="92" column="31" />
         <mark key="^" line="92" column="31" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/resources/springbeans-dao.xml" timestamp="1497957876666" />
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1497946307573" />
     </filemarks>
     <jumps>
