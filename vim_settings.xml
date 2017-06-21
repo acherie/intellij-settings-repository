@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -70,6 +70,9 @@
         <mark key="]" line="19" column="32" />
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
+      </file>
+      <file name="D:/Projects/fuhuadata/.gitignore" timestamp="1498025493231">
+        <mark key="[" line="10" column="6" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1497948609079">
         <mark key="[" line="106" column="24" />
