@@ -11,10 +11,10 @@
         <mark key="^" line="187" column="10" />
         <mark key="." line="100" column="0" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserServiceImpl.java" timestamp="1498093947135" />
       <file name="/a.dummy" timestamp="1498047915359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/org/apache/ibatis/session/Configuration.java" timestamp="1498047306624" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" timestamp="1498035315999">
         <mark key="'" line="1045" column="33" />
       </file>
@@ -42,7 +42,7 @@
         <mark key="." line="92" column="31" />
         <mark key="^" line="92" column="31" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserRoleServiceImpl.java" timestamp="1498036983103">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserRoleServiceImpl.java" timestamp="1498093504095">
         <mark key="[" line="44" column="17" />
         <mark key="]" line="44" column="25" />
         <mark key="^" line="44" column="25" />
@@ -54,7 +54,7 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/CountryZoneService.java" timestamp="1498047539827" />
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1498093336605" />
       <file name="/Dummy.txt" timestamp="1498012561218">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,6 +64,7 @@
         <mark key="^" line="138" column="34" />
         <mark key="." line="138" column="34" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/UserController.java" timestamp="1498093878414" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-manager/src/main/java/com/fuhuadata/manager/impl/NCExchange/PDFTempletToPDFImpl.java" timestamp="1497866419365">
         <mark key="[" line="59" column="58" />
         <mark key="]" line="59" column="66" />
@@ -112,7 +113,6 @@
         <mark key="." line="94" column="32" />
         <mark key="^" line="94" column="32" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/oracle/BaseNcService.java" timestamp="1498047564722" />
     </filemarks>
     <jumps>
       <jump line="22" column="29" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryProductAction.java" />
