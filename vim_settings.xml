@@ -63,10 +63,13 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/RoleAuthorityController.java" timestamp="1498114786818" />
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1498093336605" />
       <file name="/Dummy.txt" timestamp="1498103442278">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" timestamp="1498189639362">
+        <mark key="'" line="61" column="84" />
+        <mark key="[" line="63" column="16" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/RoleController.java" timestamp="1498114709089">
         <mark key="[" line="137" column="77" />
@@ -74,7 +77,6 @@
         <mark key="^" line="139" column="34" />
         <mark key="." line="139" column="34" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/mybatis/UserController.java" timestamp="1498093878414" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Role.java" timestamp="1498112944609">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="24" column="26" />
@@ -103,7 +105,6 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/oracle/CountryZoneMapper.java" timestamp="1498047741058">
         <mark key="[" line="5" column="17" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/DefaultExceptionHandler.java" timestamp="1498115439859" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/system/systemRoleManage.vm" timestamp="1498113266893">
         <mark key="'" line="323" column="11" />
         <mark key="[" line="323" column="16" />
@@ -117,7 +118,6 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/realm/UserRealm.java" timestamp="1498114845207" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomesDataTypePropertyEditor.java" timestamp="1497927813612">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="19" column="32" />
@@ -130,16 +130,12 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/oracle/CurrTypeMapper.java" timestamp="1498047855866">
         <mark key="[" line="5" column="17" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/RestExceptionHandler.java" timestamp="1498115531140" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1497948609079">
         <mark key="[" line="106" column="24" />
         <mark key="]" line="106" column="38" />
         <mark key="." line="106" column="38" />
         <mark key="^" line="106" column="38" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/web.xml" timestamp="1498115323038" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/ErrorAction.java" timestamp="1498115424409" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/LoginAction.java" timestamp="1498114976489" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserRoleMapper.xml" timestamp="1498036630144">
         <mark key="[" line="94" column="27" />
         <mark key="]" line="94" column="32" />
@@ -151,10 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="388" column="34" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
-      <jump line="34" column="5" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/OrganizationService.java" />
-      <jump line="27" column="15" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/doc/BankDocServiceImpl.java" />
-      <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/doc/BankDocServiceImpl.java" />
       <jump line="22" column="12" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/doc/BankDocServiceImpl.java" />
       <jump line="21" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" />
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/pom.xml" />
@@ -251,6 +243,10 @@
       <jump line="59" column="41" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
       <jump line="161" column="35" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
       <jump line="175" column="26" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
+      <jump line="52" column="93" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" />
+      <jump line="55" column="93" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" />
+      <jump line="58" column="84" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" />
+      <jump line="61" column="84" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -283,7 +279,7 @@
         <text>id</text>
       </register>
       <register name="/" type="4">
-        <text>orgId</text>
+        <text encoding="base64">XDxjY1w+</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -344,9 +340,9 @@
       </register>
     </registers>
     <search>
-      <last-search>orgId</last-search>
+      <last-search encoding="base64">XDxjY1w+</last-search>
       <last-offset />
-      <last-pattern>orgId</last-pattern>
+      <last-pattern encoding="base64">XDxjY1w+</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -354,10 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Editable</entry>
-        <entry>$</entry>
-        <entry>backDocName</entry>
-        <entry>dis</entry>
         <entry>ehcache</entry>
         <entry encoding="base64">XDxvcmdhbml6YXRpb25TZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxvcmdTZXJ2aWNlXD4=</entry>
@@ -374,6 +366,10 @@
         <entry encoding="base64">XDxhZGRVc2Vyc0ZvclJvbGVcPg==</entry>
         <entry>org_id</entry>
         <entry>orgId</entry>
+        <entry encoding="base64">XDxjcHRcPg==</entry>
+        <entry encoding="base64">XDxjcHJcPg==</entry>
+        <entry encoding="base64">XDxjcFw+</entry>
+        <entry encoding="base64">XDxjY1w+</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
