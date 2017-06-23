@@ -5,11 +5,11 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" timestamp="1498204073530">
-        <mark key="[" line="188" column="39" />
-        <mark key="]" line="188" column="39" />
-        <mark key="^" line="188" column="39" />
-        <mark key="." line="188" column="39" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" timestamp="1498205303304">
+        <mark key="[" line="192" column="38" />
+        <mark key="]" line="194" column="0" />
+        <mark key="^" line="194" column="7" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomsProductType.java" timestamp="1498189815215">
         <mark key="[" line="5" column="31" />
@@ -57,17 +57,31 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" timestamp="1498204064262">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-        <mark key="^" line="123" column="62" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" timestamp="1498205093470">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="133" column="8" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="42" column="48" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomsCountry.java" timestamp="1498189773266">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="53" />
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/system/systemRoleManage.vm" timestamp="1498113266893">
+        <mark key="'" line="323" column="11" />
+        <mark key="[" line="323" column="16" />
+        <mark key="]" line="323" column="17" />
+        <mark key="^" line="323" column="17" />
+        <mark key="." line="323" column="17" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsCompanyService.java" timestamp="1498204430269">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="13" column="35" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserRoleService.java" timestamp="1498036756069">
         <mark key="[" line="51" column="23" />
@@ -81,23 +95,22 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1497948609079">
-        <mark key="[" line="106" column="24" />
-        <mark key="]" line="106" column="38" />
-        <mark key="." line="106" column="38" />
-        <mark key="^" line="106" column="38" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1498204959015">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataService.java" timestamp="1498203907048">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="19" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataService.java" timestamp="1498204218942">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="26" column="17" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsDataMapper.java" timestamp="1498203949935">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="9" column="32" />
-        <mark key="^" line="9" column="32" />
-        <mark key="." line="9" column="32" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsDataMapper.java" timestamp="1498205244269">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsProductMapper.java" timestamp="1498189917899">
         <mark key="[" line="5" column="71" />
@@ -117,6 +130,12 @@
         <mark key="^" line="5" column="87" />
         <mark key="." line="5" column="87" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsCompanyServiceImpl.java" timestamp="1498204991102">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="49" />
+        <mark key="^" line="27" column="49" />
+        <mark key="." line="27" column="49" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomsProduct.java" timestamp="1498189787165">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="53" />
@@ -134,6 +153,13 @@
         <mark key="]" line="5" column="79" />
         <mark key="^" line="5" column="79" />
         <mark key="." line="5" column="79" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" timestamp="1498113705369">
+        <mark key="'" line="175" column="26" />
+        <mark key="[" line="230" column="14" />
+        <mark key="]" line="230" column="15" />
+        <mark key="^" line="230" column="15" />
+        <mark key="." line="230" column="15" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/com/fuhua/customs/service/CustomsDataServiceIT.java" timestamp="1497957637537">
         <mark key="[" line="32" column="33" />
@@ -171,6 +197,13 @@
         <mark key="^" line="139" column="34" />
         <mark key="." line="139" column="34" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/RoleMapper.xml" timestamp="1498112789448">
+        <mark key="'" line="50" column="41" />
+        <mark key="[" line="50" column="56" />
+        <mark key="]" line="50" column="57" />
+        <mark key="." line="50" column="57" />
+        <mark key="^" line="50" column="57" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomesDataTypePropertyEditor.java" timestamp="1497927813612">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="19" column="32" />
@@ -185,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="12" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/doc/BankDocServiceImpl.java" />
       <jump line="21" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" />
       <jump line="7" column="27" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/FactoryEvaTotal.java" />
       <jump line="46" column="26" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/FactoryEvaItem.java" />
@@ -285,6 +317,7 @@
       <jump line="58" column="84" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" />
       <jump line="61" column="84" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" />
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/pom.xml" />
+      <jump line="62" column="8" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -293,7 +326,7 @@
                         .orElse(null)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -314,7 +347,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjY1w+</text>
@@ -322,11 +355,11 @@
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QKICAgICAgICB1ci5yb2xlX2lkCiAgICAgICAgPGluY2x1ZGUgcmVmaWQ9IkZyb21Vc2VyUm9sZSIvPgogICAgICAgIFdIRVJFIHVyLnVzZXJfaWQ9I3t1c2VySWR9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">KEJhc2VNYXBwZXI8RSwgSUQ+KSBzcWxTZXNzaW9uQmF0Y2guZ2V0TWFwcGVyKE15YmF0aXNVdGlscy5nZXRNYXBwZXJJbnRlcmZhY2UoYmFzZU1hcHBlcikp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -335,40 +368,40 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBCYXNlTWFwcGVyPEUsIElEPiBiYXRjaE1hcHBlcjsKCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocE5vZGUuZ2V0Tm9kZXMoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHBOb2RlLmFkZENoaWxkTm9kZShub2RlVk8pOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgLy8gu/HIoWJhdGNoIG1hcHBlcgogICAgcHVibGljIEJhc2VNYXBwZXI8RSwgSUQ+IGdldE1hcHBlckJhdGNoKCkgewogICAgICAgIHJldHVybiAoQmFzZU1hcHBlcjxFLCBJRD4pIHNxbFNlc3Npb25CYXRjaC5nZXRNYXBwZXIoTXliYXRpc1V0aWxzLmdldE1hcHBlckludGVyZmFjZShiYXNlTWFwcGVyKSk7CiAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwTm9kZS5hZGRDaGlsZE5vZGUobm9kZVZPKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDX986quLi92rXjzO2807n9o6zL+dLUyejWw8bk19O92rXjCiAgICAgICAgICAgICAgICAgICAgbm9kZVZPLnNldE5vZGVzKGxvb2t1cC5nZXQoY2lkKS5nZXROb2RlcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">TGlzdHMudHJhbnNmb3JtKEFycmF5cy5hc0xpc3QoU3RyaW5nVXRpbHMuc3BsaXQodXNlcklkc1N0ciwgIiwiKSksCiAgICAgICAgICAgICAgICBuZXcgRnVuY3Rpb248U3RyaW5nLCBJbnRlZ2VyPigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgSW50ZWdlciBhcHBseShTdHJpbmcgaW5wdXQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIEludGVnZXIudmFsdWVPZihpbnB1dCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocE5vZGUuZ2V0Tm9kZXMoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHBOb2RlLmFkZENoaWxkTm9kZShub2RlVk8pOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
