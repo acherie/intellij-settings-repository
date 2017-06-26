@@ -5,12 +5,6 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" timestamp="1498458234345">
-        <mark key="[" line="186" column="15" />
-        <mark key="]" line="186" column="35" />
-        <mark key="^" line="186" column="35" />
-        <mark key="." line="186" column="35" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomsProductType.java" timestamp="1498189815215">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="57" />
@@ -120,6 +114,7 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsCompanyMapper.xml" timestamp="1498458888590" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsCompanyServiceImpl.java" timestamp="1498204991102">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="49" />
@@ -199,6 +194,9 @@
         <mark key="]" line="222" column="58" />
         <mark key="^" line="222" column="58" />
         <mark key="." line="222" column="58" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498458242987">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryService.java" timestamp="1498448994328">
         <mark key="[" line="38" column="22" />
