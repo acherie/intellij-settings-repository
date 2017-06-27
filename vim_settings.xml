@@ -5,11 +5,11 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" timestamp="1498526230338">
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="206" column="36" />
-        <mark key="^" line="206" column="36" />
-        <mark key="." line="206" column="36" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" timestamp="1498542411256">
+        <mark key="[" line="212" column="86" />
+        <mark key="]" line="213" column="7" />
+        <mark key="^" line="213" column="7" />
+        <mark key="." line="213" column="7" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/resources.properties" timestamp="1498207467933">
         <mark key="[" line="3" column="52" />
@@ -68,10 +68,6 @@
         <mark key="." line="71" column="0" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1498523316983" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/business/BusinessBuyContractServiceImpl.java" timestamp="1498449515913">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="68" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Role.java" timestamp="1498112944609">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="24" column="26" />
@@ -127,11 +123,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsDataMapper.java" timestamp="1498526135677">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="15" column="29" />
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/sql/ResultSet.java" timestamp="1498542785796" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsDataMapper.java" timestamp="1498542400609">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="38" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="19" column="38" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsProductMapper.java" timestamp="1498189917899">
         <mark key="[" line="5" column="71" />
