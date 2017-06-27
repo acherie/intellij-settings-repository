@@ -144,6 +144,9 @@
         <mark key="." line="5" column="53" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/sql/ResultSet.java" timestamp="1498542785796" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataService.java" timestamp="1498549036659">
+        <mark key="[" line="29" column="33" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsDataMapper.java" timestamp="1498542400609">
         <mark key="[" line="19" column="21" />
         <mark key="]" line="19" column="38" />
