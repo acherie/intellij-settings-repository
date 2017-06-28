@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -27,7 +27,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/constraints/Past.java" timestamp="1498636916951" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/InvalidRequestException.java" timestamp="1498641838535">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="14" column="4" />
@@ -46,7 +45,6 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/Validator.java" timestamp="1498621333836" />
       <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1498552070315">
         <mark key="'" line="454" column="27" />
         <mark key="[" line="465" column="25" />
@@ -90,7 +88,6 @@
         <mark key="^" line="49" column="86" />
         <mark key="." line="49" column="86" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/ValidatorFactory.java" timestamp="1498621719452" />
       <file name="D:/Projects/fuhuadata-mybatis-generator/src/main/java/com/fuhuadata/mybatis/generator/plugins/ColumnsPlugin.java" timestamp="1498467575797">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -103,6 +100,7 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1498658380119" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/customs/ProductAction.java" timestamp="1498635216250">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="16" column="8" />
@@ -116,7 +114,6 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="70" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.9.RELEASE/spring-aop-4.2.9.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractBeanFactoryAwareAdvisingPostProcessor.java" timestamp="1498628329197" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Role.java" timestamp="1498112944609">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="24" column="26" />
@@ -161,7 +158,6 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsCountryService.java" timestamp="1498631650310" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomsData.java" timestamp="1498550495059">
         <mark key="'" line="256" column="5" />
         <mark key="[" line="1045" column="5" />
@@ -181,7 +177,6 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/MethodValidationPostProcessor.java" timestamp="1498637142595" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataService.java" timestamp="1498554530839">
         <mark key="[" line="34" column="17" />
         <mark key="]" line="34" column="56" />
@@ -257,7 +252,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.9.RELEASE/spring-aop-4.2.9.RELEASE-sources.jar!/org/springframework/aop/framework/AbstractAdvisingBeanPostProcessor.java" timestamp="1498628372137" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsCompanyMapper.java" timestamp="1498189941356">
         <mark key="[" line="5" column="71" />
         <mark key="]" line="5" column="79" />
@@ -276,7 +270,6 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/permission/PermissionList.java" timestamp="1498640750840" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomsProductRule.java" timestamp="1498532853496">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="155" column="5" />
@@ -302,7 +295,6 @@
         <mark key="^" line="42" column="3" />
         <mark key="." line="42" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/validation/annotation/Validated.java" timestamp="1498621787829" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsCountryMapper.java" timestamp="1498189931715">
         <mark key="[" line="5" column="71" />
         <mark key="]" line="5" column="79" />
@@ -332,7 +324,9 @@
         <mark key="^" line="261" column="33" />
         <mark key="." line="261" column="33" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.9.RELEASE/spring-core-4.2.9.RELEASE-sources.jar!/org/springframework/core/io/InputStreamSource.java" timestamp="1498615741279" />
+      <file name="/HTML File.txt.ft" timestamp="1498662122753">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1498635566663">
         <mark key="[" line="0" column="0" />
       </file>
@@ -348,8 +342,6 @@
         <mark key="^" line="90" column="65" />
         <mark key="." line="90" column="65" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/3.16/poi-3.16-sources.jar!/org/apache/poi/ss/usermodel/Sheet.java" timestamp="1498633572500" />
-      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/Valid.java" timestamp="1498638589681" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomesDataTypePropertyEditor.java" timestamp="1498550508171">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="19" column="32" />
@@ -361,7 +353,9 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/constraints/NotBlank.java" timestamp="1498639815323" />
+      <file name="/AnnotationType.txt.ft" timestamp="1498662129299">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/pom.xml" timestamp="1498551202061">
         <mark key="'" line="160" column="29" />
         <mark key="[" line="115" column="0" />
@@ -369,7 +363,6 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="115" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.java" timestamp="1498621673508" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/supplier/ProduceFactoryMapper.java" timestamp="1498449545653">
         <mark key="[" line="17" column="41" />
         <mark key="]" line="17" column="70" />
