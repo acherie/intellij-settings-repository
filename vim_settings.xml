@@ -1,21 +1,21 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" timestamp="1498620051982">
-        <mark key="[" line="216" column="46" />
-        <mark key="]" line="217" column="14" />
-        <mark key="^" line="217" column="14" />
-        <mark key="." line="217" column="14" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" timestamp="1498630533720">
+        <mark key="[" line="236" column="31" />
+        <mark key="]" line="237" column="37" />
+        <mark key="." line="237" column="37" />
+        <mark key="^" line="237" column="37" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/customs/CustomsDataAction.java" timestamp="1498617404262">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="38" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/customs/CustomsDataAction.java" timestamp="1498630066978">
+        <mark key="[" line="58" column="40" />
+        <mark key="]" line="58" column="40" />
         <mark key="^" line="32" column="38" />
-        <mark key="." line="32" column="38" />
+        <mark key="." line="58" column="40" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomsProductType.java" timestamp="1498189815215">
         <mark key="[" line="5" column="31" />
@@ -67,7 +67,7 @@
         <mark key="." line="49" column="86" />
       </file>
       <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/ValidatorFactory.java" timestamp="1498621719452" />
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1498610268706" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.9.RELEASE/spring-aop-4.2.9.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractBeanFactoryAwareAdvisingPostProcessor.java" timestamp="1498628329197" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Role.java" timestamp="1498112944609">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="24" column="26" />
@@ -86,12 +86,12 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" timestamp="1498620109927">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" timestamp="1498628531601">
         <mark key="'" line="91" column="41" />
-        <mark key="[" line="56" column="38" />
-        <mark key="]" line="57" column="80" />
-        <mark key="." line="57" column="80" />
-        <mark key="^" line="57" column="80" />
+        <mark key="[" line="195" column="15" />
+        <mark key="]" line="195" column="64" />
+        <mark key="." line="195" column="64" />
+        <mark key="^" line="195" column="64" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomsCountry.java" timestamp="1498189773266">
         <mark key="[" line="5" column="27" />
@@ -179,6 +179,7 @@
         <mark key="^" line="44" column="20" />
         <mark key="." line="44" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.9.RELEASE/spring-aop-4.2.9.RELEASE-sources.jar!/org/springframework/aop/framework/AbstractAdvisingBeanPostProcessor.java" timestamp="1498628372137" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsCompanyMapper.java" timestamp="1498189941356">
         <mark key="[" line="5" column="71" />
         <mark key="]" line="5" column="79" />
@@ -197,11 +198,11 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/com/fuhua/customs/service/CustomsDataServiceIT.java" timestamp="1498617466155">
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="29" column="54" />
-        <mark key="." line="29" column="54" />
-        <mark key="^" line="29" column="54" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/java/com/fuhua/customs/service/CustomsDataServiceIT.java" timestamp="1498629930751">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="50" column="30" />
+        <mark key="." line="53" column="4" />
+        <mark key="^" line="53" column="4" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/oracle/NcCountryZoneMapper.xml" timestamp="1498048008734">
         <mark key="[" line="41" column="14" />
@@ -263,11 +264,11 @@
         <mark key="^" line="5" column="87" />
         <mark key="." line="5" column="87" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomsDataQuery.java" timestamp="1498555875991">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="23" column="36" />
-        <mark key="^" line="23" column="36" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomsDataQuery.java" timestamp="1498629948945">
+        <mark key="[" line="81" column="31" />
+        <mark key="]" line="83" column="49" />
+        <mark key="." line="83" column="49" />
+        <mark key="^" line="83" column="49" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/common/JsonMapper.java" timestamp="1498552380261">
         <mark key="[" line="44" column="46" />
@@ -388,11 +389,11 @@
       <jump line="21" column="29" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/customs/CustomsDataAction.java" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>com.fuhuadata.dao.mapper.business.BusinessBuyContractMapper</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VtKGNkLmRvbGxhcl90b3RhbCkgYXMgdmFsdWUK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QFJlcXVlc3RCb2R5IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -413,7 +414,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>LocalDate localDate</text>
+        <text encoding="base64">QFJlcXVlc3RCb2R5IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYWNrc29uXD4=</text>
@@ -421,41 +422,41 @@
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
       </register>
-      <register name="0" type="4">
-        <text>@RequestParam(&quot;startDate&quot;) @DateTimeFormat(iso = DateTimeFormat.ISO.DATE) LocalDate startDate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBDdXN0b21zRGF0YVF1ZXJ5IHF1ZXJ5ID0gbmV3IEN1c3RvbXNEYXRhUXVlcnkoKTsKICAgICAgICBxdWVyeS5zZXRTdGFydERhdGUoTG9jYWxEYXRlLm9mKDIwMTUsIE1vbnRoLkpBTlVBUlksIDEpKTsKICAgICAgICBxdWVyeS5zZXRFbmREYXRlKExvY2FsRGF0ZS5vZigyMDE1LCBNb250aC5KQU5VQVJZLCAxKSk7CiAgICAgICAgcXVlcnkuc2V0U3RhdFR5cGUoImRvbGxhcl90b3RhbCIpOwogICAgICAgIHF1ZXJ5LnNldENhdGVnb3J5VHlwZSgidHlwZSIpOwogICAgICAgIHF1ZXJ5LnNldENhdGVnb3J5SWQoMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgRXhhbXBsZSBleGFtcGxlID0gbmV3RXhhbXBsZSgpOwogICAgICAgIGV4YW1wbGUuY3JlYXRlQ3JpdGVyaWEoKS5hbmRiZQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHBpZURhdGFzLnNpemUoKSA9PSAyMik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBsb25nIHN0YXJ0VGltZTsKICAgICAgICBsb25nIGVuZFRpbWU7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhcyB2YWx1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdW0oY2QuI3tzdGF0VHlwZX0pIGFzIHZhbHVlCg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydAo=</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
@@ -467,7 +468,7 @@
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVyZSAK</text>
+        <text encoding="base64">CiAgICAgICAgRXhhbXBsZSBleGFtcGxlID0gbmV3RXhhbXBsZSgpOwogICAgICAgIGV4YW1wbGUuY3JlYXRlQ3JpdGVyaWEoKS5hbmRiZQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
