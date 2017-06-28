@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -284,7 +284,7 @@
         <mark key="." line="261" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.9.RELEASE/spring-core-4.2.9.RELEASE-sources.jar!/org/springframework/core/io/InputStreamSource.java" timestamp="1498615741279" />
-      <file name="/Dummy.txt" timestamp="1498617429758">
+      <file name="/Dummy.txt" timestamp="1498617513063">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryService.java" timestamp="1498448994328">
