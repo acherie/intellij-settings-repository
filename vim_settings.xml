@@ -17,16 +17,6 @@
         <mark key="^" line="32" column="38" />
         <mark key="." line="32" column="38" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/resources.properties" timestamp="1498207467933">
-        <mark key="[" line="3" column="52" />
-        <mark key="]" line="3" column="66" />
-        <mark key="." line="3" column="52" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsProductRuleServiceImpl.java" timestamp="1498543978175">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomsProductType.java" timestamp="1498189815215">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="57" />
@@ -39,13 +29,7 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1498552070315">
-        <mark key="'" line="454" column="27" />
-        <mark key="[" line="465" column="25" />
-        <mark key="]" line="243" column="24" />
-        <mark key="^" line="242" column="48" />
-        <mark key="." line="242" column="48" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/Validator.java" timestamp="1498621333836" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/exception/DuplicateProductMatchException.java" timestamp="1498547256651">
         <mark key="[" line="8" column="45" />
         <mark key="]" line="9" column="13" />
@@ -82,26 +66,8 @@
         <mark key="^" line="49" column="86" />
         <mark key="." line="49" column="86" />
       </file>
-      <file name="D:/Projects/fuhuadata-mybatis-generator/src/main/java/com/fuhuadata/mybatis/generator/plugins/ColumnsPlugin.java" timestamp="1498467575797">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/matcher/RegProductMatcher.java" timestamp="1498534894275">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="54" column="49" />
-        <mark key="." line="71" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/ValidatorFactory.java" timestamp="1498621719452" />
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1498610268706" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/matcher/RegexProductMatcher.java" timestamp="1498547769073">
-        <mark key="'" line="18" column="55" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="70" column="22" />
-        <mark key="." line="70" column="22" />
-        <mark key="^" line="70" column="22" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Role.java" timestamp="1498112944609">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="24" column="26" />
@@ -139,13 +105,6 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomsData.java" timestamp="1498550495059">
-        <mark key="'" line="256" column="5" />
-        <mark key="[" line="1045" column="5" />
-        <mark key="]" line="1047" column="38" />
-        <mark key="^" line="1047" column="38" />
-        <mark key="." line="1047" column="38" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserRoleService.java" timestamp="1498036756069">
         <mark key="[" line="51" column="23" />
         <mark key="]" line="51" column="23" />
@@ -158,6 +117,7 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/MethodValidationPostProcessor.java" timestamp="1498621244528" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataService.java" timestamp="1498554530839">
         <mark key="[" line="34" column="17" />
         <mark key="]" line="34" column="56" />
@@ -188,6 +148,7 @@
         <mark key="^" line="5" column="87" />
         <mark key="." line="5" column="87" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1498621276243" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/FactoryOrder.java" timestamp="1498448812355">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="11" column="12" />
@@ -218,11 +179,6 @@
         <mark key="^" line="44" column="20" />
         <mark key="." line="44" column="20" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/pom.xml" timestamp="1498552145074">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsCompanyMapper.java" timestamp="1498189941356">
         <mark key="[" line="5" column="71" />
         <mark key="]" line="5" column="79" />
@@ -234,13 +190,6 @@
         <mark key="]" line="6" column="19" />
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomsProductRule.java" timestamp="1498532853496">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="155" column="5" />
-        <mark key="]" line="157" column="36" />
-        <mark key="^" line="157" column="36" />
-        <mark key="." line="157" column="36" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsProductRuleService.java" timestamp="1498534510886">
         <mark key="[" line="12" column="0" />
@@ -260,16 +209,12 @@
         <mark key="^" line="42" column="3" />
         <mark key="." line="42" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/validation/annotation/Validated.java" timestamp="1498621787829" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsCountryMapper.java" timestamp="1498189931715">
         <mark key="[" line="5" column="71" />
         <mark key="]" line="5" column="79" />
         <mark key="^" line="5" column="79" />
         <mark key="." line="5" column="79" />
-      </file>
-      <file name="D:/Projects/fuhuadata-mybatis-generator/pom.xml" timestamp="1498468295648">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/domain/mybatis/CustomsProductRule.java" timestamp="1498189802663">
         <mark key="[" line="5" column="31" />
@@ -305,13 +250,7 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/pom.xml" timestamp="1498551202061">
-        <mark key="'" line="160" column="29" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="115" column="20" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.java" timestamp="1498621673508" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/supplier/ProduceFactoryMapper.java" timestamp="1498449545653">
         <mark key="[" line="17" column="41" />
         <mark key="]" line="17" column="70" />
