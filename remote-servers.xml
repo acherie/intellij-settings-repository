@@ -11,7 +11,7 @@
             </DockerPathMappingImpl>
             <DockerPathMappingImpl>
               <option name="localPath" value="D:\" />
-              <option name="virtualMachinePath" value="/d" />
+              <option name="virtualMachinePath" value="/d/" />
             </DockerPathMappingImpl>
           </list>
         </option>
