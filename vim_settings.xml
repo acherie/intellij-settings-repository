@@ -42,11 +42,11 @@
         <mark key="." line="21" column="4" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/BarResult.java" timestamp="1499155800353">
-        <mark key="'" line="22" column="14" />
-        <mark key="[" line="56" column="44" />
-        <mark key="]" line="56" column="44" />
-        <mark key="^" line="56" column="42" />
-        <mark key="." line="56" column="44" />
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="59" column="44" />
+        <mark key="]" line="59" column="44" />
+        <mark key="^" line="59" column="42" />
+        <mark key="." line="59" column="44" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1498552070315">
         <mark key="'" line="454" column="27" />
@@ -149,6 +149,7 @@
         <mark key="." line="59" column="66" />
         <mark key="^" line="59" column="66" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/collect/Multimaps.java" timestamp="1499157399847" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/UserAccountMapper.java" timestamp="1498810371781">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="68" />
@@ -211,6 +212,8 @@
         <mark key="." line="132" column="55" />
         <mark key="^" line="132" column="55" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/collect/MultimapBuilder.java" timestamp="1499157925777" />
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/collect/AbstractMapBasedMultimap.java" timestamp="1499157546714" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserService.java" timestamp="1498810606497">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="75" column="18" />
