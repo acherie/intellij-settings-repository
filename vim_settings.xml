@@ -41,12 +41,12 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/BarResult.java" timestamp="1499217576275">
-        <mark key="'" line="68" column="19" />
-        <mark key="[" line="84" column="55" />
-        <mark key="]" line="85" column="54" />
-        <mark key="^" line="85" column="54" />
-        <mark key="." line="85" column="54" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/BarResult.java" timestamp="1499218748354">
+        <mark key="'" line="69" column="19" />
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="69" column="23" />
+        <mark key="^" line="69" column="23" />
+        <mark key="." line="69" column="23" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1499217424909">
         <mark key="'" line="467" column="39" />
@@ -372,6 +372,7 @@
       <file name="/HTML File.txt.ft" timestamp="1498662122753">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-guava/2.8.7/jackson-datatype-guava-2.8.7-sources.jar!/com/fasterxml/jackson/datatype/guava/GuavaSerializers.java" timestamp="1499218581726" />
       <file name="/Dummy.txt" timestamp="1499135611986">
         <mark key="[" line="0" column="0" />
       </file>
@@ -442,8 +443,11 @@
         <mark key="^" line="48" column="31" />
         <mark key="." line="48" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1499154684284">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1499218644662">
+        <mark key="'" line="0" column="37" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/FactoryEvaTotalServiceImpl.java" timestamp="1498448019393">
         <mark key="[" line="144" column="98" />
@@ -453,7 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="567" column="24" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
       <jump line="565" column="28" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
       <jump line="564" column="36" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
       <jump line="81" column="44" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-manager/src/main/java/com/fuhuadata/manager/impl/NCExchange/BusinessOrderToNCImpl.java" />
@@ -553,13 +556,14 @@
       <jump line="467" column="39" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
       <jump line="66" column="8" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/pom.xml" />
       <jump line="28" column="13" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/common/JsonMapper.java" />
+      <jump line="0" column="37" filename="/fragment.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>statCategory</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi44Ljc8L3ZlcnNpb24+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -580,7 +584,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>jackson</text>
