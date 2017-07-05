@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -171,9 +171,9 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" timestamp="1499234876909">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" timestamp="1499244502756">
         <mark key="'" line="236" column="80" />
-        <mark key="[" line="220" column="32" />
+        <mark key="[" line="250" column="68" />
         <mark key="]" line="220" column="80" />
         <mark key="." line="220" column="80" />
         <mark key="^" line="220" column="80" />
@@ -230,11 +230,12 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1498810707032">
         <mark key="[" line="46" column="5" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataService.java" timestamp="1499222775371">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="53" column="17" />
-        <mark key="^" line="53" column="17" />
-        <mark key="." line="53" column="17" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataService.java" timestamp="1499244497204">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="60" column="15" />
+        <mark key="^" line="60" column="15" />
+        <mark key="." line="60" column="15" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsDataMapper.java" timestamp="1499223173202">
         <mark key="'" line="54" column="18" />
@@ -467,7 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="972" column="18" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
       <jump line="59" column="41" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
       <jump line="161" column="35" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
       <jump line="175" column="26" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
@@ -567,6 +567,7 @@
       <jump line="160" column="8" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/customs/CustomsDataAction.java" />
       <jump line="134" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/customs/CustomsDataAction.java" />
       <jump line="36" column="36" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/customs/CompanyAction.java" />
+      <jump line="16" column="28" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
