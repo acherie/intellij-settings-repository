@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -600,7 +600,7 @@
         <text>Lists.newArrayList();</text>
       </register>
       <register name="/" type="4">
-        <text>jackson</text>
+        <text>menu</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -661,17 +661,16 @@
       </register>
     </registers>
     <search>
-      <last-search>jackson</last-search>
+      <last-search>menu</last-search>
       <last-offset />
-      <last-pattern>jackson</last-pattern>
+      <last-pattern>menu</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>common</entry>
         <entry>Dept</entry>
         <entry encoding="base64">XDxzdXBwbGllcklkXD4=</entry>
         <entry encoding="base64">XDxzdXBwaWVySWRcPg==</entry>
@@ -691,6 +690,7 @@
         <entry>mybatis</entry>
         <entry encoding="base64">XDxqYWNrc29uXD4=</entry>
         <entry>jackson</entry>
+        <entry>menu</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
