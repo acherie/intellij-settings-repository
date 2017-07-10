@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -221,6 +221,9 @@
         <mark key="." line="132" column="55" />
         <mark key="^" line="132" column="55" />
       </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserService.java" timestamp="1498810606497">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="75" column="18" />
@@ -387,7 +390,7 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1498662122753">
+      <file name="/HTML File.txt.ft" timestamp="1499664873195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1499492893344">
