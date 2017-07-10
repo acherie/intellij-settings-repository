@@ -5,8 +5,8 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" timestamp="1499415782351">
-        <mark key="'" line="284" column="86" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" timestamp="1499653767807">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="230" column="32" />
         <mark key="]" line="230" column="39" />
         <mark key="." line="230" column="39" />
@@ -489,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="8" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" />
       <jump line="86" column="7" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/FactoryEvaTotalServiceImpl.java" />
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/FactoryEvaTotalServiceImpl.java" />
       <jump line="22" column="12" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/FactoryEvaTotalServiceImpl.java" />
@@ -589,6 +588,7 @@
       <jump line="168" column="41" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" />
       <jump line="29" column="6" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/common/BankAccBasService.java" />
       <jump line="220" column="16" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
