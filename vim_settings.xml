@@ -38,7 +38,12 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/logback.xml" timestamp="1500000375669" />
+      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/logback.xml" timestamp="1500003474777">
+        <mark key="[" line="53" column="10" />
+        <mark key="]" line="54" column="35" />
+        <mark key="^" line="54" column="35" />
+        <mark key="." line="54" column="35" />
+      </file>
       <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/interceptor/ApiAuthInterceptor.java" timestamp="1499997656302" />
       <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/admin/controller/UserController.java" timestamp="1499998564925" />
       <file name="/dummy.sql" timestamp="1499759625693">
