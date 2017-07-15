@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -14,11 +14,13 @@
         <mark key="^" line="54" column="35" />
         <mark key="." line="54" column="35" />
       </file>
+      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/interceptor/ApiAuthInterceptor.java" timestamp="1500109701510" />
       <file name="/a.dummy" timestamp="1499761816276">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/SpringCloud/spring-cloud-microservice-example/config-microservice/src/main/resources/bootstrap.yml" timestamp="1500082215404" />
       <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/utils/JWTUtils.java" timestamp="1500082815735" />
+      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/controller/InfoController.java" timestamp="1500109450839" />
       <file name="/a.sql" timestamp="1499757818194">
         <mark key="[" line="0" column="0" />
       </file>
@@ -32,16 +34,21 @@
       <file name="/dummy.sql" timestamp="1499759625693">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/.gitignore" timestamp="1500109772090">
+        <mark key="[" line="4" column="10" />
+      </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1500082033607" />
       <file name="D:/Projects/nongtianquan/nongyequan-server/pom.xml" timestamp="1499999090733">
         <mark key="[" line="44" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499998162801">
+      <file name="/Dummy.txt" timestamp="1500108389377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application-default.yaml" timestamp="1500000082503">
+      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1500108502904" />
+      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application-default.yaml" timestamp="1500109346488">
         <mark key="[" line="8" column="25" />
       </file>
+      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" timestamp="1500108446810" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,6 +68,7 @@
       <file name="/fragment.java" timestamp="1499997280728">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/InfoController.java" timestamp="1500109907171" />
     </filemarks>
     <jumps>
       <jump line="449" column="27" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
