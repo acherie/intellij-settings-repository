@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -14,20 +14,12 @@
         <mark key="^" line="54" column="35" />
         <mark key="." line="54" column="35" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/interceptor/ApiAuthInterceptor.java" timestamp="1500109701510" />
       <file name="/a.dummy" timestamp="1499761816276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/SpringCloud/spring-cloud-microservice-example/config-microservice/src/main/resources/bootstrap.yml" timestamp="1500082215404" />
-      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/utils/JWTUtils.java" timestamp="1500082815735" />
-      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/controller/InfoController.java" timestamp="1500109450839" />
       <file name="/a.sql" timestamp="1499757818194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/config/SwaggerConfigurator.java" timestamp="1500104453419" />
-      <file name="D:/Projects/nongtianquan/nongtianquan/nongtianquan-config/src/main/java/com/dakun/nongtianquan/config/ConfigApplication.java" timestamp="1500082366708" />
-      <file name="D:/Projects/nongtianquan/nongtianquan/nongtianquan-common/pom.xml" timestamp="1500082412943" />
-      <file name="D:/Projects/nongtianquan/nongtianquan/nongtianquan-server/pom.xml" timestamp="1500082389342" />
       <file name="/HTML File.txt.ft" timestamp="1499664873195">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,11 +36,9 @@
       <file name="/Dummy.txt" timestamp="1500108389377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1500108502904" />
       <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application-default.yaml" timestamp="1500109346488">
         <mark key="[" line="8" column="25" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" timestamp="1500108446810" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,7 +48,12 @@
       <file name="/AnnotationType.txt.ft" timestamp="1498662129299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan/nongtianquan-registry/src/main/java/com/dakun/nongtianquan/registry/RegistryApplication.java" timestamp="1500082443006" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/filter/PostFilter.java" timestamp="1500281472018">
+        <mark key="[" line="58" column="60" />
+        <mark key="]" line="58" column="64" />
+        <mark key="." line="58" column="64" />
+        <mark key="^" line="58" column="64" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1500025051371">
         <mark key="[" line="14" column="52" />
         <mark key="]" line="14" column="51" />
@@ -68,7 +63,6 @@
       <file name="/fragment.java" timestamp="1499997280728">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/InfoController.java" timestamp="1500109907171" />
     </filemarks>
     <jumps>
       <jump line="449" column="27" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
@@ -177,7 +171,7 @@
         <text>statCategory</text>
       </register>
       <register name="&quot;" type="4">
-        <text>host</text>
+        <text>id</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -198,7 +192,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>host</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcmVmaXhDb2x1bW5zXD4=</text>
