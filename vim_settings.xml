@@ -8,15 +8,11 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserRole.java" timestamp="1499741655177">
         <mark key="[" line="27" column="4" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/logback.xml" timestamp="1500003474777">
-        <mark key="[" line="53" column="10" />
-        <mark key="]" line="54" column="35" />
-        <mark key="^" line="54" column="35" />
-        <mark key="." line="54" column="35" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/logging/logback/file-appender.xml" timestamp="1500282768058" />
       <file name="/a.dummy" timestamp="1499761816276">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/logging/logback/console-appender.xml" timestamp="1500282762614" />
       <file name="/a.sql" timestamp="1499757818194">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,12 +29,13 @@
       <file name="D:/Projects/nongtianquan/nongyequan-server/pom.xml" timestamp="1499999090733">
         <mark key="[" line="44" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500108389377">
+      <file name="/Dummy.txt" timestamp="1500282760155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application-default.yaml" timestamp="1500109346488">
         <mark key="[" line="8" column="25" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/logging/logback/base.xml" timestamp="1500282749112" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,12 +50,6 @@
         <mark key="]" line="58" column="64" />
         <mark key="." line="58" column="64" />
         <mark key="^" line="58" column="64" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1500025051371">
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="14" column="51" />
-        <mark key="." line="14" column="51" />
-        <mark key="^" line="14" column="51" />
       </file>
       <file name="/fragment.java" timestamp="1499997280728">
         <mark key="[" line="0" column="0" />
