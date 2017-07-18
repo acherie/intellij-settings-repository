@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -8,13 +8,7 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserRole.java" timestamp="1499741655177">
         <mark key="[" line="27" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500349854333">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/logging/logback/LevelRemappingAppender.java" timestamp="1500346108636" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1500357195276" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE.jar!/org/springframework/boot/logging/logback/defaults.xml" timestamp="1500349606405">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="300" />
@@ -29,6 +23,32 @@
       <file name="/a.dummy" timestamp="1499761816276">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1499757818194">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE.jar!/org/springframework/boot/logging/logback/console-appender.xml" timestamp="1500349651145" />
+      <file name="/HTML File.txt.ft" timestamp="1499664873195">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1499759625693">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/.gitignore" timestamp="1500109772090">
+        <mark key="[" line="4" column="10" />
+      </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1500082033607" />
+      <file name="D:/Projects/nongtianquan/nongyequan-server/pom.xml" timestamp="1500348038349">
+        <mark key="'" line="51" column="43" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="118" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500349854333">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/logging/logback/LevelRemappingAppender.java" timestamp="1500346108636" />
       <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application-default.yaml" timestamp="1500109346488">
         <mark key="[" line="8" column="25" />
       </file>
@@ -36,10 +56,6 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1499757818194">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE.jar!/org/springframework/boot/logging/logback/console-appender.xml" timestamp="1500349651145" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1498810707032">
         <mark key="[" line="46" column="5" />
       </file>
@@ -60,23 +76,8 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1499664873195">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1499759625693">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/.gitignore" timestamp="1500109772090">
-        <mark key="[" line="4" column="10" />
-      </file>
       <file name="/fragment.java" timestamp="1500349854324">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1500082033607" />
-      <file name="D:/Projects/nongtianquan/nongyequan-server/pom.xml" timestamp="1500348038349">
-        <mark key="'" line="51" column="43" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="118" column="20" />
       </file>
     </filemarks>
     <jumps>
