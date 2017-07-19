@@ -8,7 +8,6 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserRole.java" timestamp="1499741655177">
         <mark key="[" line="27" column="4" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1500357195276" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE.jar!/org/springframework/boot/logging/logback/defaults.xml" timestamp="1500349606405">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="300" />
@@ -26,10 +25,7 @@
       <file name="/a.sql" timestamp="1499757818194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE.jar!/org/springframework/boot/logging/logback/console-appender.xml" timestamp="1500349651145" />
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/generator/parameter/UserParameters.java" timestamp="1500364878740" />
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/generator/engine/impl/ORM/MybatisEngine.java" timestamp="1500365154388" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1500364139892" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1500432045918" />
       <file name="/HTML File.txt.ft" timestamp="1499664873195">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,6 +41,7 @@
       <file name="D:/Projects/nongtianquan/backend/.gitignore" timestamp="1500109772090">
         <mark key="[" line="4" column="10" />
       </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1500426775050" />
       <file name="D:/Projects/nongtianquan/nongyequan-server/pom.xml" timestamp="1500348038349">
         <mark key="'" line="51" column="43" />
         <mark key="[" line="114" column="0" />
@@ -56,14 +53,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/logging/logback/LevelRemappingAppender.java" timestamp="1500346108636" />
       <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application-default.yaml" timestamp="1500109346488">
         <mark key="[" line="8" column="25" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/generator/Generator.java" timestamp="1500364856773" />
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/generator/engine/impl/controller/ControllerBaseEngine.java" timestamp="1500366107741" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/logging/logback/base.xml" timestamp="1500345766963" />
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/generator/engine/impl/environment/SpringCloudBaseEngine.java" timestamp="1500365186417" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,7 +79,6 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1500364769907" />
       <file name="/fragment.java" timestamp="1500349854324">
         <mark key="[" line="0" column="0" />
       </file>
@@ -290,7 +281,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
