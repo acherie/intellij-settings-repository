@@ -8,17 +8,7 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserRole.java" timestamp="1499741655177">
         <mark key="[" line="27" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE.jar!/org/springframework/boot/logging/logback/defaults.xml" timestamp="1500349606405">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="300" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/logback-spring.xml" timestamp="1500350136148">
-        <mark key="'" line="95" column="37" />
-        <mark key="[" line="70" column="17" />
-        <mark key="]" line="70" column="20" />
-        <mark key="." line="70" column="20" />
-        <mark key="^" line="70" column="20" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/validation/ValidationAutoConfiguration.java" timestamp="1500532732358" />
       <file name="/a.dummy" timestamp="1499761816276">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,6 +19,7 @@
         <mark key="^" line="38" column="42" />
         <mark key="." line="38" column="42" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConfigurationProperties.java" timestamp="1500532578698" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/BaseEntity.java" timestamp="1500519536723" />
       <file name="/a.sql" timestamp="1499757818194">
         <mark key="[" line="0" column="0" />
@@ -46,6 +37,10 @@
         <mark key="^" line="135" column="72" />
         <mark key="." line="135" column="72" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/flyway/FlywayAutoConfiguration.java" timestamp="1500532455449">
+        <mark key="'" line="130" column="32" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java" timestamp="1500532518552" />
       <file name="/HTML File.txt.ft" timestamp="1499664873195">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,11 +57,6 @@
         <mark key="[" line="4" column="10" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1500426775050" />
-      <file name="D:/Projects/nongtianquan/nongyequan-server/pom.xml" timestamp="1500348038349">
-        <mark key="'" line="51" column="43" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="118" column="20" />
-      </file>
       <file name="/Dummy.txt" timestamp="1500359881681">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -83,6 +73,7 @@
         <mark key="." line="60" column="78" />
         <mark key="^" line="60" column="78" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE.jar!/META-INF/spring-autoconfigure-metadata.properties" timestamp="1500532220995" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,9 +84,6 @@
       <file name="/AnnotationType.txt.ft" timestamp="1498662129299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom" timestamp="1500348724037">
-        <mark key="'" line="1617" column="27" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/filter/PostFilter.java" timestamp="1500281472018">
         <mark key="[" line="58" column="60" />
         <mark key="]" line="58" column="64" />
@@ -103,18 +91,13 @@
         <mark key="^" line="58" column="64" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/config/MybatisConfigurator.java" timestamp="1500518839439" />
-      <file name="D:/Projects/nongtianquan/backend/pom.xml" timestamp="1500348911039">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/constraints/NotBlank.java" timestamp="1500532996726" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConfigurationPropertiesBindingPostProcessor.java" timestamp="1500532663169" />
       <file name="/fragment.java" timestamp="1500523058212">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="18" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/mapper/customs/CustomsDataMapper.java" />
-      <jump line="81" column="40" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomsDataQuery.java" />
       <jump line="288" column="4" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" />
       <jump line="299" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" />
       <jump line="313" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" />
@@ -213,6 +196,8 @@
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/account/AccountUserService.java" />
       <jump line="27" column="55" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/account/AccountUserService.java" />
       <jump line="49" column="55" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/account/AccountUserService.java" />
+      <jump line="186" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/flyway/FlywayAutoConfiguration.java" />
+      <jump line="130" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/flyway/FlywayAutoConfiguration.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -243,7 +228,7 @@
         <text>value</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcmVlbWFya2VyXD4=</text>
+        <text encoding="base64">XDxTcHJpbmdCb290Rmx5d2F5XD4=</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -304,17 +289,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcmVlbWFya2VyXD4=</last-search>
+      <last-search encoding="base64">XDxTcHJpbmdCb290Rmx5d2F5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcmVlbWFya2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTcHJpbmdCb290Rmx5d2F5XD4=</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjY1w+</entry>
         <entry>mybatis</entry>
         <entry encoding="base64">XDxqYWNrc29uXD4=</entry>
         <entry>jackson</entry>
@@ -334,6 +318,7 @@
         <entry>servlet</entry>
         <entry encoding="base64">XDxqb2RhXD4=</entry>
         <entry encoding="base64">XDxmcmVlbWFya2VyXD4=</entry>
+        <entry encoding="base64">XDxTcHJpbmdCb290Rmx5d2F5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
