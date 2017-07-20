@@ -26,11 +26,11 @@
       <file name="/a.dummy" timestamp="1499761816276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/AccountUser.java" timestamp="1500543103471">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/AccountUser.java" timestamp="1500546518466">
         <mark key="[" line="16" column="0" />
-        <mark key="]" line="44" column="50" />
-        <mark key="^" line="26" column="37" />
-        <mark key="." line="44" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/app.init.js" timestamp="1500537346090" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/package.json" timestamp="1500449734092">
@@ -47,6 +47,7 @@
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/BaseEntity.java" timestamp="1500519536723" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1500536209427" />
+      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10-sources.jar!/io/swagger/annotations/ApiModelProperty.java" timestamp="1500543200051" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java" timestamp="1500532518552" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/filter/PreFilter.java" timestamp="1500359733187">
         <mark key="[" line="50" column="0" />
