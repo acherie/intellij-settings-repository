@@ -36,15 +36,16 @@
         <mark key="^" line="26" column="30" />
         <mark key="." line="26" column="30" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/account/AccountUserController.java" timestamp="1500533758715">
-        <mark key="[" line="133" column="56" />
-        <mark key="]" line="135" column="82" />
-        <mark key="^" line="135" column="82" />
-        <mark key="." line="135" column="82" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/account/AccountUserController.java" timestamp="1500536194371">
+        <mark key="[" line="134" column="17" />
+        <mark key="]" line="134" column="20" />
+        <mark key="^" line="134" column="20" />
+        <mark key="." line="134" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/flyway/FlywayAutoConfiguration.java" timestamp="1500532455449">
         <mark key="'" line="130" column="32" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1500536209427" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java" timestamp="1500532518552" />
       <file name="/HTML File.txt.ft" timestamp="1499664873195">
         <mark key="[" line="0" column="0" />
@@ -61,7 +62,6 @@
       <file name="D:/Projects/nongtianquan/backend/.gitignore" timestamp="1500109772090">
         <mark key="[" line="4" column="10" />
       </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1500426775050" />
       <file name="/Dummy.txt" timestamp="1500533648139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -71,12 +71,12 @@
       <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application-default.yaml" timestamp="1500109346488">
         <mark key="[" line="8" column="25" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/account/AccountUserService.java" timestamp="1500533589721">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/account/AccountUserService.java" timestamp="1500536394935">
         <mark key="'" line="31" column="55" />
-        <mark key="[" line="61" column="12" />
-        <mark key="]" line="61" column="13" />
-        <mark key="." line="61" column="13" />
-        <mark key="^" line="61" column="13" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="33" />
+        <mark key="^" line="36" column="33" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/validation/QueryGroup.java" timestamp="1500533641567">
         <mark key="[" line="6" column="29" />
@@ -104,6 +104,12 @@
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/config/MybatisConfigurator.java" timestamp="1500518839439" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/constraints/NotBlank.java" timestamp="1500532996726" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConfigurationPropertiesBindingPostProcessor.java" timestamp="1500532663169" />
+      <file name="D:/Projects/nongtianquan/backend/pom.xml" timestamp="1500536667618">
+        <mark key="[" line="82" column="21" />
+        <mark key="]" line="83" column="24" />
+        <mark key="." line="83" column="24" />
+        <mark key="^" line="83" column="24" />
+      </file>
       <file name="/fragment.java" timestamp="1500523058212">
         <mark key="[" line="0" column="0" />
       </file>
