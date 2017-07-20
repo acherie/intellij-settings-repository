@@ -8,6 +8,7 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserRole.java" timestamp="1499741655177">
         <mark key="[" line="27" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10-sources.jar!/io/swagger/annotations/ApiModel.java" timestamp="1500543129061" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/logback-spring.xml" timestamp="1500350136148">
         <mark key="'" line="95" column="37" />
         <mark key="[" line="70" column="17" />
@@ -25,11 +26,11 @@
       <file name="/a.dummy" timestamp="1499761816276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/AccountUser.java" timestamp="1500541845020">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="50" />
-        <mark key="^" line="24" column="37" />
-        <mark key="." line="42" column="0" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/AccountUser.java" timestamp="1500543103471">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="44" column="50" />
+        <mark key="^" line="26" column="37" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/app.init.js" timestamp="1500537346090" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/package.json" timestamp="1500449734092">
