@@ -111,6 +111,9 @@
       <file name="/AnnotationType.txt.ft" timestamp="1498662129299">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/pom.xml" timestamp="1500625389857">
+        <mark key="'" line="186" column="0" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomsDataQuery.java" timestamp="1500539927080">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="50" />
@@ -120,7 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" />
       <jump line="284" column="86" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/CustomsDataMapper.xml" />
       <jump line="237" column="80" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" />
       <jump line="87" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/customs/CustomsDataAction.java" />
@@ -220,6 +222,7 @@
       <jump line="27" column="9" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
       <jump line="82" column="8" filename="D:/Projects/nongtianquan/backend/pom.xml" />
       <jump line="18" column="39" filename="D:/Projects/nongtianquan/backend/pom.xml" />
+      <jump line="186" column="0" filename="D:/Projects/nongtianquan/backend/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -250,7 +253,7 @@
         <text>电话</text>
       </register>
       <register name="/" type="4">
-        <text>mybatis.jsr310</text>
+        <text>jwt</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -311,17 +314,16 @@
       </register>
     </registers>
     <search>
-      <last-search>mybatis.jsr310</last-search>
+      <last-search>jwt</last-search>
       <last-offset />
-      <last-pattern>mybatis.jsr310</last-pattern>
+      <last-pattern>jwt</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jackson</entry>
         <entry>menu</entry>
         <entry encoding="base64">XDxwb3BNb2RhbFw+</entry>
         <entry encoding="base64">XDxkZXRhaWxzX21vZGFsXD4=</entry>
@@ -341,6 +343,7 @@
         <entry encoding="base64">XDxTcHJpbmdCb290Rmx5d2F5XD4=</entry>
         <entry>mybatis</entry>
         <entry>mybatis.jsr310</entry>
+        <entry>jwt</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
