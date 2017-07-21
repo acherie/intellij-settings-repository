@@ -8,7 +8,6 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserRole.java" timestamp="1499741655177">
         <mark key="[" line="27" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10-sources.jar!/io/swagger/annotations/ApiModel.java" timestamp="1500543129061" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/logback-spring.xml" timestamp="1500350136148">
         <mark key="'" line="95" column="37" />
         <mark key="[" line="70" column="17" />
@@ -16,7 +15,10 @@
         <mark key="." line="70" column="20" />
         <mark key="^" line="70" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/validation/ValidationAutoConfiguration.java" timestamp="1500532732358" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE.jar!/org/springframework/boot/logging/logback/defaults.xml" timestamp="1500349606405">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="300" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Result.java" timestamp="1500540699192">
         <mark key="[" line="39" column="26" />
         <mark key="]" line="39" column="26" />
@@ -26,79 +28,32 @@
       <file name="/a.dummy" timestamp="1499761816276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/AccountUser.java" timestamp="1500546518466">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/AccountUser.java" timestamp="1500550476807">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="64" column="33" />
+        <mark key="^" line="64" column="33" />
+        <mark key="." line="64" column="33" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/app.init.js" timestamp="1500537346090" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/package.json" timestamp="1500449734092">
         <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="42" />
         <mark key="^" line="38" column="42" />
         <mark key="." line="38" column="42" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConfigurationProperties.java" timestamp="1500532578698" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1500539720046">
-        <mark key="'" line="27" column="9" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="62" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/BaseEntity.java" timestamp="1500519536723" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1500536209427" />
-      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10-sources.jar!/io/swagger/annotations/ApiModelProperty.java" timestamp="1500543200051" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java" timestamp="1500532518552" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/filter/PreFilter.java" timestamp="1500359733187">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="51" column="31" />
-      </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/controllers/account.js" timestamp="1500537741317" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/account/AccountUserService.java" timestamp="1500536394935">
-        <mark key="'" line="31" column="55" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="33" />
-        <mark key="." line="36" column="33" />
-        <mark key="^" line="36" column="33" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/cors/CorsConfiguration.java" timestamp="1500541762755" />
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.6.RELEASE/spring-beans-4.3.6.RELEASE-sources.jar!/org/springframework/beans/BeanWrapper.java" timestamp="1500519444346" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1498810707032">
-        <mark key="[" line="46" column="5" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/validation/AdminGroup.java" timestamp="1500541639274">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/filter/PostFilter.java" timestamp="1500281472018">
-        <mark key="[" line="58" column="60" />
-        <mark key="]" line="58" column="64" />
-        <mark key="." line="58" column="64" />
-        <mark key="^" line="58" column="64" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE.jar!/org/springframework/boot/logging/logback/defaults.xml" timestamp="1500349606405">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="300" />
-      </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/config.js" timestamp="1500537665248" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/config/SwaggerConfigurator.java" timestamp="1500540501977">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="55" />
         <mark key="^" line="19" column="55" />
         <mark key="." line="19" column="55" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/controllers/sidebar-menu.js" timestamp="1500537392684" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1500539720046">
+        <mark key="'" line="27" column="9" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="62" />
+      </file>
       <file name="/a.sql" timestamp="1499757818194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/mybatis-config.xml" timestamp="1500518821768" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/AbstractService.java" timestamp="1500523053953">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="30" />
@@ -106,13 +61,19 @@
         <mark key="." line="26" column="30" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/account/AccountUserController.java" timestamp="1500541986552">
-        <mark key="[" line="136" column="79" />
-        <mark key="]" line="137" column="50" />
-        <mark key="^" line="137" column="50" />
-        <mark key="." line="137" column="50" />
+        <mark key="[" line="1" column="79" />
+        <mark key="]" line="130" column="50" />
+        <mark key="^" line="130" column="50" />
+        <mark key="." line="130" column="50" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1499664873195">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/filter/PreFilter.java" timestamp="1500359733187">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="31" />
+        <mark key="^" line="51" column="31" />
       </file>
       <file name="/dummy.sql" timestamp="1499759625693">
         <mark key="[" line="0" column="0" />
@@ -120,7 +81,8 @@
       <file name="D:/Projects/nongtianquan/backend/.gitignore" timestamp="1500109772090">
         <mark key="[" line="4" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500533648139">
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1500608034015" />
+      <file name="/Dummy.txt" timestamp="1500550637274">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -129,26 +91,39 @@
       <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application-default.yaml" timestamp="1500109346488">
         <mark key="[" line="8" column="25" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/Application.java" timestamp="1500541805274" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/account/AccountUserService.java" timestamp="1500536394935">
+        <mark key="'" line="31" column="55" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="33" />
+        <mark key="^" line="36" column="33" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/validation/QueryGroup.java" timestamp="1500533641567">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="28" />
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE.jar!/META-INF/spring-autoconfigure-metadata.properties" timestamp="1500532220995" />
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1498810707032">
+        <mark key="[" line="46" column="5" />
+      </file>
       <file name="/AnnotationType.txt.ft" timestamp="1498662129299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/config/MybatisConfigurator.java" timestamp="1500518839439" />
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.5.Final/hibernate-validator-5.3.5.Final-sources.jar!/org/hibernate/validator/constraints/NotBlank.java" timestamp="1500532996726" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConfigurationPropertiesBindingPostProcessor.java" timestamp="1500532663169" />
-      <file name="D:/Projects/nongtianquan/backend/pom.xml" timestamp="1500540439527">
-        <mark key="'" line="18" column="39" />
-        <mark key="[" line="176" column="21" />
-        <mark key="]" line="181" column="20" />
-        <mark key="." line="181" column="20" />
-        <mark key="^" line="181" column="20" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/validation/AdminGroup.java" timestamp="1500541639274">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/filter/PostFilter.java" timestamp="1500281472018">
+        <mark key="[" line="54" column="60" />
+        <mark key="]" line="54" column="64" />
+        <mark key="." line="54" column="64" />
+        <mark key="^" line="54" column="64" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/customs/CustomsDataQuery.java" timestamp="1500539927080">
         <mark key="[" line="24" column="0" />
@@ -265,7 +240,7 @@
         <text>statCategory</text>
       </register>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>电话</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -286,7 +261,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>电话</text>
       </register>
       <register name="/" type="4">
         <text>mybatis.jsr310</text>
@@ -356,7 +331,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
