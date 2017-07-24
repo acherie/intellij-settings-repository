@@ -30,7 +30,7 @@
         <mark key="^" line="38" column="42" />
         <mark key="." line="38" column="42" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/JWTUtils.java" timestamp="1500889865343" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/JWTUtils.java" timestamp="1500895951880" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/config/SwaggerConfigurator.java" timestamp="1500540501977">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="55" />
@@ -54,11 +54,11 @@
         <mark key="." line="26" column="30" />
       </file>
       <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/web/bind/method/CurrentUserMethodArgumentResolver.java" timestamp="1500883155867" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/LoginAction.java" timestamp="1500895025231">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="10" column="14" />
-        <mark key="." line="14" column="0" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/LoginAction.java" timestamp="1500896049170">
+        <mark key="[" line="49" column="27" />
+        <mark key="]" line="52" column="6" />
+        <mark key="^" line="52" column="6" />
+        <mark key="." line="52" column="6" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1499664873195">
         <mark key="[" line="0" column="0" />
@@ -102,12 +102,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/api/OutworkerSystemJwtFilter.java" timestamp="1500894740151">
-        <mark key="'" line="98" column="17" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="107" column="29" />
-        <mark key="." line="107" column="29" />
-        <mark key="^" line="107" column="29" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/api/OutworkerSystemJwtFilter.java" timestamp="1500896107858">
+        <mark key="'" line="96" column="17" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="105" column="29" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
         <mark key="[" line="0" column="0" />
@@ -269,7 +269,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>Claims claimsJws</text>
+        <text>.value()</text>
       </register>
       <register name="/" type="4">
         <text>jjwt</text>
@@ -287,10 +287,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbnRyb2xsZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
@@ -299,31 +299,31 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MC43LjA8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbnRyb2xsZXIK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
