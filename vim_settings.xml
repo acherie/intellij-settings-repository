@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -76,6 +76,7 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.3.2/shiro-core-1.3.2-sources.jar!/org/apache/shiro/session/mgt/eis/CachingSessionDAO.java" timestamp="1500970087738" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/user/PasswordChangeFilter.java" timestamp="1500887087587" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/api/OutworkerSystemJwtFilter.java" timestamp="1500948426719">
         <mark key="'" line="0" column="0" />
@@ -91,7 +92,7 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1498810707032">
         <mark key="[" line="46" column="5" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-shiro.xml" timestamp="1500950169582">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-shiro.xml" timestamp="1500970064543">
         <mark key="[" line="132" column="36" />
         <mark key="]" line="133" column="31" />
         <mark key="^" line="133" column="31" />
@@ -112,11 +113,11 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/AccessControlFilter.java" timestamp="1500882727778" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/web.xml" timestamp="1500967643996" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/util/WebUtils.java" timestamp="1500882817705" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1500968512036">
-        <mark key="[" line="71" column="82" />
-        <mark key="]" line="71" column="82" />
-        <mark key="." line="71" column="82" />
-        <mark key="^" line="13" column="80" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1500970224235">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+        <mark key="^" line="18" column="42" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java" timestamp="1500966068773" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1500966523662">
@@ -210,7 +211,7 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-mvc-shiro.xml" timestamp="1500963691613" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.9.RELEASE/spring-core-4.2.9.RELEASE-sources.jar!/org/springframework/core/env/PropertySourcesPropertyResolver.java" timestamp="1500967036493" />
       <file name="/pom.xml" timestamp="1500950634149" />
-      <file name="/fragment.java" timestamp="1500968149971">
+      <file name="/fragment.java" timestamp="1500969820494">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -321,7 +322,7 @@
         <text>statCategory</text>
       </register>
       <register name="&quot;" type="4">
-        <text>depends-on=&quot;flyway&quot;</text>
+        <text>${jdbc.url}</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -342,7 +343,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>depends-on=&quot;flyway&quot;</text>
+        <text>${jdbc.url}</text>
       </register>
       <register name="/" type="4">
         <text>jjwt</text>
@@ -353,17 +354,17 @@
       <register name="0" type="2">
         <text encoding="base64">amRiYy5kcml2ZXI9Y29tLm15c3FsLmpkYmMuRHJpdmVyCmpkYmMudXJsPWpkYmM6bXlzcWw6Ly8xOTIuMTY4LjMwLjEyMTozMzA2L2Z1aHVhZGF0YT91c2VVbmljb2RlPXRydWUmYW1wO2NoYXJhY3RlckVuY29kaW5nPVVURjgmYW1wO3plcm9EYXRlVGltZUJlaGF2aW9yPWNvbnZlcnRUb051bGwKamRiYy51c2VybmFtZT1yb290CmpkYmMucGFzc3dvcmQ9cm9vdAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgPHByb3BlcnR5IG5hbWU9ImRyaXZlckNsYXNzTmFtZSIgdmFsdWU9IiR7amRiYy5kcml2ZXJ9Ii8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InVybCIgdmFsdWU9IiR7amRiYy51cmx9Ii8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InVzZXJuYW1lIiB2YWx1ZT0icm9vdCIvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJwYXNzd29yZCIgdmFsdWU9InJvb3QiLz4KCiAgICAgICAgPHByb3BlcnR5IG5hbWU9Im1heEFjdGl2ZSIgdmFsdWU9IjMwIi8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9ImluaXRpYWxTaXplIiB2YWx1ZT0iMSIvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJ0aW1lQmV0d2VlbkV2aWN0aW9uUnVuc01pbGxpcyIgdmFsdWU9IjI5MDAwMCIvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJtaW5FdmljdGFibGVJZGxlVGltZU1pbGxpcyIgdmFsdWU9IjI5MDAwMCIvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJudW1UZXN0c1BlckV2aWN0aW9uUnVuIiB2YWx1ZT0iMjAiLz4KICAgIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgPHByb3BlcnR5IG5hbWU9ImRyaXZlckNsYXNzTmFtZSIgdmFsdWU9IiR7amRiYy5kcml2ZXJ9Ii8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InVybCIgdmFsdWU9IiR7amRiYy51cmx9Ii8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9InVzZXJuYW1lIiB2YWx1ZT0icm9vdCIvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJwYXNzd29yZCIgdmFsdWU9InJvb3QiLz4KCiAgICAgICAgPHByb3BlcnR5IG5hbWU9Im1heEFjdGl2ZSIgdmFsdWU9IjMwIi8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9ImluaXRpYWxTaXplIiB2YWx1ZT0iMSIvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJ0aW1lQmV0d2VlbkV2aWN0aW9uUnVuc01pbGxpcyIgdmFsdWU9IjI5MDAwMCIvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJtaW5FdmljdGFibGVJZGxlVGltZU1pbGxpcyIgdmFsdWU9IjI5MDAwMCIvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJudW1UZXN0c1BlckV2aWN0aW9uUnVuIiB2YWx1ZT0iMjAiLz4KICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxjb250ZXh0OnByb3BlcnR5LXBsYWNlaG9sZGVyIGxvY2F0aW9uPSJjbGFzc3BhdGg6cHJvcGVydGllcy9kZXYucHJvcGVydGllcyxjbGFzc3BhdGg6b3V0d29ya2VyL2Rldi5wcm9wZXJ0aWVzIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
@@ -372,7 +373,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxjb250ZXh0OnByb3BlcnR5LXBsYWNlaG9sZGVyIGxvY2F0aW9uPSJjbGFzc3BhdGg6cmVzb3VyY2VzLnByb3BlcnRpZXMiLz4K</text>
+        <text encoding="base64">ICAgIDxjb250ZXh0OnByb3BlcnR5LXBsYWNlaG9sZGVyIGxvY2F0aW9uPSJjbGFzc3BhdGg6cHJvcGVydGllcy9kZXYucHJvcGVydGllcyxjbGFzc3BhdGg6b3V0d29ya2VyL2Rldi5wcm9wZXJ0aWVzIi8+Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
@@ -383,21 +384,21 @@
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-            classpath:properties/dev.properties, classpath:outworker/dev.properties</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxjb250ZXh0OnByb3BlcnR5LXBsYWNlaG9sZGVyIGxvY2F0aW9uPSJjbGFzc3BhdGg6cmVzb3VyY2VzLnByb3BlcnRpZXMiLz4K</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y2xhc3NwYXRoOmltcG9ydGFudC5wcm9wZXJ0aWVzLAogICAgICAgICAgICBjbGFzc3BhdGg6b3V0d29ya2VyL291dHdvcmtlci1zeXN0ZW0ucHJvcGVydGllcywg</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">amRiYy5kYXRhc291cmNlLnR5cGU9ZGJjcApqZGJjLmRyaXZlcj0ke2pkYmMuZHJpdmVyfQpqZGJjLnVybD0ke2pkYmMudXJsfQpqZGJjLnVzZXJuYW1lPSR7amRiYy51c2VybmFtZX0KamRiYy5wYXNzd29yZD0ke2pkYmMucGFzc3dvcmR9Cg==</text>
+      <register name="9" type="4">
+        <text>,
+            classpath:properties/dev.properties, classpath:outworker/dev.properties</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
