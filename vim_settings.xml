@@ -44,6 +44,7 @@
       </file>
       <file name="D:/IdeaProjects/es/web/src/main/resources/spring-config.xml" timestamp="1500948989238" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/web/interceptor/SetCommonDataFilter.java" timestamp="1500882868657" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistryPostProcessor.java" timestamp="1500971471873" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/LoginAction.java" timestamp="1500964226120">
         <mark key="'" line="57" column="73" />
         <mark key="[" line="20" column="15" />
@@ -78,6 +79,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.3.2/shiro-core-1.3.2-sources.jar!/org/apache/shiro/session/mgt/eis/CachingSessionDAO.java" timestamp="1500970087738" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/user/PasswordChangeFilter.java" timestamp="1500887087587" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0-sources.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.java" timestamp="1500972214583" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/api/OutworkerSystemJwtFilter.java" timestamp="1500948426719">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="48" column="4" />
@@ -113,7 +115,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/AccessControlFilter.java" timestamp="1500882727778" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/web.xml" timestamp="1500967643996" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/util/WebUtils.java" timestamp="1500882817705" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1500970965758">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1500971697987">
         <mark key="[" line="72" column="82" />
         <mark key="]" line="72" column="99" />
         <mark key="." line="72" column="99" />
@@ -133,11 +135,6 @@
         <mark key="]" line="19" column="55" />
         <mark key="^" line="19" column="55" />
         <mark key="." line="19" column="55" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/outworker/production.properties" timestamp="1500954153448">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="41" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1499757818194">
         <mark key="[" line="0" column="0" />
@@ -160,6 +157,7 @@
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.3.9/mapper-3.3.9-sources.jar!/tk/mybatis/spring/mapper/MapperScannerConfigurer.java" timestamp="1500971482863" />
       <file name="/dummy.sql" timestamp="1499759625693">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,7 +176,7 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0-sources.jar!/org/mybatis/spring/SqlSessionFactoryBean.java" timestamp="1500968553190" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0-sources.jar!/org/mybatis/spring/SqlSessionFactoryBean.java" timestamp="1500971834237" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticatingFilter.java" timestamp="1500867671971" />
       <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application-default.yaml" timestamp="1500109346488">
         <mark key="[" line="8" column="25" />
@@ -211,7 +209,8 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-mvc-shiro.xml" timestamp="1500963691613" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.9.RELEASE/spring-core-4.2.9.RELEASE-sources.jar!/org/springframework/core/env/PropertySourcesPropertyResolver.java" timestamp="1500967036493" />
       <file name="/pom.xml" timestamp="1500950634149" />
-      <file name="/fragment.java" timestamp="1500969820494">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1500972401682" />
+      <file name="/fragment.java" timestamp="1500972390002">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
