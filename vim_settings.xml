@@ -116,8 +116,8 @@
         <mark key="." line="71" column="82" />
         <mark key="^" line="13" column="80" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java" timestamp="1500965694592" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1500964862299">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java" timestamp="1500966068773" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1500966523662">
         <mark key="'" line="22" column="4" />
         <mark key="[" line="13" column="61" />
         <mark key="]" line="14" column="33" />
@@ -204,12 +204,13 @@
         <mark key="." line="16" column="87" />
         <mark key="^" line="16" column="87" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanDefinitionVisitor.java" timestamp="1500966590971" />
       <file name="/AnnotationType.txt.ft" timestamp="1498662129299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-mvc-shiro.xml" timestamp="1500963691613" />
       <file name="/pom.xml" timestamp="1500950634149" />
-      <file name="/fragment.java" timestamp="1500965726968">
+      <file name="/fragment.java" timestamp="1500966592068">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
