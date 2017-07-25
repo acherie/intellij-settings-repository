@@ -28,17 +28,17 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/web/bind/method/CurrentUserMethodArgumentResolver.java" timestamp="1500883155867" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/LoginAction.java" timestamp="1500898218378">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/LoginAction.java" timestamp="1500946670758">
         <mark key="'" line="57" column="73" />
-        <mark key="[" line="57" column="74" />
-        <mark key="]" line="57" column="85" />
-        <mark key="." line="57" column="85" />
-        <mark key="^" line="57" column="85" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="13" />
+        <mark key="." line="29" column="13" />
+        <mark key="^" line="23" column="36" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1499664873195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/pom.xml" timestamp="1500894274904">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/pom.xml" timestamp="1500946810508">
         <mark key="'" line="132" column="8" />
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
@@ -51,12 +51,12 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/JwtService.java" timestamp="1500898004553">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/JwtService.java" timestamp="1500946794854">
         <mark key="'" line="38" column="20" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="50" column="12" />
-        <mark key="." line="50" column="12" />
-        <mark key="^" line="50" column="12" />
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="38" />
+        <mark key="." line="27" column="38" />
+        <mark key="^" line="27" column="38" />
       </file>
       <file name="/dummy.sql" timestamp="1499759625693">
         <mark key="[" line="0" column="0" />
@@ -71,6 +71,10 @@
       <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application-default.yaml" timestamp="1500109346488">
         <mark key="[" line="8" column="25" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/outworker/outworker-system.properties" timestamp="1500945437877">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/es/web/src/main/resources/resources.properties" timestamp="1500945826310" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticationFilter.java" timestamp="1500880877169" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/user/PasswordChangeFilter.java" timestamp="1500887087587" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/api/OutworkerSystemJwtFilter.java" timestamp="1500897661339">
@@ -101,6 +105,9 @@
         <mark key="'" line="130" column="19" />
         <mark key="[" line="108" column="0" />
         <mark key="]" line="113" column="20" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1500946355596">
+        <mark key="[" line="10" column="105" />
       </file>
       <file name="/fragment.java" timestamp="1500880824255">
         <mark key="[" line="0" column="0" />
