@@ -5,6 +5,9 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserRole.java" timestamp="1499741655177">
+        <mark key="[" line="27" column="4" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/properties/production.properties" timestamp="1500954043595">
         <mark key="[" line="2" column="42" />
         <mark key="]" line="2" column="50" />
@@ -22,6 +25,9 @@
         <mark key="]" line="37" column="5" />
         <mark key="." line="37" column="5" />
         <mark key="^" line="37" column="5" />
+      </file>
+      <file name="/a.dummy" timestamp="1499761816276">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/AccountUser.java" timestamp="1500550476807">
         <mark key="[" line="63" column="0" />
@@ -60,6 +66,7 @@
       </file>
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/web/interceptor/SetCommonDataInterceptor.java" timestamp="1500882964333" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/query/Result.java" timestamp="1500898109602" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE-sources.jar!/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java" timestamp="1500965666720" />
       <file name="D:/IdeaProjects/es/web/src/main/resources/spring-mvc.xml" timestamp="1500883024317" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.9.RELEASE/spring-context-4.2.9.RELEASE.jar!/org/springframework/context/config/spring-context-4.2.xsd" timestamp="1500949448413" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/outworker/outworker-system.properties" timestamp="1500954093357">
@@ -76,7 +83,13 @@
         <mark key="." line="48" column="11" />
         <mark key="^" line="48" column="11" />
       </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1499664879337">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/es/web/pom.xml" timestamp="1500948628063" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1498810707032">
+        <mark key="[" line="46" column="5" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-shiro.xml" timestamp="1500950169582">
         <mark key="[" line="132" column="36" />
         <mark key="]" line="133" column="31" />
@@ -97,12 +110,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/AccessControlFilter.java" timestamp="1500882727778" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/util/WebUtils.java" timestamp="1500882817705" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1500965025208">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1500965711122">
         <mark key="[" line="71" column="82" />
         <mark key="]" line="71" column="82" />
         <mark key="." line="71" column="82" />
         <mark key="^" line="13" column="80" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java" timestamp="1500965694592" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1500964862299">
         <mark key="'" line="22" column="4" />
         <mark key="[" line="13" column="61" />
@@ -121,6 +135,9 @@
         <mark key="]" line="9" column="41" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1499757818194">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/AbstractService.java" timestamp="1500523053953">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="30" />
@@ -128,12 +145,22 @@
         <mark key="." line="26" column="30" />
       </file>
       <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/web/bind/method/CurrentUserMethodArgumentResolver.java" timestamp="1500883155867" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.9.RELEASE/spring-core-4.2.9.RELEASE-sources.jar!/org/springframework/core/env/MutablePropertySources.java" timestamp="1500965588641" />
+      <file name="/HTML File.txt.ft" timestamp="1499664873195">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/JwtService.java" timestamp="1500948442633">
         <mark key="'" line="38" column="20" />
         <mark key="[" line="27" column="38" />
         <mark key="]" line="27" column="38" />
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="38" />
+      </file>
+      <file name="/dummy.sql" timestamp="1499759625693">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/.gitignore" timestamp="1500109772090">
+        <mark key="[" line="4" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1500947780328">
         <mark key="[" line="0" column="0" />
@@ -148,6 +175,9 @@
         <mark key="^" line="2" column="50" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticatingFilter.java" timestamp="1500867671971" />
+      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application-default.yaml" timestamp="1500109346488">
+        <mark key="[" line="8" column="25" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/outworker/dev.properties" timestamp="1500954151311">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="0" column="0" />
@@ -174,8 +204,14 @@
         <mark key="." line="16" column="87" />
         <mark key="^" line="16" column="87" />
       </file>
+      <file name="/AnnotationType.txt.ft" timestamp="1498662129299">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-mvc-shiro.xml" timestamp="1500963691613" />
       <file name="/pom.xml" timestamp="1500950634149" />
+      <file name="/fragment.java" timestamp="1500965726968">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="91" column="95" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" />
