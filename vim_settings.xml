@@ -179,12 +179,12 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-mvc-shiro.xml" timestamp="1500963691613" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.9.RELEASE/spring-core-4.2.9.RELEASE-sources.jar!/org/springframework/core/env/PropertySourcesPropertyResolver.java" timestamp="1500967036493" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.9.RELEASE/spring-beans-4.2.9.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1500972401682" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/UserServiceImpl.java" timestamp="1501057284011">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/UserServiceImpl.java" timestamp="1501057731530">
         <mark key="'" line="32" column="35" />
-        <mark key="[" line="74" column="18" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="64" column="34" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="55" column="20" />
+        <mark key="^" line="55" column="20" />
+        <mark key="." line="55" column="20" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/resources.properties" timestamp="1500964901728">
         <mark key="[" line="36" column="0" />
@@ -465,8 +465,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8YmVhbiBjbGFzcz0ib3JnLnNwcmluZ2ZyYW1ld29yay5jb250ZXh0LnN1cHBvcnQuUHJvcGVydHlTb3VyY2VzUGxhY2Vob2xkZXJDb25maWd1cmVyIj4KICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImxvY2F0aW9uIiB2YWx1ZT0iY2xhc3NwYXRoOnByb3BlcnRpZXMvZGV2LnByb3BlcnRpZXMiLz4KICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9Imlnbm9yZVVucmVzb2x2YWJsZVBsYWNlaG9sZGVycyIgdmFsdWU9InRydWUiLz4KICAgICAgICA8L2JlYW4+Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -487,7 +487,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>listByExample(example);</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>jjwt</text>
