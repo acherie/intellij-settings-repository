@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -72,11 +72,11 @@
         <mark key="." line="105" column="41" />
         <mark key="^" line="105" column="41" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/datainit/home_sales_user_area.sql" timestamp="1501139435561">
-        <mark key="[" line="34" column="98" />
-        <mark key="]" line="34" column="98" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/datainit/home_sales_user_area.sql" timestamp="1501157566638">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="32" />
         <mark key="^" line="34" column="92" />
-        <mark key="." line="34" column="99" />
+        <mark key="." line="1" column="32" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1501066901839">
         <mark key="[" line="46" column="5" />
@@ -240,7 +240,7 @@
       <file name="/dummy.sql" timestamp="1501138058037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501142951965">
+      <file name="/Dummy.txt" timestamp="1501157171304">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
