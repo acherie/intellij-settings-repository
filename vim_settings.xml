@@ -42,8 +42,19 @@
         <mark key="." line="47" column="54" />
         <mark key="^" line="47" column="54" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1501211739733">
-        <mark key="[" line="25" column="29" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1501212538756">
+        <mark key="'" line="31" column="33" />
+        <mark key="[" line="151" column="5" />
+        <mark key="]" line="153" column="34" />
+        <mark key="^" line="153" column="34" />
+        <mark key="." line="153" column="34" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/pom.xml" timestamp="1500954132661">
+        <mark key="'" line="276" column="17" />
+        <mark key="[" line="277" column="41" />
+        <mark key="]" line="277" column="49" />
+        <mark key="." line="303" column="0" />
+        <mark key="^" line="258" column="68" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/filter/PreFilter.java" timestamp="1500880985577">
         <mark key="[" line="50" column="0" />
@@ -61,6 +72,13 @@
         <mark key="]" line="9" column="49" />
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/AreaServiceImpl.java" timestamp="1501057171286">
+        <mark key="'" line="79" column="8" />
+        <mark key="[" line="101" column="27" />
+        <mark key="]" line="101" column="47" />
+        <mark key="." line="101" column="47" />
+        <mark key="^" line="101" column="47" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/migration/V5_Domestic_sale.sql" timestamp="1501035973085">
         <mark key="[" line="0" column="0" />
@@ -102,17 +120,45 @@
         <mark key="." line="54" column="64" />
         <mark key="^" line="54" column="64" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1501067792672">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="83" column="80" />
+        <mark key="]" line="83" column="84" />
+        <mark key="^" line="83" column="84" />
+        <mark key="." line="83" column="84" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1501067587377">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="73" column="45" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/homesales/user/dao/AreaMapper.java" timestamp="1501067573589">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="5" column="59" />
         <mark key="^" line="5" column="59" />
         <mark key="." line="5" column="59" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/UserApiAction.java" timestamp="1501068472465">
+        <mark key="'" line="47" column="10" />
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/outworker/production.properties" timestamp="1501069607275">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="11" column="38" />
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao-beans.xml" timestamp="1500978137664">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="9" column="107" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="10" column="6" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/V5_Home_sales.sql" timestamp="1501141483542">
         <mark key="[" line="11" column="56" />
@@ -134,6 +180,13 @@
         <mark key="]" line="2" column="50" />
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/JwtService.java" timestamp="1500948442633">
+        <mark key="'" line="38" column="20" />
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="38" />
+        <mark key="." line="27" column="38" />
+        <mark key="^" line="27" column="38" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/migration/V5_Home_sales.sql" timestamp="1501141643444" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/test/resources/springbeans-dao.xml" timestamp="1501067778473">
@@ -193,10 +246,24 @@
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="56" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" timestamp="1501048780711">
+        <mark key="'" line="69" column="12" />
+        <mark key="[" line="52" column="52" />
+        <mark key="]" line="52" column="54" />
+        <mark key="." line="52" column="54" />
+        <mark key="^" line="52" column="54" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/homesales/user/domain/User.java" timestamp="1501121511041">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserAccountMapper.xml" timestamp="1501036466035">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="59" column="22" />
+        <mark key="]" line="60" column="35" />
+        <mark key="." line="60" column="35" />
+        <mark key="^" line="60" column="35" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/UserService.java" timestamp="1501061335305">
         <mark key="[" line="36" column="16" />
@@ -221,6 +288,9 @@
         <mark key="]" line="18" column="21" />
         <mark key="^" line="23" column="19" />
         <mark key="." line="18" column="21" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionMapper.xml" timestamp="1501212576770">
+        <mark key="[" line="15" column="14" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserServiceImpl.java" timestamp="1501068066531">
         <mark key="[" line="83" column="15" />
@@ -287,9 +357,15 @@
         <mark key="." line="174" column="14" />
         <mark key="^" line="174" column="14" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/springmvc.xml" timestamp="1500981224937">
+        <mark key="'" line="80" column="8" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="105" column="50" />
+        <mark key="." line="105" column="50" />
+        <mark key="^" line="105" column="50" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="17011" column="22" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/migration/V1__Base_version.sql" />
       <jump line="251" column="21" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
       <jump line="853" column="13" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
       <jump line="880" column="21" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
@@ -389,6 +465,7 @@
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" />
       <jump line="318" column="64" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0-sources.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.java" />
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="31" column="33" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
