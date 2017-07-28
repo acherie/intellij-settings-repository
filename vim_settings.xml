@@ -156,12 +156,12 @@
         <mark key="." line="66" column="42" />
         <mark key="^" line="78" column="84" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1501229762435">
-        <mark key="'" line="119" column="36" />
-        <mark key="[" line="117" column="43" />
-        <mark key="]" line="118" column="17" />
-        <mark key="^" line="118" column="17" />
-        <mark key="." line="118" column="17" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1501231775196">
+        <mark key="'" line="127" column="36" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="67" column="10" />
+        <mark key="^" line="67" column="10" />
+        <mark key="." line="67" column="10" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/UserServiceImpl.java" timestamp="1501126544902">
         <mark key="'" line="47" column="17" />
@@ -188,9 +188,6 @@
         <mark key="." line="80" column="9" />
         <mark key="^" line="80" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/33ce08f5-c6a9-45cf-91b4-bc085c15dad3/console.sql" timestamp="1501138300809">
-        <mark key="[" line="0" column="6" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/AreaService.java" timestamp="1501059536254">
         <mark key="[" line="46" column="46" />
         <mark key="]" line="46" column="45" />
@@ -215,6 +212,12 @@
         <mark key="]" line="26" column="56" />
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="56" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionService.java" timestamp="1501231672366">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="30" column="48" />
+        <mark key="^" line="30" column="48" />
+        <mark key="." line="30" column="48" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/homesales/user/domain/User.java" timestamp="1501121511041">
         <mark key="[" line="35" column="0" />
@@ -262,12 +265,13 @@
         <mark key="^" line="83" column="40" />
         <mark key="." line="83" column="40" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Service.java" timestamp="1501227289175">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="13" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Service.java" timestamp="1501231647982">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="4" />
         <mark key="^" line="25" column="13" />
-        <mark key="." line="25" column="13" />
+        <mark key="." line="21" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/ids/DeleteByIdsMapper.java" timestamp="1501231464517" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/config/SwaggerConfigurator.java" timestamp="1500540501977">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="55" />
@@ -281,11 +285,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/AbstractService.java" timestamp="1501227295461">
-        <mark key="[" line="57" column="11" />
-        <mark key="]" line="57" column="21" />
-        <mark key="^" line="57" column="21" />
-        <mark key="." line="57" column="21" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/AbstractService.java" timestamp="1501231660622">
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="14" />
+        <mark key="^" line="50" column="14" />
+        <mark key="." line="50" column="14" />
       </file>
       <file name="/dummy.sql" timestamp="1501138058037">
         <mark key="[" line="0" column="0" />
@@ -456,7 +460,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>accountUserService.getOpt(question.getUid()).map(AccountUser::getNickname).orElse(&quot;&quot;)</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>beanutils</text>
@@ -474,31 +478,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHNvY2lhbF9xdWVzdGlvbl9jb21tZW50IHNxYwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0IGpvaW4gc29jaWFsX3F1ZXN0aW9uX2NvbW1lbnQgc3FjIG9uIHNxYy5xdWVzdGlvbl9pZD0K</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHNvY2lhbF9xdWVzdGlvbl9jb21tZW50IHNxYwo=</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIAo=</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
@@ -510,7 +514,7 @@
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuYWRkRGVmYXVsdE1vZGVsKGp3dFNlcnZpY2UuZ2VuZXJhdGVKd3QodXNlcm5hbWUsIHVzZXJuYW1lLCB0dGxNaWxsaXMpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
