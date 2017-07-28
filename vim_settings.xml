@@ -42,6 +42,9 @@
         <mark key="." line="47" column="54" />
         <mark key="^" line="47" column="54" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1501211739733">
+        <mark key="[" line="25" column="29" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/filter/PreFilter.java" timestamp="1500880985577">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="51" column="31" />
@@ -232,6 +235,12 @@
         <mark key="." line="19" column="55" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/migration/V3__UserRole_change_to_userCode.sql" timestamp="1501136869393" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialQuestionMapper.java" timestamp="1501211727365">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/AbstractService.java" timestamp="1500523053953">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="30" />
