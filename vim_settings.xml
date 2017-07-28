@@ -134,6 +134,12 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="17" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1501229537464">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+        <mark key="^" line="24" column="41" />
+      </file>
       <file name="/a.sql" timestamp="1501137540830">
         <mark key="[" line="0" column="0" />
       </file>
@@ -150,12 +156,12 @@
         <mark key="." line="66" column="42" />
         <mark key="^" line="78" column="84" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1501227510750">
-        <mark key="'" line="111" column="32" />
-        <mark key="[" line="106" column="68" />
-        <mark key="]" line="107" column="20" />
-        <mark key="^" line="107" column="20" />
-        <mark key="." line="107" column="20" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1501229762435">
+        <mark key="'" line="119" column="36" />
+        <mark key="[" line="117" column="43" />
+        <mark key="]" line="118" column="17" />
+        <mark key="^" line="118" column="17" />
+        <mark key="." line="118" column="17" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/UserServiceImpl.java" timestamp="1501126544902">
         <mark key="'" line="47" column="17" />
@@ -198,6 +204,12 @@
         <mark key="^" line="2" column="49" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0-sources.jar!/com/fasterxml/jackson/annotation/JsonIgnore.java" timestamp="1501125338437" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionCommentService.java" timestamp="1501229710969">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-profiles.xml" timestamp="1500980608847">
         <mark key="[" line="26" column="47" />
         <mark key="]" line="26" column="56" />
@@ -220,6 +232,12 @@
         <mark key="]" line="18" column="118" />
         <mark key="." line="18" column="118" />
         <mark key="^" line="18" column="118" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialQuestionCommentMapper.java" timestamp="1501229532581">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="50" />
+        <mark key="^" line="8" column="50" />
+        <mark key="." line="8" column="50" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/validation/AdminGroup.java" timestamp="1500541639274">
         <mark key="[" line="2" column="3" />
@@ -311,7 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1041" column="13" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
       <jump line="208" column="23" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
       <jump line="224" column="9" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/system/systemRoleManage.js" />
       <jump line="40" column="20" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/AreaClMapper.xml" />
@@ -411,6 +428,7 @@
       <jump line="28" column="31" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" />
       <jump line="29" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" />
       <jump line="102" column="32" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" />
+      <jump line="113" column="36" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -456,43 +474,43 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHNvY2lhbF9xdWVzdGlvbl9jb21tZW50IHNxYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0IGpvaW4gc29jaWFsX3F1ZXN0aW9uX2NvbW1lbnQgc3FjIG9uIHNxYy5xdWVzdGlvbl9pZD0K</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuYWRkRGVmYXVsdE1vZGVsKGp3dFNlcnZpY2UuZ2VuZXJhdGVKd3QodXNlcm5hbWUsIHVzZXJuYW1lLCB0dGxNaWxsaXMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0IGpvaW4gc29jaWFsX3F1ZXN0aW9uX2NvbW1lbnQgc3FjIG9uIHNxYy5xdWVzdGlvbl9pZD0K</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nNGoubG9nZ2VyLm9yZy5teWJhdGlzPWRlYnVnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC9vdXR3b3JrZXIgPSBhcGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0ibWFwcGVyTG9jYXRpb25zIiB2YWx1ZT0iY2xhc3NwYXRoOi9zcWxtYXAvbWFwcGVyLyoqLyoueG1sIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuYWRkRGVmYXVsdE1vZGVsKGp3dFNlcnZpY2UuZ2VuZXJhdGVKd3QodXNlcm5hbWUsIHVzZXJuYW1lLCB0dGxNaWxsaXMpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
