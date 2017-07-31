@@ -58,7 +58,7 @@
         <mark key="^" line="88" column="32" />
         <mark key="." line="88" column="32" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/jwt/JwtService.java" timestamp="1501121059153">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/jwt/JwtService.java" timestamp="1501463826128">
         <mark key="[" line="80" column="9" />
         <mark key="]" line="80" column="9" />
         <mark key="." line="80" column="9" />
@@ -101,11 +101,6 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/migration/V5__Home_sales.sql" timestamp="1501141840908">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1501461733119" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-profiles.xml" timestamp="1500980608847">
         <mark key="[" line="26" column="47" />
@@ -130,11 +125,6 @@
         <mark key="]" line="1" column="86" />
         <mark key="^" line="1" column="86" />
         <mark key="." line="1" column="86" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/homesales/user/domain/User.java" timestamp="1501121511041">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/api/OutworkerSystemJwtFilter.java" timestamp="1501463576188">
         <mark key="'" line="0" column="0" />
