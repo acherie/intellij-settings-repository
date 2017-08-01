@@ -25,7 +25,7 @@
         <mark key="^" line="2" column="50" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/authc/CustomFormAuthenticationFilter.java" timestamp="1501479535955" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Result.java" timestamp="1500540699192">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Result.java" timestamp="1501571023414">
         <mark key="[" line="39" column="26" />
         <mark key="]" line="39" column="26" />
         <mark key="^" line="39" column="26" />
@@ -42,13 +42,6 @@
         <mark key="]" line="64" column="33" />
         <mark key="^" line="64" column="33" />
         <mark key="." line="64" column="33" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserAccount.java" timestamp="1501489027878">
-        <mark key="'" line="134" column="20" />
-        <mark key="[" line="422" column="16" />
-        <mark key="]" line="422" column="30" />
-        <mark key="^" line="422" column="30" />
-        <mark key="." line="422" column="30" />
       </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/package.json" timestamp="1500449734092">
         <mark key="[" line="38" column="13" />
@@ -119,11 +112,15 @@
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="56" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleCommentController.java" timestamp="1501570701557" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/outworker/outworker-system.properties" timestamp="1500954093357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="49" />
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/account/AccountUserService.java" timestamp="1501571388442">
+        <mark key="'" line="58" column="12" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionService.java" timestamp="1501566948397">
         <mark key="[" line="29" column="34" />
@@ -155,20 +152,6 @@
         <mark key="]" line="1" column="32" />
         <mark key="^" line="34" column="92" />
         <mark key="." line="1" column="32" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/UserService.java" timestamp="1501482471953">
-        <mark key="'" line="12" column="9" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
-        <mark key="^" line="45" column="19" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserService.java" timestamp="1501490035620">
-        <mark key="'" line="16" column="26" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="89" column="27" />
-        <mark key="^" line="89" column="27" />
-        <mark key="." line="89" column="27" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-shiro.xml" timestamp="1501496185771">
         <mark key="'" line="129" column="43" />
@@ -214,6 +197,7 @@
         <mark key="." line="6" column="67" />
         <mark key="^" line="6" column="67" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1501571303236" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1501502601789">
         <mark key="[" line="23" column="50" />
         <mark key="]" line="24" column="31" />
@@ -362,7 +346,7 @@
         <mark key="." line="66" column="42" />
         <mark key="^" line="78" column="84" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1501569289441">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1501570639412">
         <mark key="[" line="134" column="44" />
         <mark key="]" line="135" column="34" />
         <mark key="." line="135" column="34" />
@@ -370,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="464" column="48" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom" />
       <jump line="1259" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom" />
       <jump line="125" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom" />
       <jump line="146" column="36" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom" />
@@ -470,6 +453,7 @@
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/outworker/production.properties" />
       <jump line="127" column="12" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" />
       <jump line="90" column="7" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" />
+      <jump line="58" column="12" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/account/AccountUserService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
