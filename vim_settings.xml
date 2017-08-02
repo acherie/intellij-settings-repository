@@ -5,221 +5,40 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/UserServiceImpl.java" timestamp="1501482488391">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="128" column="8" />
-        <mark key="]" line="135" column="9" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="127" column="7" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/outworker/OutworkerUserJwtFilter.java" timestamp="1501494419231">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-commons/1.0.1/hsweb-commons-1.0.1-sources.jar!/org/hsweb/commons/StringUtils.java" timestamp="1501634362904" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-commons/hsweb-commons-entity/src/main/java/org/hswebframework/web/commons/entity/factory/PropertyCopier.java" timestamp="1501586139732" />
+      <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-easy-orm-rdb/1.1/hsweb-easy-orm-rdb-1.1-sources.jar!/org/hsweb/ezorm/rdb/RDBDatabase.java" timestamp="1501636289779" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/resources/org/hsweb/web/dao/impl/mybatis/mapper/user/UserMapper.xml" timestamp="1501636890946" />
+      <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-easy-orm-rdb/1.1/hsweb-easy-orm-rdb-1.1-sources.jar!/org/hsweb/ezorm/rdb/render/support/mysql/MysqlDeleteSqlRender.java" timestamp="1501636251958" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1501496310390" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleCommentController.java" timestamp="1501570701557" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.9.RELEASE/spring-web-4.2.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" timestamp="1501469392923" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/java/org/hsweb/web/mybatis/dynamic/DynamicSqlSessionFactory.java" timestamp="1501636042202" />
+      <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-commons/1.0.1/hsweb-commons-1.0.1-sources.jar!/org/hsweb/commons/file/callback/AbstractScanCallBack.java" timestamp="1501634297480" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-boost/hsweb-boost-validator/hsweb-boost-validator-api/src/main/java/org/hswebframework/web/boost/validator/annotation/RequiresDuplicate.java" timestamp="1501585600500" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/datasource/DynamicDataSource.java" timestamp="1501635241675" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/message/ResponseMessage.java" timestamp="1501635551973" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/ControllerAutoConfiguration.java" timestamp="1501635289150" />
+      <file name="$MAVEN_REPOSITORY$/org/hswebframework/hsweb-expands-request/3.0.0-SNAPSHOT/hsweb-expands-request-3.0.0-20170704.082952-7-sources.jar!/org/hswebframework/expands/request/http/HttpRequest.java" timestamp="1501586267338" />
+      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/service/UserService.java" timestamp="1501573557659" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/realm/UserRealm.java" timestamp="1501479701808" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-starter/hsweb-spring-boot-starter/src/main/java/org/hswebframework/web/starter/HswebAutoConfiguration.java" timestamp="1501586112154" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/authc/CustomFormAuthenticationFilter.java" timestamp="1501479535955" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-commons/hsweb-commons-entity/src/main/java/org/hswebframework/web/commons/entity/factory/MapperEntityFactory.java" timestamp="1501585908621" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-commons/hsweb-commons-entity/src/main/java/org/hswebframework/web/commons/entity/param/QueryParamEntity.java" timestamp="1501586165522" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-commons/hsweb-commons-entity/src/main/java/org/hswebframework/web/commons/entity/factory/PropertyCopier.java" timestamp="1501586139732" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Result.java" timestamp="1501571023414">
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="39" column="26" />
-        <mark key="^" line="39" column="26" />
-        <mark key="." line="39" column="26" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/AccountUser.java" timestamp="1501569615457">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="64" column="33" />
-        <mark key="^" line="64" column="33" />
-        <mark key="." line="64" column="33" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/UserAccount.java" timestamp="1501489027878">
-        <mark key="'" line="134" column="20" />
-        <mark key="[" line="422" column="16" />
-        <mark key="]" line="422" column="30" />
-        <mark key="^" line="422" column="30" />
-        <mark key="." line="422" column="30" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/outworker/OutworkerBaseJwtFilter.java" timestamp="1501491668324">
-        <mark key="[" line="125" column="46" />
-        <mark key="]" line="126" column="41" />
-        <mark key="." line="126" column="41" />
-        <mark key="^" line="126" column="41" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/jwt/JwtService.java" timestamp="1501492309734">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="32" column="30" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/LoginAction.java" timestamp="1501493123637">
-        <mark key="'" line="147" column="29" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="134" column="40" />
-        <mark key="." line="134" column="40" />
-        <mark key="^" line="134" column="40" />
-      </file>
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/java/org/hsweb/web/mybatis/MybatisProperties.java" timestamp="1501635819264" />
       <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/organization/service/OrganizationService.java" timestamp="1501573607917" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1501496310390" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1501567001501">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="34" />
-        <mark key="^" line="13" column="34" />
-        <mark key="." line="13" column="34" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionCommentService.java" timestamp="1501575118012">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="3" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-profiles.xml" timestamp="1501468042294">
-        <mark key="[" line="26" column="47" />
-        <mark key="]" line="26" column="56" />
-        <mark key="." line="26" column="56" />
-        <mark key="^" line="26" column="56" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleCommentController.java" timestamp="1501570701557" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/account/AccountUserService.java" timestamp="1501573918983">
-        <mark key="'" line="60" column="12" />
-        <mark key="[" line="93" column="13" />
-        <mark key="]" line="93" column="18" />
-        <mark key="^" line="93" column="18" />
-        <mark key="." line="93" column="18" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionService.java" timestamp="1501566948397">
-        <mark key="[" line="29" column="34" />
-        <mark key="]" line="30" column="48" />
-        <mark key="^" line="30" column="48" />
-        <mark key="." line="30" column="48" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/homesales/user/domain/User.java" timestamp="1501489034226">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="23" column="31" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/api/OutworkerSystemJwtFilter.java" timestamp="1501468503949">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="23" />
-        <mark key="]" line="43" column="35" />
-        <mark key="." line="43" column="35" />
-        <mark key="^" line="43" column="35" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/UserService.java" timestamp="1501482471953">
-        <mark key="'" line="12" column="9" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
-        <mark key="^" line="45" column="19" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserService.java" timestamp="1501490035620">
-        <mark key="'" line="16" column="26" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="89" column="27" />
-        <mark key="^" line="89" column="27" />
-        <mark key="." line="89" column="27" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-shiro.xml" timestamp="1501496185771">
-        <mark key="'" line="129" column="43" />
-        <mark key="[" line="113" column="87" />
-        <mark key="]" line="113" column="108" />
-        <mark key="." line="113" column="108" />
-        <mark key="^" line="113" column="108" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.9.RELEASE/spring-web-4.2.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" timestamp="1501469392923" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-api/src/main/java/org/hsweb/web/dao/QueryMapper.java" timestamp="1501636698967" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1501571303236" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config.xml" timestamp="1501502601789">
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="24" column="31" />
-        <mark key="." line="24" column="31" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserServiceImpl.java" timestamp="1501490154823">
-        <mark key="[" line="272" column="67" />
-        <mark key="]" line="277" column="7" />
-        <mark key="^" line="277" column="7" />
-        <mark key="." line="277" column="7" />
-      </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-commons/hsweb-commons-entity/src/main/java/org/hswebframework/web/commons/entity/factory/EntityFactory.java" timestamp="1501585868200" />
-      <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-commons/1.0.1/hsweb-commons-1.0.1-sources.jar!/org/hsweb/commons/file/callback/AbstractScanCallBack.java" timestamp="1501634297480" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/UserApiAction.java" timestamp="1501494136069">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="73" column="63" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/outworker/production.properties" timestamp="1501502613170">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="45" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="38" />
-      </file>
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-boost/hsweb-boost-validator/hsweb-boost-validator-api/src/main/java/org/hswebframework/web/boost/validator/annotation/RequiresDuplicate.java" timestamp="1501585600500" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/AbstractService.java" timestamp="1501569381225">
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="50" column="14" />
-        <mark key="^" line="50" column="14" />
-        <mark key="." line="50" column="14" />
-      </file>
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/exception/BusinessException.java" timestamp="1501635129821" />
       <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/permission/service/RoleService.java" timestamp="1501573597537" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-authorization/hsweb-authorization-api/src/main/java/org/hswebframework/web/authorization/access/DataAccessHandler.java" timestamp="1501585532804" />
-      <file name="$MAVEN_REPOSITORY$/org/hswebframework/hsweb-expands-request/3.0.0-SNAPSHOT/hsweb-expands-request-3.0.0-20170704.082952-7-sources.jar!/org/hswebframework/expands/request/http/HttpRequest.java" timestamp="1501586267338" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/annotation/Resource.java" timestamp="1501467675111" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/util/StringUtil.java" timestamp="1501489341519">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="179" column="20" />
-        <mark key="^" line="179" column="20" />
-        <mark key="." line="179" column="20" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/properties/dev.properties" timestamp="1501491077302">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="49" />
-        <mark key="." line="2" column="49" />
-        <mark key="^" line="2" column="49" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-service.xml" timestamp="1501469556060">
-        <mark key="[" line="41" column="51" />
-        <mark key="]" line="41" column="54" />
-        <mark key="^" line="41" column="54" />
-        <mark key="." line="41" column="54" />
-      </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-boost/hsweb-boost-validator/hsweb-boost-validator-api/src/main/java/org/hswebframework/web/boost/validator/DuplicateValidatorConfig.java" timestamp="1501585693533" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/util/WebUtils.java" timestamp="1501480156510">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="50" column="107" />
-        <mark key="]" line="51" column="11" />
-        <mark key="^" line="51" column="11" />
-        <mark key="." line="51" column="11" />
-      </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-boost/hsweb-boost-validator/hsweb-boost-validator-api/src/main/java/org/hswebframework/web/boost/validator/DuplicateValidator.java" timestamp="1501585720654" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/outworker/dev.properties" timestamp="1501502636362">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="44" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-      </file>
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/service/UserService.java" timestamp="1501573557659" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-authorization/hsweb-authorization-api/src/main/java/org/hswebframework/web/authorization/access/DataAccessConfig.java" timestamp="1501585546041" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/realm/UserRealm.java" timestamp="1501479701808" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/V6__Homesales_add_refresh_token.sql" timestamp="1501488051377">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="45" />
-        <mark key="^" line="0" column="45" />
-        <mark key="." line="0" column="45" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1501577167128">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="146" column="31" />
-        <mark key="]" line="146" column="39" />
-        <mark key="." line="146" column="39" />
-        <mark key="^" line="146" column="39" />
-      </file>
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-starter/hsweb-spring-boot-starter/src/main/java/org/hswebframework/web/starter/HswebAutoConfiguration.java" timestamp="1501586112154" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/resources/org.hsweb.web.core.session.redis/getUserIds.lua" timestamp="1501634915477" />
     </filemarks>
     <jumps>
       <jump line="125" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom" />
