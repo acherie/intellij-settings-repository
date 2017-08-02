@@ -5,40 +5,10 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-commons/1.0.1/hsweb-commons-1.0.1-sources.jar!/org/hsweb/commons/StringUtils.java" timestamp="1501634362904" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-commons/hsweb-commons-entity/src/main/java/org/hswebframework/web/commons/entity/factory/PropertyCopier.java" timestamp="1501586139732" />
-      <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-easy-orm-rdb/1.1/hsweb-easy-orm-rdb-1.1-sources.jar!/org/hsweb/ezorm/rdb/RDBDatabase.java" timestamp="1501636289779" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/resources/org/hsweb/web/dao/impl/mybatis/mapper/user/UserMapper.xml" timestamp="1501636890946" />
-      <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-easy-orm-rdb/1.1/hsweb-easy-orm-rdb-1.1-sources.jar!/org/hsweb/ezorm/rdb/render/support/mysql/MysqlDeleteSqlRender.java" timestamp="1501636251958" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1501496310390" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleCommentController.java" timestamp="1501570701557" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.9.RELEASE/spring-web-4.2.9.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" timestamp="1501469392923" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/java/org/hsweb/web/mybatis/dynamic/DynamicSqlSessionFactory.java" timestamp="1501636042202" />
-      <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-commons/1.0.1/hsweb-commons-1.0.1-sources.jar!/org/hsweb/commons/file/callback/AbstractScanCallBack.java" timestamp="1501634297480" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-boost/hsweb-boost-validator/hsweb-boost-validator-api/src/main/java/org/hswebframework/web/boost/validator/annotation/RequiresDuplicate.java" timestamp="1501585600500" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/datasource/DynamicDataSource.java" timestamp="1501635241675" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/message/ResponseMessage.java" timestamp="1501635551973" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/ControllerAutoConfiguration.java" timestamp="1501635289150" />
-      <file name="$MAVEN_REPOSITORY$/org/hswebframework/hsweb-expands-request/3.0.0-SNAPSHOT/hsweb-expands-request-3.0.0-20170704.082952-7-sources.jar!/org/hswebframework/expands/request/http/HttpRequest.java" timestamp="1501586267338" />
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/service/UserService.java" timestamp="1501573557659" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/realm/UserRealm.java" timestamp="1501479701808" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-starter/hsweb-spring-boot-starter/src/main/java/org/hswebframework/web/starter/HswebAutoConfiguration.java" timestamp="1501586112154" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/authc/CustomFormAuthenticationFilter.java" timestamp="1501479535955" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-commons/hsweb-commons-entity/src/main/java/org/hswebframework/web/commons/entity/factory/MapperEntityFactory.java" timestamp="1501585908621" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-commons/hsweb-commons-entity/src/main/java/org/hswebframework/web/commons/entity/param/QueryParamEntity.java" timestamp="1501586165522" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/java/org/hsweb/web/mybatis/MybatisProperties.java" timestamp="1501635819264" />
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/organization/service/OrganizationService.java" timestamp="1501573607917" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-api/src/main/java/org/hsweb/web/dao/QueryMapper.java" timestamp="1501636698967" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1501571303236" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-commons/hsweb-commons-entity/src/main/java/org/hswebframework/web/commons/entity/factory/EntityFactory.java" timestamp="1501585868200" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/exception/BusinessException.java" timestamp="1501635129821" />
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/permission/service/RoleService.java" timestamp="1501573597537" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-authorization/hsweb-authorization-api/src/main/java/org/hswebframework/web/authorization/access/DataAccessHandler.java" timestamp="1501585532804" />
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/annotation/Resource.java" timestamp="1501467675111" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-boost/hsweb-boost-validator/hsweb-boost-validator-api/src/main/java/org/hswebframework/web/boost/validator/DuplicateValidatorConfig.java" timestamp="1501585693533" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-boost/hsweb-boost-validator/hsweb-boost-validator-api/src/main/java/org/hswebframework/web/boost/validator/DuplicateValidator.java" timestamp="1501585720654" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-authorization/hsweb-authorization-api/src/main/java/org/hswebframework/web/authorization/access/DataAccessConfig.java" timestamp="1501585546041" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/resources/org.hsweb.web.core.session.redis/getUserIds.lua" timestamp="1501634915477" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/login/AuthorizeController.java" timestamp="1501639516992" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/authorize/annotation/Authorize.java" timestamp="1501639452475" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/login/UserModuleController.java" timestamp="1501639553824" />
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1501639155832" />
     </filemarks>
     <jumps>
       <jump line="125" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom" />
@@ -238,7 +208,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
