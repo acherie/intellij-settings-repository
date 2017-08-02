@@ -9,6 +9,7 @@
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/authorize/annotation/Authorize.java" timestamp="1501639452475" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/login/UserModuleController.java" timestamp="1501639553824" />
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1501639155832" />
+      <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/entity/search/Searchable.java" timestamp="1501640168814" />
     </filemarks>
     <jumps>
       <jump line="125" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom" />
