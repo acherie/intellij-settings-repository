@@ -13,7 +13,8 @@
         <mark key="." line="64" column="57" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/spring-data-commons-1.11.5.RELEASE-sources.jar!/org/springframework/data/repository/PagingAndSortingRepository.java" timestamp="1501749037404" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/resources/org/hsweb/web/dao/impl/mybatis/mapper/basic/BasicMapper.xml" timestamp="1501749861518" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/resources/org/hsweb/web/dao/impl/mybatis/mapper/basic/BasicMapper.xml" timestamp="1501750416995" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/java/org/hsweb/web/mybatis/builder/EasyOrmSqlBuilder.java" timestamp="1501750459538" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/login/AuthorizeController.java" timestamp="1501639516992" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/resources/org/hsweb/web/dao/impl/mybatis/mapper/user/UserMapper.xml" timestamp="1501749626636" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-api/src/main/java/org/hsweb/web/dao/user/UserMapper.java" timestamp="1501749598028" />
@@ -39,6 +40,7 @@
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/GenericController.java" timestamp="1501749533813" />
       <file name="D:/IdeaProjects/foblog/src/main/java/studio/baxia/fo/controller/ProjectController.java" timestamp="1501748406105" />
       <file name="D:/SpringCloud/spring-cloud-microservice-example/movie-microservice/src/main/docker/Dockerfile" timestamp="1501749297298" />
+      <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-easy-orm-rdb/1.1/hsweb-easy-orm-rdb-1.1-sources.jar!/org/hsweb/ezorm/rdb/render/dialect/MysqlRDBDatabaseMetaData.java" timestamp="1501750501823" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/login/UserModuleController.java" timestamp="1501639553824" />
       <file name="D:/IdeaProjects/jeesite/src/main/java/com/thinkgem/jeesite/common/persistence/BaseEntity.java" timestamp="1501748563113" />
       <file name="/Dummy.txt" timestamp="1501745518263">
