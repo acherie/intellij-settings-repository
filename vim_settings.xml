@@ -12,7 +12,11 @@
         <mark key="^" line="64" column="57" />
         <mark key="." line="64" column="57" />
       </file>
+      <file name="$USER_HOME$/.ideaLibSources/spring-data-commons-1.11.5.RELEASE-sources.jar!/org/springframework/data/repository/PagingAndSortingRepository.java" timestamp="1501749037404" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/resources/org/hsweb/web/dao/impl/mybatis/mapper/basic/BasicMapper.xml" timestamp="1501749861518" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/login/AuthorizeController.java" timestamp="1501639516992" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/resources/org/hsweb/web/dao/impl/mybatis/mapper/user/UserMapper.xml" timestamp="1501749626636" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-api/src/main/java/org/hsweb/web/dao/user/UserMapper.java" timestamp="1501749598028" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/authorize/annotation/Authorize.java" timestamp="1501639452475" />
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/Page.java" timestamp="1501661279776" />
       <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-easy-orm-core/1.1/hsweb-easy-orm-core-1.1-sources.jar!/org/hsweb/ezorm/core/param/Param.java" timestamp="1501640969512" />
@@ -30,26 +34,13 @@
       </file>
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/repository/RepositoryHelper.java" timestamp="1501655059167" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/repository/callback/DefaultSearchCallback.java" timestamp="1501667395520" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionConversationMapper.xml" timestamp="1501656781886">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="43" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="39" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/SocialQuestionCommentQuery.java" timestamp="1501657986894">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
-      </file>
+      <file name="D:/SpringCloud/spring-cloud-microservice-example/movies-ui/src/main/java/application/clients/UserClient.java" timestamp="1501749275557" />
       <file name="D:/IdeaProjects/iBase4J/pom-sys-service-server.xml" timestamp="1501671342981" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionConversation.java" timestamp="1501660867262">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="19" column="13" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="19" column="13" />
-      </file>
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/GenericController.java" timestamp="1501749533813" />
+      <file name="D:/IdeaProjects/foblog/src/main/java/studio/baxia/fo/controller/ProjectController.java" timestamp="1501748406105" />
+      <file name="D:/SpringCloud/spring-cloud-microservice-example/movie-microservice/src/main/docker/Dockerfile" timestamp="1501749297298" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/login/UserModuleController.java" timestamp="1501639553824" />
+      <file name="D:/IdeaProjects/jeesite/src/main/java/com/thinkgem/jeesite/common/persistence/BaseEntity.java" timestamp="1501748563113" />
       <file name="/Dummy.txt" timestamp="1501745518263">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,16 +52,10 @@
         <mark key="^" line="16" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/parser/OrderByParser.java" timestamp="1501661434034" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialQuestionConversationMapper.java" timestamp="1501656546812">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-      </file>
+      <file name="$USER_HOME$/.ideaLibSources/spring-data-commons-1.11.5.RELEASE-sources.jar!/org/springframework/data/domain/Pageable.java" timestamp="1501748727509" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.5.RELEASE/spring-data-commons-1.11.5.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class" timestamp="1501748669754" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/user/UserController.java" timestamp="1501749442305" />
       <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-easy-orm-core/1.1/hsweb-easy-orm-core-1.1-sources.jar!/org/hsweb/ezorm/core/param/Term.java" timestamp="1501640860369" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1501658750867">
-        <mark key="'" line="138" column="24" />
-      </file>
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/repository/callback/SearchCallback.java" timestamp="1501654966551" />
     </filemarks>
     <jumps>
