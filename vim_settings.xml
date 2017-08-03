@@ -6,39 +6,27 @@
     </globalmarks>
     <filemarks>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionConversationController.java" timestamp="1501666203627">
-        <mark key="'" line="125" column="10" />
-        <mark key="[" line="75" column="58" />
-        <mark key="]" line="75" column="57" />
-        <mark key="^" line="75" column="57" />
-        <mark key="." line="75" column="57" />
+        <mark key="'" line="114" column="10" />
+        <mark key="[" line="64" column="58" />
+        <mark key="]" line="64" column="57" />
+        <mark key="^" line="64" column="57" />
+        <mark key="." line="64" column="57" />
       </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/login/AuthorizeController.java" timestamp="1501639516992" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/authorize/annotation/Authorize.java" timestamp="1501639452475" />
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/Page.java" timestamp="1501661279776" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionCommentService.java" timestamp="1501665436557">
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="71" />
-        <mark key="." line="58" column="71" />
-        <mark key="^" line="58" column="71" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-easy-orm-core/1.1/hsweb-easy-orm-core-1.1-sources.jar!/org/hsweb/ezorm/core/param/Param.java" timestamp="1501640969512" />
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/PaginationInterceptor.java" timestamp="1501662087728" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-bean/src/main/java/org/hsweb/web/bean/common/QueryParam.java" timestamp="1501640849617" />
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/dialect/AbstractDialect.java" timestamp="1501662005972" />
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/dialect/MySqlDialect.java" timestamp="1501661944095" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/entity/search/Searchable.java" timestamp="1501640168814" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialQuestionCommentMapper.java" timestamp="1501653937419">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1501744026943">
-        <mark key="'" line="127" column="9" />
-        <mark key="[" line="71" column="17" />
-        <mark key="]" line="71" column="24" />
-        <mark key="." line="71" column="24" />
-        <mark key="^" line="71" column="24" />
+        <mark key="'" line="120" column="9" />
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="24" />
+        <mark key="." line="64" column="24" />
+        <mark key="^" line="64" column="24" />
       </file>
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/repository/RepositoryHelper.java" timestamp="1501655059167" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/repository/callback/DefaultSearchCallback.java" timestamp="1501667395520" />
@@ -49,19 +37,12 @@
         <mark key="." line="22" column="39" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/SocialQuestionCommentQuery.java" timestamp="1501657986894">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="29" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="29" />
       </file>
       <file name="D:/IdeaProjects/iBase4J/pom-sys-service-server.xml" timestamp="1501671342981" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1501659069979">
-        <mark key="'" line="34" column="24" />
-        <mark key="[" line="52" column="87" />
-        <mark key="]" line="53" column="24" />
-        <mark key="^" line="53" column="24" />
-        <mark key="." line="53" column="24" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionConversation.java" timestamp="1501660867262">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="19" column="13" />
@@ -69,12 +50,15 @@
         <mark key="." line="19" column="13" />
       </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/login/UserModuleController.java" timestamp="1501639553824" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionComment.java" timestamp="1501653798676">
-        <mark key="'" line="23" column="3" />
-        <mark key="[" line="157" column="5" />
-        <mark key="]" line="159" column="32" />
-        <mark key="." line="159" column="32" />
-        <mark key="^" line="159" column="32" />
+      <file name="/Dummy.txt" timestamp="1501745518263">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionComment.java" timestamp="1501745365200">
+        <mark key="'" line="26" column="3" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+        <mark key="^" line="16" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/parser/OrderByParser.java" timestamp="1501661434034" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialQuestionConversationMapper.java" timestamp="1501656546812">
