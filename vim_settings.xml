@@ -59,6 +59,7 @@
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/user/UserController.java" timestamp="1501749442305" />
       <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-easy-orm-core/1.1/hsweb-easy-orm-core-1.1-sources.jar!/org/hsweb/ezorm/core/param/Term.java" timestamp="1501640860369" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/repository/callback/SearchCallback.java" timestamp="1501654966551" />
+      <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/entity/search/SearchRequest.java" timestamp="1501751974996" />
     </filemarks>
     <jumps>
       <jump line="89" column="26" filename="D:/Projects/nongtianquan/backend/src/main/resources/logback-spring.xml" />
