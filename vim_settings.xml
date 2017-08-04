@@ -5,12 +5,12 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1501830184020">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1501831873657">
         <mark key="'" line="149" column="21" />
         <mark key="[" line="71" column="9" />
-        <mark key="]" line="70" column="57" />
-        <mark key="^" line="70" column="57" />
-        <mark key="." line="70" column="57" />
+        <mark key="]" line="73" column="61" />
+        <mark key="^" line="73" column="61" />
+        <mark key="." line="73" column="61" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialFollowMapper.java" timestamp="1501814166376">
         <mark key="[" line="8" column="66" />
@@ -58,16 +58,20 @@
         <mark key="." line="58" column="47" />
         <mark key="^" line="58" column="47" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" timestamp="1501826576927">
-        <mark key="[" line="28" column="43" />
-        <mark key="]" line="35" column="9" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="28" column="72" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" timestamp="1501832047378">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1501814989307">
         <mark key="'" line="61" column="9" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/qiniu/QiniuFile.java" timestamp="1501827516019" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleTagService.java" timestamp="1501831800246">
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialArticleMapper.java" timestamp="1501813259784">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="63" />
@@ -76,8 +80,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="27" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
-      <jump line="27" column="9" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
       <jump line="82" column="8" filename="D:/Projects/nongtianquan/backend/pom.xml" />
       <jump line="18" column="39" filename="D:/Projects/nongtianquan/backend/pom.xml" />
       <jump line="186" column="0" filename="D:/Projects/nongtianquan/backend/pom.xml" />
@@ -176,6 +178,8 @@
       <jump line="131" column="14" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" />
       <jump line="130" column="53" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" />
       <jump line="142" column="21" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" />
+      <jump line="28" column="56" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" />
+      <jump line="40" column="10" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -221,19 +225,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpY2xlLnNldFRodW1ibmFpbCgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgc2F2ZU9yVXBkYXRlVGFncyhJbnRlZ2VyIGFydGljbGVJZCwgTGlzdDxTb2NpYWxBcnRpY2xlVGFnPiB0YWdzKSB7CgogICAgICAgIGlmIChhcnRpY2xlSWQgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9CgogICAgICAgIExpc3Q8U29jaWFsQXJ0aWNsZVRhZz4gb2xkVGFncyA9IGFydGljbGVUYWdTZXJ2aWNlLmxpc3RCeUFydGljbGVJZChhcnRpY2xlSWQpOwogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBmaWxsQXJ0aWNsZShTb2NpYWxBcnRpY2xlIGFydGljbGUpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcnRpY2xlLnNldFRodW1ibmFpbCgpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
@@ -245,13 +249,13 @@
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHBhZ2UgPSBJbnRlZ2VyLnBhcnNlSW50KChTdHJpbmcpIHBhcmFtcy5nZXRPckRlZmF1bHQoInBhZ2UiLCAiMCIpKTsKICAgICAgICBJbnRlZ2VyIHNpemUgPSBJbnRlZ2VyLnBhcnNlSW50KChTdHJpbmcpIHBhcmFtcy5nZXRPckRlZmF1bHQoInNpemUiLCAiMCIpKTsKCiAgICAgICAgaWYgKHBhZ2UgIT0gMCAmJiBzaXplICE9IDApIHsKICAgICAgICAgICAgUGFnZUhlbHBlci5zdGFydFBhZ2UocGFnZSwgc2l6ZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBmaWxsQXJ0aWNsZShTb2NpYWxBcnRpY2xlIGFydGljbGUpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBBY2NvdW50VXNlclNlcnZpY2UgdXNlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpOwo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
