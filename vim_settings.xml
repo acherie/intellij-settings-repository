@@ -19,12 +19,12 @@
         <mark key="." line="10" column="92" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Map.java" timestamp="1501818449801" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialArticleMapper.xml" timestamp="1501834773426">
-        <mark key="'" line="52" column="19" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialArticleMapper.xml" timestamp="1501836553491">
+        <mark key="'" line="53" column="19" />
         <mark key="[" line="39" column="20" />
-        <mark key="]" line="39" column="20" />
-        <mark key="." line="39" column="20" />
-        <mark key="^" line="61" column="19" />
+        <mark key="]" line="51" column="14" />
+        <mark key="." line="51" column="14" />
+        <mark key="^" line="51" column="14" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1501814322796">
         <mark key="'" line="5" column="13" />
@@ -67,6 +67,7 @@
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1501814989307">
         <mark key="'" line="61" column="9" />
       </file>
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/controllers/useraccount.js" timestamp="1501836842199" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/qiniu/QiniuFile.java" timestamp="1501827516019" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleTagService.java" timestamp="1501831800246">
         <mark key="]" line="34" column="3" />
