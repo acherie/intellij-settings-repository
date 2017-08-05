@@ -36,7 +36,7 @@
         <mark key="^" line="10" column="92" />
         <mark key="." line="10" column="92" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialArticleMapper.xml" timestamp="1501836553491">
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialArticleMapper.xml" timestamp="1501897830442">
         <mark key="'" line="53" column="19" />
         <mark key="[" line="39" column="20" />
         <mark key="]" line="51" column="14" />
@@ -64,7 +64,6 @@
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1501814989307">
         <mark key="'" line="61" column="9" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/docker/Dockerfile" timestamp="1501853381849" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1501814322796">
         <mark key="'" line="5" column="13" />
         <mark key="[" line="30" column="0" />
