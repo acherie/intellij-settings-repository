@@ -5,14 +5,7 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1501834500762">
-        <mark key="'" line="44" column="41" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="57" />
-        <mark key="^" line="44" column="41" />
-        <mark key="." line="73" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1502101499617">
+      <file name="/Dummy.txt" timestamp="1502155128742">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialArticleCommentMapper.xml" timestamp="1501815848935">
@@ -34,10 +27,10 @@
         <mark key="." line="8" column="71" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialFollowMapper.java" timestamp="1501814166376">
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="10" column="92" />
-        <mark key="^" line="10" column="92" />
-        <mark key="." line="10" column="92" />
+        <mark key="[" line="6" column="66" />
+        <mark key="]" line="8" column="92" />
+        <mark key="^" line="8" column="92" />
+        <mark key="." line="8" column="92" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialArticleMapper.xml" timestamp="1501897830442">
         <mark key="'" line="53" column="19" />
@@ -47,9 +40,9 @@
         <mark key="^" line="51" column="14" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleTagService.java" timestamp="1501831800246">
-        <mark key="]" line="34" column="3" />
-        <mark key="^" line="34" column="3" />
-        <mark key="." line="34" column="3" />
+        <mark key="]" line="33" column="3" />
+        <mark key="^" line="33" column="3" />
+        <mark key="." line="33" column="3" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticle.java" timestamp="1501833692108">
         <mark key="'" line="45" column="13" />
@@ -65,20 +58,17 @@
         <mark key="." line="10" column="63" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1501814989307">
-        <mark key="'" line="61" column="9" />
+        <mark key="'" line="106" column="9" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1501814322796">
         <mark key="'" line="5" column="13" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="34" column="38" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" timestamp="1501833600834">
-        <mark key="[" line="62" column="9" />
-        <mark key="]" line="65" column="28" />
-        <mark key="." line="65" column="28" />
-        <mark key="^" line="65" column="28" />
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="61" column="28" />
+        <mark key="." line="61" column="28" />
+        <mark key="^" line="61" column="28" />
       </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1501811985462" />
     </filemarks>
     <jumps>
       <jump line="18" column="39" filename="D:/Projects/nongtianquan/backend/pom.xml" />
