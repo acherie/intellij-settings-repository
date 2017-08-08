@@ -95,12 +95,18 @@
         <mark key="^" line="11" column="71" />
         <mark key="." line="11" column="71" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/homesales/user/domain/User.java" timestamp="1502187764958" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionTagMapper.xml" timestamp="1502186157143">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="42" column="15" />
         <mark key="." line="40" column="30" />
         <mark key="^" line="40" column="30" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleTagService.java" timestamp="1502186434340">
+        <mark key="]" line="62" column="3" />
+        <mark key="^" line="62" column="3" />
+        <mark key="." line="62" column="3" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticle.java" timestamp="1502156691611">
         <mark key="[" line="264" column="5" />
