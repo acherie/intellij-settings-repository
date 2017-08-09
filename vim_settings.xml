@@ -12,56 +12,12 @@
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1502258482212">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialArticleTagMapper.xml" timestamp="1502193240666">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="32" column="17" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="20" column="23" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionTag.java" timestamp="1502246647689">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="33" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialFollowMapper.java" timestamp="1501814166376">
-        <mark key="[" line="9" column="66" />
-        <mark key="]" line="11" column="92" />
-        <mark key="^" line="11" column="92" />
-        <mark key="." line="11" column="92" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialArticleMapper.xml" timestamp="1502183149697">
-        <mark key="'" line="70" column="9" />
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="99" column="14" />
-        <mark key="^" line="99" column="14" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialQuestionTagMapper.java" timestamp="1502186044824">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="61" />
-        <mark key="^" line="14" column="21" />
-        <mark key="." line="12" column="39" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialArticleTagMapper.java" timestamp="1502186062280">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleTag.java" timestamp="1502239905789">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="36" />
-        <mark key="^" line="16" column="36" />
-        <mark key="." line="16" column="36" />
-      </file>
       <file name="/Dummy.txt" timestamp="1502259738102">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialArticleCommentMapper.xml" timestamp="1501815848935">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="39" />
-        <mark key="^" line="34" column="35" />
-        <mark key="." line="34" column="35" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleCommentController.java" timestamp="1502259396866">
         <mark key="'" line="104" column="11" />
@@ -70,51 +26,8 @@
         <mark key="^" line="98" column="43" />
         <mark key="." line="98" column="43" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialFollowMapper.xml" timestamp="1501815052161">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="30" column="54" />
-        <mark key="^" line="30" column="54" />
-        <mark key="." line="30" column="54" />
-      </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/.gitignore" timestamp="1502177219401">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-      </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/app/js/app.js" timestamp="1502177133654">
         <mark key="[" line="3" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialArticleCommentMapper.java" timestamp="1501815724247">
-        <mark key="[" line="9" column="82" />
-        <mark key="]" line="11" column="71" />
-        <mark key="^" line="11" column="71" />
-        <mark key="." line="11" column="71" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionTagMapper.xml" timestamp="1502193276048">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="24" />
-        <mark key="." line="33" column="24" />
-        <mark key="^" line="33" column="24" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialTagService.java" timestamp="1502241386177">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="28" column="47" />
-        <mark key="^" line="28" column="47" />
-        <mark key="." line="28" column="47" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialArticleMapper.java" timestamp="1501813259784">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="63" />
-        <mark key="^" line="15" column="63" />
-        <mark key="." line="15" column="63" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/ImageController.java" timestamp="1502161997054">
-        <mark key="[" line="118" column="57" />
-        <mark key="]" line="118" column="62" />
-        <mark key="^" line="118" column="62" />
-        <mark key="." line="118" column="62" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialTag.java" timestamp="1502183346629">
         <mark key="[" line="5" column="15" />
