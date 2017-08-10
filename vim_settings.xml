@@ -12,12 +12,12 @@
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1502258482212">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1502259738102">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionTag.java" timestamp="1502246647689">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1502259738102">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleCommentController.java" timestamp="1502259396866">
         <mark key="'" line="104" column="11" />
@@ -33,6 +33,7 @@
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/util/SqlUtil.java" timestamp="1502326906903" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" timestamp="1502242475839">
         <mark key="'" line="24" column="32" />
         <mark key="[" line="66" column="9" />
@@ -40,7 +41,7 @@
         <mark key="." line="68" column="54" />
         <mark key="^" line="68" column="54" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1502279772077" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1502326406675" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1502262689529">
         <mark key="[" line="123" column="5" />
         <mark key="]" line="123" column="17" />
@@ -50,6 +51,7 @@
       <file name="/fragment.java" timestamp="1502259315612">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1502326308606" />
     </filemarks>
     <jumps>
       <jump line="66" column="12" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/generator/generatorConfig.xml" />
