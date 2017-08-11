@@ -16,10 +16,9 @@
         <mark key="." line="146" column="16" />
         <mark key="^" line="146" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502336732068">
+      <file name="/Dummy.txt" timestamp="1502379561243">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/properties/dev.properties" timestamp="1502367716263" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionTag.java" timestamp="1502246647689">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="33" />
@@ -45,7 +44,6 @@
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/util/SqlUtil.java" timestamp="1502326906903" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" timestamp="1502242475839">
         <mark key="'" line="24" column="32" />
         <mark key="[" line="66" column="9" />
@@ -53,7 +51,6 @@
         <mark key="." line="68" column="54" />
         <mark key="^" line="68" column="54" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1502326406675" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1502335364110">
         <mark key="[" line="123" column="16" />
         <mark key="]" line="123" column="16" />
