@@ -45,7 +45,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/method/annotation/ModelAttributeMethodProcessor.java" timestamp="1502438766662" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1502441245134" />
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/base/insert/InsertSelectiveMapper.java" timestamp="1502441546829" />
-      <file name="/Dummy.txt" timestamp="1502432463355">
+      <file name="/Dummy.txt" timestamp="1502442774398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/mapperhelper/SqlHelper.java" timestamp="1502441497468" />
@@ -64,6 +64,7 @@
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="24" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCatalogService.java" timestamp="1502443034991" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1502432445629" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1502438988971">
         <mark key="[" line="64" column="39" />
