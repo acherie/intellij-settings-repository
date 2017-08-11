@@ -5,7 +5,7 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionConversationController.java" timestamp="1502439009346">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionConversationController.java" timestamp="1502441252667">
         <mark key="[" line="61" column="39" />
         <mark key="]" line="61" column="51" />
         <mark key="^" line="61" column="51" />
@@ -26,6 +26,7 @@
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="33" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/provider/base/BaseInsertProvider.java" timestamp="1502441784562" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE-sources.jar!/org/springframework/util/StringUtils.java" timestamp="1502431211622" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleConversationController.java" timestamp="1502439147511">
         <mark key="'" line="112" column="45" />
@@ -40,16 +41,14 @@
         <mark key="^" line="54" column="4" />
         <mark key="." line="54" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/mapperhelper/MapperTemplate.java" timestamp="1502441328283" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/method/annotation/ModelAttributeMethodProcessor.java" timestamp="1502438766662" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1502440370555" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1502441245134" />
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/base/insert/InsertSelectiveMapper.java" timestamp="1502441546829" />
       <file name="/Dummy.txt" timestamp="1502432463355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/properties/dev.properties" timestamp="1502421550124">
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/mapperhelper/SqlHelper.java" timestamp="1502441497468" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Objects.java" timestamp="1502417350184" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/app/js/app.js" timestamp="1502177133654">
         <mark key="[" line="3" column="0" />
