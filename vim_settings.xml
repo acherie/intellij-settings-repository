@@ -22,7 +22,7 @@
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502442774398">
+      <file name="/Dummy.txt" timestamp="1502680150216">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionTag.java" timestamp="1502246647689">
@@ -45,6 +45,7 @@
         <mark key="." line="53" column="15" />
         <mark key="^" line="53" column="15" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/UserApiAction.java" timestamp="1502680245023" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialTag.java" timestamp="1502183346629">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="24" />
@@ -55,11 +56,24 @@
         <mark key="^" line="54" column="4" />
         <mark key="." line="54" column="4" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/constant/State.java" timestamp="1502679810171">
+        <mark key="'" line="8" column="24" />
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="29" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1502677897915">
         <mark key="[" line="35" column="26" />
         <mark key="]" line="35" column="39" />
         <mark key="^" line="35" column="39" />
         <mark key="." line="35" column="39" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1502679789636">
+        <mark key="[" line="123" column="37" />
+        <mark key="]" line="123" column="53" />
+        <mark key="^" line="123" column="53" />
+        <mark key="." line="123" column="53" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1502504252369">
         <mark key="[" line="64" column="39" />
@@ -73,7 +87,6 @@
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1502500441257" />
     </filemarks>
     <jumps>
-      <jump line="79" column="8" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/AreaServiceImpl.java" />
       <jump line="49" column="17" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/UserServiceImpl.java" />
       <jump line="58" column="6" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/UserApiAction.java" />
       <jump line="46" column="10" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/UserApiAction.java" />
@@ -173,13 +186,14 @@
       <jump line="14" column="25" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductCatalog.java" />
       <jump line="32" column="23" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" />
       <jump line="24" column="33" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCatalogService.java" />
+      <jump line="8" column="24" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/constant/State.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBKU09ORmllbGQoZm9ybWF0ID0gInl5eXktTU0tZGQgSEg6bW06c3MiKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -200,10 +214,10 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>get(id);</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>beanutils</text>
+        <text encoding="base64">XDx2YWxpZFw+</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -264,17 +278,16 @@
       </register>
     </registers>
     <search>
-      <last-search>beanutils</last-search>
+      <last-search encoding="base64">XDx2YWxpZFw+</last-search>
       <last-offset />
-      <last-pattern>beanutils</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZFw+</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb2xlSm9pbnNcPg==</entry>
         <entry encoding="base64">XDxhZGRVc2Vyc0ZvclJvbGVcPg==</entry>
         <entry encoding="base64">XDx1c2VyQ29kZXNcPg==</entry>
         <entry>p_user_role</entry>
@@ -294,6 +307,7 @@
         <entry>jjwt</entry>
         <entry>utf</entry>
         <entry>beanutils</entry>
+        <entry encoding="base64">XDx2YWxpZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
