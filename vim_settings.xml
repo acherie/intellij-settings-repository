@@ -25,10 +25,12 @@
       <file name="/Dummy.txt" timestamp="1502680150216">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/base/delete/DeleteMapper.java" timestamp="1502681791541" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionTag.java" timestamp="1502246647689">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="33" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/base/delete/DeleteByPrimaryKeyMapper.java" timestamp="1502681904662" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/app/js/app.js" timestamp="1502177133654">
         <mark key="[" line="3" column="0" />
       </file>
@@ -45,6 +47,9 @@
         <mark key="." line="53" column="15" />
         <mark key="^" line="53" column="15" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Service.java" timestamp="1502681687893">
+        <mark key="'" line="12" column="14" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/UserApiAction.java" timestamp="1502680245023" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialTag.java" timestamp="1502183346629">
         <mark key="[" line="5" column="15" />
@@ -56,6 +61,7 @@
         <mark key="^" line="54" column="4" />
         <mark key="." line="54" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/provider/base/BaseDeleteProvider.java" timestamp="1502681815959" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/constant/State.java" timestamp="1502679810171">
         <mark key="'" line="8" column="24" />
         <mark key="[" line="8" column="24" />
@@ -69,7 +75,7 @@
         <mark key="^" line="35" column="39" />
         <mark key="." line="35" column="39" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1502679789636">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1502681516101">
         <mark key="[" line="123" column="37" />
         <mark key="]" line="123" column="53" />
         <mark key="^" line="123" column="53" />
@@ -87,7 +93,6 @@
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1502500441257" />
     </filemarks>
     <jumps>
-      <jump line="49" column="17" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/UserServiceImpl.java" />
       <jump line="58" column="6" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/UserApiAction.java" />
       <jump line="46" column="10" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/UserApiAction.java" />
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" />
@@ -187,6 +192,7 @@
       <jump line="32" column="23" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" />
       <jump line="24" column="33" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCatalogService.java" />
       <jump line="8" column="24" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/constant/State.java" />
+      <jump line="12" column="14" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Service.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
