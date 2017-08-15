@@ -5,6 +5,12 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductLottery.java" timestamp="1502761391658">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="39" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleConversation.java" timestamp="1502696250361">
         <mark key="'" line="8" column="13" />
         <mark key="[" line="30" column="0" />
@@ -102,12 +108,12 @@
         <mark key="." line="75" column="17" />
         <mark key="^" line="75" column="17" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" timestamp="1502760294749">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="110" column="63" />
-        <mark key="]" line="111" column="55" />
-        <mark key="." line="111" column="55" />
-        <mark key="^" line="111" column="55" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" timestamp="1502762551597">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="145" column="54" />
+        <mark key="]" line="145" column="72" />
+        <mark key="." line="145" column="72" />
+        <mark key="^" line="145" column="72" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticle.java" timestamp="1502693479861">
         <mark key="'" line="0" column="0" />
@@ -134,6 +140,12 @@
         <mark key="]" line="70" column="26" />
         <mark key="." line="70" column="26" />
         <mark key="^" line="70" column="26" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductCatalog.java" timestamp="1502761844768">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="42" />
+        <mark key="^" line="30" column="42" />
+        <mark key="." line="30" column="42" />
       </file>
       <file name="/fragment.java" timestamp="1502691940809">
         <mark key="[" line="0" column="0" />
