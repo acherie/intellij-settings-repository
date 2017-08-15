@@ -5,8 +5,6 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/supplier/FactoryAction.java" timestamp="1502697068446" />
-      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/base/delete/DeleteByPrimaryKeyMapper.java" timestamp="1502681904662" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleConversation.java" timestamp="1502696250361">
         <mark key="'" line="8" column="13" />
         <mark key="[" line="30" column="0" />
@@ -20,6 +18,13 @@
         <mark key="." line="4" column="65" />
         <mark key="^" line="4" column="65" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Service.java" timestamp="1502690236146">
+        <mark key="'" line="12" column="14" />
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="26" column="63" />
+        <mark key="^" line="26" column="63" />
+        <mark key="." line="26" column="63" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductLotteryService.java" timestamp="1502700199084">
         <mark key="[" line="49" column="9" />
         <mark key="]" line="51" column="22" />
@@ -32,64 +37,6 @@
         <mark key="^" line="77" column="41" />
         <mark key="." line="77" column="41" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1502677897915">
-        <mark key="[" line="35" column="26" />
-        <mark key="]" line="35" column="39" />
-        <mark key="^" line="35" column="39" />
-        <mark key="." line="35" column="39" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionCommentService.java" timestamp="1502697933820">
-        <mark key="[" line="48" column="43" />
-        <mark key="]" line="48" column="63" />
-        <mark key="^" line="48" column="63" />
-        <mark key="." line="48" column="63" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/mybatis/DeleteLogicalMapper.java" timestamp="1502690957653">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-      </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/app/js/app.js" timestamp="1502177133654">
-        <mark key="[" line="3" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionService.java" timestamp="1502421208152">
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="75" column="17" />
-        <mark key="." line="75" column="17" />
-        <mark key="^" line="75" column="17" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticle.java" timestamp="1502693479861">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="62" column="26" />
-        <mark key="]" line="62" column="42" />
-        <mark key="^" line="62" column="42" />
-        <mark key="." line="62" column="42" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/ids/SelectByIdsMapper.java" timestamp="1502690050475" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/ProductCatalogInfo.java" timestamp="1502698653031">
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="16" column="46" />
-        <mark key="^" line="16" column="46" />
-        <mark key="." line="16" column="46" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialQuestionCommentMapper.java" timestamp="1502694848107">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="12" column="17" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1502693212953" />
-      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/base/BaseUpdateMapper.java" timestamp="1502689872077" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Service.java" timestamp="1502690236146">
-        <mark key="'" line="12" column="14" />
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="26" column="63" />
-        <mark key="^" line="26" column="63" />
-        <mark key="." line="26" column="63" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/SocialQuestionCommentQuery.java" timestamp="1502697479463" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/UserApiAction.java" timestamp="1502680245023" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1502697875231">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="67" column="17" />
@@ -107,7 +54,6 @@
         <mark key="^" line="46" column="18" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/supplier/ProduceFactoryInfo.java" timestamp="1502697084311" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionConversation.java" timestamp="1502693294829">
         <mark key="'" line="8" column="13" />
         <mark key="[" line="28" column="27" />
@@ -115,13 +61,31 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="30" column="42" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1502677897915">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="39" />
+        <mark key="^" line="35" column="39" />
+        <mark key="." line="35" column="39" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" timestamp="1502699430066">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionCommentService.java" timestamp="1502697933820">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="48" column="63" />
+        <mark key="^" line="48" column="63" />
+        <mark key="." line="48" column="63" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/mybatis/DeleteLogicalMapper.java" timestamp="1502690957653">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+      </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1502759628501" />
       <file name="/Dummy.txt" timestamp="1502698022695">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/mapperhelper/SqlHelper.java" timestamp="1502682531931" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleComment.java" timestamp="1502696169815">
         <mark key="'" line="8" column="13" />
         <mark key="[" line="39" column="0" />
@@ -129,12 +93,40 @@
         <mark key="^" line="39" column="42" />
         <mark key="." line="39" column="42" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" timestamp="1502701147077">
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/app/js/app.js" timestamp="1502177133654">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionService.java" timestamp="1502421208152">
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="75" column="17" />
+        <mark key="." line="75" column="17" />
+        <mark key="^" line="75" column="17" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" timestamp="1502760294749">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="110" column="63" />
         <mark key="]" line="111" column="55" />
         <mark key="." line="111" column="55" />
         <mark key="^" line="111" column="55" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticle.java" timestamp="1502693479861">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="62" column="42" />
+        <mark key="^" line="62" column="42" />
+        <mark key="." line="62" column="42" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/ProductCatalogInfo.java" timestamp="1502698653031">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="16" column="46" />
+        <mark key="^" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/SocialQuestionCommentMapper.java" timestamp="1502694848107">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCatalogService.java" timestamp="1502700613441">
         <mark key="'" line="43" column="28" />
@@ -351,7 +343,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
