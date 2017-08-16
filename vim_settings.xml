@@ -12,6 +12,12 @@
         <mark key="." line="20" column="52" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/logback-spring.xml" timestamp="1502786284056" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/migration/V7__Custom_base_info_field_length.sql" timestamp="1502876859510">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="124" />
+        <mark key="^" line="2" column="124" />
+        <mark key="." line="2" column="124" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleConversationController.java" timestamp="1502696265705">
         <mark key="'" line="4" column="55" />
         <mark key="[" line="4" column="56" />
