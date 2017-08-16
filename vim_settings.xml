@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -167,12 +167,12 @@
         <mark key="^" line="39" column="42" />
         <mark key="." line="39" column="42" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1502872663676">
-        <mark key="'" line="127" column="7" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1502872927176">
+        <mark key="'" line="133" column="0" />
         <mark key="[" line="148" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="131" column="25" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="134" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" timestamp="1502798436732" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCatalogService.java" timestamp="1502848512171">
@@ -200,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="23" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" />
       <jump line="23" column="3" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionComment.java" />
       <jump line="24" column="29" filename="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" />
       <jump line="15" column="22" filename="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionConversationMapper.xml" />
@@ -300,6 +299,7 @@
       <jump line="31" column="66" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" />
       <jump line="90" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" />
       <jump line="115" column="7" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" />
+      <jump line="133" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
