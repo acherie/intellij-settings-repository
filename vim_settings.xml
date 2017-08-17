@@ -37,7 +37,7 @@
         <mark key="^" line="30" column="66" />
         <mark key="." line="30" column="66" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductLotteryRecordMapper.xml" timestamp="1502935927884" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductLotteryRecordMapper.xml" timestamp="1502958225195" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductLotteryRecordService.java" timestamp="1502936546004">
         <mark key="'" line="18" column="13" />
         <mark key="[" line="37" column="0" />
@@ -100,6 +100,9 @@
         <mark key="'" line="1063" column="16" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/BusinessOrderServiceImpl.java" timestamp="1502939579960" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" timestamp="1502959177485">
+        <mark key="'" line="57" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1502956862962">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,8 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="14" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" />
-      <jump line="130" column="53" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" />
       <jump line="28" column="56" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" />
       <jump line="40" column="10" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" />
       <jump line="44" column="41" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" />
@@ -243,6 +244,8 @@
       <jump line="37" column="76" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCatalogService.java" />
       <jump line="125" column="7" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductProductController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductProductController.java" />
+      <jump line="72" column="4" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" />
+      <jump line="57" column="4" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
