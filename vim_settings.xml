@@ -18,12 +18,12 @@
         <mark key="^" line="2" column="124" />
         <mark key="." line="2" column="124" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductBottleController.java" timestamp="1502939019691">
-        <mark key="'" line="116" column="11" />
-        <mark key="[" line="115" column="74" />
-        <mark key="]" line="115" column="80" />
-        <mark key="^" line="115" column="80" />
-        <mark key="." line="115" column="80" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductBottleController.java" timestamp="1502948887072">
+        <mark key="'" line="118" column="11" />
+        <mark key="[" line="88" column="63" />
+        <mark key="]" line="89" column="53" />
+        <mark key="^" line="89" column="53" />
+        <mark key="." line="89" column="53" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleConversationController.java" timestamp="1502696265705">
         <mark key="'" line="4" column="55" />
@@ -170,12 +170,12 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="30" column="42" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductProductController.java" timestamp="1502938727847">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductProductController.java" timestamp="1502948910290">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="105" column="85" />
-        <mark key="]" line="106" column="70" />
-        <mark key="^" line="106" column="70" />
-        <mark key="." line="106" column="70" />
+        <mark key="[" line="80" column="63" />
+        <mark key="]" line="81" column="53" />
+        <mark key="^" line="81" column="53" />
+        <mark key="." line="81" column="53" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/BusinessOrder.xml" timestamp="1502939686796">
         <mark key="'" line="1063" column="16" />
@@ -198,7 +198,9 @@
         <mark key="." line="123" column="23" />
         <mark key="^" line="123" column="23" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" timestamp="1502798436732" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" timestamp="1502948737418">
+        <mark key="'" line="58" column="62" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCatalogService.java" timestamp="1502848512171">
         <mark key="'" line="161" column="28" />
         <mark key="[" line="67" column="0" />
@@ -228,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="19" filename="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialArticleMapper.xml" />
       <jump line="65" column="67" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" />
       <jump line="37" column="7" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" />
       <jump line="33" column="12" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" />
@@ -328,6 +329,7 @@
       <jump line="38" column="70" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/impl/BusinessOrderDaoImpl.java" />
       <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/BusinessOrder.xml" />
       <jump line="1063" column="16" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/BusinessOrder.xml" />
+      <jump line="58" column="62" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
