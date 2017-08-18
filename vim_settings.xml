@@ -81,9 +81,9 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductLotteryRecordMapper.xml" timestamp="1502970936841">
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductLotteryRecordMapper.xml" timestamp="1503020963424">
         <mark key="'" line="28" column="15" />
-        <mark key="[" line="70" column="41" />
+        <mark key="[" line="49" column="21" />
         <mark key="]" line="71" column="24" />
         <mark key="." line="71" column="24" />
         <mark key="^" line="71" column="24" />
@@ -192,7 +192,7 @@
         <mark key="^" line="126" column="51" />
         <mark key="." line="126" column="51" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" timestamp="1503019736834">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" timestamp="1503020816762">
         <mark key="'" line="62" column="4" />
         <mark key="[" line="91" column="35" />
         <mark key="]" line="91" column="79" />
