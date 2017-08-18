@@ -117,6 +117,7 @@
         <mark key="^" line="62" column="42" />
         <mark key="." line="62" column="42" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/ImageController.java" timestamp="1503025509958" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/ProductCatalogInfo.java" timestamp="1502698653031">
         <mark key="[" line="14" column="44" />
         <mark key="]" line="16" column="46" />
@@ -212,6 +213,7 @@
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/dto/KeyValue.java" timestamp="1502954889198">
         <mark key="[" line="6" column="23" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/qiniu/QiniuFile.java" timestamp="1503025032904" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1502956032974">
         <mark key="'" line="43" column="51" />
         <mark key="[" line="89" column="0" />
