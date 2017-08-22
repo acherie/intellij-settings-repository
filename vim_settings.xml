@@ -29,20 +29,6 @@
         <mark key="." line="26" column="20" />
         <mark key="^" line="25" column="22" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleConversationController.java" timestamp="1502696265705">
-        <mark key="'" line="4" column="55" />
-        <mark key="[" line="4" column="56" />
-        <mark key="]" line="4" column="65" />
-        <mark key="." line="4" column="65" />
-        <mark key="^" line="4" column="65" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductLotteryService.java" timestamp="1503024099995">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="37" />
-        <mark key="^" line="33" column="37" />
-        <mark key="." line="33" column="37" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialArticleMapper.xml" timestamp="1502695461806">
         <mark key="[" line="76" column="51" />
         <mark key="]" line="77" column="41" />
@@ -79,14 +65,8 @@
         <mark key="^" line="13" column="46" />
         <mark key="." line="13" column="46" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/exception/ServiceException.java" timestamp="1502786514484">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductLotteryRecordService.java" timestamp="1503388030809" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductLotteryRecordMapper.xml" timestamp="1503389837674" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductLotteryRecordService.java" timestamp="1503389599050" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/app/js/app.js" timestamp="1502177133654">
         <mark key="[" line="3" column="0" />
       </file>
@@ -96,7 +76,7 @@
         <mark key="." line="75" column="17" />
         <mark key="^" line="75" column="17" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/ProductLotteryRecordMapper.java" timestamp="1502971085496">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/ProductLotteryRecordMapper.java" timestamp="1503389777644">
         <mark key="[" line="3" column="29" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticle.java" timestamp="1502693479861">
@@ -142,13 +122,6 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Service.java" timestamp="1502690236146">
-        <mark key="'" line="12" column="14" />
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="26" column="63" />
-        <mark key="^" line="26" column="63" />
-        <mark key="." line="26" column="63" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/dto/ProductLotteryInfoDto.java" timestamp="1502955590514">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="31" />
@@ -167,32 +140,11 @@
         <mark key="^" line="46" column="18" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionConversation.java" timestamp="1502693294829">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="30" column="42" />
-        <mark key="^" line="30" column="42" />
-        <mark key="." line="30" column="42" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductProductController.java" timestamp="1503369887887">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="128" column="23" />
-        <mark key="]" line="128" column="86" />
-        <mark key="." line="128" column="86" />
-        <mark key="^" line="128" column="86" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" timestamp="1503369658250">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" timestamp="1503389591573">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1503386907489">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleComment.java" timestamp="1502932822969">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="46" />
-        <mark key="^" line="39" column="42" />
-        <mark key="." line="39" column="42" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/dto/KeyValue.java" timestamp="1502954889198">
         <mark key="[" line="6" column="23" />
@@ -201,13 +153,6 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="8" />
         <mark key="." line="69" column="8" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductLotteryMapper.xml" timestamp="1503024137060">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductProduct.java" timestamp="1503106035719">
         <mark key="[" line="17" column="4" />
