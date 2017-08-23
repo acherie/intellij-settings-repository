@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -132,8 +132,8 @@
         <mark key="^" line="48" column="63" />
         <mark key="." line="48" column="63" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" timestamp="1503389591573">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" timestamp="1503472681038">
+        <mark key="'" line="28" column="13" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/mybatis/DeleteLogicalMapper.java" timestamp="1502690957653">
         <mark key="[" line="13" column="31" />
@@ -152,7 +152,7 @@
       <file name="/Dummy.txt" timestamp="1503391865522">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductLotteryRecordMapper.xml" timestamp="1503391165096">
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductLotteryRecordMapper.xml" timestamp="1503472708632">
         <mark key="[" line="26" column="67" />
         <mark key="]" line="26" column="78" />
         <mark key="^" line="26" column="78" />
@@ -259,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="8" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" />
       <jump line="149" column="32" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" />
       <jump line="41" column="56" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" />
@@ -359,6 +358,7 @@
       <jump line="15" column="27" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/vo/ProductLotteryRecordVo.java" />
       <jump line="44" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/vo/ProductLotteryRecordVo.java" />
       <jump line="83" column="12" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialTagController.java" />
+      <jump line="28" column="13" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
