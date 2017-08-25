@@ -7,23 +7,22 @@
     <filemarks>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/define/ActionMap.java" timestamp="1503647965988" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" timestamp="1503650166776" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/BinaryUploader.java" timestamp="1503639932081">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1503653155910" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionTag.java" timestamp="1503651465063">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/StorageManager.java" timestamp="1503647066877">
-        <mark key="'" line="118" column="39" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="120" column="69" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/ConfigManager.java" timestamp="1503648531858">
-        <mark key="[" line="125" column="41" />
-        <mark key="]" line="125" column="48" />
-        <mark key="." line="125" column="48" />
-        <mark key="^" line="125" column="48" />
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="48" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/ActionEnter.java" timestamp="1503649703740">
         <mark key="[" line="2" column="0" />
@@ -31,53 +30,47 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.java" timestamp="1503650306513" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/define/MultiState.java" timestamp="1503629807173">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" timestamp="1503652202897">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/hunter/ImageHunter.java" timestamp="1503629669868">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1503651570960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/qiniu/QiniuFile.java" timestamp="1503647398933">
-        <mark key="'" line="67" column="56" />
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="4" />
-        <mark key="^" line="61" column="36" />
-        <mark key="." line="21" column="4" />
-      </file>
-      <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu-demo/src/main/resources/application.properties" timestamp="1503647629314">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="33" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionService.java" timestamp="1503651416751" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/hunter/FileManager.java" timestamp="1503647347047">
-        <mark key="'" line="25" column="32" />
-        <mark key="[" line="44" column="64" />
-        <mark key="]" line="45" column="19" />
-        <mark key="^" line="45" column="19" />
-        <mark key="." line="45" column="19" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/config/UeditorAutoConfiguration.java" timestamp="1503647551969">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="36" column="82" />
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Objects.java" timestamp="1503653121460" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/Base64Uploader.java" timestamp="1503629900842">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerComposite.java" timestamp="1503650666482" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/controller/UeditorController.java" timestamp="1503649736958">
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="36" />
-        <mark key="." line="23" column="36" />
-        <mark key="^" line="23" column="36" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/define/BaseState.java" timestamp="1503629789230">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.9.RELEASE/spring-webmvc-4.2.9.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.2.xsd" timestamp="1503650492780" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1503653113878">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/config/ApplicationConfigurator.java" timestamp="1503651085498">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="29" column="80" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/config/UeditorProperties.java" timestamp="1503648546370">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1503651480384">
         <mark key="[" line="0" column="0" />
@@ -190,7 +183,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InVpZHMgIT0gbnVsbCBhbmQgIXVpZHMuaXNFbXB0eSgpIj4KICAgICAgICAgICAgICAgIHNxYy51aWQgaW4KICAgICAgICAgICAgICAgIDxmb3JlYWNoIGNvbGxlY3Rpb249InVpZHMiIGl0ZW09InVpZCIgb3Blbj0iKCIgY2xvc2U9IikiIHNlcGFyYXRvcj0iLCI+CiAgICAgICAgICAgICAgICAgICAgI3t1aWR9CiAgICAgICAgICAgICAgICA8L2ZvcmVhY2g+CiAgICAgICAgICAgIDwvaWY+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGNvbmZpZ3VyZU1lc3NhZ2VDb252ZXJ0ZXJzKExpc3Q8SHR0cE1lc3NhZ2VDb252ZXJ0ZXI8Pz4+IGNvbnZlcnRlcnMpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZih1aWQ9PTApewogICAgICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlbkZhaWxSZXN1bHQoIrLOyv207c7zIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -223,43 +216,43 @@
         <text encoding="base64">dWVkaXRvci51cGxvYWQtZGlyLXByZWZpeD1iaXovaW1nLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGNvbmZpZ3VyZU1lc3NhZ2VDb252ZXJ0ZXJzKExpc3Q8SHR0cE1lc3NhZ2VDb252ZXJ0ZXI8Pz4+IGNvbnZlcnRlcnMpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZih1aWQ9PTApewogICAgICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlbkZhaWxSZXN1bHQoIrLOyv207c7zIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5leHRlbmRNZXNzYWdlQ29udmVydGVycyhjb252ZXJ0ZXJzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGYXN0SnNvbkh0dHBNZXNzYWdlQ29udmVydGVyNCBjb252ZXJ0ZXIgPSBuZXcgRmFzdEpzb25IdHRwTWVzc2FnZUNvbnZlcnRlcjQoKTsKICAgICAgICBGYXN0SnNvbkNvbmZpZyBjb25maWcgPSBuZXcgRmFzdEpzb25Db25maWcoKTsKICAgICAgICBjb25maWcuc2V0U2VyaWFsaXplckZlYXR1cmVzKFNlcmlhbGl6ZXJGZWF0dXJlLldyaXRlTWFwTnVsbFZhbHVlLC8vsaPB9L/VtcTX1rbOCiAgICAgICAgICAgICAgICBTZXJpYWxpemVyRmVhdHVyZS5Xcml0ZU51bGxTdHJpbmdBc0VtcHR5LC8vU3RyaW5nIG51bGwgLT4gIiIKICAgICAgICAgICAgICAgIFNlcmlhbGl6ZXJGZWF0dXJlLldyaXRlTnVsbE51bWJlckFzWmVybyk7Ly9OdW1iZXIgbnVsbCAtPiAwCiAgICAgICAgY29udmVydGVyLnNldEZhc3RKc29uQ29uZmlnKGNvbmZpZyk7CiAgICAgICAgY29udmVydGVyLnNldERlZmF1bHRDaGFyc2V0KENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSk7CiAgICAgICAgY29udmVydGVycy5hZGQoY29udmVydGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb2xsb3dDcml0ZXJpYS5hbmRFcXVhbFRvKCJ1aWQiLHVpZCk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb2xsb3dDcml0ZXJpYS5hbmRFcXVhbFRvKCJ1aWQiLHVpZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBSZXNwb25zZUJvZHkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGFnZSAhPSAwICYmIHNpemUgIT0gMCkgewogICAgICAgICAgICBQYWdlSW5mbyBwYWdlSW5mbyA9IG5ldyBQYWdlSW5mbyhsaXN0KTsKICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiByZXN1bHQgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKTsKICAgICAgICAgICAgcmVzdWx0LnB1dCgibGlzdCIsIGxpc3QpOwogICAgICAgICAgICByZXN1bHQucHV0KCJ0b3RhbCIsIHBhZ2VJbmZvLmdldFRvdGFsKCkpOwogICAgICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlblN1Y2Nlc3NSZXN1bHQocmVzdWx0KTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlblN1Y2Nlc3NSZXN1bHQobGlzdCk7CgogICAgICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqILDZtsh1ZWRpdG9yxeTWwwogKiBAYXV0aG9yIHpyawogKiBAZGF0ZSAyMDE2xOoxMdTCMTDI1SDJz87nMTA6MTE6NTgKICovCg==</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGNvbmZpZ3VyZU1lc3NhZ2VDb252ZXJ0ZXJzKExpc3Q8SHR0cE1lc3NhZ2VDb252ZXJ0ZXI8Pz4+IGNvbnZlcnRlcnMpIHsKICAgIH0K</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CmltcG9ydCBjb20uYWxpYmFiYS5mYXN0anNvbi5KU09OQXJyYXk7CmltcG9ydCBjb20uYWxpYmFiYS5mYXN0anNvbi5KU09OT2JqZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5leHRlbmRNZXNzYWdlQ29udmVydGVycyhjb252ZXJ0ZXJzKTsK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGYXN0SnNvbkh0dHBNZXNzYWdlQ29udmVydGVyNCBjb252ZXJ0ZXIgPSBuZXcgRmFzdEpzb25IdHRwTWVzc2FnZUNvbnZlcnRlcjQoKTsKICAgICAgICBGYXN0SnNvbkNvbmZpZyBjb25maWcgPSBuZXcgRmFzdEpzb25Db25maWcoKTsKICAgICAgICBjb25maWcuc2V0U2VyaWFsaXplckZlYXR1cmVzKFNlcmlhbGl6ZXJGZWF0dXJlLldyaXRlTWFwTnVsbFZhbHVlLC8vsaPB9L/VtcTX1rbOCiAgICAgICAgICAgICAgICBTZXJpYWxpemVyRmVhdHVyZS5Xcml0ZU51bGxTdHJpbmdBc0VtcHR5LC8vU3RyaW5nIG51bGwgLT4gIiIKICAgICAgICAgICAgICAgIFNlcmlhbGl6ZXJGZWF0dXJlLldyaXRlTnVsbE51bWJlckFzWmVybyk7Ly9OdW1iZXIgbnVsbCAtPiAwCiAgICAgICAgY29udmVydGVyLnNldEZhc3RKc29uQ29uZmlnKGNvbmZpZyk7CiAgICAgICAgY29udmVydGVyLnNldERlZmF1bHRDaGFyc2V0KENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSk7CiAgICAgICAgY29udmVydGVycy5hZGQoY29udmVydGVyKTsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
