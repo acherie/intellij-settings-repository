@@ -5,7 +5,24 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/ConfigManager.java" timestamp="1503629994859">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/BinaryUploader.java" timestamp="1503639932081">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/StorageManager.java" timestamp="1503640548036">
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="113" column="21" />
+        <mark key="." line="113" column="21" />
+        <mark key="^" line="113" column="21" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/ConfigManager.java" timestamp="1503639827729">
+        <mark key="[" line="126" column="41" />
+        <mark key="]" line="126" column="46" />
+        <mark key="." line="126" column="46" />
+        <mark key="^" line="126" column="46" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/ActionEnter.java" timestamp="1503629602019">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -20,8 +37,16 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="39" />
       </file>
-      <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu-demo/src/main/resources/application.properties" timestamp="1503628865959" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/Uploader.java" timestamp="1503629877294">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/hunter/ImageHunter.java" timestamp="1503629669868">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1503639319447" />
+      <file name="/Dummy.txt" timestamp="1503642140137">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/Uploader.java" timestamp="1503639837370">
         <mark key="'" line="16" column="20" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -32,29 +57,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/src/main/java/com/baidu/ueditor/ConfigManager.java" timestamp="1503630172099" />
-      <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/src/main/java/com/baidu/ueditor/controller/UeditorController.java" timestamp="1503629135630" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/BinaryUploader.java" timestamp="1503629924010">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/StorageManager.java" timestamp="1503629708049">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/ActionEnter.java" timestamp="1503629602019">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/hunter/ImageHunter.java" timestamp="1503629669868">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/Application.java" timestamp="1503627727663" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/hunter/FileManager.java" timestamp="1503629819481">
         <mark key="'" line="16" column="20" />
         <mark key="[" line="2" column="0" />
@@ -67,28 +69,27 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom" timestamp="1503630279316" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/controller/UeditorController.java" timestamp="1503629584162">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/config/MybatisConfigurator.java" timestamp="1503627692664" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/define/BaseState.java" timestamp="1503629789230">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/src/main/java/com/baidu/ueditor/config/UeditorAutoConfiguration.java" timestamp="1503629006182" />
-      <file name="D:/Projects/nongtianquan/backend/pom.xml" timestamp="1503633793139">
+      <file name="D:/Projects/nongtianquan/backend/pom.xml" timestamp="1503640659631">
         <mark key="'" line="212" column="8" />
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="." line="293" column="0" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="299" column="21" />
+        <mark key="." line="274" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/src/main/java/com/baidu/ueditor/upload/StorageManager.java" timestamp="1503640155770">
+        <mark key="'" line="24" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="21" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" />
       <jump line="14" column="25" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductCatalog.java" />
       <jump line="32" column="23" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" />
       <jump line="24" column="33" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCatalogService.java" />
@@ -188,13 +189,14 @@
       <jump line="16" column="20" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/hunter/FileManager.java" />
       <jump line="16" column="20" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/Uploader.java" />
       <jump line="0" column="0" filename="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/pom.xml" />
+      <jump line="24" column="13" filename="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/src/main/java/com/baidu/ueditor/upload/StorageManager.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InVpZHMgIT0gbnVsbCBhbmQgIXVpZHMuaXNFbXB0eSgpIj4KICAgICAgICAgICAgICAgIHNxYy51aWQgaW4KICAgICAgICAgICAgICAgIDxmb3JlYWNoIGNvbGxlY3Rpb249InVpZHMiIGl0ZW09InVpZCIgb3Blbj0iKCIgY2xvc2U9IikiIHNlcGFyYXRvcj0iLCI+CiAgICAgICAgICAgICAgICAgICAgI3t1aWR9CiAgICAgICAgICAgICAgICA8L2ZvcmVhY2g+CiAgICAgICAgICAgIDwvaWY+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPjwvc2NvcGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIHVlZGl0b3IgzsS8/snPtKsgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtY29kZWM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtY29kZWM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWZpbGV1cGxvYWQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtZmlsZXVwbG9hZDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4zLjE8L3ZlcnNpb24+CiAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb25zLWlvPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtaW88L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpzb248L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmpzb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIwMTUxMTIzPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -215,10 +217,10 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>rt123@My156</text>
+        <text>length()</text>
       </register>
       <register name="/" type="4">
-        <text>aliyun</text>
+        <text>FileUtils</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -227,49 +229,49 @@
         <text encoding="base64">CQkJPHZlcnNpb24+MjAxNTExMjM8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPjwvc2NvcGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIHVlZGl0b3IgzsS8/snPtKsgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtY29kZWM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtY29kZWM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb21tb25zLWZpbGV1cGxvYWQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtZmlsZXVwbG9hZDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4zLjE8L3ZlcnNpb24+CiAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgPGV4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb25zLWlvPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtaW88L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpzb248L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmpzb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIwMTUxMTIzPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5BY3Rpb25NYXA7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5maWxldXBsb2FkLnNlcnZsZXQuU2VydmxldEZpbGVVcGxvYWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5BcHBJbmZvOwppbXBvcnQgY29tLmJhaWR1LnVlZGl0b3IuZGVmaW5lLkJhc2VTdGF0ZTsKaW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5GaWxlVHlwZTsKaW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5TdGF0ZTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05BcnJheTsKaW1wb3J0IG9yZy5qc29uLkpTT05PYmplY3Q7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIEBKc29uVmlldyhWaWV3cy5WaWV3YWJsZS5jbGFzcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20udmFhZGluLmV4dGVybmFsLmdvb2dsZTwvZ3JvdXBJZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb2RlYy5iaW5hcnkuQmFzZTY0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20udmFhZGluLmV4dGVybmFsLmdvb2dsZTwvZ3JvdXBJZD4K</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLlBhdGhGb3JtYXQ7CmltcG9ydCBjb20uYmFpZHUudWVkaXRvci5kZWZpbmUuQXBwSW5mbzsKaW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5CYXNlU3RhdGU7CmltcG9ydCBjb20uYmFpZHUudWVkaXRvci5kZWZpbmUuRmlsZVR5cGU7CmltcG9ydCBjb20uYmFpZHUudWVkaXRvci5kZWZpbmUuU3RhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPjwvc2NvcGU+Cg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5BY3Rpb25NYXA7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5TdGF0ZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5BcHBJbmZvOwppbXBvcnQgY29tLmJhaWR1LnVlZGl0b3IuZGVmaW5lLkJhc2VTdGF0ZTsKaW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5GaWxlVHlwZTsKaW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5TdGF0ZTsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5BcHBJbmZvOwppbXBvcnQgY29tLmJhaWR1LnVlZGl0b3IuZGVmaW5lLkJhc2VTdGF0ZTsKaW1wb3J0IGNvbS5iYWlkdS51ZWRpdG9yLmRlZmluZS5NdWx0aVN0YXRlOwppbXBvcnQgY29tLmJhaWR1LnVlZGl0b3IuZGVmaW5lLlN0YXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -279,17 +281,16 @@
       </register>
     </registers>
     <search>
-      <last-search>aliyun</last-search>
+      <last-search>FileUtils</last-search>
       <last-offset />
-      <last-pattern>aliyun</last-pattern>
+      <last-pattern>FileUtils</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
         <entry encoding="base64">XDxQcmVmaXhDb2x1bW5zXD4=</entry>
         <entry>janino</entry>
         <entry>log4j</entry>
@@ -309,6 +310,7 @@
         <entry encoding="base64">XDxjb2RlY1w+</entry>
         <entry>commons-codec</entry>
         <entry>aliyun</entry>
+        <entry>FileUtils</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
