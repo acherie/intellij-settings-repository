@@ -10,39 +10,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/StorageManager.java" timestamp="1503640548036">
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="113" column="21" />
-        <mark key="." line="113" column="21" />
-        <mark key="^" line="113" column="21" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/ConfigManager.java" timestamp="1503639827729">
-        <mark key="[" line="126" column="41" />
-        <mark key="]" line="126" column="46" />
-        <mark key="." line="126" column="46" />
-        <mark key="^" line="126" column="46" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/ActionEnter.java" timestamp="1503629602019">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/define/MultiState.java" timestamp="1503629807173">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/pom.xml" timestamp="1503630315510">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="39" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/hunter/ImageHunter.java" timestamp="1503629669868">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1503639319447" />
       <file name="/Dummy.txt" timestamp="1503642140137">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,6 +26,26 @@
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/hunter/FileManager.java" timestamp="1503629819481">
         <mark key="'" line="16" column="20" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/StorageManager.java" timestamp="1503640548036">
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="113" column="21" />
+        <mark key="." line="113" column="21" />
+        <mark key="^" line="113" column="21" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/ConfigManager.java" timestamp="1503639827729">
+        <mark key="[" line="126" column="41" />
+        <mark key="]" line="126" column="46" />
+        <mark key="." line="126" column="46" />
+        <mark key="^" line="126" column="46" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/nonyequan.iml" timestamp="1503643984000">
+        <mark key="'" line="78" column="71" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/ActionEnter.java" timestamp="1503629602019">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -85,13 +72,27 @@
         <mark key="]" line="299" column="21" />
         <mark key="." line="274" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/define/MultiState.java" timestamp="1503629807173">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/pom.xml" timestamp="1503630315510">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="39" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/hunter/ImageHunter.java" timestamp="1503629669868">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1503639319447" />
       <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/src/main/java/com/baidu/ueditor/upload/StorageManager.java" timestamp="1503640155770">
         <mark key="'" line="24" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="25" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductCatalog.java" />
-      <jump line="32" column="23" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" />
       <jump line="24" column="33" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCatalogService.java" />
       <jump line="8" column="24" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/constant/State.java" />
       <jump line="12" column="14" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/Service.java" />
@@ -190,6 +191,8 @@
       <jump line="16" column="20" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/Uploader.java" />
       <jump line="0" column="0" filename="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/pom.xml" />
       <jump line="24" column="13" filename="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/src/main/java/com/baidu/ueditor/upload/StorageManager.java" />
+      <jump line="73" column="40" filename="D:/Projects/nongtianquan/backend/nonyequan.iml" />
+      <jump line="78" column="71" filename="D:/Projects/nongtianquan/backend/nonyequan.iml" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -220,7 +223,7 @@
         <text>length()</text>
       </register>
       <register name="/" type="4">
-        <text>FileUtils</text>
+        <text>commons-io</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -281,17 +284,16 @@
       </register>
     </registers>
     <search>
-      <last-search>FileUtils</last-search>
+      <last-search>commons-io</last-search>
       <last-offset />
-      <last-pattern>FileUtils</last-pattern>
+      <last-pattern>commons-io</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcmVmaXhDb2x1bW5zXD4=</entry>
         <entry>janino</entry>
         <entry>log4j</entry>
         <entry encoding="base64">XDxsb2c0ajJcPg==</entry>
@@ -311,6 +313,7 @@
         <entry>commons-codec</entry>
         <entry>aliyun</entry>
         <entry>FileUtils</entry>
+        <entry>commons-io</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
