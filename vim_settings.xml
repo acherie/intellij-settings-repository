@@ -10,7 +10,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504005550699">
+      <file name="/Dummy.txt" timestamp="1504059193181">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionTag.java" timestamp="1503655151001">
@@ -34,7 +34,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/controller/UeditorController.java" timestamp="1503993911512">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/config/UeditorAutoConfiguration.java" timestamp="1504058425222" />
+      <file name="D:/Projects/nongtianquan/nongyequan-server/src/main/resources/application.yaml" timestamp="1504059166572" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/controller/UeditorController.java" timestamp="1504058080067">
         <mark key="[" line="21" column="37" />
         <mark key="]" line="21" column="75" />
         <mark key="." line="21" column="75" />
@@ -45,7 +47,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1503992335252">
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1504058600535">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -79,7 +81,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1503973960104">
+      <file name="/fragment.java" timestamp="1504059193149">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1503902670593" />
