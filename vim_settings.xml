@@ -41,23 +41,21 @@
         <mark key="." line="32" column="251" />
         <mark key="^" line="32" column="257" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application-dev.properties" timestamp="1504062737279">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application-dev.properties" timestamp="1504170263078">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1504146606145" />
+      <file name="/Dummy.txt" timestamp="1504170389089">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionComment.java" timestamp="1504159011923" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleComment.java" timestamp="1504165702236" />
-      <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu-demo/src/main/resources/application.properties" timestamp="1504079258431">
-        <mark key="'" line="18" column="33" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleCommentController.java" timestamp="1504166564228">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleCommentController.java" timestamp="1504169654676">
         <mark key="'" line="120" column="16" />
         <mark key="[" line="142" column="71" />
         <mark key="]" line="143" column="29" />
@@ -76,6 +74,12 @@
         <mark key="]" line="50" column="64" />
         <mark key="^" line="50" column="64" />
         <mark key="." line="50" column="64" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" timestamp="1504169945379">
+        <mark key="[" line="109" column="53" />
+        <mark key="]" line="109" column="58" />
+        <mark key="^" line="109" column="58" />
+        <mark key="." line="109" column="58" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleTagService.java" timestamp="1504162367720">
         <mark key="[" line="38" column="22" />
@@ -112,19 +116,13 @@
         <mark key="." line="248" column="67" />
         <mark key="^" line="248" column="67" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" timestamp="1503974104692">
-        <mark key="'" line="135" column="38" />
-        <mark key="[" line="94" column="52" />
-        <mark key="]" line="96" column="18" />
-        <mark key="." line="96" column="18" />
-        <mark key="^" line="96" column="18" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/pom.xml" timestamp="1504061403160">
         <mark key="[" line="80" column="32" />
         <mark key="]" line="85" column="20" />
         <mark key="^" line="85" column="20" />
         <mark key="." line="85" column="20" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductCatalog.java" timestamp="1504169891471" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1504158907312" />
     </filemarks>
     <jumps>
@@ -233,8 +231,8 @@
       <register name="a" type="4">
         <text>@org.springframework.util.StringUtils@isEmpty(id)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>问题列表tag查询</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -255,7 +253,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>问题列表tag查询</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWNrZXRNYW5hZ2VyXD4=</text>
