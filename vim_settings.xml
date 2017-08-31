@@ -5,31 +5,9 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/StorageManager.java" timestamp="1504079025657" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1504062050835">
-        <mark key="[" line="44" column="12" />
-        <mark key="]" line="44" column="15" />
-        <mark key="^" line="44" column="15" />
-        <mark key="." line="44" column="15" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1504079537273">
-        <mark key="[" line="32" column="251" />
-        <mark key="]" line="32" column="251" />
-        <mark key="." line="32" column="251" />
-        <mark key="^" line="32" column="257" />
-      </file>
-      <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu-demo/src/main/java/com/zrk/demo/SpringBootMvcUeditorQiniuDemoApplication.java" timestamp="1504081317109" />
-      <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu-demo/src/main/resources/templates/ueditor.html" timestamp="1504080910340" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application-dev.properties" timestamp="1504062737279">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-      </file>
       <file name="/Dummy.txt" timestamp="1504062494638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/qiniu/QiniuFile.java" timestamp="1504079211950" />
       <file name="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu-demo/src/main/resources/application.properties" timestamp="1504079258431">
         <mark key="'" line="18" column="33" />
         <mark key="[" line="0" column="0" />
@@ -55,17 +33,29 @@
         <mark key="." line="18" column="83" />
         <mark key="^" line="18" column="83" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1504062050835">
+        <mark key="[" line="44" column="12" />
+        <mark key="]" line="44" column="15" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/controller/UeditorController.java" timestamp="1504058080067">
         <mark key="[" line="21" column="37" />
         <mark key="]" line="21" column="75" />
         <mark key="." line="21" column="75" />
         <mark key="^" line="21" column="75" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1503656372808">
-        <mark key="[" line="244" column="55" />
-        <mark key="]" line="244" column="67" />
-        <mark key="." line="244" column="67" />
-        <mark key="^" line="244" column="67" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1504079537273">
+        <mark key="[" line="32" column="251" />
+        <mark key="]" line="32" column="251" />
+        <mark key="." line="32" column="251" />
+        <mark key="^" line="32" column="257" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1504151347903">
+        <mark key="[" line="248" column="55" />
+        <mark key="]" line="248" column="67" />
+        <mark key="." line="248" column="67" />
+        <mark key="^" line="248" column="67" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleService.java" timestamp="1503974104692">
         <mark key="'" line="135" column="38" />
@@ -80,9 +70,16 @@
         <mark key="^" line="85" column="20" />
         <mark key="." line="85" column="20" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application-dev.properties" timestamp="1504062737279">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+      </file>
       <file name="/fragment.java" timestamp="1504062447280">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1504146606145" />
     </filemarks>
     <jumps>
       <jump line="88" column="43" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionConversationController.java" />
