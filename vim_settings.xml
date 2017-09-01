@@ -28,6 +28,11 @@
         <mark key="." line="74" column="22" />
         <mark key="^" line="74" column="22" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1504232563276">
+        <mark key="'" line="24" column="46" />
+        <mark key="[" line="526" column="25" />
+        <mark key="]" line="526" column="34" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1504160511913">
         <mark key="'" line="45" column="12" />
         <mark key="[" line="72" column="37" />
@@ -47,7 +52,6 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1504146606145" />
       <file name="/Dummy.txt" timestamp="1504227944225">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -131,8 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="46" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleCommentController.java" />
-      <jump line="8" column="13" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleComment.java" />
       <jump line="26" column="13" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleConversationController.java" />
       <jump line="55" column="58" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleConversationController.java" />
       <jump line="110" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleConversationController.java" />
@@ -231,13 +233,15 @@
       <jump line="203" column="27" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" />
       <jump line="120" column="16" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleCommentController.java" />
+      <jump line="0" column="0" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="24" column="46" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>@org.springframework.util.StringUtils@isEmpty(id)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>com.oracle</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -261,7 +265,7 @@
         <text>问题列表tag查询</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWNrZXRNYW5hZ2VyXD4=</text>
+        <text>oracle</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -322,17 +326,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWNrZXRNYW5hZ2VyXD4=</last-search>
+      <last-search>oracle</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWNrZXRNYW5hZ2VyXD4=</last-pattern>
+      <last-pattern>oracle</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqb2RhXD4=</entry>
         <entry encoding="base64">XDxmcmVlbWFya2VyXD4=</entry>
         <entry encoding="base64">XDxTcHJpbmdCb290Rmx5d2F5XD4=</entry>
         <entry>mybatis</entry>
@@ -352,6 +355,7 @@
         <entry encoding="base64">XDxjZmdcPg==</entry>
         <entry encoding="base64">XDxiYXNlVXJsXD4=</entry>
         <entry encoding="base64">XDxidWNrZXRNYW5hZ2VyXD4=</entry>
+        <entry>oracle</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
