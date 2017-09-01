@@ -12,10 +12,6 @@
         <mark key="^" line="206" column="81" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE-sources.jar!/org/springframework/util/StringUtils.java" timestamp="1504162074088">
-        <mark key="[" line="83" column="26" />
-        <mark key="]" line="83" column="32" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/SocialQuestionCommentQuery.java" timestamp="1504228183142">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="43" />
@@ -66,7 +62,7 @@
         <mark key="." line="143" column="29" />
         <mark key="^" line="143" column="29" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1504245239309" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1504253894193" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionTagMapper.xml" timestamp="1503656382965">
         <mark key="[" line="9" column="40" />
         <mark key="]" line="9" column="65" />
@@ -109,7 +105,7 @@
         <mark key="." line="18" column="83" />
         <mark key="^" line="18" column="83" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/controller/UeditorController.java" timestamp="1504058080067">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/controller/UeditorController.java" timestamp="1504254382704">
         <mark key="[" line="21" column="37" />
         <mark key="]" line="21" column="75" />
         <mark key="." line="21" column="75" />
@@ -127,7 +123,7 @@
         <mark key="^" line="85" column="20" />
         <mark key="." line="85" column="20" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1504244630792">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1504254401294">
         <mark key="[" line="203" column="5" />
         <mark key="]" line="212" column="4" />
         <mark key="^" line="212" column="4" />
