@@ -5,20 +5,13 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1504165783849">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="185" column="34" />
-        <mark key="^" line="206" column="81" />
-        <mark key="." line="241" column="0" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/SocialQuestionCommentQuery.java" timestamp="1504228183142">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="43" />
         <mark key="^" line="16" column="40" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/package.json" timestamp="1504317458681" />
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/package.json" timestamp="1504318124790" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/creatTree.js" timestamp="1504259915073">
         <mark key="[" line="203" column="142" />
         <mark key="]" line="203" column="142" />
@@ -35,13 +28,6 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="53" column="21" />
         <mark key="." line="49" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1504160511913">
-        <mark key="'" line="45" column="12" />
-        <mark key="[" line="72" column="37" />
-        <mark key="]" line="72" column="40" />
-        <mark key="^" line="72" column="40" />
-        <mark key="." line="72" column="40" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/productBasicInfoRequire.vm" timestamp="1504259870695">
         <mark key="[" line="249" column="81" />
@@ -82,13 +68,6 @@
         <mark key="]" line="78" column="70" />
         <mark key="." line="78" column="70" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleCommentController.java" timestamp="1504169654676">
-        <mark key="'" line="120" column="16" />
-        <mark key="[" line="142" column="71" />
-        <mark key="]" line="143" column="29" />
-        <mark key="." line="143" column="29" />
-        <mark key="^" line="143" column="29" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1504255539401">
         <mark key="'" line="188" column="42" />
       </file>
@@ -97,13 +76,6 @@
         <mark key="]" line="9" column="65" />
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="65" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialTagService.java" timestamp="1504165083952">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="50" column="64" />
-        <mark key="^" line="50" column="64" />
-        <mark key="." line="50" column="64" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" timestamp="1504169945379">
         <mark key="[" line="109" column="53" />
@@ -162,9 +134,6 @@
         <mark key="]" line="212" column="4" />
         <mark key="^" line="212" column="4" />
         <mark key="." line="212" column="4" />
-      </file>
-      <file name="/fragment.java" timestamp="1504227937204">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
