@@ -6,6 +6,7 @@
     </globalmarks>
     <filemarks>
       <file name="D:/Projects/nongtianquan/backend/src/test/java/generator/engine/impl/mq/KafkaEngine.java" timestamp="1504490973716" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6-sources.jar!/org/apache/commons/lang3/text/StrSubstitutor.java" timestamp="1504506901085" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/SocialQuestionCommentQuery.java" timestamp="1504228183142">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="43" />
@@ -144,11 +145,12 @@
         <mark key="." line="248" column="67" />
         <mark key="^" line="248" column="67" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/pom.xml" timestamp="1504233385736">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="85" column="20" />
-        <mark key="." line="85" column="20" />
+      <file name="D:/Projects/nongtianquan/backend/pom.xml" timestamp="1504506831119">
+        <mark key="'" line="73" column="40" />
+        <mark key="[" line="215" column="21" />
+        <mark key="]" line="218" column="33" />
+        <mark key="^" line="218" column="33" />
+        <mark key="." line="218" column="33" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionCommentController.java" timestamp="1504254401294">
         <mark key="[" line="203" column="5" />
@@ -158,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleConversationController.java" />
-      <jump line="89" column="55" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleConversationController.java" />
       <jump line="8" column="13" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleConversation.java" />
       <jump line="56" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCatalogController.java" />
       <jump line="279" column="116" filename="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/supplier/ProduceFactoryServiceImpl.java" />
@@ -258,6 +258,8 @@
       <jump line="24" column="46" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
       <jump line="188" column="42" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" />
       <jump line="42" column="24" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeService.java" />
+      <jump line="218" column="32" filename="D:/Projects/nongtianquan/backend/pom.xml" />
+      <jump line="73" column="40" filename="D:/Projects/nongtianquan/backend/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -288,7 +290,7 @@
         <text>product</text>
       </register>
       <register name="/" type="4">
-        <text>oracle</text>
+        <text encoding="base64">XDxsYW5nM1w+</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -349,18 +351,16 @@
       </register>
     </registers>
     <search>
-      <last-search>oracle</last-search>
+      <last-search encoding="base64">XDxsYW5nM1w+</last-search>
       <last-offset />
-      <last-pattern>oracle</last-pattern>
+      <last-pattern encoding="base64">XDxsYW5nM1w+</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcmVlbWFya2VyXD4=</entry>
-        <entry encoding="base64">XDxTcHJpbmdCb290Rmx5d2F5XD4=</entry>
         <entry>mybatis</entry>
         <entry>mybatis.jsr310</entry>
         <entry>jwt</entry>
@@ -379,6 +379,8 @@
         <entry encoding="base64">XDxiYXNlVXJsXD4=</entry>
         <entry encoding="base64">XDxidWNrZXRNYW5hZ2VyXD4=</entry>
         <entry>oracle</entry>
+        <entry>common-lang</entry>
+        <entry encoding="base64">XDxsYW5nM1w+</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
