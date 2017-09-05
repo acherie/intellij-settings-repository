@@ -28,6 +28,7 @@
         <mark key="." line="74" column="22" />
         <mark key="^" line="74" column="22" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/TextUtils.java" timestamp="1504583097435" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeService.java" timestamp="1504511266925">
         <mark key="'" line="50" column="24" />
         <mark key="[" line="52" column="0" />
@@ -58,9 +59,9 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeGenerateService.java" timestamp="1504575787957">
-        <mark key="'" line="44" column="12" />
-        <mark key="[" line="27" column="25" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeGenerateService.java" timestamp="1504583135204">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="68" column="5" />
         <mark key="]" line="29" column="29" />
         <mark key="." line="29" column="29" />
         <mark key="^" line="29" column="29" />
@@ -173,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="5" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Comparator.java" />
       <jump line="14" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/dto/ProductLotteryInfoDto.java" />
       <jump line="82" column="29" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" />
       <jump line="47" column="4" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" />
@@ -273,6 +273,7 @@
       <jump line="27" column="23" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeGenerateService.java" />
       <jump line="60" column="18" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeGenerateService.java" />
       <jump line="40" column="12" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeGenerateService.java" />
+      <jump line="66" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeGenerateService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -303,7 +304,7 @@
         <text>Integer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYW5nM1w+</text>
+        <text>uuid</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -364,17 +365,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYW5nM1w+</last-search>
+      <last-search>uuid</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYW5nM1w+</last-pattern>
+      <last-pattern>uuid</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mybatis</entry>
         <entry>mybatis.jsr310</entry>
         <entry>jwt</entry>
         <entry>jjwt</entry>
@@ -394,6 +394,7 @@
         <entry>oracle</entry>
         <entry>common-lang</entry>
         <entry encoding="base64">XDxsYW5nM1w+</entry>
+        <entry>uuid</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
