@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -64,12 +64,12 @@
         <mark key="." line="36" column="21" />
         <mark key="^" line="36" column="21" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeGenerateService.java" timestamp="1504574442149">
-        <mark key="'" line="40" column="12" />
-        <mark key="[" line="59" column="8" />
-        <mark key="]" line="59" column="11" />
-        <mark key="." line="59" column="11" />
-        <mark key="^" line="59" column="11" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeGenerateService.java" timestamp="1504575787957">
+        <mark key="'" line="44" column="12" />
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="29" column="29" />
+        <mark key="." line="29" column="29" />
+        <mark key="^" line="29" column="29" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/customerProductPackingInfo.vm" timestamp="1504259867628">
         <mark key="[" line="79" column="70" />
@@ -99,12 +99,12 @@
         <mark key="]" line="78" column="70" />
         <mark key="." line="78" column="70" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1504517451356">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1504576128150">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="53" />
-        <mark key="]" line="49" column="57" />
-        <mark key="^" line="49" column="57" />
-        <mark key="." line="49" column="57" />
+        <mark key="[" line="154" column="40" />
+        <mark key="]" line="155" column="33" />
+        <mark key="^" line="155" column="33" />
+        <mark key="." line="155" column="33" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionTagMapper.xml" timestamp="1503656382965">
         <mark key="[" line="9" column="40" />
