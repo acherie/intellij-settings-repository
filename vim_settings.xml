@@ -28,12 +28,6 @@
         <mark key="." line="74" column="22" />
         <mark key="^" line="74" column="22" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/generator/parameter/UserParameters.java" timestamp="1504491097102">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeService.java" timestamp="1504511266925">
         <mark key="'" line="50" column="24" />
         <mark key="[" line="52" column="0" />
@@ -59,10 +53,10 @@
         <mark key="." line="32" column="63" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1504574170241">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="21" />
-        <mark key="^" line="36" column="21" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCodeGenerateService.java" timestamp="1504575787957">
         <mark key="'" line="44" column="12" />
@@ -75,12 +69,6 @@
         <mark key="[" line="79" column="70" />
         <mark key="]" line="79" column="70" />
         <mark key="." line="79" column="70" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/application-dev.properties" timestamp="1504170263078">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="26" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="26" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1504315144625" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductCodeController.java" timestamp="1504516543796">
