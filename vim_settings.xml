@@ -161,12 +161,12 @@
         <mark key="." line="52" column="23" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/RestExceptionHandler.java" timestamp="1505706651090" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/datainit/home_sales_user_area.sql" timestamp="1505719080368">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/datainit/home_sales_user_area.sql" timestamp="1505720170895">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="106" column="108" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="18" column="97" />
+        <mark key="[" line="114" column="163" />
+        <mark key="]" line="114" column="164" />
+        <mark key="." line="114" column="164" />
+        <mark key="^" line="114" column="164" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserService.java" timestamp="1505703503833">
         <mark key="[" line="107" column="20" />
@@ -314,8 +314,8 @@
       <register name="a" type="4">
         <text>storageTime</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gYHBfdXNlcl9hY2NvdW50YCAoYHVzZXJfdHlwZWAsIGBsb2dpbl9uYW1lYCwgYGxvZ2luX3Bhc3N3b3JkYCwgYG5hbWVgLCBgbW9iaWxlYCwgYGJpcnRoZGF0ZWAsIGBjb2RlYCwgYHBrX2dyb3VwYCwgYHBrX29yZ2AsIGBwa19wc25kb2NgLCBgbGFzdF9tb2RpZnlfdGltZWAsIGBsb2dpbl9pcGAsIGBsb2dpbl90aW1lYCwgYGxhc3RfcGFzc3dvcmRgLCBgbGFzdF9sb2dpbl9pcGAsIGBsYXN0X2xvZ2luX3RpbWVgLCBgbG9naW5fY291bnRgKSB2YWx1ZXMoJzInLCcnLCcxMjM0NTYnLCfW3Oq7JywnJywnMjAxNy0wNy0yNycsJycsTlVMTCxOVUxMLE5VTEwsJzIwMTctMDctMjcgMTA6NTc6NTYnLCcnLE5VTEwsJycsJycsTlVMTCwnMCcpOwp1cGRhdGUgYHBfdXNlcl9hY2NvdW50YCBzZXQgYGxvZ2luX25hbWVgPWxhc3RfaW5zZXJ0X2lkKCksYGNvZGVgPWxhc3RfaW5zZXJ0X2lkKCkgd2hlcmUgaWQ9bGFzdF9pbnNlcnRfaWQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>贵州</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -336,7 +336,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>18781426489</text>
+        <text>贵州</text>
       </register>
       <register name="/" type="4">
         <text>uuid</text>
@@ -345,7 +345,7 @@
         <text>getOrderDetailUrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gYHBfdXNlcl9hY2NvdW50YCAoYHVzZXJfdHlwZWAsIGBsb2dpbl9uYW1lYCwgYGxvZ2luX3Bhc3N3b3JkYCwgYG5hbWVgLCBgbW9iaWxlYCwgYGJpcnRoZGF0ZWAsIGBjb2RlYCwgYHBrX2dyb3VwYCwgYHBrX29yZ2AsIGBwa19wc25kb2NgLCBgbGFzdF9tb2RpZnlfdGltZWAsIGBsb2dpbl9pcGAsIGBsb2dpbl90aW1lYCwgYGxhc3RfcGFzc3dvcmRgLCBgbGFzdF9sb2dpbl9pcGAsIGBsYXN0X2xvZ2luX3RpbWVgLCBgbG9naW5fY291bnRgKSB2YWx1ZXMoJzInLCcnLCcxMjM0NTYnLCfW3Oq7JywnJywnMjAxNy0wNy0yNycsJycsTlVMTCxOVUxMLE5VTEwsJzIwMTctMDctMjcgMTA6NTc6NTYnLCcnLE5VTEwsJycsJycsTlVMTCwnMCcpOwp1cGRhdGUgYHBfdXNlcl9hY2NvdW50YCBzZXQgYGxvZ2luX25hbWVgPWxhc3RfaW5zZXJ0X2lkKCksYGNvZGVgPWxhc3RfaW5zZXJ0X2lkKCkgd2hlcmUgaWQ9bGFzdF9pbnNlcnRfaWQoKTsK</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gYHBfdXNlcl9hcmVhYCAoYHVzZXJfY29kZWAsIGBhcmVhX2lkYCkgU0VMRUNUIHVhLmNvZGUsIGhhLmlkIEZST00gcF91c2VyX2FjY291bnQgdWEsIGhfYXJlYSBoYSBXSEVSRSB1YS51c2VyX3R5cGU9MiBBTkQgdWEubmFtZSA9ICfW3Oq7JyBBTkQgaGEubmFtZSA9ICe589bdJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
