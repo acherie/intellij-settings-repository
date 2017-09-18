@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -25,6 +25,7 @@
         <mark key="." line="369" column="23" />
         <mark key="^" line="369" column="23" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/resources.properties" timestamp="1505735917200" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleConversation.java" timestamp="1504598016128">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -67,12 +68,6 @@
         <mark key="]" line="249" column="81" />
         <mark key="." line="249" column="81" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/AreaService.java" timestamp="1505109194336">
-        <mark key="'" line="18" column="15" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/LoginAction.java" timestamp="1505702814151">
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
@@ -99,7 +94,6 @@
         <mark key="]" line="79" column="70" />
         <mark key="." line="79" column="70" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/migration/V6__Homesales_add_refresh_token.sql" timestamp="1505717187161" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1504598026588">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -108,7 +102,7 @@
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductLotteryRecordController.java" timestamp="1504678021788">
         <mark key="'" line="131" column="0" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/migration/V5__Home_sales.sql" timestamp="1505717142001" />
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1505735572092" />
       <file name="/Dummy.txt" timestamp="1505715714556">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -135,7 +129,6 @@
         <mark key="." line="55" column="37" />
         <mark key="^" line="55" column="37" />
       </file>
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/service/UserService.java" timestamp="1505704578187" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1504597517398">
         <mark key="'" line="229" column="0" />
         <mark key="[" line="176" column="8" />
@@ -160,7 +153,6 @@
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/exception/RestExceptionHandler.java" timestamp="1505706651090" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/datainit/home_sales_user_area.sql" timestamp="1505720170895">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="114" column="163" />
@@ -176,12 +168,6 @@
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-shiro.xml" timestamp="1505702226253">
         <mark key="'" line="113" column="102" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductProduct.java" timestamp="1504664583025">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductLotteryRecord.java" timestamp="1504597910963">
         <mark key="[" line="66" column="0" />
