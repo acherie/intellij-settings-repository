@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -25,7 +25,6 @@
         <mark key="." line="369" column="23" />
         <mark key="^" line="369" column="23" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/resources.properties" timestamp="1505735917200" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleConversation.java" timestamp="1504598016128">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -62,6 +61,9 @@
         <mark key="]" line="23" column="19" />
         <mark key="^" line="23" column="19" />
         <mark key="." line="23" column="19" />
+      </file>
+      <file name="/a.sql" timestamp="1505872931022">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/productBasicInfoRequire.vm" timestamp="1504259870695">
         <mark key="[" line="249" column="81" />
@@ -103,8 +105,8 @@
         <mark key="'" line="131" column="0" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1505735572092" />
-      <file name="/Dummy.txt" timestamp="1505715714556">
-        <mark key="[" line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1505872951118">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
@@ -123,7 +125,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.6.RELEASE/spring-test-4.3.6.RELEASE-sources.jar!/org/springframework/test/context/testng/AbstractTestNGSpringContextTests.java" timestamp="1505790039795" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/AreaServiceImpl.java" timestamp="1505109272077">
         <mark key="[" line="54" column="35" />
         <mark key="]" line="55" column="37" />
@@ -154,7 +155,7 @@
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/datainit/home_sales_user_area.sql" timestamp="1505720170895">
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/datainit/home_sales_user_area.sql" timestamp="1505873006473">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="114" column="163" />
         <mark key="]" line="114" column="164" />
