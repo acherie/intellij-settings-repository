@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -356,7 +356,7 @@
         <text>new FlatXmlDataSet();</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>userP</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -417,9 +417,9 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>userP</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>userP</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -427,7 +427,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jwt</entry>
         <entry>jjwt</entry>
         <entry>utf</entry>
         <entry>beanutils</entry>
@@ -447,6 +446,7 @@
         <entry encoding="base64">XDxsYW5nM1w+</entry>
         <entry>uuid</entry>
         <entry>test</entry>
+        <entry>userP</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
