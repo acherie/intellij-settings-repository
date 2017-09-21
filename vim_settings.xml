@@ -60,7 +60,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1505735572092" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/AreaServiceImpl.java" timestamp="1505109272077">
         <mark key="[" line="54" column="35" />
         <mark key="]" line="55" column="37" />
@@ -73,6 +72,7 @@
         <mark key="^" line="17" column="108" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionService.java" timestamp="1505987503214" />
       <file name="$MAVEN_REPOSITORY$/org/dbunit/dbunit/2.5.4/dbunit-2.5.4-sources.jar!/org/dbunit/DatabaseTestCase.java" timestamp="1505975807460">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="61" />
@@ -163,11 +163,11 @@
         <mark key="]" line="79" column="70" />
         <mark key="." line="79" column="70" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/test/resources/dbunit/social/question.xml" timestamp="1505986353235">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
+      <file name="D:/Projects/nongtianquan/backend/src/test/resources/dbunit/social/question.xml" timestamp="1505987431178">
+        <mark key="[" line="11" column="111" />
+        <mark key="]" line="11" column="113" />
+        <mark key="^" line="11" column="113" />
+        <mark key="." line="11" column="113" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/test/resources/application-test.properties" timestamp="1505966396289">
         <mark key="[" line="0" column="65" />
@@ -207,7 +207,7 @@
         <mark key="]" line="38" column="23" />
         <mark key="." line="38" column="23" />
       </file>
-      <file name="D:/IdeaProjects/spring-mvc-test-examples/controllers/src/test/java/net/petrikainulainen/spring/testmvc/todo/service/RepositoryTodoServiceTest.java" timestamp="1505985552434" />
+      <file name="D:/IdeaProjects/spring-mvc-test-examples/controllers/src/test/java/net/petrikainulainen/spring/testmvc/todo/service/RepositoryTodoServiceTest.java" timestamp="1505987555625" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1505270226275">
         <mark key="[" line="253" column="55" />
         <mark key="]" line="253" column="67" />
@@ -225,6 +225,7 @@
       <file name="/fragment.java" timestamp="1505705904606">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IdeaProjects/es/common/src/test/java/com/sishuok/es/common/service/UserServiceTest.java" timestamp="1505987565227" />
     </filemarks>
     <jumps>
       <jump line="197" column="25" filename="D:/Projects/nongtianquan/backend/pom.xml" />
@@ -333,9 +334,7 @@
         <text>storageTime</text>
       </register>
       <register name="&quot;" type="4">
-        <text>id=&quot;2&quot; name=&quot;Bing Cherry Salad&quot;
-            description=&quot;Jello-like salad with bing cherries&quot; recipe_type_id=&quot;2&quot;
-            staff_xref_id=&quot;1&quot; is_deleted=&quot;N&quot;</text>
+        <text>1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -356,7 +355,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>new FlatXmlDataSet();</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>userP</text>
@@ -365,7 +364,7 @@
         <text>getOrderDetailUrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBhYnN0cmFjdCBJRGF0YVNldCBnZXREYXRhU2V0KCkgdGhyb3dzIEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgIDxzb2NpYWxfcXVlc3Rpb24gaWQ9IjIiIHVpZD0iMiIgdGl0bGU9IrjM6dm7xiIgY29udGVudD0iW1RFWFRduMzp2dK2xqy7xruvo6zOytK7z8LKx8ixyrLDtNSqy9jC8KO/IiBjcm9wPSIxIgogICAgICAgICAgICAgICAgICAgICBsb2NhdGlvbl9zdHI9ItbQufqxsb6pytC6o7Xtx/hTNTAosbHO5bu3wrcpIiBsb2NhdGlvbj0iMjMyMjk0MTIwMyIgbG9uZ2l0dWRlPSIxMTYuMzUyMjE2IiBsYXRpdHVkZT0iNDAuMDI3MTM0IgogICAgICAgICAgICAgICAgICAgICBjbGljaz0iMCIgaW52aXRlZF9leHBlcnRfaWQ9IjIiIHRodW1ibmFpbD0iRnUwczZFclJiWnhpSW1EeXdTZFpwVnNLT05pMCIgc2NvcmU9IjAiIHN0YXRlPSIxIi8+Cg==</text>
       </register>
       <register name="1" type="4">
         <text>id=&quot;2&quot; name=&quot;Bing Cherry Salad&quot;
