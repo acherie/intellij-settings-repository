@@ -44,6 +44,7 @@
         <mark key="." line="20" column="8" />
         <mark key="^" line="20" column="8" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/dbunit/dbunit/2.5.4/dbunit-2.5.4-sources.jar!/org/dbunit/dataset/xml/FlatXmlDataSet.java" timestamp="1505977257093" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/creatTree.js" timestamp="1504259915073">
         <mark key="[" line="203" column="142" />
         <mark key="]" line="203" column="142" />
@@ -75,7 +76,7 @@
         <mark key="]" line="168" column="0" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/dbunit/dbunit/2.5.4/dbunit-2.5.4-sources.jar!/org/dbunit/dataset/xml/FlatXmlDataSetBuilder.java" timestamp="1505976217527" />
+      <file name="$MAVEN_REPOSITORY$/org/dbunit/dbunit/2.5.4/dbunit-2.5.4-sources.jar!/org/dbunit/dataset/xml/FlatXmlDataSetBuilder.java" timestamp="1505977039800" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1505296267187">
         <mark key="[" line="42" column="27" />
         <mark key="]" line="42" column="27" />
@@ -133,11 +134,11 @@
         <mark key="." line="55" column="37" />
         <mark key="^" line="55" column="37" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/social/service/SocialQuestionServiceIT.java" timestamp="1505976083598">
-        <mark key="[" line="13" column="54" />
-        <mark key="]" line="10" column="50" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="10" column="50" />
+      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/social/service/SocialQuestionServiceIT.java" timestamp="1505977265435">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="15" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1504597517398">
         <mark key="'" line="229" column="0" />
@@ -210,12 +211,12 @@
       <file name="/fragment.java" timestamp="1505705904606">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/test/BaseIT.java" timestamp="1505975854668">
+      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/test/BaseIT.java" timestamp="1505976883782">
         <mark key="'" line="82" column="4" />
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="14" />
-        <mark key="." line="24" column="14" />
-        <mark key="^" line="24" column="14" />
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="64" />
+        <mark key="." line="39" column="64" />
+        <mark key="^" line="39" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -325,7 +326,7 @@
         <text>storageTime</text>
       </register>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>new FlatXmlDataSet();</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -346,7 +347,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>new FlatXmlDataSet();</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
