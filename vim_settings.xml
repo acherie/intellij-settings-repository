@@ -61,7 +61,6 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/mybatis/DeleteLogicalMapper.java" timestamp="1506065211924" />
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1505990541304" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/resource/ResourceCropStateController.java" timestamp="1506066609146" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/AreaServiceImpl.java" timestamp="1505109272077">
         <mark key="[" line="54" column="35" />
@@ -75,7 +74,7 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionService.java" timestamp="1506067897318" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionService.java" timestamp="1506070701718" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/productArchivesList.vm" timestamp="1504259875516">
         <mark key="[" line="188" column="61" />
         <mark key="]" line="188" column="61" />
@@ -101,7 +100,7 @@
         <mark key="^" line="107" column="23" />
         <mark key="." line="107" column="23" />
       </file>
-      <file name="D:/IdeaProjects/SpringHibernateExample/src/test/java/com/websystique/springmvc/controller/AppControllerTest.java" timestamp="1506065667207" />
+      <file name="D:/IdeaProjects/SpringHibernateExample/src/test/java/com/websystique/springmvc/controller/AppControllerTest.java" timestamp="1506070040065" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductLotteryRecord.java" timestamp="1504597910963">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -151,6 +150,7 @@
       <file name="/a.sql" timestamp="1505872931022">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/AbstractService.java" timestamp="1506070734834" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/productBasicInfoRequire.vm" timestamp="1504259870695">
         <mark key="[" line="249" column="81" />
         <mark key="]" line="249" column="81" />
@@ -206,12 +206,12 @@
         <mark key="]" line="38" column="23" />
         <mark key="." line="38" column="23" />
       </file>
-      <file name="D:/IdeaProjects/spring-mvc-test-examples/controllers/src/test/java/net/petrikainulainen/spring/testmvc/todo/service/RepositoryTodoServiceTest.java" timestamp="1506065614637" />
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/social/service/SocialQuestionServiceTest.java" timestamp="1506067975360">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/IdeaProjects/spring-mvc-test-examples/controllers/src/test/java/net/petrikainulainen/spring/testmvc/todo/service/RepositoryTodoServiceTest.java" timestamp="1506070520801" />
+      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/social/service/SocialQuestionServiceTest.java" timestamp="1506070831024">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1505270226275">
         <mark key="[" line="253" column="55" />
@@ -360,7 +360,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>ut</text>
+        <text>socialQuestionMapper</text>
       </register>
       <register name="/" type="4">
         <text>userP</text>
@@ -369,7 +369,7 @@
         <text>getOrderDetailUrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzb2NpYWxfcXVlc3Rpb24gaWQ9IjIiIHVpZD0iMiIgdGl0bGU9IrjM6dm7xiIgY29udGVudD0iW1RFWFRduMzp2dK2xqy7xruvo6zOytK7z8LKx8ixyrLDtNSqy9jC8KO/IiBjcm9wPSIxIgogICAgICAgICAgICAgICAgICAgICBsb2NhdGlvbl9zdHI9ItbQufqxsb6pytC6o7Xtx/hTNTAosbHO5bu3wrcpIiBsb2NhdGlvbj0iMjMyMjk0MTIwMyIgbG9uZ2l0dWRlPSIxMTYuMzUyMjE2IiBsYXRpdHVkZT0iNDAuMDI3MTM0IgogICAgICAgICAgICAgICAgICAgICBjbGljaz0iMCIgaW52aXRlZF9leHBlcnRfaWQ9IjIiIHRodW1ibmFpbD0iRnUwczZFclJiWnhpSW1EeXdTZFpwVnNLT05pMCIgc2NvcmU9IjAiIHN0YXRlPSIxIi8+Cg==</text>
+        <text encoding="base64">CiAgICBATW9jayhuYW1lID0gInNvY2lhbFF1ZXN0aW9uTWFwcGVyIikKICAgIFNvY2lhbFF1ZXN0aW9uTWFwcGVyIHNvY2lhbFF1ZXN0aW9uTWFwcGVyOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -378,7 +378,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgQE1vY2sobmFtZSA9ICIiKQogICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -387,34 +387,34 @@
         <text>expiryDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0U3VjY2Vzcyh0cnVlKTsKICAgICAgICByZXN1bHQuYWRkRGVmYXVsdE1vZGVsKHRydWUpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc2V0U3VjY2Vzcyh0cnVlKTsKICAgICAgICByZXN1bHQuYWRkRGVmYXVsdE1vZGVsKHRydWUpOwoK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
