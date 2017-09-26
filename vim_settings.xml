@@ -12,7 +12,6 @@
         <mark key="." line="142" column="38" />
         <mark key="^" line="142" column="38" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialArticleController.java" timestamp="1506066710004" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductBottle.java" timestamp="1504698879755">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="21" column="36" />
@@ -36,7 +35,6 @@
         <mark key="]" line="203" column="142" />
         <mark key="." line="203" column="142" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/condition/DeleteByConditionMapper.java" timestamp="1506065177631" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/LoginAction.java" timestamp="1505702814151">
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
@@ -60,8 +58,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/mybatis/DeleteLogicalMapper.java" timestamp="1506065211924" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/resource/ResourceCropStateController.java" timestamp="1506066609146" />
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1506386702611" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/AreaServiceImpl.java" timestamp="1505109272077">
         <mark key="[" line="54" column="35" />
         <mark key="]" line="55" column="37" />
@@ -74,7 +71,6 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionService.java" timestamp="1506073326661" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/productArchivesList.vm" timestamp="1504259875516">
         <mark key="[" line="188" column="61" />
         <mark key="]" line="188" column="61" />
@@ -100,7 +96,6 @@
         <mark key="^" line="107" column="23" />
         <mark key="." line="107" column="23" />
       </file>
-      <file name="D:/IdeaProjects/SpringHibernateExample/src/test/java/com/websystique/springmvc/controller/AppControllerTest.java" timestamp="1506074735003" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductLotteryRecord.java" timestamp="1504597910963">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -150,13 +145,11 @@
       <file name="/a.sql" timestamp="1505872931022">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/AbstractService.java" timestamp="1506070734834" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/productBasicInfoRequire.vm" timestamp="1504259870695">
         <mark key="[" line="249" column="81" />
         <mark key="]" line="249" column="81" />
         <mark key="." line="249" column="81" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductProductController.java" timestamp="1506066662927" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/customerProductPackingInfo.vm" timestamp="1504259867628">
         <mark key="[" line="79" column="70" />
         <mark key="]" line="79" column="70" />
@@ -206,8 +199,7 @@
         <mark key="]" line="38" column="23" />
         <mark key="." line="38" column="23" />
       </file>
-      <file name="D:/IdeaProjects/spring-mvc-test-examples/controllers/src/test/java/net/petrikainulainen/spring/testmvc/todo/service/RepositoryTodoServiceTest.java" timestamp="1506070520801" />
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/social/service/SocialQuestionServiceTest.java" timestamp="1506131556052">
+      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/social/service/SocialQuestionServiceTest.java" timestamp="1506407033408">
         <mark key="'" line="66" column="8" />
         <mark key="[" line="54" column="8" />
         <mark key="]" line="54" column="17" />
@@ -230,8 +222,6 @@
       <file name="/fragment.java" timestamp="1506067989108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/es/common/src/test/java/com/sishuok/es/common/service/UserServiceTest.java" timestamp="1505995560614" />
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/InfoController.java" timestamp="1506066868631" />
     </filemarks>
     <jumps>
       <jump line="215" column="25" filename="D:/Projects/nongtianquan/backend/pom.xml" />
