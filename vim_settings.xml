@@ -11,6 +11,12 @@
         <mark key="^" line="21" column="36" />
         <mark key="." line="21" column="36" />
       </file>
+      <file name="D:/Projects/outwork_backend/src/main/resources/spring-context.xml" timestamp="1506419590186">
+        <mark key="[" line="16" column="71" />
+        <mark key="]" line="16" column="72" />
+        <mark key="^" line="16" column="72" />
+        <mark key="." line="16" column="72" />
+      </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/service/UserService.java" timestamp="1506409670604" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/controller/CustomerController.java" timestamp="1506410059856" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1505296267187">
@@ -46,6 +52,7 @@
         <mark key="." line="107" column="23" />
       </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/controller/UserController.java" timestamp="1506410431893" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar!/org/springframework/context/config/spring-context-4.0.xsd" timestamp="1506419550108" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/msg/response/SigninDetail.java" timestamp="1506410706207" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1505097095310">
         <mark key="[" line="22" column="25" />
