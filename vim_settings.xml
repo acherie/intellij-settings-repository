@@ -44,6 +44,12 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductSpecification.java" timestamp="1506512334422">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+      </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/service/CommunicationRecordService.java" timestamp="1506410289672" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserService.java" timestamp="1505703503833">
         <mark key="[" line="107" column="20" />
@@ -83,13 +89,6 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/properties/dev.properties" timestamp="1506414490869" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/controller/UrlRequestExceptionHandler.java" timestamp="1506414637967" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/msg/response/BaseMsg.java" timestamp="1506410518220" />
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/social/service/SocialQuestionServiceTest.java" timestamp="1506407033408">
-        <mark key="'" line="66" column="8" />
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="54" column="17" />
-        <mark key="^" line="54" column="17" />
-        <mark key="." line="54" column="17" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1505270226275">
         <mark key="[" line="253" column="55" />
         <mark key="]" line="253" column="67" />
@@ -204,7 +203,7 @@
         <text>storageTime</text>
       </register>
       <register name="&quot;" type="4">
-        <text>field_management</text>
+        <text>expiration_interval</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -225,7 +224,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>field_management</text>
+        <text>expiration_interval</text>
       </register>
       <register name="/" type="4">
         <text>userP</text>
@@ -233,8 +232,8 @@
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTb2NpYWxRdWVzdGlvbiBxdWVzdGlvbiA9IG5ldyBTb2NpYWxRdWVzdGlvbigpOwogICAgICAgIHF1ZXN0aW9uLnNldFVpZCgyKTsKICAgICAgICBxdWVzdGlvbi5zZXRUaXRsZSgi09DP37Pmo78iKTsKICAgICAgICBxdWVzdGlvbi5zZXRDb250ZW50KCLOytK7z8LXqLzS1eLKx9PQz9+z5sLwo78iKTsKICAgICAgICBxdWVzdGlvbi5zZXRDcm9wKDIpOwogICAgICAgIHF1ZXN0aW9uLnNldExvY2F0aW9uU3RyKCLW0Ln6sbG+qcrQuqO17cf4y6vH5cK3Iik7CiAgICAgICAgcXVlc3Rpb24uc2V0TG9jYXRpb24oIjIzMjI5NjU3NDgiKTsKICAgICAgICBxdWVzdGlvbi5zZXRMb25naXR1ZGUoMTE2LjM1MjE0Nik7CiAgICAgICAgcXVlc3Rpb24uc2V0TGF0aXR1ZGUoNDAuMDI2OTQ4KTsKICAgICAgICBxdWVzdGlvbi5zZXRDbGljaygxKTsKICAgICAgICBxdWVzdGlvbi5zZXRJbnZpdGVkRXhwZXJ0SWQoIjEiKTsKICAgICAgICBxdWVzdGlvbi5zZXRUaHVtYm5haWwoIjM4OTIiKTsKICAgICAgICBxdWVzdGlvbi5zZXRTdGF0ZSgxKTsK</text>
+      <register name="0" type="4">
+        <text>expiration_interval</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
