@@ -12,14 +12,13 @@
         <mark key="." line="21" column="36" />
       </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/controller/ContactController.java" timestamp="1506503274575" />
-      <file name="D:/Projects/outwork_backend/src/main/resources/spring-context.xml" timestamp="1506564474029">
-        <mark key="[" line="67" column="94" />
-        <mark key="]" line="70" column="29" />
-        <mark key="^" line="70" column="29" />
-        <mark key="." line="70" column="29" />
-      </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/service/UserService.java" timestamp="1506409670604" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/controller/CustomerController.java" timestamp="1506410059856" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/outworker/web/LoginAction.java" timestamp="1506565836064">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/application.properties" timestamp="1505296267187">
         <mark key="[" line="42" column="27" />
         <mark key="]" line="42" column="27" />
@@ -43,13 +42,12 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="D:/Projects/outwork_backend/src/main/resources/jdbc.properties" timestamp="1506564467568">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="14" column="34" />
-        <mark key="." line="14" column="34" />
+      <file name="D:/Projects/outwork_backend/src/main/resources/jdbc.properties" timestamp="1506565221703">
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductSpecification.java" timestamp="1506562455496">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductSpecification.java" timestamp="1506566213707">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="16" column="45" />
         <mark key="^" line="16" column="45" />
@@ -62,7 +60,15 @@
         <mark key="^" line="107" column="23" />
         <mark key="." line="107" column="23" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductCatalog.java" timestamp="1506566109477" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/controller/UserController.java" timestamp="1506410431893" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/UserServiceImpl.java" timestamp="1506565764470">
+        <mark key="'" line="331" column="8" />
+        <mark key="[" line="353" column="22" />
+        <mark key="]" line="353" column="38" />
+        <mark key="." line="353" column="38" />
+        <mark key="^" line="353" column="38" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar!/org/springframework/context/config/spring-context-4.0.xsd" timestamp="1506419550108" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/msg/response/SigninDetail.java" timestamp="1506410706207" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1505097095310">
@@ -77,7 +83,7 @@
         <mark key="]" line="147" column="166" />
       </file>
       <file name="D:/Projects/outwork_backend/src/main/resources/log4j.properties" timestamp="1506414051380" />
-      <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/utils/UserServerApiHelper.java" timestamp="1506564537755">
+      <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/utils/UserServerApiHelper.java" timestamp="1506565043222">
         <mark key="[" line="15" column="50" />
         <mark key="]" line="15" column="50" />
         <mark key="." line="15" column="50" />
@@ -104,6 +110,13 @@
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/properties/dev.properties" timestamp="1506414490869" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/controller/UrlRequestExceptionHandler.java" timestamp="1506414637967" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/msg/response/BaseMsg.java" timestamp="1506410518220" />
+      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/social/service/SocialQuestionServiceTest.java" timestamp="1506407033408">
+        <mark key="'" line="66" column="8" />
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="17" />
+        <mark key="^" line="54" column="17" />
+        <mark key="." line="54" column="17" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/vo/ProductSpecificationVo.java" timestamp="1506513689223">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="18" />
