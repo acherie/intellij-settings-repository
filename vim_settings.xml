@@ -19,6 +19,11 @@
         <mark key="." line="21" column="36" />
       </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/controller/ContactController.java" timestamp="1506503274575" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleConversation.java" timestamp="1504598016128">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductBottleController.java" timestamp="1504857165198">
         <mark key="'" line="90" column="16" />
         <mark key="[" line="106" column="0" />
@@ -31,6 +36,11 @@
         <mark key="]" line="33" column="21" />
         <mark key="^" line="33" column="21" />
         <mark key="." line="33" column="21" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/lib/js/creatTree.js" timestamp="1504259915073">
+        <mark key="[" line="203" column="142" />
+        <mark key="]" line="203" column="142" />
+        <mark key="." line="203" column="142" />
       </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/service/UserService.java" timestamp="1506409670604" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/controller/CustomerController.java" timestamp="1506410059856" />
@@ -52,11 +62,22 @@
         <mark key="^" line="81" column="60" />
         <mark key="." line="81" column="60" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/PageQuery.java" timestamp="1506586096375">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="12" column="25" />
-        <mark key="^" line="12" column="25" />
-        <mark key="." line="12" column="25" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestion.java" timestamp="1504598026588">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductSpecificationController.java" timestamp="1506587213491">
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="81" column="18" />
+        <mark key="." line="81" column="18" />
+        <mark key="^" line="81" column="18" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/PageQuery.java" timestamp="1506587137343">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="43" />
       </file>
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/web/bind/method/annotation/PageableMethodArgumentResolver.java" timestamp="1506585691895" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/AreaServiceImpl.java" timestamp="1505109272077">
@@ -71,11 +92,10 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductSpecificationService.java" timestamp="1506586454865">
-        <mark key="[" line="26" column="111" />
-        <mark key="]" line="26" column="31" />
-        <mark key="^" line="26" column="31" />
-        <mark key="." line="26" column="31" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductSpecificationService.java" timestamp="1506587297016">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/Projects/outwork_backend/src/main/resources/jdbc.properties" timestamp="1506565221703">
         <mark key="]" line="13" column="34" />
@@ -89,6 +109,11 @@
         <mark key="." line="14" column="38" />
       </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/service/CommunicationRecordService.java" timestamp="1506410289672" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/productArchivesList.vm" timestamp="1504259875516">
+        <mark key="[" line="188" column="61" />
+        <mark key="]" line="188" column="61" />
+        <mark key="." line="188" column="61" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/homesales/user/service/UserService.java" timestamp="1505705807020">
         <mark key="'" line="10" column="17" />
         <mark key="[" line="52" column="20" />
@@ -108,6 +133,11 @@
         <mark key="]" line="107" column="23" />
         <mark key="^" line="107" column="23" />
         <mark key="." line="107" column="23" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductLotteryRecord.java" timestamp="1504597910963">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/config/ProductCodeProperties.java" timestamp="1504594286728">
         <mark key="'" line="43" column="0" />
@@ -153,6 +183,14 @@
         <mark key="^" line="23" column="19" />
         <mark key="." line="23" column="19" />
       </file>
+      <file name="/a.sql" timestamp="1505872931022">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/salesStatistics/productBasicInfoRequire.vm" timestamp="1504259870695">
+        <mark key="[" line="249" column="81" />
+        <mark key="]" line="249" column="81" />
+        <mark key="." line="249" column="81" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductProductController.java" timestamp="1506586049714" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/datainit/init_home_sales_user_area.sql" timestamp="1506561550401">
         <mark key="'" line="0" column="0" />
@@ -160,6 +198,11 @@
         <mark key="]" line="147" column="166" />
       </file>
       <file name="D:/Projects/outwork_backend/src/main/resources/log4j.properties" timestamp="1506414051380" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/customerProductPackingInfo.vm" timestamp="1504259867628">
+        <mark key="[" line="79" column="70" />
+        <mark key="]" line="79" column="70" />
+        <mark key="." line="79" column="70" />
+      </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/utils/UserServerApiHelper.java" timestamp="1506565043222">
         <mark key="[" line="15" column="50" />
         <mark key="]" line="15" column="50" />
@@ -184,7 +227,22 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/customerProductPackingAdd.vm" timestamp="1504259879911">
+        <mark key="[" line="78" column="70" />
+        <mark key="]" line="78" column="70" />
+        <mark key="." line="78" column="70" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/properties/dev.properties" timestamp="1506414490869" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialQuestionComment.java" timestamp="1504598032833">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SocialArticleComment.java" timestamp="1504598012547">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/controller/UrlRequestExceptionHandler.java" timestamp="1506414637967" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1504597517398">
         <mark key="'" line="229" column="0" />
@@ -194,6 +252,11 @@
         <mark key="^" line="177" column="16" />
       </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/msg/response/BaseMsg.java" timestamp="1506410518220" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialArticleTagService.java" timestamp="1504162367720">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/ProductSpecificationQuery.java" timestamp="1506586197070">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="18" column="35" />
@@ -227,9 +290,11 @@
         <mark key="." line="107" column="20" />
         <mark key="^" line="107" column="20" />
       </file>
+      <file name="/fragment.java" timestamp="1506586692573">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="20" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/upload/Uploader.java" />
       <jump line="0" column="0" filename="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/pom.xml" />
       <jump line="24" column="13" filename="D:/IdeaProjects/spring-boot-mvc-ueditor-qiniu/spring-boot-mvc-ueditor-qiniu/src/main/java/com/baidu/ueditor/upload/StorageManager.java" />
       <jump line="73" column="40" filename="D:/Projects/nongtianquan/backend/nonyequan.iml" />
@@ -329,6 +394,7 @@
       <jump line="18" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/vo/ProductSpecificationVo.java" />
       <jump line="21" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/vo/ProductSpecificationVo.java" />
       <jump line="43" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/vo/ProductSpecificationVo.java" />
+      <jump line="103" column="8" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductSpecificationController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -356,7 +422,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>ProductSpecificationVo</text>
+        <text encoding="base64">cXVlcnkuZ2V0UGFnZSgpICE9IG51bGwgJiYgcXVlcnkuZ2V0U2l6ZSgpICE9IG51bGw=</text>
       </register>
       <register name="/" type="4">
         <text>userP</text>
@@ -374,10 +440,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocXVlcnkgIT0gbnVsbCAmJiBxdWVyeS5nZXRQYWdlKCkgIT0gbnVsbCAmJiBxdWVyeS5nZXRTaXplKCkgIT0gbnVsbCkgewogICAgICAgICAgICBQYWdlSGVscGVyLnN0YXJ0UGFnZShxdWVyeS5nZXRQYWdlKCksIHF1ZXJ5LmdldFNpemUoKSk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHBhZ2UgPSAwLHNpemUgPSAwOwogICAgICAgIENvbmRpdGlvbiBjb25kaXRpb24gPSBuZXcgQ29uZGl0aW9uKFByb2R1Y3RTcGVjaWZpY2F0aW9uLmNsYXNzKTsKICAgICAgICBFeGFtcGxlLkNyaXRlcmlhIGNyaXRlcmlhID0gY29uZGl0aW9uLmNyZWF0ZUNyaXRlcmlhKCk7CiAgICAgICAgaWYocGFyYW1zICE9IG51bGwpIHsKICAgICAgICAgICAgZm9yKFN0cmluZyBrZXk6IHBhcmFtcy5rZXlTZXQoKSkgewogICAgICAgICAgICAgICAgc3dpdGNoIChrZXkpIHsKICAgICAgICAgICAgICAgICAgICBjYXNlICJwYWdlIjoKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZSA9IEludGVnZXIucGFyc2VJbnQoKFN0cmluZylwYXJhbXMuZ2V0KCJwYWdlIikpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICJzaXplIjoKICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZSA9IEludGVnZXIucGFyc2VJbnQoKFN0cmluZylwYXJhbXMuZ2V0KCJzaXplIikpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgY3JpdGVyaWEuYW5kRXF1YWxUbyhrZXkscGFyYW1zLmdldChrZXkpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGlmKHBhZ2UgIT0gMCAmJiBzaXplICE9MCkgewogICAgICAgICAgICBQYWdlSGVscGVyLnN0YXJ0UGFnZShwYWdlLCBzaXplKTsKICAgICAgICB9CiAgICAgICAgTGlzdDxQcm9kdWN0U3BlY2lmaWNhdGlvbj4gbGlzdCA9IHByb2R1Y3RTcGVjaWZpY2F0aW9uU2VydmljZS5saXN0KGNvbmRpdGlvbik7CiAgICAgICAgaWYocGFnZSAhPSAwICYmIHNpemUgIT0wKSB7CiAgICAgICAgICAgIFBhZ2VJbmZvIHBhZ2VJbmZvID0gbmV3IFBhZ2VJbmZvKGxpc3QpOwogICAgICAgICAgICBNYXA8U3RyaW5nLE9iamVjdD4gcmVzdWx0ID0gbmV3IEhhc2hNYXA8U3RyaW5nLE9iamVjdD4oKTsKICAgICAgICAgICAgcmVzdWx0LnB1dCgibGlzdCIsbGlzdCk7CiAgICAgICAgICAgIHJlc3VsdC5wdXQoInRvdGFsIixwYWdlSW5mby5nZXRUb3RhbCgpKTsKICAgICAgICAgICAgcmV0dXJuIFJlc3VsdEdlbmVyYXRvci5nZW5TdWNjZXNzUmVzdWx0KHJlc3VsdCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3VsdEdlbmVyYXRvci5nZW5TdWNjZXNzUmVzdWx0KGxpc3QpOwogICAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>expiryDate</text>
@@ -386,31 +452,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciByZWdpc3RlcklkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJwYWNrYWdlX2luZm8iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
