@@ -76,12 +76,12 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductSpecificationService.java" timestamp="1506653038048">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="124" column="9" />
-        <mark key="]" line="100" column="11" />
-        <mark key="." line="100" column="11" />
-        <mark key="^" line="100" column="11" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductSpecificationService.java" timestamp="1506655113763">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="159" column="54" />
+        <mark key="]" line="159" column="70" />
+        <mark key="^" line="159" column="70" />
+        <mark key="." line="159" column="70" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductSpecification.java" timestamp="1506649405648">
         <mark key="[" line="47" column="44" />
@@ -172,7 +172,7 @@
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/SmsController.java" timestamp="1506650876722">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/utils/UserServerApiHelper.java" timestamp="1506565043222">
+      <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/utils/UserServerApiHelper.java" timestamp="1506655550135">
         <mark key="[" line="15" column="50" />
         <mark key="]" line="15" column="50" />
         <mark key="." line="15" column="50" />
@@ -220,6 +220,7 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
+      <file name="/jdbc.properties" timestamp="1506655512114" />
       <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/social/service/SocialQuestionServiceTest.java" timestamp="1506407033408">
         <mark key="'" line="66" column="8" />
         <mark key="[" line="54" column="8" />
@@ -255,6 +256,12 @@
       </file>
       <file name="/fragment.java" timestamp="1506600461747">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/outwork_backend/.gitignore" timestamp="1506655455662">
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="96" column="15" />
+        <mark key="^" line="96" column="15" />
+        <mark key="." line="96" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -364,7 +371,7 @@
         <text>storageTime</text>
       </register>
       <register name="&quot;" type="4">
-        <text>信</text>
+        <text>deleteById</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -385,7 +392,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>信</text>
+        <text>deleteById</text>
       </register>
       <register name="/" type="4">
         <text>userP</text>
@@ -403,31 +410,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>expiryDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFByb2R1Y3RQYWNrYWdlIHByb2R1Y3RQYWNrYWdlIDogcGFja2FnZXMpIHsKICAgICAgICAgICAgcHJvZHVjdFBhY2thZ2Uuc2V0U3BlY2lmaWNhdGlvbklkKGlkKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZHVwQ291bnQgPiAwKSB7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW08SW50ZWdlcj4gbGV2ZWxTb3J0ZWQgPSBsZXZlbFNvcnRlZAo=</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGlkID0gc3BlY2lmaWNhdGlvbi5nZXRJZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2R1Y3RQYWNrYWdlPiBwYWNrYWdlcyA9IHNwZWNpZmljYXRpb24uZ2V0UGFja2FnZXMoKTsKICAgICAgICBpZiAocGFja2FnZXMgPT0gbnVsbCB8fCBwYWNrYWdlcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCK55rjxW3t9XSIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
@@ -439,7 +446,7 @@
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
