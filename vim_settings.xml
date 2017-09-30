@@ -51,6 +51,12 @@
         <mark key="." line="52" column="29" />
         <mark key="^" line="52" column="29" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/constant/ProductStandardType.java" timestamp="1506754684631">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="61" />
+        <mark key="^" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductTrademark.java" timestamp="1506664714150">
         <mark key="[" line="32" column="27" />
         <mark key="]" line="34" column="41" />
@@ -160,10 +166,10 @@
         <mark key="^" line="107" column="23" />
         <mark key="." line="107" column="23" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductStandard.java" timestamp="1506753520596">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductStandard.java" timestamp="1506754945411">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="13" column="28" />
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="26" />
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
@@ -225,9 +231,6 @@
         <mark key="^" line="43" column="13" />
         <mark key="." line="43" column="13" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/SmsController.java" timestamp="1506650876722">
-        <mark key="'" line="25" column="13" />
-      </file>
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/utils/UserServerApiHelper.java" timestamp="1506655550135">
         <mark key="[" line="15" column="50" />
         <mark key="]" line="15" column="50" />
@@ -251,12 +254,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductStandardService.java" timestamp="1506753192745">
-        <mark key="'" line="34" column="48" />
-        <mark key="[" line="72" column="9" />
-        <mark key="]" line="83" column="31" />
-        <mark key="^" line="83" column="31" />
-        <mark key="." line="83" column="31" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductStandardService.java" timestamp="1506754921657">
+        <mark key="'" line="35" column="48" />
+        <mark key="[" line="122" column="68" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="118" column="46" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductTrademarkService.java" timestamp="1506590898844">
         <mark key="[" line="45" column="9" />
@@ -441,8 +444,8 @@
       <register name="a" type="4">
         <text>storageTime</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKFN0cmluZyBrZXk6IHBhcmFtcy5rZXlTZXQoKSkgewogICAgICAgICAgICAgICAgc3dpdGNoIChrZXkpIHsKICAgICAgICAgICAgICAgICAgICBjYXNlICJwYWdlIjoKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZSA9IEludGVnZXIucGFyc2VJbnQoKFN0cmluZylwYXJhbXMuZ2V0KCJwYWdlIikpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICJzaXplIjoKICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZSA9IEludGVnZXIucGFyc2VJbnQoKFN0cmluZylwYXJhbXMuZ2V0KCJzaXplIikpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgY3JpdGVyaWEuYW5kRXF1YWxUbyhrZXkscGFyYW1zLmdldChrZXkpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>catalog</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -463,7 +466,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>getByTypeProductAndCompany</text>
       </register>
       <register name="/" type="4">
         <text>userP</text>
@@ -471,53 +474,53 @@
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChNYXAuRW50cnk8U3RyaW5nLCBPYmplY3Q+IGVudHJ5IDogcGFyYW1zLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBrZXkgPSBlbnRyeS5nZXRLZXkoKTsKICAgICAgICAgICAgICAgIE9iamVjdCB2YWx1ZSA9IGVudHJ5LmdldFZhbHVlKCk7CiAgICAgICAgICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eSh2YWx1ZSkpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHN3aXRjaCAoa2V5KSB7CiAgICAgICAgICAgICAgICAgICAgY2FzZSAicGFnZSI6CiAgICAgICAgICAgICAgICAgICAgICAgIHBhZ2UgPSAoSW50ZWdlcikgdmFsdWU7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgInNpemUiOgogICAgICAgICAgICAgICAgICAgICAgICBzaXplID0gKEludGVnZXIpIHZhbHVlOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgICAgICBjcml0ZXJpYS5hbmRFcXVhbFRvKGtleSwgcGFyYW1zLmdldChrZXkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8gxKzIz7Lp0a/T0NCntcTK/b7dCiAgICAgICAgICAgIGNyaXRlcmlhLmFuZEVxdWFsVG8oQ29uc3RhbnQuU1RBVEVfRklFTEQsIHBhcmFtcy5nZXRPckRlZmF1bHQoQ29uc3RhbnQuU1RBVEVfRklFTEQsIFN0YXRlLlZBTElELnZhbHVlKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>catalog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKFN0cmluZyBrZXk6IHBhcmFtcy5rZXlTZXQoKSkgewogICAgICAgICAgICAgICAgc3dpdGNoIChrZXkpIHsKICAgICAgICAgICAgICAgICAgICBjYXNlICJwYWdlIjoKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZSA9IEludGVnZXIucGFyc2VJbnQoKFN0cmluZylwYXJhbXMuZ2V0KCJwYWdlIikpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICJzaXplIjoKICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZSA9IEludGVnZXIucGFyc2VJbnQoKFN0cmluZylwYXJhbXMuZ2V0KCJzaXplIikpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgY3JpdGVyaWEuYW5kRXF1YWxUbyhrZXkscGFyYW1zLmdldChrZXkpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc1dhcm5FbmFibGVkKCkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>expiryDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKFN0cmluZyBrZXk6IHBhcmFtcy5rZXlTZXQoKSkgewogICAgICAgICAgICAgICAgc3dpdGNoIChrZXkpIHsKICAgICAgICAgICAgICAgICAgICBjYXNlICJwYWdlIjoKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZSA9IEludGVnZXIucGFyc2VJbnQoKFN0cmluZylwYXJhbXMuZ2V0KCJwYWdlIikpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICJzaXplIjoKICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZSA9IEludGVnZXIucGFyc2VJbnQoKFN0cmluZylwYXJhbXMuZ2V0KCJzaXplIikpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgY3JpdGVyaWEuYW5kRXF1YWxUbyhrZXkscGFyYW1zLmdldChrZXkpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ2dlci5pc1dhcm5FbmFibGVkKCkpIHsK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oIrLOyv207c7zIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleFNlcnZpY2UuZGVsZXRlTG9naWNhbEJ5SWRzKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
