@@ -110,6 +110,7 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/social/SocialQuestionService.java" timestamp="1507519321057" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductSpecificationService.java" timestamp="1506664155131">
         <mark key="'" line="124" column="8" />
         <mark key="[" line="122" column="0" />
@@ -175,10 +176,6 @@
         <mark key="]" line="20" column="28" />
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductPackage.java" timestamp="1506655916178">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="34" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/config/ProductCodeProperties.java" timestamp="1504594286728">
         <mark key="'" line="43" column="0" />
@@ -275,6 +272,7 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/task/QuestionRecommendTask.java" timestamp="1507519123070" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductProductService.java" timestamp="1504597517398">
         <mark key="'" line="229" column="0" />
         <mark key="[" line="176" column="8" />
