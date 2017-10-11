@@ -56,7 +56,6 @@
         <mark key="." line="42" column="27" />
         <mark key="^" line="40" column="14" />
       </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1507604406633" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/PageQuery.java" timestamp="1506587137343">
         <mark key="[" line="10" column="25" />
         <mark key="]" line="13" column="43" />
@@ -113,6 +112,7 @@
         <mark key="^" line="107" column="23" />
         <mark key="." line="107" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.6.RELEASE/spring-test-4.3.6.RELEASE-sources.jar!/org/springframework/test/context/testng/AbstractTransactionalTestNGSpringContextTests.java" timestamp="1507705734265" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductRegisterNote.java" timestamp="1507538881044">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="15" />
@@ -162,6 +162,12 @@
         <mark key="." line="0" column="69" />
         <mark key="^" line="0" column="69" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/product/service/ProductRegisterTest.java" timestamp="1507705653389">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
       <file name="/Dummy.txt" timestamp="1507704063286">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -173,6 +179,7 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="65" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.6.RELEASE/spring-test-4.3.6.RELEASE-sources.jar!/org/springframework/test/context/testng/AbstractTestNGSpringContextTests.java" timestamp="1507705878153" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductTrademarkService.java" timestamp="1506590898844">
         <mark key="[" line="45" column="9" />
         <mark key="]" line="58" column="24" />
@@ -197,7 +204,7 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/social/service/SocialQuestionServiceTest.java" timestamp="1507627046995" />
+      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/social/service/SocialQuestionServiceTest.java" timestamp="1507705921744" />
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19-sources.jar!/org/mockito/Matchers.java" timestamp="1507627473344" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1505270226275">
         <mark key="[" line="253" column="55" />
