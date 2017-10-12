@@ -28,6 +28,12 @@
         <mark key="^" line="53" column="26" />
         <mark key="." line="47" column="33" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductPackageService.java" timestamp="1507810006790">
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="44" />
+        <mark key="^" line="34" column="44" />
+        <mark key="." line="34" column="44" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/constant/ProductStandardType.java" timestamp="1506754684631">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="61" />
@@ -198,7 +204,7 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507807656106">
+      <file name="/Dummy.txt" timestamp="1507810013570">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
