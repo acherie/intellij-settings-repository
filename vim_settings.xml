@@ -11,7 +11,7 @@
         <mark key="^" line="21" column="36" />
         <mark key="." line="21" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1506756300708">
+      <file name="/a.dummy" timestamp="1507876236322">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductSpecificationMapper.xml" timestamp="1507862471302">
@@ -40,11 +40,11 @@
         <mark key="^" line="34" column="32" />
         <mark key="." line="35" column="32" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/BeanUtils.java" timestamp="1507875387574">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="44" column="29" />
-        <mark key="." line="44" column="29" />
-        <mark key="^" line="44" column="29" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/BeanUtils.java" timestamp="1507876287146">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductPackageService.java" timestamp="1507810006790">
         <mark key="[" line="34" column="36" />
@@ -222,7 +222,7 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507862938514">
+      <file name="/Dummy.txt" timestamp="1507876291597">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
