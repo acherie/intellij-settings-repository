@@ -14,19 +14,21 @@
       <file name="/a.dummy" timestamp="1507876236322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductSpecificationMapper.xml" timestamp="1507862471302">
-        <mark key="'" line="24" column="12" />
-        <mark key="[" line="46" column="37" />
-        <mark key="]" line="46" column="36" />
-        <mark key="^" line="46" column="36" />
-        <mark key="." line="46" column="36" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductSpecificationMapper.xml" timestamp="1507877997390">
+        <mark key="'" line="20" column="95" />
+        <mark key="[" line="58" column="33" />
+        <mark key="]" line="58" column="90" />
+        <mark key="^" line="58" column="90" />
+        <mark key="." line="58" column="90" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Map.java" timestamp="1507790929491" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductInspector.java" timestamp="1507865716362">
         <mark key="[" line="27" column="33" />
         <mark key="]" line="27" column="42" />
         <mark key="^" line="27" column="42" />
         <mark key="." line="27" column="42" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/ServerUtils.java" timestamp="1507876794495" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCompositionService.java" timestamp="1507796678111">
         <mark key="[" line="47" column="32" />
         <mark key="]" line="47" column="33" />
@@ -58,6 +60,7 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10-sources.jar!/io/swagger/annotations/ApiParam.java" timestamp="1507774514703" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductTrademark.java" timestamp="1507800582947">
         <mark key="[" line="32" column="27" />
         <mark key="]" line="34" column="41" />
@@ -75,10 +78,11 @@
         <mark key="." line="42" column="27" />
         <mark key="^" line="40" column="14" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductSpecificationController.java" timestamp="1507864644962">
+      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10-sources.jar!/io/swagger/annotations/ApiModelProperty.java" timestamp="1507798967459" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductSpecificationController.java" timestamp="1507876971787">
         <mark key="'" line="113" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="91" column="8" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="58" column="4" />
         <mark key="." line="43" column="15" />
         <mark key="^" line="43" column="15" />
       </file>
@@ -130,11 +134,11 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductStandardController.java" timestamp="1507858629803">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="191" />
-        <mark key="." line="96" column="29" />
-        <mark key="^" line="96" column="29" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductStandardController.java" timestamp="1507877047179">
+        <mark key="[" line="73" column="20" />
+        <mark key="]" line="73" column="41" />
+        <mark key="." line="73" column="41" />
+        <mark key="^" line="73" column="41" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductSpecification.java" timestamp="1507860684312">
         <mark key="[" line="27" column="20" />
@@ -142,6 +146,7 @@
         <mark key="^" line="27" column="30" />
         <mark key="." line="27" column="30" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/qiniu/QiniuConstant.java" timestamp="1507800236480" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserService.java" timestamp="1505703503833">
         <mark key="[" line="107" column="20" />
         <mark key="]" line="107" column="23" />
@@ -160,6 +165,8 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="21" column="27" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductTrademarkController.java" timestamp="1507778525038" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1-sources.jar!/org/mybatis/spring/SqlSessionFactoryBean.java" timestamp="1507802356328" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductRegisterNote.java" timestamp="1507538881044">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="15" />
@@ -172,12 +179,12 @@
         <mark key="^" line="3" column="78" />
         <mark key="." line="3" column="78" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductRegisterController.java" timestamp="1507862001480">
-        <mark key="'" line="116" column="15" />
-        <mark key="[" line="58" column="5" />
-        <mark key="]" line="58" column="15" />
-        <mark key="^" line="58" column="15" />
-        <mark key="." line="58" column="15" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductRegisterController.java" timestamp="1507876995147">
+        <mark key="'" line="127" column="15" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="73" column="4" />
+        <mark key="^" line="68" column="41" />
+        <mark key="." line="68" column="41" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1505097095310">
         <mark key="[" line="22" column="25" />
@@ -198,6 +205,7 @@
         <mark key="." line="118" column="15" />
         <mark key="^" line="118" column="15" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductLicense.java" timestamp="1507778758512" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/utils/UserServerApiHelper.java" timestamp="1506655550135">
         <mark key="[" line="15" column="50" />
         <mark key="]" line="15" column="50" />
@@ -251,11 +259,11 @@
         <mark key="^" line="49" column="15" />
         <mark key="." line="49" column="15" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/ProductSpecificationQuery.java" timestamp="1507860504688">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="22" column="34" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/query/ProductSpecificationQuery.java" timestamp="1507877248196">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="25" column="44" />
+        <mark key="^" line="25" column="44" />
+        <mark key="." line="25" column="44" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/SystemConfigController.java" timestamp="1507798300647">
         <mark key="'" line="36" column="24" />
@@ -323,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductBottleController.java" />
       <jump line="199" column="75" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductProductController.java" />
       <jump line="207" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductProductController.java" />
       <jump line="186" column="4" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductProductController.java" />
@@ -423,13 +430,14 @@
       <jump line="108" column="46" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductSpecificationController.java" />
       <jump line="75" column="4" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductSpecificationController.java" />
       <jump line="113" column="0" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductSpecificationController.java" />
+      <jump line="20" column="95" filename="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductSpecificationMapper.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIrmry75pZCIpCg==</text>
+        <text encoding="base64">CiAgICBAUG9zdE1hcHBpbmcoIi9kZWxldGUtYmF0Y2giKQogICAgcHVibGljIFJlc3VsdDxJbnRlZ2VyPiBkZWxldGVCYXRjaChAUmVxdWVzdFBhcmFtIExpc3Q8SW50ZWdlcj4gaWRzKSB7CgogICAgICAgIGlmIChpZHMgIT0gbnVsbCAmJiAhaWRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICBpbnQgaSA9IHByb2R1Y3RSZWdpc3RlclNlcnZpY2UuZGVsZXRlTG9naWNhbEJ5SWRzKFN0cmluZ1V0aWxzLmNvbGxlY3Rpb25Ub0NvbW1hRGVsaW1pdGVkU3RyaW5nKGlkcykpOwogICAgICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlblN1Y2Nlc3NSZXN1bHQoaSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlbkZhaWxSZXN1bHQoItfK1LTOtNXStb0iKTsKICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFycmF5cy5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC8vIGZpbHRlciBvdXQgcHJvcGVydGllcyB3aXRoIGdldHRlciBvbmx5CiAgICAgICAgICAgICAgICAgICAgLmZpbHRlcihwZCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwZC5nZXROYW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JqZWN0cy5ub25OdWxsKHBkLmdldFJlYWRNZXRob2QoKSk7CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTWFwKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gYmVhbiBwcm9wZXJ0eSBuYW1lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eURlc2NyaXB0b3I6OmdldE5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZCAtPiB7IC8vIGludm9rZSBtZXRob2QgdG8gZ2V0IHZhbHVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-10</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -450,7 +458,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>Object value</text>
+        <text>-10</text>
       </register>
       <register name="/" type="4">
         <text>userP</text>
@@ -458,8 +466,8 @@
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
       </register>
-      <register name="0" type="4">
-        <text>telephone</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InN0YXRlICE9IG51bGwiPgogICAgICAgICAgICAgICAgYW5kIHBzcC5zdGF0ZSAhPSAje3N0YXRlfQogICAgICAgICAgICA8L2lmPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFycmF5cy5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC8vIGZpbHRlciBvdXQgcHJvcGVydGllcyB3aXRoIGdldHRlciBvbmx5CiAgICAgICAgICAgICAgICAgICAgLmZpbHRlcihwZCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwZC5nZXROYW1lKCkpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JqZWN0cy5ub25OdWxsKHBkLmdldFJlYWRNZXRob2QoKSk7CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTWFwKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gYmVhbiBwcm9wZXJ0eSBuYW1lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9wZXJ0eURlc2NyaXB0b3I6OmdldE5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZCAtPiB7IC8vIGludm9rZSBtZXRob2QgdG8gZ2V0IHZhbHVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KSk7Cg==</text>
