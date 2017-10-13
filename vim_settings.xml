@@ -14,12 +14,12 @@
       <file name="/a.dummy" timestamp="1506756300708">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductSpecificationMapper.xml" timestamp="1507803902249">
+      <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductSpecificationMapper.xml" timestamp="1507859118996">
         <mark key="'" line="24" column="12" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="27" />
         <mark key="^" line="33" column="14" />
-        <mark key="." line="37" column="0" />
+        <mark key="." line="32" column="27" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Map.java" timestamp="1507790929491" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCompositionService.java" timestamp="1507796678111">
@@ -27,6 +27,13 @@
         <mark key="]" line="47" column="33" />
         <mark key="^" line="53" column="26" />
         <mark key="." line="47" column="33" />
+      </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductRegister.java" timestamp="1507859166212">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="32" />
+        <mark key="^" line="34" column="32" />
+        <mark key="." line="35" column="32" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductPackageService.java" timestamp="1507810006790">
         <mark key="[" line="34" column="36" />
@@ -109,17 +116,17 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductStandardController.java" timestamp="1507804260404">
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/ProductStandardController.java" timestamp="1507858629803">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="191" />
         <mark key="." line="96" column="29" />
         <mark key="^" line="96" column="29" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductSpecification.java" timestamp="1507800630163">
-        <mark key="[" line="49" column="20" />
-        <mark key="]" line="49" column="27" />
-        <mark key="^" line="50" column="25" />
-        <mark key="." line="49" column="20" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductSpecification.java" timestamp="1507858875385">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="35" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/qiniu/QiniuConstant.java" timestamp="1507800236480" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/UserService.java" timestamp="1505703503833">
@@ -172,12 +179,6 @@
         <mark key="]" line="15" column="26" />
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductRegisterService.java" timestamp="1507798501634">
-        <mark key="'" line="40" column="56" />
-        <mark key="[" line="101" column="36" />
-        <mark key="]" line="101" column="36" />
-        <mark key="." line="101" column="36" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductLicense.java" timestamp="1507778758512" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/utils/UserServerApiHelper.java" timestamp="1506655550135">
@@ -252,11 +253,11 @@
         <mark key="^" line="29" column="45" />
         <mark key="." line="29" column="45" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/vo/ProductSpecificationVo.java" timestamp="1507800799982">
-        <mark key="[" line="50" column="31" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="36" />
-        <mark key="^" line="50" column="36" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/vo/ProductSpecificationVo.java" timestamp="1507859059416">
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+        <mark key="^" line="45" column="28" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/social/SocialQuestionController.java" timestamp="1505270226275">
         <mark key="[" line="253" column="55" />
@@ -405,7 +406,7 @@
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMseppZCIpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>GetMapping</text>
+        <text>// 标准号id</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -426,7 +427,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>GetMapping</text>
+        <text>// 标准号id</text>
       </register>
       <register name="/" type="4">
         <text>userP</text>
@@ -438,37 +439,37 @@
         <text encoding="base64">ICAgICAgICBzcGVjaWZpY2F0aW9uVm8uc2V0UGljdHVyZShRaW5pdUZpbGUuZ2V0ZG93bmxvYWR1cmwoUWluaXVDb25zdGFudC5Eb21haW5fcHJvZHVjdCwgCiAgICAgICAgICAgICAgICBzcGVjaWZpY2F0aW9uVm8uZ2V0UGljdHVyZSgpLCAiP2ltYWdlVmlldzIvMi9oLzIwMCIsIFFpbml1Q29uc3RhbnQucG9ydHJhaXRfZG93bmxvYWRfd2VicGFnZV9leHApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRRaW5pdVVybChzcGVjaWZpY2F0aW9uVm8pOwo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2llbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjaWZpY2F0aW9uVm8uc2V0UGljdHVyZShRaW5pdUZpbGUuZ2V0ZG93bmxvYWR1cmwoUWluaXVDb25zdGFudC5Eb21haW5fcHJvZHVjdCwgCiAgICAgICAgICAgICAgICBzcGVjaWZpY2F0aW9uVm8uZ2V0UGljdHVyZSgpLCAiP2ltYWdlVmlldzIvMi9oLzIwMCIsIFFpbml1Q29uc3RhbnQucG9ydHJhaXRfZG93bmxvYWRfd2VicGFnZV9leHApKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXRRaW5pdVVybChzcGVjaWZpY2F0aW9uVm8pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjaWZpY2F0aW9uVm8K</text>
+        <text encoding="base64">ICAgICAgICBzcGVjaWZpY2F0aW9uVm8uc2V0UGljdHVyZShRaW5pdUZpbGUuZ2V0ZG93bmxvYWR1cmwoUWluaXVDb25zdGFudC5Eb21haW5fcHJvZHVjdCwgCiAgICAgICAgICAgICAgICBzcGVjaWZpY2F0aW9uVm8uZ2V0UGljdHVyZSgpLCAiP2ltYWdlVmlldzIvMi9oLzIwMCIsIFFpbml1Q29uc3RhbnQucG9ydHJhaXRfZG93bmxvYWRfd2VicGFnZV9leHApKTsK</text>
       </register>
       <register name="s" type="4">
         <text>trademarkName</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcGVjaWZpY2F0aW9uVm8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0IGpvaW4gcHJvZHVjdF9waWN0dXJlcyBwcGkgb24gcHBpLmZpZWxkaWQ9cHNwLmlkIGFuZCBwcGkucmVsYXRlX3R5cGU9Mwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0IGpvaW4gcHJvZHVjdF9waWN0dXJlcyBwcGkgb24gcHBpLmZpZWxkaWQ9cHNwLmlkIGFuZCBwcGkucmVsYXRlX3R5cGU9Mwo=</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
@@ -480,7 +481,7 @@
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBAUmVzb3VyY2UKICAgIHByaXZhdGUgU3lzdGVtQ29uZmlnU2VydmljZSBzeXN0ZW1Db25maWdTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -496,7 +497,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
