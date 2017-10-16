@@ -5,6 +5,9 @@
   <action id="AceJumpAction">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="AliP3CInspectionAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
