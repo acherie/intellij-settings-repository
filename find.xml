@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[nonyequan] - ...\src\main\java\com\dakun\nongyequan\service\product\ProductSpecificationService.java'" />
-    <option name="defaultScopeName" value="File '[nonyequan] - ...\src\main\java\com\dakun\nongyequan\service\product\ProductSpecificationService.java'" />
+    <option name="customScope" value="File '[nonyequan] - ...\src\main\java\com\dakun\nongyequan\utils\exception\IllegalArgumentException.java'" />
+    <option name="defaultScopeName" value="File '[nonyequan] - ...\src\main\java\com\dakun\nongyequan\utils\exception\IllegalArgumentException.java'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[nonyequan] - ...\src\main\java\com\dakun\nongyequan\service\product\ProductSpecificationService.java'" />
+    <option name="SEARCH_SCOPE" value="File '[nonyequan] - ...\src\main\java\com\dakun\nongyequan\utils\exception\IllegalArgumentException.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
