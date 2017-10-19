@@ -95,7 +95,6 @@
         <mark key="." line="43" column="15" />
         <mark key="^" line="43" column="15" />
       </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1508291721321" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/mapper/ProductApproveMapper.java" timestamp="1508238744359">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="30" />
@@ -244,11 +243,11 @@
         <mark key="^" line="44" column="100" />
         <mark key="." line="44" column="100" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SystemConfig.java" timestamp="1507794505047">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="26" />
-        <mark key="^" line="17" column="32" />
-        <mark key="." line="17" column="32" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/SystemConfig.java" timestamp="1508383878278">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductRegisterService.java" timestamp="1508223679010">
         <mark key="'" line="191" column="16" />
@@ -341,12 +340,12 @@
         <mark key="." line="37" column="29" />
         <mark key="^" line="37" column="29" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/SystemConfigController.java" timestamp="1507798300647">
-        <mark key="'" line="36" column="24" />
-        <mark key="[" line="75" column="54" />
-        <mark key="]" line="75" column="77" />
-        <mark key="^" line="75" column="77" />
-        <mark key="." line="75" column="77" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/product/SystemConfigController.java" timestamp="1508384635357">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="22" column="54" />
+        <mark key="]" line="23" column="17" />
+        <mark key="^" line="23" column="17" />
+        <mark key="." line="23" column="17" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/utils/exception/IllegalArgumentException.java" timestamp="1508205907873">
         <mark key="[" line="9" column="64" />
