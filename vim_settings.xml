@@ -34,6 +34,12 @@
         <mark key="^" line="27" column="42" />
         <mark key="." line="27" column="42" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/constant/ProductRegisterType.java" timestamp="1508470526831">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductCompositionService.java" timestamp="1507796678111">
         <mark key="[" line="47" column="32" />
         <mark key="]" line="47" column="33" />
@@ -308,11 +314,11 @@
       <file name="/HTML File.txt.ft" timestamp="1508139149860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductIdentityCodeService.java" timestamp="1508469308729">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="20" column="38" />
-        <mark key="^" line="20" column="38" />
-        <mark key="." line="20" column="38" />
+      <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductIdentityCodeService.java" timestamp="1508470290007">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="34" column="25" />
+        <mark key="^" line="34" column="25" />
+        <mark key="." line="34" column="25" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/test/resources/application-test.properties" timestamp="1505966396289">
         <mark key="[" line="0" column="65" />
