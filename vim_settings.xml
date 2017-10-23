@@ -16,6 +16,9 @@
         <mark key="]" line="58" column="20" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1508721909463">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductSpecificationLineMapper.xml" timestamp="1508404235357">
         <mark key="[" line="14" column="33" />
         <mark key="]" line="14" column="35" />
@@ -111,6 +114,7 @@
         <mark key="^" line="24" column="20" />
         <mark key="." line="23" column="4" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1508722006809" />
       <file name="D:/Projects/product-service/src/main/java/com/dakun/nongyequan/Application.java" timestamp="1508562124744">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -257,6 +261,9 @@
         <mark key="^" line="139" column="10" />
         <mark key="." line="139" column="10" />
       </file>
+      <file name="D:/Projects/nongtianquan/backend/src/test/java/com/dakun/nongyequan/product/service/ProductApplyService.java" timestamp="1508553301926">
+        <mark key="[" line="6" column="32" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/SocialQuestionCommentMapper.xml" timestamp="1505097095310">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="23" column="19" />
@@ -294,6 +301,9 @@
         <mark key="^" line="11" column="113" />
         <mark key="." line="9" column="26" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1508139149860">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductIdentityCodeService.java" timestamp="1508490758334">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="98" column="30" />
@@ -319,7 +329,7 @@
         <mark key="]" line="165" column="19" />
         <mark key="." line="159" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508720506830">
+      <file name="/Dummy.txt" timestamp="1508721928646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -472,7 +482,7 @@
         <mark key="^" line="96" column="15" />
         <mark key="." line="96" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1508720513369">
+      <file name="/fragment.java" timestamp="1508721928636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductDosage.java" timestamp="1507797814096">
