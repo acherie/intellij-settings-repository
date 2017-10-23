@@ -11,7 +11,6 @@
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.class" timestamp="1508655614801" />
       <file name="D:/Projects/zhuannong-backend/api-gateway/pom.xml" timestamp="1508656431064">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="58" column="21" />
@@ -127,7 +126,7 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="D:/Projects/zhuannong-backend/api-gateway/src/main/resources/application.properties" timestamp="1508655923841">
+      <file name="D:/Projects/zhuannong-backend/api-gateway/src/main/resources/application.properties" timestamp="1508719806066">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="67" />
         <mark key="." line="19" column="0" />
@@ -179,7 +178,6 @@
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="52" />
       </file>
-      <file name="D:/IdeaProjects/PiggyMetrics/config/src/main/resources/shared/application.yml" timestamp="1508655516513" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/controller/ImageController.java" timestamp="1507800211241">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -210,7 +208,6 @@
         <mark key="^" line="107" column="23" />
         <mark key="." line="107" column="23" />
       </file>
-      <file name="D:/IdeaProjects/PiggyMetrics/notification-service/src/main/java/com/piggymetrics/notification/client/AccountServiceClient.java" timestamp="1508656805074" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductApproveMapper.xml" timestamp="1508238702892">
         <mark key="[" line="31" column="41" />
         <mark key="]" line="28" column="23" />
@@ -680,7 +677,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
