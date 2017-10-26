@@ -278,12 +278,12 @@
         <mark key="^" line="30" column="34" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1508998055059">
-        <mark key="'" line="14" column="17" />
-        <mark key="[" line="33" column="14" />
-        <mark key="]" line="29" column="44" />
-        <mark key="^" line="29" column="44" />
-        <mark key="." line="29" column="44" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1508998128928">
+        <mark key="'" line="16" column="17" />
+        <mark key="[" line="20" column="74" />
+        <mark key="]" line="22" column="63" />
+        <mark key="^" line="22" column="63" />
+        <mark key="." line="22" column="63" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/ProductApplication.java" timestamp="1508724653524">
         <mark key="[" line="13" column="0" />
@@ -559,6 +559,7 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/resources/templates/controller/controller.ftl" timestamp="1508998533954" />
       <file name="D:/Projects/outwork_backend/src/main/java/com/zp/FieldManagement/controller/UserController.java" timestamp="1508912084687" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCodeBo.java" timestamp="1508898210577">
         <mark key="[" line="23" column="0" />
@@ -691,7 +692,12 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/generator/parameter/UserParameters.java" timestamp="1508997933103" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/generator/parameter/UserParameters.java" timestamp="1508998378523">
+        <mark key="[" line="53" column="28" />
+        <mark key="]" line="53" column="32" />
+        <mark key="^" line="53" column="32" />
+        <mark key="." line="53" column="32" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductApply.java" timestamp="1508553518560">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="16" column="11" />
