@@ -35,11 +35,6 @@
         <mark key="^" line="12" column="28" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/com/dakun/nongyequan/product/service/ProductGenerateServiceIT.java" timestamp="1508813465919">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/constant/ProductRegisterType.java" timestamp="1508480176091">
         <mark key="[" line="21" column="69" />
         <mark key="]" line="22" column="30" />
@@ -93,6 +88,12 @@
         <mark key="^" line="209" column="20" />
       </file>
       <file name="/application.properties" timestamp="1509007871296" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" timestamp="1509014130165">
+        <mark key="[" line="69" column="8" />
+        <mark key="]" line="69" column="14" />
+        <mark key="^" line="69" column="14" />
+        <mark key="." line="69" column="14" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-center/.gitignore" timestamp="1508725467370">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="5" />
@@ -116,9 +117,10 @@
         <mark key="^" line="69" column="17" />
         <mark key="." line="69" column="17" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1509010927126">
-        <mark key="'" line="68" column="11" />
-        <mark key="[" line="66" column="54" />
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/mybatis/customs/CustomsDataServiceImpl.java" timestamp="1509012970886" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1509014373322">
+        <mark key="'" line="29" column="1" />
+        <mark key="[" line="43" column="51" />
         <mark key="]" line="67" column="47" />
         <mark key="." line="67" column="47" />
         <mark key="^" line="67" column="47" />
@@ -187,6 +189,7 @@
         <mark key="^" line="107" column="23" />
         <mark key="." line="107" column="23" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/BaseServiceImpl.java" timestamp="1509013022793" />
       <file name="D:/Projects/nongtianquan/backend/src/main/resources/mapper/ProductApproveMapper.xml" timestamp="1508238702892">
         <mark key="[" line="31" column="41" />
         <mark key="]" line="28" column="23" />
@@ -231,6 +234,12 @@
         <mark key="]" line="1" column="51" />
         <mark key="^" line="1" column="51" />
         <mark key="." line="1" column="51" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1509014457821">
+        <mark key="[" line="39" column="61" />
+        <mark key="]" line="42" column="72" />
+        <mark key="^" line="42" column="72" />
+        <mark key="." line="42" column="72" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductReport.java" timestamp="1508981980110">
         <mark key="[" line="15" column="4" />
@@ -341,11 +350,7 @@
         <mark key="^" line="99" column="58" />
         <mark key="." line="99" column="58" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/generator/engine/impl/ORM/MybatisEngine.java" timestamp="1509000212769">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="6" column="0" />
-      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/cache/interceptor/OrgDepCacheAspect.java" timestamp="1509012817328" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/mapper/ProductRegisterMapper.java" timestamp="1508899015225">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="33" />
@@ -400,11 +405,6 @@
         <mark key="]" line="21" column="27" />
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
-      </file>
-      <file name="D:/Projects/nongtianquan/backend/pom.xml" timestamp="1509000060604">
-        <mark key="'" line="133" column="51" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="196" column="20" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/service/product/ProductDosageService.java" timestamp="1507798091517">
         <mark key="[" line="47" column="27" />
@@ -480,16 +480,13 @@
         <mark key="." line="63" column="23" />
         <mark key="^" line="63" column="23" />
       </file>
-      <file name="D:/Projects/nongtianquan/backend/src/test/java/generator/engine/impl/ORM/MybatisEngine.java" timestamp="1509000211469">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="38" />
-      </file>
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/ProductTrademark.java" timestamp="1507800582947">
         <mark key="[" line="32" column="27" />
         <mark key="]" line="34" column="41" />
         <mark key="^" line="34" column="41" />
         <mark key="." line="34" column="41" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java" timestamp="1509014163077" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductCatalogController.java" timestamp="1508725998948">
         <mark key="[" line="145" column="55" />
         <mark key="]" line="145" column="54" />
@@ -528,6 +525,7 @@
         <mark key="." line="9" column="50" />
       </file>
       <file name="D:/Projects/nongtianquan/backend/src/test/java/generator/parameter/SystemParameters.java" timestamp="1508997306181" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/context/annotation/Bean.java" timestamp="1509013143194" />
       <file name="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/model/constant/ProductBottleState.java" timestamp="1508316374208">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="10" />
@@ -632,10 +630,6 @@
         <mark key="^" line="14" column="15" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Comparator.java" timestamp="1509007518550" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/com/dakun/nongyequan/test/DbUnitIT.java" timestamp="1508813440939">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="64" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductSpecificationFile.java" timestamp="1508930677535">
         <mark key="[" line="6" column="39" />
       </file>
@@ -652,6 +646,13 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/utils/AbstractService.java" timestamp="1509014337069">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="33" column="30" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="33" column="30" />
+      </file>
       <file name="D:/Projects/nongtianquan/backend/src/test/resources/dbunit/social/question.xml" timestamp="1505996811413">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="26" />
@@ -665,7 +666,7 @@
         <mark key="." line="6" column="32" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationLineService.java" timestamp="1508815116259" />
-      <file name="/Dummy.txt" timestamp="1509001986178">
+      <file name="/Dummy.txt" timestamp="1509013023334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1508655914164">
@@ -708,11 +709,7 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="256" column="69" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/utils/JWTUtils.java" timestamp="1508753265189">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/common/poi/ExcelToList.java" timestamp="1509012903760" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1508899144889">
         <mark key="'" line="364" column="0" />
         <mark key="[" line="79" column="0" />
@@ -781,10 +778,6 @@
         <mark key="^" line="36" column="42" />
         <mark key="." line="36" column="42" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBoxService.java" timestamp="1508827548917">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="92" column="20" />
-      </file>
       <file name="D:/Projects/outwork_backend/.gitignore" timestamp="1506655455662">
         <mark key="[" line="93" column="26" />
         <mark key="]" line="96" column="15" />
@@ -802,10 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="59" filename="D:/Projects/product-service/pom.xml" />
-      <jump line="10" column="0" filename="D:/Projects/api-gateway/pom.xml" />
-      <jump line="31" column="43" filename="D:/Projects/zhuannong-backend/product-service/pom.xml" />
-      <jump line="64" column="32" filename="D:/Projects/zhuannong-backend/api-gateway/pom.xml" />
       <jump line="65" column="40" filename="D:/Projects/zhuannong-backend/api-gateway/pom.xml" />
       <jump line="91" column="32" filename="D:/Projects/zhuannong-backend/api-gateway/pom.xml" />
       <jump line="92" column="24" filename="D:/Projects/zhuannong-backend/api-gateway/pom.xml" />
@@ -902,13 +891,17 @@
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
       <jump line="102" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
       <jump line="64" column="11" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
+      <jump line="19" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/utils/AbstractService.java" />
+      <jump line="68" column="10" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
+      <jump line="52" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
+      <jump line="29" column="1" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMserL+cr0xvPStSIpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -929,7 +922,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">U3FsU2Vzc2lvblRlbXBsYXRlIHNxbFNlc3Npb25UZW1wbGF0ZSA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>genera</text>
@@ -941,49 +934,49 @@
         <text encoding="base64">aW1wb3J0IG9yZy5teWJhdGlzLmdlbmVyYXRvci5jb25maWcuKjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXAgKz0gcGFja2FnZXMuZ2V0KGkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzcWxTZXNzaW9uVGVtcGxhdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBhbW91bnQgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>trademarkName</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYWNrYWdlcy5zdHJlYW0oKQogICAgICAgICAgICAgICAgLnNvcnRlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXVyZWthLmluc3RhbmNlLnByZWZlcklwQWRkcmVzcz10cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXAgKz0gcGFja2FnZXMuZ2V0KGkpCg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYWNrYWdlcy5mb3JFYWNoKHByb2R1Y3RQYWNrYWdlIC0+IHsKICAgICAgICAgICAgCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBhbW91bnQgPSAwOwo=</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYWNrYWdlcy5zdHJlYW0oKQogICAgICAgICAgICAgICAgLnNvcnRlZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
