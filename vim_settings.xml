@@ -33,7 +33,7 @@
         <mark key="^" line="73" column="13" />
         <mark key="." line="73" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1509417281385">
+      <file name="/a.dummy" timestamp="1509516309303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportQrService.java" timestamp="1509447095335">
@@ -83,6 +83,12 @@
         <mark key="^" line="23" column="51" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/AccountUserServiceClient.java" timestamp="1509519366736">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="45" />
+        <mark key="^" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportProductService.java" timestamp="1509446604637">
         <mark key="'" line="61" column="71" />
         <mark key="[" line="82" column="48" />
@@ -124,12 +130,12 @@
         <mark key="." line="87" column="78" />
         <mark key="^" line="87" column="78" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1508911705792">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1509519341206">
         <mark key="'" line="79" column="27" />
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="209" column="20" />
-        <mark key="." line="209" column="20" />
-        <mark key="^" line="209" column="20" />
+        <mark key="[" line="90" column="40" />
+        <mark key="]" line="90" column="52" />
+        <mark key="." line="90" column="52" />
+        <mark key="^" line="90" column="52" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-center/.gitignore" timestamp="1508725467370">
         <mark key="'" line="0" column="0" />
@@ -137,6 +143,9 @@
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1509517533606">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1509420456570">
         <mark key="[" line="3" column="0" />
@@ -156,7 +165,6 @@
         <mark key="." line="59" column="60" />
         <mark key="^" line="59" column="60" />
       </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1509499226640" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1509092199681">
         <mark key="'" line="1" column="35" />
         <mark key="[" line="5" column="38" />
@@ -262,7 +270,7 @@
         <mark key="^" line="105" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/Dialect.java" timestamp="1509504973478" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleController.java" timestamp="1509355499955">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleController.java" timestamp="1509518433021">
         <mark key="[" line="209" column="38" />
         <mark key="]" line="210" column="19" />
         <mark key="^" line="210" column="19" />
@@ -322,6 +330,12 @@
         <mark key="]" line="26" column="26" />
         <mark key="^" line="106" column="28" />
         <mark key="." line="106" column="28" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/AccountUserService.java" timestamp="1509515715304">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/util/SqlUtil.java" timestamp="1509505117507" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecification.java" timestamp="1508924864511">
@@ -392,12 +406,12 @@
         <mark key="^" line="306" column="48" />
         <mark key="." line="306" column="48" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1509504054099">
-        <mark key="'" line="149" column="3" />
-        <mark key="[" line="153" column="80" />
-        <mark key="]" line="154" column="68" />
-        <mark key="." line="154" column="68" />
-        <mark key="^" line="154" column="68" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1509518960227">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="27" />
+        <mark key="]" line="84" column="59" />
+        <mark key="." line="84" column="59" />
+        <mark key="^" line="84" column="59" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductBottle.java" timestamp="1509332539233">
         <mark key="'" line="26" column="4" />
@@ -406,7 +420,7 @@
         <mark key="." line="46" column="30" />
         <mark key="^" line="46" column="30" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1509503946361">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1509516501421">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="93" column="44" />
         <mark key="^" line="93" column="44" />
@@ -430,6 +444,12 @@
         <mark key="]" line="80" column="34" />
         <mark key="^" line="80" column="34" />
         <mark key="." line="80" column="34" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/AccountUser.java" timestamp="1509518669410">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCode.java" timestamp="1508929694325">
         <mark key="'" line="54" column="45" />
@@ -463,16 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="129" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/generator/engine/impl/controller/ControllerBaseEngine.java" />
-      <jump line="147" column="75" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/generator/engine/impl/controller/ControllerBaseEngine.java" />
-      <jump line="30" column="65" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/generator/engine/impl/controller/ControllerBaseEngine.java" />
-      <jump line="133" column="51" filename="D:/Projects/nongtianquan/backend/pom.xml" />
-      <jump line="54" column="40" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
-      <jump line="9" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductProduceInfo.java" />
-      <jump line="32" column="47" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
-      <jump line="44" column="25" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
-      <jump line="34" column="22" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
-      <jump line="73" column="22" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
       <jump line="82" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
       <jump line="19" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/utils/AbstractService.java" />
       <jump line="68" column="10" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
@@ -563,13 +573,23 @@
       <jump line="149" column="3" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" />
       <jump line="136" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductStandardController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductStandardController.java" />
+      <jump line="34" column="36" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/AccountUser.java" />
+      <jump line="35" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/AccountUser.java" />
+      <jump line="38" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/AccountUser.java" />
+      <jump line="44" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/AccountUser.java" />
+      <jump line="56" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/AccountUser.java" />
+      <jump line="59" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/AccountUser.java" />
+      <jump line="229" column="4" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" />
+      <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" />
+      <jump line="73" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" />
+      <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMserL+cr0xvPStSIpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>资源未找到</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -590,10 +610,10 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>资源未找到</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXZpY2VJZFw+</text>
+        <text>Column</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -602,49 +622,49 @@
         <text encoding="base64">ICAgIEBQb3N0TWFwcGluZyh2YWx1ZSA9ICIvYXBwbHkiLCBwcm9kdWNlcyA9IE1lZGlhVHlwZS5URVhUX1BMQUlOX1ZBTFVFKQogICAgcHVibGljIFN0cmluZyBhcHBseShQcm9kdWN0QXBwbHkgYXBwbHksIEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcG9uc2UpIHsKCiAgICAgICAgUHJvZHVjdEJvdHRsZUluZm9EdG8gYm90dGxlSW5mb0R0byA9IHByb2R1Y3RBcHBseVNlcnZpY2UuYXBwbHkoYXBwbHkpOwogICAgICAgIExpc3Q8UHJvZHVjdEJvdHRsZT4gYm90dGxlcyA9IGJvdHRsZUluZm9EdG8uZ2V0Qm90dGxlcygpOwoKICAgICAgICByZXR1cm4gZG93bmxvYWRBc1N0cmluZyhhcHBseSwgcmVzcG9uc2UsIGJvdHRsZXMpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgUmVzdWx0PEFjY291bnRVc2VyPiByZXN1bHQgPSB1c2VyU2VydmljZUNsaWVudC5nZXQoNTMpOwogICAgICAgIGxvZ2dlci5kZWJ1ZygiW3t9XSIsIHJlc3VsdC5nZXREYXRhKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWN0Qm90dGxlSW5mb0R0byBib3R0bGVJbmZvRHRvID0gcHJvZHVjdEFwcGx5U2VydmljZS5hcHBseShhcHBseSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHNwZWNpZmljYXRpb25JZCA9IHJlcG9ydFRlbXAuZ2V0U3BlY2lmaWNhdGlvbklkKCk7CiAgICAgICAgUHJvZHVjdFNwZWNpZmljYXRpb24gc3BlY2lmaWNhdGlvbiA9IHNwZWNpZmljYXRpb25TZXJ2aWNlLmdldChzcGVjaWZpY2F0aW9uSWQpOwogICAgICAgIEludGVnZXIgb2xkU3RyYW5kYXJkSWQgPSBzcGVjaWZpY2F0aW9uLmdldFN0YW5kYXJkSWQoKTsKICAgICAgICBQcm9kdWN0U3RhbmRhcmQgc3RhbmRhcmQgPSBzdGFuZGFyZFNlcnZpY2UuZ2V0TmV3ZXN0QnlTdGFuZGFyZElkKG9sZFN0cmFuZGFyZElkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2R1Y3RCb3R0bGU+IGJvdHRsZXMgPSBib3R0bGVJbmZvRHRvLmdldEJvdHRsZXMoKTsK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJmb2xsb3dfbnVtIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZG93bmxvYWRBc1N0cmluZyhhcHBseSwgcmVzcG9uc2UsIGJvdHRsZXMpOwo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJmb2xsb3dlcl9udW0iKQo=</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJkZXZpY2VfaWQiKQo=</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJjb25jZXJuX2Nyb3BzIikK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJpbnZpdGVfY29kZSIpCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXBwbHkgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CgogICAgICAgIEludGVnZXIgc3BlY2lmaWNhdGlvbklkID0gYXBwbHkuZ2V0U3BlY2lmaWNhdGlvbklkKCk7CiAgICAgICAgUHJvZHVjdFNwZWNpZmljYXRpb24gc3BlY2lmaWNhdGlvbiA9IHNwZWNpZmljYXRpb25TZXJ2aWNlLmdldFNwZWNpZmljYXRpb25BbmRQYWNrYWdlc0J5SWQoc3BlY2lmaWNhdGlvbklkKTsKICAgICAgICBpZiAoc3BlY2lmaWNhdGlvbiA9PSBudWxsKSB7CiAgICAgICAgICAgIGxvZ2dlci53YXJuKCK2/s6swuvJ6sfro6yy+sa3uea48Vt7fV3Oqm51bGwiLCBhcHBseS5nZXRTcGVjaWZpY2F0aW9uSWQoKSk7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIrL6xre55rjxzqq/1SIpOwogICAgICAgIH0KCiAgICAgICAgSW50ZWdlciByZWdpc3RlcklkID0gc3BlY2lmaWNhdGlvbi5nZXRSZWdpc3RlcklkKCk7CiAgICAgICAgUHJvZHVjdFJlZ2lzdGVyIHJlZ2lzdGVySW5mbyA9IHJlZ2lzdGVyU2VydmljZS5nZXRBbGxJbmZvQnlJZChyZWdpc3RlcklkKTsKICAgICAgICBpZiAocmVnaXN0ZXJJbmZvID09IG51bGwpIHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oIrb+zqzC68nqx+ujrLL6xre55rjxW3t9XbnYwaq1x7zH1qRbe31dzqpudWxsIiwgc3BlY2lmaWNhdGlvbklkLCByZWdpc3RlcklkKTsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigitce8x9akzrTV0rW9Iik7CiAgICAgICAgfQoKICAgICAgICBJbnRlZ2VyIHN0YW5kYXJkSWQgPSByZWdpc3RlckluZm8uZ2V0U3RhbmRhcmRJZCgpOwogICAgICAgIFByb2R1Y3RTdGFuZGFyZCBzdGFuZGFyZCA9IHN0YW5kYXJkU2VydmljZS5nZXROZXdlc3RCeVN0YW5kYXJkSWQoc3RhbmRhcmRJZCk7CiAgICAgICAgaWYgKHN0YW5kYXJkID09IG51bGwpIHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oIrb+zqzC68nqx+ujrLXHvMfWpFt7fV252MGqserXvLrFW3t9XbXE1+7QwrHq17zOqm51bGwiLCByZWdpc3RlcklkLCBzdGFuZGFyZElkKTsKICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oIrXHvMfWpMv5udjBqrXHvMfWpM601dK1vSIpOwogICAgICAgIH0KCiAgICAgICAgLy8gyejWw8n6svrG89K1aWQKICAgICAgICBpZiAoIU9iamVjdHMuZXF1YWxzKGFwcGx5LmdldFByb2R1Y2VUeXBlKCksIFByb2R1Y3RQcm9kdWNlVHlwZS5ERUxFR0FUSU9OX1BST0RVQ0UudmFsdWUpKSB7CiAgICAgICAgICAgIGFwcGx5LnNldFByb2R1Y2VDb21wYW55SWQocmVnaXN0ZXJJbmZvLmdldFByb2R1Y2VDb21wYW55SWQoKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8gzq/N0LzTuaTKscn6svrG89K1zqrJ+rL60O2/ydaku/LJ+rL6serXvM7EvP7L+bbU06bG89K1CiAgICAgICAgICAgIEludGVnZXIgcHJvY2Vzc1R5cGUgPSBhcHBseS5nZXRQcm9jZXNzVHlwZSgpOwogICAgICAgICAgICBpZiAoT2JqZWN0cy5lcXVhbHMoYXBwbHkuZ2V0UHJvY2Vzc1R5cGUoKSwgUHJvZHVjdEFwcGx5LlBST0NFU1NfTElDRU5TRSkpIHsKICAgICAgICAgICAgICAgIFByb2R1Y3RMaWNlbnNlIGxpY2Vuc2UgPSBsaWNlbnNlU2VydmljZS5nZXQoYXBwbHkuZ2V0TGljZW5zZUlkKCkpOwogICAgICAgICAgICAgICAgYXBwbHkuc2V0UHJvZHVjZUNvbXBhbnlJZChsaWNlbnNlLmdldENvbXBhbnlJZCgpKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChPYmplY3RzLmVxdWFscyhhcHBseS5nZXRQcm9jZXNzVHlwZSgpLCBQcm9kdWN0QXBwbHkuUFJPQ0VTU19BUFBST1ZFKSkgewogICAgICAgICAgICAgICAgUHJvZHVjdEFwcHJvdmUgYXBwcm92ZSA9IGFwcHJvdmVTZXJ2aWNlLmdldChhcHBseS5nZXRBcHByb3ZlSWQoKSk7CiAgICAgICAgICAgICAgICBhcHBseS5zZXRQcm9kdWNlQ29tcGFueUlkKGFwcHJvdmUuZ2V0Q29tcGFueUlkKCkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgbG9nZ2VyLndhcm4oIs6vzdC807mkyrHKudPD1qS8/sDg0M1be31dtO3O8yIsIHByb2Nlc3NUeXBlKTsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIs6vzdC807mkyrnTw9akvP7A4NDNtO3O8yIpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGFwcGx5LnNldEFwcHJvdmVUaW1lKG5ldyBEYXRlKCkpOwoKICAgICAgICAvLyC87LLpyfqy+sbz0rW1xMn6svrQ7b/J1qQvyfqy+sX617zOxLz+yse38b/Jyfqy+rbU06ay+sa3CiAgICAgICAgdGhpcy5jaGVja0FwcGx5KGFwcGx5LCByZWdpc3RlckluZm8sIHN0YW5kYXJkKTsK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJkZWZhdWx0X2FkZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -654,17 +674,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXZpY2VJZFw+</last-search>
+      <last-search>Column</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXZpY2VJZFw+</last-pattern>
+      <last-pattern>Column</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>FileUtils</entry>
         <entry>commons-io</entry>
         <entry encoding="base64">XDx1cGxvYWREaXJQcmVmaXhcPg==</entry>
         <entry encoding="base64">XDxjZmdcPg==</entry>
@@ -684,6 +703,7 @@
         <entry encoding="base64">XDxtaWNyb1NlcnZpY2VcPg==</entry>
         <entry>genera</entry>
         <entry encoding="base64">XDxkZXZpY2VJZFw+</entry>
+        <entry>Column</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
