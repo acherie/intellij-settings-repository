@@ -177,6 +177,7 @@
         <mark key="^" line="69" column="17" />
         <mark key="." line="69" column="17" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/dialect/AbstractDialect.java" timestamp="1509505074885" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductReportProduct.java" timestamp="1509441550409">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="28" column="0" />
@@ -252,6 +253,7 @@
         <mark key="." line="105" column="38" />
         <mark key="^" line="105" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/Dialect.java" timestamp="1509504973478" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleController.java" timestamp="1509355499955">
         <mark key="[" line="209" column="38" />
         <mark key="]" line="210" column="19" />
@@ -313,6 +315,7 @@
         <mark key="^" line="106" column="28" />
         <mark key="." line="106" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/util/SqlUtil.java" timestamp="1509505117507" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecification.java" timestamp="1508924864511">
         <mark key="'" line="31" column="4" />
         <mark key="[" line="39" column="20" />
@@ -343,11 +346,6 @@
         <mark key="]" line="17" column="19" />
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportVo.java" timestamp="1509446295524">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="44" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/utils/AbstractService.java" timestamp="1509014337069">
         <mark key="'" line="20" column="0" />
@@ -452,7 +450,7 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1509500113149">
+      <file name="/fragment.java" timestamp="1509505118087">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
