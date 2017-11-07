@@ -40,7 +40,7 @@
         <mark key="." line="128" column="64" />
         <mark key="^" line="128" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510037512017">
+      <file name="/Dummy.txt" timestamp="1510040134432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -73,11 +73,11 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1509958688960" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIdentityCodeService.java" timestamp="1510039108385">
-        <mark key="'" line="148" column="14" />
-        <mark key="[" line="148" column="15" />
-        <mark key="]" line="148" column="68" />
-        <mark key="." line="148" column="68" />
-        <mark key="^" line="148" column="68" />
+        <mark key="'" line="145" column="14" />
+        <mark key="[" line="145" column="15" />
+        <mark key="]" line="145" column="68" />
+        <mark key="." line="145" column="68" />
+        <mark key="^" line="145" column="68" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1510039247509">
         <mark key="[" line="32" column="31" />
