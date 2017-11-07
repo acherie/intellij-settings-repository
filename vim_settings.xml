@@ -33,17 +33,17 @@
         <mark key="." line="13" column="17" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecification.java" timestamp="1509960687785" />
-      <file name="/Dummy.txt" timestamp="1510036685674">
+      <file name="/Dummy.txt" timestamp="1510037512017">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineService.java" timestamp="1510035781592">
-        <mark key="'" line="15" column="17" />
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="34" column="48" />
-        <mark key="^" line="34" column="48" />
-        <mark key="." line="34" column="48" />
+        <mark key="'" line="13" column="17" />
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="32" column="48" />
+        <mark key="^" line="32" column="48" />
+        <mark key="." line="32" column="48" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1509962130588">
         <mark key="[" line="194" column="9" />
@@ -72,6 +72,7 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="24" column="31" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" timestamp="1510037687459" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1509963343624" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLicenseService.java" timestamp="1509937202153">
         <mark key="[" line="4" column="36" />
@@ -80,11 +81,11 @@
         <mark key="." line="4" column="53" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductPackage.java" timestamp="1509960699009" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLineController.java" timestamp="1510036592998">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="60" column="20" />
-        <mark key="." line="60" column="20" />
-        <mark key="^" line="60" column="20" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLineController.java" timestamp="1510037614692">
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="65" column="15" />
+        <mark key="." line="65" column="15" />
+        <mark key="^" line="65" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/javax/validation/constraints/Max.java" timestamp="1510035060895" />
       <file name="/fragment.java" timestamp="1510036685651">
