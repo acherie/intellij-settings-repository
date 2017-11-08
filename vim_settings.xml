@@ -40,22 +40,12 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1510039185616">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="126" column="9" />
-        <mark key="]" line="128" column="64" />
-        <mark key="." line="128" column="64" />
-        <mark key="^" line="128" column="64" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1510128872156" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationLineService.java" timestamp="1510122090553">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineService.java" timestamp="1510035781592">
-        <mark key="'" line="13" column="17" />
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="32" column="48" />
-        <mark key="^" line="32" column="48" />
-        <mark key="." line="32" column="48" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1509962130588">
         <mark key="[" line="194" column="9" />
@@ -64,11 +54,7 @@
         <mark key="." line="195" column="31" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLine.java" timestamp="1510035599070">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="29" />
+        <mark key="'" line="2" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLicenseMapper.xml" timestamp="1509940231864">
         <mark key="[" line="46" column="46" />
@@ -78,11 +64,10 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1509958688960" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIdentityCodeService.java" timestamp="1510122027455">
-        <mark key="'" line="36" column="44" />
-        <mark key="[" line="145" column="15" />
-        <mark key="]" line="145" column="68" />
-        <mark key="." line="145" column="68" />
-        <mark key="^" line="145" column="68" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="68" />
+        <mark key="." line="11" column="68" />
+        <mark key="^" line="11" column="68" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1510039247509">
         <mark key="[" line="32" column="31" />
