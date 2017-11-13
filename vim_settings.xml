@@ -11,7 +11,6 @@
         <mark key="." line="13" column="69" />
         <mark key="^" line="13" column="69" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/support/velocity/Permission.java" timestamp="1510282341342" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/supplierInformation/factoryList.vm" timestamp="1510280459163">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="68" />
@@ -69,6 +68,7 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="63" column="9" />
       </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1510536387842" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/properties/dev.properties" timestamp="1510279781031">
         <mark key="[" line="2" column="42" />
         <mark key="]" line="2" column="46" />
@@ -78,14 +78,13 @@
       <file name="/Dummy.txt" timestamp="1510283512268">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1510293457805">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1510536527982">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="165" column="44" />
         <mark key="]" line="167" column="42" />
         <mark key="^" line="167" column="42" />
         <mark key="." line="167" column="42" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/db/migration/V8__Permission_of_supplier.sql" timestamp="1510283637282" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLotteryService.java" timestamp="1510293103598">
         <mark key="'" line="27" column="64" />
         <mark key="[" line="74" column="9" />
@@ -129,8 +128,6 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="24" column="31" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/realm/UserRealm.java" timestamp="1510282374705" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/knowledgeBase/productArchivesList.vm" timestamp="1510282259294" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/webapp/WEB-INF/vm/supplierInformation/factoryProduct.vm" timestamp="1510280668923">
         <mark key="'" line="34" column="35" />
         <mark key="[" line="15" column="0" />
@@ -150,8 +147,6 @@
         <mark key="." line="65" column="15" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/LoginAction.java" timestamp="1510280383939" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/resources/sqlmap/mapper/UserRoleMapper.xml" timestamp="1510281912971" />
       <file name="/fragment.java" timestamp="1510036685651">
         <mark key="[" line="0" column="0" />
       </file>
@@ -360,7 +355,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
