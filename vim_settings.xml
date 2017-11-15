@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -148,6 +148,11 @@
         <mark key="]" line="306" column="63" />
         <mark key="^" line="306" column="63" />
         <mark key="." line="306" column="63" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/account-service.iml" timestamp="1510714251137">
+        <mark key="[" line="158" column="68" />
+        <mark key="]" line="158" column="69" />
+        <mark key="." line="158" column="69" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLicenseMapper.xml" timestamp="1509940231864">
         <mark key="[" line="46" column="46" />
