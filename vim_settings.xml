@@ -128,9 +128,9 @@
         <mark key="^" line="67" column="34" />
         <mark key="." line="67" column="34" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1510818976947">
-        <mark key="'" line="52" column="54" />
-        <mark key="[" line="245" column="0" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1510820743847">
+        <mark key="'" line="260" column="33" />
+        <mark key="[" line="291" column="30" />
         <mark key="]" line="247" column="14" />
         <mark key="." line="247" column="14" />
         <mark key="^" line="247" column="14" />
@@ -284,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="41" filename="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" />
       <jump line="240" column="15" filename="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" />
       <jump line="202" column="68" filename="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" />
       <jump line="203" column="37" filename="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" />
@@ -384,6 +383,7 @@
       <jump line="269" column="11" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
       <jump line="51" column="54" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
+      <jump line="260" column="33" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
