@@ -115,6 +115,7 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductIndex.java" timestamp="1510906340600" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLicenseController.java" timestamp="1509961888044">
         <mark key="[" line="38" column="68" />
         <mark key="]" line="42" column="51" />
@@ -134,6 +135,7 @@
         <mark key="." line="251" column="87" />
         <mark key="^" line="251" column="87" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductReport.java" timestamp="1510906634014" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportAuditVo.java" timestamp="1510642748416">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="22" column="33" />
@@ -206,12 +208,12 @@
         <mark key="^" line="368" column="68" />
         <mark key="." line="368" column="68" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1510905434997">
-        <mark key="'" line="149" column="27" />
-        <mark key="[" line="215" column="46" />
-        <mark key="]" line="215" column="45" />
-        <mark key="^" line="215" column="45" />
-        <mark key="." line="215" column="45" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1510906362128">
+        <mark key="'" line="151" column="27" />
+        <mark key="[" line="147" column="45" />
+        <mark key="]" line="217" column="45" />
+        <mark key="^" line="217" column="45" />
+        <mark key="." line="217" column="45" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1510812905762">
         <mark key="[" line="145" column="27" />
