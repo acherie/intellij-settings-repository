@@ -17,8 +17,8 @@
         <mark key="." line="250" column="87" />
         <mark key="^" line="250" column="87" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportInfoVo.java" timestamp="1510901080234">
-        <mark key="[" line="16" column="35" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportInfoVo.java" timestamp="1511144338522">
+        <mark key="[" line="26" column="44" />
         <mark key="]" line="16" column="37" />
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="37" />
@@ -34,6 +34,7 @@
         <mark key="." line="48" column="14" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-dev.properties" timestamp="1511140745949" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductLotteryInfoDto.java" timestamp="1511144358539" />
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1511140436083" />
       <file name="/Dummy.txt" timestamp="1510969707995">
         <mark key="[" line="0" column="0" />
