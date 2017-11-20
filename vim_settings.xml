@@ -17,6 +17,17 @@
         <mark key="." line="352" column="15" />
         <mark key="^" line="352" column="15" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/AccountUserServiceClient.java" timestamp="1511167959542">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="42" column="88" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductLotteryRecordVo.java" timestamp="1511167856078">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLotteryController.java" timestamp="1511145216774">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -35,14 +46,15 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-dev.properties" timestamp="1511140745949" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLottery.java" timestamp="1511145908031" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductLotteryInfoDto.java" timestamp="1511144358539" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" timestamp="1511147553047">
-        <mark key="[" line="115" column="30" />
-        <mark key="]" line="115" column="33" />
-        <mark key="^" line="115" column="33" />
-        <mark key="." line="115" column="33" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" timestamp="1511167894498">
+        <mark key="'" line="70" column="8" />
+        <mark key="[" line="79" column="29" />
+        <mark key="]" line="79" column="44" />
+        <mark key="^" line="27" column="39" />
+        <mark key="." line="79" column="29" />
       </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1511140436083" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1511163860240">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1511167919705" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1511166374316">
         <mark key="[" line="59" column="23" />
         <mark key="]" line="60" column="11" />
         <mark key="^" line="60" column="11" />
@@ -69,11 +81,9 @@
         <mark key="^" line="151" column="27" />
         <mark key="." line="151" column="27" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductBottle.java" timestamp="1510909889838">
-        <mark key="[" line="43" column="40" />
-        <mark key="]" line="44" column="28" />
-        <mark key="^" line="44" column="28" />
-        <mark key="." line="44" column="28" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/client/AccountUserServiceClient.java" timestamp="1511167957749">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="42" column="87" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLotteryService.java" timestamp="1511145916967">
         <mark key="[" line="40" column="45" />
@@ -85,12 +95,6 @@
         <mark key="[" line="280" column="0" />
         <mark key="]" line="280" column="0" />
         <mark key="." line="280" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1510898401648">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="30" column="37" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/mapper/ProductBottleMapper.java" timestamp="1511163377063">
         <mark key="'" line="10" column="17" />
@@ -104,6 +108,7 @@
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1511166789111" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStockVo.java" timestamp="1511164034646">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="31" />
@@ -132,22 +137,15 @@
         <mark key="^" line="73" column="42" />
         <mark key="." line="73" column="42" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLotteryRecordController.java" timestamp="1511149263104">
-        <mark key="'" line="114" column="3" />
-        <mark key="[" line="131" column="5" />
-        <mark key="]" line="131" column="14" />
-        <mark key="^" line="131" column="14" />
-        <mark key="." line="131" column="14" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLotteryRecordController.java" timestamp="1511168472107">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="147" column="33" />
+        <mark key="]" line="147" column="46" />
+        <mark key="." line="147" column="46" />
+        <mark key="^" line="147" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="4" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" />
-      <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" />
-      <jump line="73" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" />
-      <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" />
-      <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
-      <jump line="43" column="24" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/pom.xml" />
-      <jump line="214" column="32" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleController.java" />
       <jump line="165" column="48" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialQuestionController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialQuestionController.java" />
@@ -241,13 +239,20 @@
       <jump line="63" column="21" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" />
       <jump line="298" column="6" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStockVo.java" />
+      <jump line="73" column="46" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" />
+      <jump line="79" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" />
+      <jump line="100" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" />
+      <jump line="69" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" />
+      <jump line="70" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" />
+      <jump line="97" column="63" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLotteryRecordController.java" />
+      <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLotteryRecordController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMserL+cr0xvPStSIpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>specification</text>
+        <text>user.map(AccountUser::getName).orElse(&quot;&quot;)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -268,16 +273,16 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>specification</text>
+        <text>user.map(AccountUser::getName).orElse(&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnN0YW5jZUlkXD4=</text>
+        <text encoding="base64">XDxwY1w+</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
       </register>
-      <register name="0" type="4">
-        <text>lotteryId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiB1aWRzID0gdGhpcy5saXN0VXNlcklkc0xpa2VVc2VybmFtZSh1c2VybmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -286,31 +291,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbm5lciBqb2luIHByb2R1Y3RfYm90dGxlIHBibyBvbiBwYm8uc3BlY2lmaWNhdGlvbl9pZD1wc3AuaWQK</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRWby5zZXRVc2VybmFtZSh1c2VyLm1hcChBY2NvdW50VXNlcjo6Z2V0TmFtZSkub3JFbHNlKCIiKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxBY2NvdW50VXNlcj4gdXNlciA9IGFjY291bnRVc2VyU2VydmljZS5nZXRPcHQocmVjb3JkVm8uZ2V0VWlkKCkpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI2lmICgkc2hpcm8uaGFzUGVybWlzc2lvbigic3VwcGxpZXI6cGxhbnQ6ZWRpdCIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2dldFJlcG9ydEluZm8iKQo=</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxBY2NvdW50VXNlcj4gdXNlciA9IGFjY291bnRVc2VyU2VydmljZS5nZXRPcHQocmVjb3JkVm8uZ2V0VWlkKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRWby5zZXREZWFsZXJOYW1lKGRlYWxlci5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxBY2NvdW50VXNlcj4gZGVhbGVyID0gKE9wdGlvbmFsPEFjY291bnRVc2VyPikgZGVhbGVyUmVzdWx0Owo=</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
@@ -322,7 +327,7 @@
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiB1aWRzID0gYWNjb3VudFVzZXJTZXJ2aWNlLmxpc3RVc2VySWRzTGlrZVVzZXJuYW1lKHVzZXJuYW1lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -332,17 +337,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnN0YW5jZUlkXD4=</last-search>
+      <last-search encoding="base64">XDxwY1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnN0YW5jZUlkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwY1w+</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uuid</entry>
         <entry>test</entry>
         <entry>userP</entry>
         <entry encoding="base64">XDxyZXN0VGVtcGxhdGVcPg==</entry>
@@ -362,6 +366,7 @@
         <entry encoding="base64">XDxsb3R0ZXJ5SW5mb0R0b1w+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUxvdHRvcnlJbmZvXD4=</entry>
         <entry encoding="base64">XDxpbnN0YW5jZUlkXD4=</entry>
+        <entry encoding="base64">XDxwY1w+</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
