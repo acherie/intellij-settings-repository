@@ -42,6 +42,13 @@
         <mark key="." line="115" column="33" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1511140436083" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1511158009747">
+        <mark key="'" line="69" column="4" />
+        <mark key="[" line="366" column="45" />
+        <mark key="]" line="366" column="68" />
+        <mark key="^" line="366" column="68" />
+        <mark key="." line="366" column="68" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1511145173563">
         <mark key="'" line="149" column="27" />
         <mark key="[" line="149" column="0" />
@@ -49,9 +56,9 @@
         <mark key="^" line="138" column="68" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" timestamp="1511157577817">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" timestamp="1511158030632">
         <mark key="'" line="115" column="19" />
-        <mark key="[" line="76" column="42" />
+        <mark key="[" line="142" column="5" />
         <mark key="]" line="77" column="55" />
         <mark key="^" line="77" column="55" />
         <mark key="." line="77" column="55" />
@@ -83,6 +90,12 @@
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStockVo.java" timestamp="1511158687865">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/mapper/ProductLotteryRecordMapper.java" timestamp="1511149800137">
         <mark key="'" line="16" column="4" />
