@@ -91,7 +91,8 @@
         <mark key="^" line="41" column="50" />
         <mark key="." line="41" column="50" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1510910189042">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1511228719062">
+        <mark key="'" line="155" column="41" />
         <mark key="[" line="280" column="0" />
         <mark key="]" line="280" column="0" />
         <mark key="." line="280" column="0" />
@@ -146,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleController.java" />
       <jump line="165" column="48" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialQuestionController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialQuestionController.java" />
       <jump line="103" column="50" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIdentityCodeService.java" />
@@ -246,6 +246,7 @@
       <jump line="70" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" />
       <jump line="97" column="63" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLotteryRecordController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLotteryRecordController.java" />
+      <jump line="155" column="41" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
