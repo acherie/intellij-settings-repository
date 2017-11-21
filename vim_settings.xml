@@ -5,7 +5,7 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1511247497138">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1511247810558">
         <mark key="'" line="367" column="11" />
         <mark key="[" line="391" column="27" />
         <mark key="]" line="393" column="56" />
@@ -62,12 +62,12 @@
         <mark key="^" line="138" column="68" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" timestamp="1511229789623">
-        <mark key="'" line="116" column="19" />
-        <mark key="[" line="151" column="23" />
-        <mark key="]" line="151" column="27" />
-        <mark key="^" line="151" column="27" />
-        <mark key="." line="151" column="27" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" timestamp="1511248417263">
+        <mark key="'" line="146" column="4" />
+        <mark key="[" line="165" column="22" />
+        <mark key="]" line="165" column="25" />
+        <mark key="^" line="165" column="25" />
+        <mark key="." line="165" column="25" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/client/AccountUserServiceClient.java" timestamp="1511167957749">
         <mark key="[" line="36" column="0" />
@@ -93,11 +93,11 @@
         <mark key="^" line="41" column="58" />
         <mark key="." line="41" column="58" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1511236334758">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1511248191094">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStockVo.java" timestamp="1511164034646">
         <mark key="'" line="0" column="0" />
@@ -137,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="50" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIdentityCodeService.java" />
       <jump line="118" column="57" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIdentityCodeService.java" />
       <jump line="152" column="59" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
       <jump line="26" column="32" filename="D:/Projects/nongtianquan/backend/src/main/java/com/dakun/nongyequan/ueditor/hunter/FileManager.java" />
@@ -237,13 +236,14 @@
       <jump line="155" column="41" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
       <jump line="352" column="15" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
       <jump line="365" column="11" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
+      <jump line="143" column="4" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMserL+cr0xvPStSIpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgSW50ZWdlciBsZXZlbCA9IEludGVnZXIudmFsdWVPZih0b3BQYWNrYWdlLmdldExldmVsKCkpOwogICAgICAgIGZvciAoaW50IGkgPSBsZXZlbCAtIDE7IGkgPiAwOyBpLS0pIHsKICAgICAgICAgICAgQ29uZGl0aW9uIGNvbmRpdGlvbiA9IG5ld0NvbmRpdGlvbigpOwogICAgICAgICAgICBjb25kaXRpb24uY3JlYXRlQ3JpdGVyaWEoKQogICAgICAgICAgICAgICAgICAgIC5hbmRFcXVhbFRvKCJsZXZlbCIsIGkpCiAgICAgICAgICAgICAgICAgICAgLmFuZEVxdWFsVG8oInBhcmVudElkIiwgdG9wUGFja2FnZS5nZXRJZCgpKQogICAgICAgICAgICAgICAgICAgIC5hbmRFcXVhbFRvKCJzdGF0ZSIsIG9sZFN0YXRlLnZhbHVlKTsKCiAgICAgICAgICAgIFByb2R1Y3RCb3R0bGUgY29uQm90dGxlID0gbmV3IFByb2R1Y3RCb3R0bGUoKTsKICAgICAgICAgICAgY29uQm90dGxlLnNldFBhcmVudElkKCk7CiAgICAgICAgICAgIHByb2R1Y3RCb3R0bGVNYXBwZXIuc2VsZWN0Q291bnRCeUNvbmRpdGlvbihjb25kaXRpb24pCiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -264,7 +264,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwY1w+</text>
@@ -276,22 +276,22 @@
         <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiB1aWRzID0gdGhpcy5saXN0VXNlcklkc0xpa2VVc2VybmFtZSh1c2VybmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgSW50ZWdlciBsZXZlbCA9IEludGVnZXIudmFsdWVPZih0b3BQYWNrYWdlLmdldExldmVsKCkpOwogICAgICAgIGZvciAoaW50IGkgPSBsZXZlbCAtIDE7IGkgPiAwOyBpLS0pIHsKICAgICAgICAgICAgQ29uZGl0aW9uIGNvbmRpdGlvbiA9IG5ld0NvbmRpdGlvbigpOwogICAgICAgICAgICBjb25kaXRpb24uY3JlYXRlQ3JpdGVyaWEoKQogICAgICAgICAgICAgICAgICAgIC5hbmRFcXVhbFRvKCJsZXZlbCIsIGkpCiAgICAgICAgICAgICAgICAgICAgLmFuZEVxdWFsVG8oInBhcmVudElkIiwgdG9wUGFja2FnZS5nZXRJZCgpKQogICAgICAgICAgICAgICAgICAgIC5hbmRFcXVhbFRvKCJzdGF0ZSIsIG9sZFN0YXRlLnZhbHVlKTsKCiAgICAgICAgICAgIFByb2R1Y3RCb3R0bGUgY29uQm90dGxlID0gbmV3IFByb2R1Y3RCb3R0bGUoKTsKICAgICAgICAgICAgY29uQm90dGxlLnNldFBhcmVudElkKCk7CiAgICAgICAgICAgIHByb2R1Y3RCb3R0bGVNYXBwZXIuc2VsZWN0Q291bnRCeUNvbmRpdGlvbihjb25kaXRpb24pCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlIGNoaWxkTGV2ZWwgPSAoYnl0ZSkgKHBhcmVudC5nZXRMZXZlbCgpIC0gMSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgSW50ZWdlciBsZXZlbCA9IEludGVnZXIudmFsdWVPZih0b3BQYWNrYWdlLmdldExldmVsKCkpOwogICAgICAgIGZvciAoaW50IGkgPSBsZXZlbCAtIDE7IGkgPiAwOyBpLS0pIHsKICAgICAgICAgICAgQ29uZGl0aW9uIGNvbmRpdGlvbiA9IG5ld0NvbmRpdGlvbigpOwogICAgICAgICAgICBjb25kaXRpb24uY3JlYXRlQ3JpdGVyaWEoKQogICAgICAgICAgICAgICAgICAgIC5hbmRFcXVhbFRvKCJsZXZlbCIsIGkpCiAgICAgICAgICAgICAgICAgICAgLmFuZEVxdWFsVG8oInBhcmVudElkIiwgdG9wUGFja2FnZS5nZXRJZCgpKQogICAgICAgICAgICAgICAgICAgIC5hbmRFcXVhbFRvKCJzdGF0ZSIsIG9sZFN0YXRlLnZhbHVlKTsKCiAgICAgICAgICAgIFByb2R1Y3RCb3R0bGUgY29uQm90dGxlID0gbmV3IFByb2R1Y3RCb3R0bGUoKTsKICAgICAgICAgICAgY29uQm90dGxlLnNldFBhcmVudElkKCk7CiAgICAgICAgICAgIHByb2R1Y3RCb3R0bGVNYXBwZXIuc2VsZWN0Q291bnRCeUNvbmRpdGlvbihjb25kaXRpb24pCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBieXRlIGNoaWxkTGV2ZWwgPSAoYnl0ZSkgKHBhcmVudC5nZXRMZXZlbCgpIC0gMSk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI2lmICgkc2hpcm8uaGFzUGVybWlzc2lvbigic3VwcGxpZXI6cGxhbnQ6ZWRpdCIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -312,7 +312,7 @@
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
