@@ -57,6 +57,7 @@
         <mark key="." line="79" column="29" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1511233872936" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-center/src/main/resources/application-test.properties" timestamp="1511336875706" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/InfoController.java" timestamp="1511253083577" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1511315947863">
         <mark key="'" line="1" column="0" />
@@ -124,6 +125,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/cache/GuavaCacheStatisticsProvider.java" timestamp="1511314637963" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.6.RELEASE/spring-aop-4.3.6.RELEASE-sources.jar!/org/springframework/aop/interceptor/JamonPerformanceMonitorInterceptor.java" timestamp="1511316830906" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE-sources.jar!/org/springframework/util/StopWatch.java" timestamp="1511316888628" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/1.2.5.RELEASE/spring-cloud-netflix-eureka-server-1.2.5.RELEASE.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerConfigBean.class" timestamp="1511336969776" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1511316528003">
         <mark key="[" line="393" column="69" />
         <mark key="]" line="394" column="60" />
