@@ -6,18 +6,8 @@
     </globalmarks>
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" timestamp="1511255946618" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLotteryRecord.java" timestamp="1511252466294">
-        <mark key="'" line="47" column="5" />
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="50" column="32" />
-        <mark key="^" line="50" column="32" />
-        <mark key="." line="50" column="32" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/AccountUserServiceClient.java" timestamp="1511167959542">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="42" column="88" />
-        <mark key="." line="36" column="0" />
-      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/logback-spring.xml" timestamp="1511315936393" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/cache/ConcurrentMapCacheStatisticsProvider.java" timestamp="1511314614266" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-dev.properties" timestamp="1511140745949" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductLotteryInfoDto.java" timestamp="1511144358539" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" timestamp="1511167894498">
@@ -29,11 +19,18 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1511233872936" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/InfoController.java" timestamp="1511253083577" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1511253196823">
-        <mark key="[" line="59" column="23" />
-        <mark key="]" line="60" column="11" />
-        <mark key="^" line="60" column="11" />
-        <mark key="." line="60" column="11" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1511315947863">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="72" />
+        <mark key="^" line="9" column="72" />
+        <mark key="." line="9" column="72" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1511316215974">
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="37" />
+        <mark key="^" line="59" column="37" />
+        <mark key="." line="59" column="37" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStateChangeVo.java" timestamp="1511250314032">
         <mark key="[" line="22" column="31" />
@@ -48,20 +45,14 @@
         <mark key="." line="194" column="43" />
         <mark key="^" line="194" column="43" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/mapper/ProductBottleMapper.java" timestamp="1511163377063">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="41" column="58" />
-        <mark key="^" line="41" column="58" />
-        <mark key="." line="41" column="58" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.6.RELEASE/spring-aop-4.3.6.RELEASE-sources.jar!/org/springframework/aop/interceptor/AbstractTraceInterceptor.java" timestamp="1511316429893" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1511248191094">
         <mark key="[" line="22" column="10" />
         <mark key="]" line="22" column="16" />
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStockVo.java" timestamp="1511164034646">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStockVo.java" timestamp="1511316203537">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="31" />
         <mark key="]" line="20" column="32" />
@@ -91,23 +82,22 @@
         <mark key="." line="168" column="10" />
         <mark key="^" line="168" column="10" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1511253171221">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/cache/GuavaCacheStatisticsProvider.java" timestamp="1511314637963" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.6.RELEASE/spring-aop-4.3.6.RELEASE-sources.jar!/org/springframework/aop/interceptor/JamonPerformanceMonitorInterceptor.java" timestamp="1511316830906" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE-sources.jar!/org/springframework/util/StopWatch.java" timestamp="1511316888628" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1511316528003">
         <mark key="[" line="393" column="69" />
         <mark key="]" line="394" column="60" />
         <mark key="." line="394" column="60" />
         <mark key="^" line="394" column="60" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/AbstractRequestLoggingFilter.java" timestamp="1511312601418" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/AbstractRequestLoggingFilter.java" timestamp="1511315374642" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/Metric.java" timestamp="1511314808909" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductLotteryRecordVo.java" timestamp="1511167856078">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="34" />
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application.properties" timestamp="1511140900166">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/query/ProductBottleQuery.java" timestamp="1511249908942">
         <mark key="[" line="28" column="39" />
@@ -116,9 +106,14 @@
         <mark key="." line="29" column="43" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLottery.java" timestamp="1511145908031" />
-      <file name="/Dummy.txt" timestamp="1511230178405">
-        <mark key="[" line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/EndpointWebMvcAutoConfiguration.java" timestamp="1511314716326" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/ApplicationConfigurator.java" timestamp="1511316696096">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="46" column="4" />
+        <mark key="." line="45" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/SystemPublicMetrics.java" timestamp="1511314855615" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1511158009747">
         <mark key="'" line="69" column="4" />
         <mark key="[" line="366" column="45" />
@@ -153,17 +148,9 @@
         <mark key="^" line="41" column="50" />
         <mark key="." line="41" column="50" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/CommonsRequestLoggingFilter.java" timestamp="1511312651268" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1510902308514">
-        <mark key="'" line="177" column="8" />
-        <mark key="[" line="167" column="24" />
-        <mark key="]" line="167" column="19" />
-        <mark key="." line="167" column="19" />
-        <mark key="^" line="167" column="19" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/CommonsRequestLoggingFilter.java" timestamp="1511315315703" />
     </filemarks>
     <jumps>
-      <jump line="124" column="11" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductTrademarkController.java" />
       <jump line="36" column="66" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApproveController.java" />
       <jump line="135" column="27" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLicenseController.java" />
       <jump line="22" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApproveService.java" />
@@ -263,13 +250,14 @@
       <jump line="61" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLotteryRecordService.java" />
       <jump line="29" column="4" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLotteryRecord.java" />
       <jump line="47" column="5" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLotteryRecord.java" />
+      <jump line="1" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMserL+cr0xvPStSIpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>GetMapping</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIuc2V0QWZ0ZXJNZXNzYWdlUHJlZml4KCJSRVFVRVNUIERBVEEgOiAiKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -302,51 +290,51 @@
         <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQgaGg6bW06c3MiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIuc2V0QWZ0ZXJNZXNzYWdlUHJlZml4KCJSRVFVRVNUIERBVEEgOiAiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI2lmICgkc2hpcm8uaGFzUGVybWlzc2lvbigic3VwcGxpZXI6cGxhbnQ6ZWRpdCIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvbGRTdGF0ZQogICAgICogQHBhcmFtIG5ld1N0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQgaGg6bW06c3MiKQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBvbGRTdGF0ZQogICAgICogQHBhcmFtIG5ld1N0YXRlCg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpZCC2pby2sPzXsGlkCiAgICAgKiBAcGFyYW0gb2xkU3RhdGUg1K3KvNe0zKwKICAgICAqIEBwYXJhbSBuZXdTdGF0ZSDQwte0zKwK</text>
+        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQgaGg6bW06c3MiKQo=</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>@RequestParam Integer id,
-                                      @RequestParam Integer oldState,
-                                      @RequestParam Integer newState</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpZCC2pby2sPzXsGlkCiAgICAgKiBAcGFyYW0gb2xkU3RhdGUg1K3KvNe0zKwKICAgICAqIEBwYXJhbSBuZXdTdGF0ZSDQwte0zKwK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMserL+cr0xvPStSIpCg==</text>
+      <register name="8" type="4">
+        <text>@RequestParam Integer id,
+                                      @RequestParam Integer oldState,
+                                      @RequestParam Integer newState</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIiIpCg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMserL+cr0xvPStSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
