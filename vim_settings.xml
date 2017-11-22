@@ -1,11 +1,31 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
+      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/customs/CustomsDataAction.java" timestamp="1510803569031">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="50" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/util/ContentCachingRequestWrapper.java" timestamp="1511255946618" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/application-production.properties" timestamp="1511318016883">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/application.properties" timestamp="1511318131806">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/AccountUserServiceClient.java" timestamp="1511167959542">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="42" column="88" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/logback-spring.xml" timestamp="1511315936393" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/cache/ConcurrentMapCacheStatisticsProvider.java" timestamp="1511314614266" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-dev.properties" timestamp="1511140745949" />
@@ -99,11 +119,26 @@
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLotteryController.java" timestamp="1511145216774">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application.properties" timestamp="1511317756766">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/query/ProductBottleQuery.java" timestamp="1511249908942">
         <mark key="[" line="28" column="39" />
         <mark key="]" line="29" column="43" />
         <mark key="^" line="29" column="43" />
         <mark key="." line="29" column="43" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1510814721659">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="14" />
+        <mark key="." line="48" column="14" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLottery.java" timestamp="1511145908031" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/EndpointWebMvcAutoConfiguration.java" timestamp="1511314716326" />
@@ -147,6 +182,11 @@
         <mark key="]" line="41" column="50" />
         <mark key="^" line="41" column="50" />
         <mark key="." line="41" column="50" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-production.properties" timestamp="1511318023139">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/CommonsRequestLoggingFilter.java" timestamp="1511315315703" />
     </filemarks>
@@ -257,7 +297,7 @@
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMserL+cr0xvPStSIpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIuc2V0QWZ0ZXJNZXNzYWdlUHJlZml4KCJSRVFVRVNUIERBVEEgOiAiKTsK</text>
+        <text encoding="base64">I2V1cmVrYS5pbnN0YW5jZS5pcC1hZGRyZXNzPTE5Mi4xNjguNTAuMTA0Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -278,7 +318,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>GetMapping</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -290,51 +330,49 @@
         <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQgaGg6bW06c3MiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIuc2V0QWZ0ZXJNZXNzYWdlUHJlZml4KCJSRVFVRVNUIERBVEEgOiAiKTsK</text>
+        <text encoding="base64">I2V1cmVrYS5pbnN0YW5jZS5pcC1hZGRyZXNzPTE5Mi4xNjguNTAuMTA0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2V1cmVrYS5pbnN0YW5jZS5wcmVmZXJJcEFkZHJlc3M9dHJ1ZQojc3ByaW5nLmNsb3VkLmluZXR1dGlscy5pZ25vcmVkLWludGVyZmFjZXNbMF09ZXRoMAojc3ByaW5nLmNsb3VkLmluZXR1dGlscy5pZ25vcmVkLWludGVyZmFjZXNbMF09ZG9ja2VyMAojc3ByaW5nLmNsb3VkLmluZXR1dGlscy5wcmVmZXJyZWQtbmV0d29ya3M9MTkyLjE2OC41MC4xMDQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZXVyZWthLmluc3RhbmNlLmluc3RhbmNlLWlkPSR7ZXVyZWthLmluc3RhbmNlLmlwLWFkZHJlc3N9OiR7c2VydmVyLnBvcnR9Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI2lmICgkc2hpcm8uaGFzUGVybWlzc2lvbigic3VwcGxpZXI6cGxhbnQ6ZWRpdCIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZXVyZWthLmluc3RhbmNlLmluc3RhbmNlLWlkPSR7ZXVyZWthLmluc3RhbmNlLmlwLWFkZHJlc3N9OiR7c2VydmVyLnBvcnR9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvbGRTdGF0ZQogICAgICogQHBhcmFtIG5ld1N0YXRlCg==</text>
+        <text encoding="base64">I3NwcmluZy5jbG91ZC5pbmV0dXRpbHMuaWdub3JlZC1pbnRlcmZhY2VzWzBdPWV0aDAKI3NwcmluZy5jbG91ZC5pbmV0dXRpbHMuaWdub3JlZC1pbnRlcmZhY2VzWzBdPWRvY2tlcjAK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQgaGg6bW06c3MiKQo=</text>
+        <text encoding="base64">I2V1cmVrYS5pbnN0YW5jZS5pcC1hZGRyZXNzPTE5Mi4xNjguNTAuMTA0CmV1cmVrYS5jbGllbnQuc2VydmljZVVybC5kZWZhdWx0Wm9uZT1odHRwOi8vMTkyLjE2OC41MC4xMDM6NDA0MC9ldXJla2EvCmV1cmVrYS5pbnN0YW5jZS5wcmVmZXItaXAtYWRkcmVzcz10cnVlCg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpZCC2pby2sPzXsGlkCiAgICAgKiBAcGFyYW0gb2xkU3RhdGUg1K3KvNe0zKwKICAgICAqIEBwYXJhbSBuZXdTdGF0ZSDQwte0zKwK</text>
+        <text encoding="base64">I2V1cmVrYS5pbnN0YW5jZS5pcC1hZGRyZXNzPTE5Mi4xNjguNTAuMTA0CmV1cmVrYS5jbGllbnQuc2VydmljZVVybC5kZWZhdWx0Wm9uZT1odHRwOi8vMTkyLjE2OC41MC4xMDM6NDA0MC9ldXJla2EvCmV1cmVrYS5pbnN0YW5jZS5wcmVmZXItaXAtYWRkcmVzcz10cnVlCg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
-      <register name="8" type="4">
-        <text>@RequestParam Integer id,
-                                      @RequestParam Integer oldState,
-                                      @RequestParam Integer newState</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMserL+cr0xvPStSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
