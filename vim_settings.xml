@@ -10,7 +10,6 @@
         <mark key="]" line="69" column="50" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" timestamp="1511416216964" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1511316528003">
         <mark key="[" line="393" column="69" />
         <mark key="]" line="394" column="60" />
@@ -72,7 +71,6 @@
         <mark key="]" line="48" column="14" />
         <mark key="." line="48" column="14" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/SystemConfigController.java" timestamp="1511408740333" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-test.properties" timestamp="1511336297517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -86,8 +84,6 @@
         <mark key="^" line="27" column="39" />
         <mark key="." line="79" column="29" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1511409027908" />
-      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/collect/Lists.java" timestamp="1511418592357" />
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1511359749233" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1511315947863">
         <mark key="'" line="1" column="0" />
@@ -114,7 +110,7 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511421031610">
+      <file name="/Dummy.txt" timestamp="1511424737014">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1511420914958">
@@ -131,7 +127,6 @@
         <mark key="^" line="208" column="65" />
         <mark key="." line="208" column="65" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1511409319266" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" timestamp="1511253520348">
         <mark key="'" line="126" column="8" />
         <mark key="[" line="168" column="5" />
@@ -153,10 +148,10 @@
         <mark key="." line="41" column="50" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1511419654737">
-        <mark key="[" line="325" column="39" />
-        <mark key="]" line="325" column="52" />
-        <mark key="." line="325" column="52" />
-        <mark key="^" line="325" column="52" />
+        <mark key="[" line="324" column="39" />
+        <mark key="]" line="324" column="52" />
+        <mark key="." line="324" column="52" />
+        <mark key="^" line="324" column="52" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1511420312821">
         <mark key="'" line="155" column="41" />
