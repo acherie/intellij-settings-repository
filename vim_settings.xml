@@ -84,10 +84,11 @@
         <mark key="^" line="29" column="43" />
         <mark key="." line="29" column="43" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1510814721659">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="14" />
-        <mark key="." line="48" column="14" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1511510639439">
+        <mark key="[" line="56" column="14" />
+        <mark key="]" line="57" column="33" />
+        <mark key="." line="57" column="33" />
+        <mark key="^" line="57" column="33" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-test.properties" timestamp="1511336297517">
         <mark key="[" line="0" column="0" />
@@ -128,7 +129,7 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511503046316">
+      <file name="/Dummy.txt" timestamp="1511510651640">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1511420914958">
