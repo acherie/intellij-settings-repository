@@ -17,8 +17,10 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
+      <file name="D:/IdeaProjects/sisyphe-framework/framework-message/framework-message-core/src/main/java/cn/sisyphe/framework/message/core/annotation/EnableS2Messaging.java" timestamp="1511744035957" />
       <file name="D:/IdeaProjects/sisyphe-framework/framework-common/src/main/java/cn/sisyphe/framework/common/stopwatch/StopWatchTimeAdvice.java" timestamp="1511669453225" />
       <file name="D:/IdeaProjects/sisyphe-framework/framework-web/src/main/java/cn/sisyphe/framework/web/exception/GlobalExceptionHandler.java" timestamp="1511670154404" />
+      <file name="D:/IdeaProjects/sisyphe-framework/framework-cache/framework-cache-core/src/main/java/cn/sisyphe/framework/cache/core/annotation/S2CacheRegistrar.java" timestamp="1511743860530" />
       <file name="D:/IdeaProjects/sisyphe-framework/framework-monitor/framework-monitor-runtime/src/main/java/cn/sisyphe/framework/monitor/runtime/MethodRunTime.java" timestamp="1511670308224" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-test.properties" timestamp="1511336297517">
         <mark key="[" line="0" column="0" />
