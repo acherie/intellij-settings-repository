@@ -69,8 +69,11 @@
         <mark key="." line="151" column="43" />
         <mark key="^" line="151" column="43" />
       </file>
-      <file name="D:/Projects/zhuannong/docker/Dockerfile" timestamp="1511755078124">
+      <file name="D:/Projects/zhuannong/docker/Dockerfile" timestamp="1511762397763">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="65" />
+        <mark key="^" line="5" column="65" />
+        <mark key="." line="5" column="65" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductLotteryRecordVo.java" timestamp="1511167856078">
         <mark key="[" line="17" column="31" />
