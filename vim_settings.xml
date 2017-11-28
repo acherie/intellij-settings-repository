@@ -5,48 +5,18 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCodeBo.java" timestamp="1511766204885">
-        <mark key="[" line="69" column="4" />
-        <mark key="]" line="69" column="9" />
-        <mark key="^" line="69" column="9" />
-        <mark key="." line="69" column="9" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" timestamp="1511425866978">
         <mark key="[" line="33" column="31" />
         <mark key="]" line="33" column="36" />
         <mark key="^" line="33" column="36" />
         <mark key="." line="33" column="36" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1511854477844">
-        <mark key="'" line="182" column="0" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="162" column="37" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/CloudEurekaClient.java" timestamp="1511856907319" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/LotteryState.java" timestamp="1511332666210">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="5" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductBottleInfoDto.java" timestamp="1511492359155">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-      </file>
-      <file name="D:/Projects/zhuannong/.gitignore" timestamp="1511502911561">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/resources/application-test.properties" timestamp="1511849266056" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/com/dakun/nongyequan/test/BaseIT.java" timestamp="1511849214589">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="72" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/Projects/zhuannong/src/main/resources/application-test.properties" timestamp="1511764222035">
         <mark key="[" line="0" column="45" />
@@ -54,10 +24,88 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/com/dakun/nongyequan/test/DbUnitIT.java" timestamp="1511849209534">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="72" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-dev.properties" timestamp="1511856580440">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-test.properties" timestamp="1511336297517">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.1.RELEASE/spring-boot-test-1.5.1.RELEASE-sources.jar!/org/springframework/boot/test/context/SpringBootTest.java" timestamp="1511849515052" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1511856578497" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1511854060252">
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="37" />
+        <mark key="^" line="59" column="37" />
+        <mark key="." line="59" column="37" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStateChangeVo.java" timestamp="1511250314032">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="21" column="34" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/context/Lifecycle.java" timestamp="1511856422396" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1511851653844">
+        <mark key="[" line="252" column="70" />
+        <mark key="]" line="252" column="81" />
+        <mark key="." line="252" column="81" />
+        <mark key="^" line="252" column="81" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.java" timestamp="1511857079598" />
+      <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/Application.java" timestamp="1511778100438">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1511332708056">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.6.RELEASE/spring-test-4.3.6.RELEASE-sources.jar!/org/springframework/test/context/testng/AbstractTransactionalTestNGSpringContextTests.java" timestamp="1511849571451" />
+      <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/DiscoveryClient.java" timestamp="1511856860316" />
+      <file name="D:/Projects/zhuannong/pom.xml" timestamp="1511767235898">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="67" column="39" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCodeBo.java" timestamp="1511766204885">
+        <mark key="[" line="69" column="4" />
+        <mark key="]" line="69" column="9" />
+        <mark key="^" line="69" column="9" />
+        <mark key="." line="69" column="9" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1511856051148">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="162" column="37" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductBottleInfoDto.java" timestamp="1511492359155">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/META-INF/spring.factories" timestamp="1511856754666" />
+      <file name="D:/Projects/zhuannong/.gitignore" timestamp="1511502911561">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/resources/application-test.properties" timestamp="1511849266056" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/config/EurekaDiscoveryClientConfigServiceAutoConfiguration.java" timestamp="1511856536409" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductLotteryRecordVo.java" timestamp="1511167856078">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="34" />
@@ -77,13 +125,6 @@
         <mark key="." line="57" column="33" />
         <mark key="^" line="57" column="33" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-test.properties" timestamp="1511336297517">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.1.RELEASE/spring-boot-test-1.5.1.RELEASE-sources.jar!/org/springframework/boot/test/context/SpringBootTest.java" timestamp="1511849515052" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/com/dakun/nongyequan/product/service/ProductBottleServiceIT.java" timestamp="1511849790716">
         <mark key="'" line="21" column="45" />
         <mark key="[" line="23" column="9" />
@@ -97,23 +138,11 @@
         <mark key="^" line="46" column="4" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1511849250947" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.0.RELEASE/spring-boot-autoconfigure-1.4.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/SecurityProperties.java" timestamp="1511764050895" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1511854060252">
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="59" column="37" />
-        <mark key="^" line="59" column="37" />
-        <mark key="." line="59" column="37" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStateChangeVo.java" timestamp="1511250314032">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="21" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1511852451965">
+      <file name="/Dummy.txt" timestamp="1511857216572">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaDiscoveryClientConfiguration.java" timestamp="1511857298512" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1511754241932">
         <mark key="'" line="139" column="48" />
         <mark key="[" line="132" column="28" />
@@ -132,10 +161,6 @@
         <mark key="]" line="28" column="17" />
         <mark key="^" line="28" column="17" />
         <mark key="." line="28" column="17" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-domain/src/main/java/com/fuhuadata/domain/mybatis/Menu.java" timestamp="1511839808315">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="179" column="4" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductBottle.java" timestamp="1511849494084">
         <mark key="'" line="25" column="4" />
@@ -162,12 +187,6 @@
         <mark key="^" line="6" column="67" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1511851653844">
-        <mark key="[" line="252" column="70" />
-        <mark key="]" line="252" column="81" />
-        <mark key="." line="252" column="81" />
-        <mark key="^" line="252" column="81" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIdentityCodeService.java" timestamp="1511768636813">
         <mark key="'" line="106" column="4" />
         <mark key="[" line="156" column="0" />
@@ -181,30 +200,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/Application.java" timestamp="1511778100438">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCode.java" timestamp="1511831876054" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1511332708056">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.6.RELEASE/spring-test-4.3.6.RELEASE-sources.jar!/org/springframework/test/context/testng/AbstractTransactionalTestNGSpringContextTests.java" timestamp="1511849571451" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLicenseService.java" timestamp="1511851881693" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.1.RELEASE/spring-boot-test-1.5.1.RELEASE-sources.jar!/org/springframework/boot/test/context/SpringBootTestContextBootstrapper.java" timestamp="1511849525835" />
       <file name="/fragment.java" timestamp="1511850326123">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/zhuannong/pom.xml" timestamp="1511767235898">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="67" column="39" />
-        <mark key="." line="60" column="0" />
       </file>
     </filemarks>
     <jumps>
