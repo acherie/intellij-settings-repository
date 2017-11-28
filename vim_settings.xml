@@ -38,6 +38,7 @@
         <mark key="^" line="0" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.1.RELEASE/spring-boot-test-1.5.1.RELEASE-sources.jar!/org/springframework/boot/test/context/SpringBootTest.java" timestamp="1511849515052" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/pom.xml" timestamp="1511861695927" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1511856578497" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.1.8.RELEASE/spring-cloud-commons-1.1.8.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.java" timestamp="1511859831781" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1511854060252">
@@ -115,6 +116,7 @@
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-eureka/1.2.6.RELEASE/spring-cloud-starter-eureka-1.2.6.RELEASE.pom" timestamp="1511861713146" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/query/ProductBottleQuery.java" timestamp="1511249908942">
         <mark key="[" line="28" column="39" />
         <mark key="]" line="29" column="43" />
@@ -207,9 +209,6 @@
       <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/EurekaClient.java" timestamp="1511859957670" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLicenseService.java" timestamp="1511851881693" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.1.RELEASE/spring-boot-test-1.5.1.RELEASE-sources.jar!/org/springframework/boot/test/context/SpringBootTestContextBootstrapper.java" timestamp="1511849525835" />
-      <file name="/fragment.java" timestamp="1511850326123">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="145" column="14" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIdentityCodeService.java" />
