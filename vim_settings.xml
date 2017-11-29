@@ -5,133 +5,32 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" timestamp="1511425866978">
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="36" />
-        <mark key="^" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/CloudEurekaClient.java" timestamp="1511860048041" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/ServletDetectionFilter.java" timestamp="1511927614627" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/LotteryState.java" timestamp="1511332666210">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="5" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="10" column="5" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.java" timestamp="1511859167118" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendResponseFilter.java" timestamp="1511928083386" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendResponseFilter.java" timestamp="1511933984684" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/DebugFilter.java" timestamp="1511927788479" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-dev.properties" timestamp="1511856580440">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-test.properties" timestamp="1511336297517">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java" timestamp="1511934194539" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.1.RELEASE/spring-boot-test-1.5.1.RELEASE-sources.jar!/org/springframework/boot/test/context/SpringBootTest.java" timestamp="1511849515052" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/pom.xml" timestamp="1511861695927" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendErrorFilter.java" timestamp="1511934448136" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1511856578497" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.1.8.RELEASE/spring-cloud-commons-1.1.8.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.java" timestamp="1511859831781" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStateChangeVo.java" timestamp="1511250314032">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="21" column="34" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/context/Lifecycle.java" timestamp="1511856422396" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.java" timestamp="1511859366472" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/appinfo/InstanceInfo.java" timestamp="1511860559695" />
-      <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/Application.java" timestamp="1511778100438">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1511332708056">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/context/RequestContext.java" timestamp="1511934387537" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.6.RELEASE/spring-test-4.3.6.RELEASE-sources.jar!/org/springframework/test/context/testng/AbstractTransactionalTestNGSpringContextTests.java" timestamp="1511849571451" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/DiscoveryClient.java" timestamp="1511860718904" />
-      <file name="D:/Projects/zhuannong/pom.xml" timestamp="1511767235898">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="67" column="39" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductBottleInfoDto.java" timestamp="1511492359155">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/META-INF/spring.factories" timestamp="1511859905100" />
-      <file name="D:/Projects/zhuannong/.gitignore" timestamp="1511502911561">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/resources/application-test.properties" timestamp="1511849266056" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/config/EurekaDiscoveryClientConfigServiceAutoConfiguration.java" timestamp="1511859856270" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductLotteryRecordVo.java" timestamp="1511167856078">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="^" line="17" column="34" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-eureka/1.2.6.RELEASE/spring-cloud-starter-eureka-1.2.6.RELEASE.pom" timestamp="1511864480498" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/query/ProductBottleQuery.java" timestamp="1511249908942">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="29" column="43" />
-        <mark key="^" line="29" column="43" />
-        <mark key="." line="29" column="43" />
-      </file>
       <file name="D:/Projects/zhuannong/src/main/resources/logback.xml" timestamp="1511767681896" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1511510639439">
-        <mark key="[" line="56" column="14" />
-        <mark key="]" line="57" column="33" />
-        <mark key="." line="57" column="33" />
-        <mark key="^" line="57" column="33" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/ApplicationConfigurator.java" timestamp="1511316696096">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="46" column="4" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.0.RELEASE/spring-boot-autoconfigure-1.4.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/SecurityProperties.java" timestamp="1511764050895" />
-      <file name="/Dummy.txt" timestamp="1511857216572">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaDiscoveryClientConfiguration.java" timestamp="1511859195959" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1511834585015">
-        <mark key="[" line="27" column="54" />
-        <mark key="]" line="28" column="17" />
-        <mark key="^" line="28" column="17" />
-        <mark key="." line="28" column="17" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLotteryService.java" timestamp="1511145916967">
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="41" column="50" />
-        <mark key="^" line="41" column="50" />
-        <mark key="." line="41" column="50" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1511748854591">
-        <mark key="[" line="151" column="29" />
-        <mark key="]" line="151" column="43" />
-        <mark key="." line="151" column="43" />
-        <mark key="^" line="151" column="43" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCode.java" timestamp="1511831876054" />
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/ThreadLocal.java" timestamp="1511934366248" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/EurekaClient.java" timestamp="1511859957670" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLicenseService.java" timestamp="1511851881693" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.1.RELEASE/spring-boot-test-1.5.1.RELEASE-sources.jar!/org/springframework/boot/test/context/SpringBootTestContextBootstrapper.java" timestamp="1511849525835" />
