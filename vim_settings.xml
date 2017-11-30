@@ -245,6 +245,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/repository/redis/RedisMetricRepository.java" timestamp="1512007199054" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCode.java" timestamp="1511831876054" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" timestamp="1512009635071" />
       <file name="D:/IdeaProjects/sisyphe-framework/framework-common/src/main/java/cn/sisyphe/framework/common/bootstrap/AutoConfigurationImportSelector.java" timestamp="1511946632528" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/export/MetricExportProperties.java" timestamp="1512007087882" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/logback-spring.xml" timestamp="1511947948286" />
