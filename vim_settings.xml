@@ -18,6 +18,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/MetricsEndpoint.java" timestamp="1512005185215" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.java" timestamp="1511859167118" />
       <file name="D:/Projects/zhuannong/src/main/resources/application-test.properties" timestamp="1511764222035">
         <mark key="[" line="0" column="45" />
@@ -63,13 +64,14 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.6.RELEASE/spring-aop-4.3.6.RELEASE-sources.jar!/org/springframework/aop/interceptor/AbstractTraceInterceptor.java" timestamp="1511944995507" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/context/RequestContext.java" timestamp="1511934387537" />
+      <file name="$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.7/influxdb-java-2.7-sources.jar!/org/influxdb/InfluxDB.java" timestamp="1512005412816" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1511332708056">
         <mark key="[" line="22" column="10" />
         <mark key="]" line="22" column="16" />
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MonitoringConfigurator.java" timestamp="1511956689571">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MonitoringConfigurator.java" timestamp="1512004948429">
         <mark key="[" line="38" column="52" />
         <mark key="]" line="38" column="62" />
         <mark key="^" line="38" column="62" />
@@ -109,7 +111,7 @@
         <mark key="." line="29" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.0.RELEASE/spring-boot-autoconfigure-1.4.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/SecurityProperties.java" timestamp="1511764050895" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/SystemPublicMetrics.java" timestamp="1511952768597" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/SystemPublicMetrics.java" timestamp="1512004759364" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaDiscoveryClientConfiguration.java" timestamp="1511859195959" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1511832503626">
         <mark key="[" line="103" column="29" />
@@ -130,6 +132,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.6.RELEASE/spring-aop-4.3.6.RELEASE-sources.jar!/org/springframework/aop/interceptor/AbstractMonitoringInterceptor.java" timestamp="1511944495861" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/EurekaClient.java" timestamp="1511859957670" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaHealthCheckHandler.java" timestamp="1511919036464" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/MetricsEndpointMetricReader.java" timestamp="1512005039936" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/ServletDetectionFilter.java" timestamp="1511927614627" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendResponseFilter.java" timestamp="1511933984684" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/DebugFilter.java" timestamp="1511935716727" />
@@ -142,7 +145,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java" timestamp="1511934194539" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/pom.xml" timestamp="1511861695927" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendErrorFilter.java" timestamp="1511937247302" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1511954456646">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1512004923080">
         <mark key="[" line="9" column="78" />
         <mark key="]" line="12" column="17" />
         <mark key="^" line="12" column="17" />
