@@ -134,6 +134,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaHealthCheckHandler.java" timestamp="1511919036464" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/MetricsEndpointMetricReader.java" timestamp="1512005039936" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/ServletDetectionFilter.java" timestamp="1511927614627" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java" timestamp="1512007397257" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendResponseFilter.java" timestamp="1511933984684" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/DebugFilter.java" timestamp="1511935716727" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-dev.properties" timestamp="1511948027901">
@@ -151,11 +152,6 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="D:/Projects/zhuannong/src/main/resources/application-dev.properties" timestamp="1511764375888">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1511854060252">
         <mark key="[" line="59" column="21" />
         <mark key="]" line="59" column="37" />
@@ -163,13 +159,6 @@
         <mark key="." line="59" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/logging/logback/LevelRemappingAppender.java" timestamp="1511945922117" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/Application.java" timestamp="1511945484051">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="70" column="5" />
-        <mark key="]" line="79" column="42" />
-        <mark key="." line="79" column="42" />
-        <mark key="^" line="79" column="42" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/context/Lifecycle.java" timestamp="1511856422396" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.java" timestamp="1511859366472" />
       <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/Application.java" timestamp="1511778100438">
@@ -180,11 +169,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.6.RELEASE/spring-test-4.3.6.RELEASE-sources.jar!/org/springframework/test/context/testng/AbstractTransactionalTestNGSpringContextTests.java" timestamp="1511849571451" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/DiscoveryClient.java" timestamp="1511860718904" />
-      <file name="D:/Projects/zhuannong/src/main/resources/application-pro.properties" timestamp="1511764217330">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="82" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="D:/Projects/zhuannong/pom.xml" timestamp="1511767235898">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -239,6 +223,7 @@
         <mark key="^" line="28" column="17" />
         <mark key="." line="28" column="17" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/export/TriggerProperties.java" timestamp="1512006871506" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/FilterProcessor.java" timestamp="1511935675395" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLotteryService.java" timestamp="1511145916967">
         <mark key="[" line="40" column="45" />
@@ -258,19 +243,13 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="6" column="15" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/repository/redis/RedisMetricRepository.java" timestamp="1512007199054" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCode.java" timestamp="1511831876054" />
       <file name="D:/IdeaProjects/sisyphe-framework/framework-common/src/main/java/cn/sisyphe/framework/common/bootstrap/AutoConfigurationImportSelector.java" timestamp="1511946632528" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/export/MetricExportProperties.java" timestamp="1512007087882" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/logback-spring.xml" timestamp="1511947948286" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLicenseService.java" timestamp="1511851881693" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/1.5.1.RELEASE/spring-boot-test-1.5.1.RELEASE-sources.jar!/org/springframework/boot/test/context/SpringBootTestContextBootstrapper.java" timestamp="1511849525835" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PerformancePostFilter.java" timestamp="1511945860017">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1511945221869">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.6.RELEASE/spring-aop-4.3.6.RELEASE-sources.jar!/org/springframework/aop/interceptor/PerformanceMonitorInterceptor.java" timestamp="1511944504462" />
     </filemarks>
     <jumps>
