@@ -7,17 +7,20 @@
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/writer/GaugeWriter.java" timestamp="1512027380097" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/CloudEurekaClient.java" timestamp="1511860048041" />
+      <file name="/a.dummy" timestamp="1512109143745">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/MetricsEndpoint.java" timestamp="1512027875016" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/com/dakun/nongyequan/test/BaseIT.java" timestamp="1511849214589">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="72" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-center/src/main/resources/application-dev.properties" timestamp="1512124068804">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="40" />
-        <mark key="." line="13" column="40" />
-        <mark key="^" line="13" column="40" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-center/src/main/resources/application-dev.properties" timestamp="1512128307875">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+        <mark key="^" line="6" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.java" timestamp="1511859167118" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.0.RELEASE/spring-boot-autoconfigure-1.4.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.java" timestamp="1511764149325">
@@ -54,6 +57,7 @@
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-center/.gitignore" timestamp="1512128355712" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.1.8.RELEASE/spring-cloud-commons-1.1.8.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.java" timestamp="1511859831781" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/java/com/dakun/jianzhong/controller/ResourceDApiController.java" timestamp="1511935982736" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/export/MetricExporters.java" timestamp="1512100367948" />
@@ -99,6 +103,7 @@
         <mark key="]" line="40" column="35" />
         <mark key="." line="40" column="35" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportAuditVo.java" timestamp="1512128104396" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/resources/application-test.properties" timestamp="1511849266056" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/resources/application-test.properties" timestamp="1512120151545">
         <mark key="[" line="1" column="0" />
@@ -160,6 +165,12 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/EurekaClient.java" timestamp="1511859957670" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1512128142134">
+        <mark key="[" line="201" column="54" />
+        <mark key="]" line="204" column="60" />
+        <mark key="^" line="204" column="60" />
+        <mark key="." line="204" column="60" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLotteryResult.java" timestamp="1512117089698">
         <mark key="[" line="19" column="41" />
         <mark key="]" line="19" column="40" />
@@ -169,13 +180,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaHealthCheckHandler.java" timestamp="1511919036464" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/MetricsEndpointMetricReader.java" timestamp="1512005039936" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/ServletDetectionFilter.java" timestamp="1511927614627" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLotteryRecord.java" timestamp="1512093407910">
-        <mark key="'" line="48" column="30" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="64" column="10" />
-        <mark key="^" line="64" column="10" />
-        <mark key="." line="64" column="10" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java" timestamp="1512010581488" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/mapper/ProductLotteryResultMapper.java" timestamp="1512118270569">
         <mark key="[" line="4" column="0" />
@@ -187,12 +191,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/writer/Delta.java" timestamp="1512025611893" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/DebugFilter.java" timestamp="1511935716727" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/writer/DefaultCounterService.java" timestamp="1512028084206" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-dev.properties" timestamp="1512124442247">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-dev.properties" timestamp="1512128312530">
         <mark key="'" line="1" column="50" />
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="13" column="40" />
-        <mark key="." line="13" column="40" />
-        <mark key="^" line="13" column="40" />
+        <mark key="[" line="1" column="50" />
+        <mark key="]" line="1" column="51" />
+        <mark key="." line="1" column="51" />
+        <mark key="^" line="1" column="51" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java" timestamp="1511934194539" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/pom.xml" timestamp="1512123530811" />
@@ -270,7 +274,7 @@
         <mark key="^" line="46" column="4" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512123531458">
+      <file name="/Dummy.txt" timestamp="1512127202475">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -346,6 +350,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisOperations.java" timestamp="1512024178031" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.6.RELEASE/spring-cloud-netflix-eureka-client-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.java" timestamp="1512119611758" />
+      <file name="/fragment.java" timestamp="1512127202469">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.6.RELEASE/spring-aop-4.3.6.RELEASE-sources.jar!/org/springframework/aop/interceptor/PerformanceMonitorInterceptor.java" timestamp="1511944504462" />
     </filemarks>
     <jumps>
@@ -455,7 +462,7 @@
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMserL+cr0xvPStSIpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>INFO</text>
+        <text>5</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -476,7 +483,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>heartbeat</text>
@@ -488,49 +495,49 @@
         <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY29tLmRha3VuLmppYW56aG9uZyIgbGV2ZWw9IkRFQlVHIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY29tLmRha3VuLmppYW56aG9uZyIgbGV2ZWw9IkRFQlVHIi8+Cg==</text>
+        <text encoding="base64">CmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZXVyZWthPURFQlVHCmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZGlzY292ZXJ5PURFQlVHCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZXVyZWthPU9GRgpsb2dnaW5nLmxldmVsLmNvbS5uZXRmbGl4LmRpc2NvdmVyeT1PRkYK</text>
+        <text encoding="base64">CmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZXVyZWthPURFQlVHCmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZGlzY292ZXJ5PURFQlVHCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLmFwcGxpY2F0aW9uLm5hbWU9c2VydmljZS1jZW50ZXIK</text>
+        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY29tLmRha3VuLmppYW56aG9uZyIgbGV2ZWw9IkRFQlVHIi8+Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI2lmICgkc2hpcm8uaGFzUGVybWlzc2lvbigic3VwcGxpZXI6cGxhbnQ6ZWRpdCIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXVyZWthLmNsaWVudC5zZXJ2aWNlVXJsLmRlZmF1bHRab25lPWh0dHA6Ly9sb2NhbGhvc3Q6NDA0MC9ldXJla2EvCg==</text>
+        <text encoding="base64">CmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZXVyZWthPU9GRgpsb2dnaW5nLmxldmVsLmNvbS5uZXRmbGl4LmRpc2NvdmVyeT1PRkYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB1cGRhdGVMb3R0ZXJ5UmVzdWx0KFByb2R1Y3RSZXBvcnQgcmVwb3J0LCBQcm9kdWN0TG90dGVyeVJlc3VsdCByZXN1bHQpIHsKCiAgICAgICAgaWYgKHJlc3VsdC5nZXRJZCgpID09IG51bGwpIHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oInVwZGF0ZUxvdHRlcnlSZXN1bHQgPT4g1tC9sb3huftpZM6qv9UiKTsKICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oItbQvOS94bn7zqq/1SIpOwogICAgICAgIH0KCiAgICAgICAgQ29uZGl0aW9uIGNvbmRpdGlvbiA9IG5ld0NvbmRpdGlvbigpOwogICAgICAgIGNvbmRpdGlvbi5jcmVhdGVDcml0ZXJpYSgpCiAgICAgICAgICAgICAgICAuYW5kRXF1YWxUbygicmVwb3J0SWQiLCByZXBvcnQuZ2V0SWQoKSk7CgogICAgICAgIFByb2R1Y3RCb3R0bGUgYm90dGxlID0gbmV3IFByb2R1Y3RCb3R0bGUoKTsKICAgICAgICBib3R0bGUuc2V0TG90dGVyeVJlc3VsdElkKHJlc3VsdC5nZXRJZCgpKTsKCiAgICAgICAgYm90dGxlU2VydmljZS51cGRhdGVCeUNvbmRpdGlvblNlbGVjdGl2ZShib3R0bGUsIGNvbmRpdGlvbik7CiAgICB9Cgo=</text>
+        <text encoding="base64">c3ByaW5nLmFwcGxpY2F0aW9uLm5hbWU9c2VydmljZS1jZW50ZXIK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG51bGwudXRpbHMuTWFwcGVyOwo=</text>
+        <text encoding="base64">ZXVyZWthLmNsaWVudC5zZXJ2aWNlVXJsLmRlZmF1bHRab25lPWh0dHA6Ly9sb2NhbGhvc3Q6NDA0MC9ldXJla2EvCg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGxvdHRlcnkgPSByZXBvcnRBdWRpdFZvLmdldExvdHRlcnkoKTsKICAgICAgICBpZiAoT2JqZWN0cy5lcXVhbHMobG90dGVyeSwgMSkpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB1cGRhdGVMb3R0ZXJ5UmVzdWx0KFByb2R1Y3RSZXBvcnQgcmVwb3J0LCBQcm9kdWN0TG90dGVyeVJlc3VsdCByZXN1bHQpIHsKCiAgICAgICAgaWYgKHJlc3VsdC5nZXRJZCgpID09IG51bGwpIHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oInVwZGF0ZUxvdHRlcnlSZXN1bHQgPT4g1tC9sb3huftpZM6qv9UiKTsKICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oItbQvOS94bn7zqq/1SIpOwogICAgICAgIH0KCiAgICAgICAgQ29uZGl0aW9uIGNvbmRpdGlvbiA9IG5ld0NvbmRpdGlvbigpOwogICAgICAgIGNvbmRpdGlvbi5jcmVhdGVDcml0ZXJpYSgpCiAgICAgICAgICAgICAgICAuYW5kRXF1YWxUbygicmVwb3J0SWQiLCByZXBvcnQuZ2V0SWQoKSk7CgogICAgICAgIFByb2R1Y3RCb3R0bGUgYm90dGxlID0gbmV3IFByb2R1Y3RCb3R0bGUoKTsKICAgICAgICBib3R0bGUuc2V0TG90dGVyeVJlc3VsdElkKHJlc3VsdC5nZXRJZCgpKTsKCiAgICAgICAgYm90dGxlU2VydmljZS51cGRhdGVCeUNvbmRpdGlvblNlbGVjdGl2ZShib3R0bGUsIGNvbmRpdGlvbik7CiAgICB9Cgo=</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gyfqzydbQvbHQxc+iCiAgICAgICAgICAgIHByb2Nlc3NMb3R0ZXJ5SW5mbyhyZXBvcnQsIHJlcG9ydEF1ZGl0Vm8pOwo=</text>
+        <text encoding="base64">aW1wb3J0IG51bGwudXRpbHMuTWFwcGVyOwo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc0xvdHRlcnlJbmZvKHJlcG9ydCwgcmVwb3J0QXVkaXRWbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGxvdHRlcnkgPSByZXBvcnRBdWRpdFZvLmdldExvdHRlcnkoKTsKICAgICAgICBpZiAoT2JqZWN0cy5lcXVhbHMobG90dGVyeSwgMSkpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
