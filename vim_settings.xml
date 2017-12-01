@@ -53,6 +53,7 @@
         <mark key="^" line="21" column="34" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/java/com/dakun/jianzhong/controller/ResourceDApiController.java" timestamp="1511935982736" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/export/MetricExporters.java" timestamp="1512098896141" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendResponseFilter.java" timestamp="1511942397614" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1512014396268">
         <mark key="[" line="252" column="70" />
@@ -78,11 +79,11 @@
       <file name="/ProductBottleService.java" timestamp="1512091559173">
         <mark key="'" line="12" column="33" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MonitoringConfigurator.java" timestamp="1512091066742">
-        <mark key="[" line="50" column="19" />
-        <mark key="]" line="50" column="24" />
-        <mark key="^" line="50" column="24" />
-        <mark key="." line="50" column="24" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MonitoringConfigurator.java" timestamp="1512098158307">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="23" column="36" />
+        <mark key="^" line="23" column="36" />
+        <mark key="." line="23" column="36" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1511935932267" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1512093058807">
@@ -127,10 +128,10 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/SystemPublicMetrics.java" timestamp="1512004759364" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.5.RELEASE/spring-cloud-netflix-eureka-client-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaDiscoveryClientConfiguration.java" timestamp="1511859195959" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1512094108687">
-        <mark key="[" line="214" column="45" />
-        <mark key="]" line="214" column="54" />
-        <mark key="." line="214" column="54" />
-        <mark key="^" line="214" column="54" />
+        <mark key="[" line="213" column="45" />
+        <mark key="]" line="213" column="54" />
+        <mark key="." line="213" column="54" />
+        <mark key="^" line="213" column="54" />
       </file>
       <file name="D:/IdeaProjects/sisyphe-framework/framework-monitor/framework-monitor-runtime/src/main/java/cn/sisyphe/framework/monitor/runtime/MethodMonitor.java" timestamp="1511946760752" />
       <file name="D:/Projects/zhuannong/docker/Dockerfile" timestamp="1511768437326">
@@ -176,7 +177,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java" timestamp="1511934194539" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/pom.xml" timestamp="1511861695927" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.5.RELEASE/spring-cloud-netflix-core-1.2.5.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendErrorFilter.java" timestamp="1511937247302" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1512091389022">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1512097970361">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="16" column="43" />
         <mark key="^" line="16" column="43" />
@@ -195,6 +196,7 @@
         <mark key="." line="59" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/logging/logback/LevelRemappingAppender.java" timestamp="1511945922117" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/MetricExportAutoConfiguration.java" timestamp="1512098967686" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/Application.java" timestamp="1511945484051">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="70" column="5" />
@@ -264,6 +266,11 @@
         <mark key="]" line="44" column="39" />
         <mark key="^" line="46" column="4" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512097567944">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1511754241932">
         <mark key="'" line="139" column="48" />
