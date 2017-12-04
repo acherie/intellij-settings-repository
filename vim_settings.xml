@@ -19,9 +19,6 @@
         <mark key="." line="6" column="54" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.0.RELEASE/spring-boot-autoconfigure-1.4.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.java" timestamp="1511764149325">
-        <mark key="'" line="771" column="17" />
-      </file>
       <file name="D:/Projects/zhuannong/src/main/resources/application-test.properties" timestamp="1511764222035">
         <mark key="[" line="0" column="45" />
         <mark key="]" line="0" column="77" />
@@ -52,9 +49,7 @@
         <mark key="." line="252" column="81" />
         <mark key="^" line="252" column="81" />
       </file>
-      <file name="/ProductBottleService.java" timestamp="1512091559173">
-        <mark key="'" line="12" column="33" />
-      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1512371940851" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MonitoringConfigurator.java" timestamp="1512358671681">
         <mark key="[" line="66" column="13" />
         <mark key="]" line="67" column="32" />
@@ -139,6 +134,11 @@
         <mark key="^" line="19" column="40" />
         <mark key="." line="19" column="40" />
       </file>
+      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1512372525088">
+        <mark key="'" line="677" column="16" />
+        <mark key="[" line="650" column="12" />
+        <mark key="]" line="666" column="20" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-dev.properties" timestamp="1512128312530">
         <mark key="'" line="1" column="50" />
         <mark key="[" line="1" column="50" />
@@ -171,9 +171,6 @@
         <mark key="]" line="79" column="42" />
         <mark key="." line="79" column="42" />
         <mark key="^" line="79" column="42" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/DiscoveryClient.java" timestamp="1512124036176">
-        <mark key="'" line="408" column="12" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCodeBo.java" timestamp="1511766204885">
         <mark key="[" line="69" column="4" />
@@ -223,6 +220,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="45" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/pom.xml" timestamp="1512372657019">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="32" column="41" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductBottle.java" timestamp="1512115779670">
         <mark key="'" line="9" column="13" />
         <mark key="[" line="87" column="0" />
@@ -249,9 +252,6 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/export/MetricExportProperties.java" timestamp="1512110523304">
-        <mark key="'" line="114" column="52" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/logback-spring.xml" timestamp="1512124242565">
         <mark key="[" line="67" column="17" />
         <mark key="]" line="67" column="21" />
@@ -263,8 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="24" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" />
-      <jump line="35" column="28" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportVo.java" />
       <jump line="97" column="4" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" />
       <jump line="102" column="15" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" />
       <jump line="95" column="19" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" />
@@ -363,13 +361,15 @@
       <jump line="378" column="17" filename="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/DiscoveryClient.java" />
       <jump line="384" column="12" filename="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/DiscoveryClient.java" />
       <jump line="408" column="12" filename="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/DiscoveryClient.java" />
+      <jump line="62" column="0" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
+      <jump line="677" column="16" filename="D:/Projects/fuhuadata/fuhuadata/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIsnMserL+cr0xvPStSIpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y29tcGlsZXJBcmdzPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJnPi1YRGlnbm9yZS5zeW1ib2wuZmlsZTwvYXJnPgogICAgICAgICAgICAgICAgICAgIDwvY29tcGlsZXJBcmdzPgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -390,7 +390,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>http://</text>
+        <text>1.8</text>
       </register>
       <register name="/" type="4">
         <text>heartbeat</text>
@@ -398,55 +398,55 @@
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY29tLmRha3VuLmppYW56aG9uZyIgbGV2ZWw9IkRFQlVHIi8+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxzb3VyY2U+MS44PC9zb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgPHRhcmdldD4xLjg8L3RhcmdldD4KICAgICAgICAgICAgICAgICAgICA8ZW5jb2Rpbmc+JHtwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nfTwvZW5jb2Rpbmc+CiAgICAgICAgICAgICAgICAgICAgPHZlcmJvc2U+dHJ1ZTwvdmVyYm9zZT4KICAgICAgICAgICAgICAgICAgICA8Zm9yaz50cnVlPC9mb3JrPgogICAgICAgICAgICAgICAgICAgIDxjb21waWxlckFyZ3M+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcmc+LVhEaWdub3JlLnN5bWJvbC5maWxlPC9hcmc+CiAgICAgICAgICAgICAgICAgICAgPC9jb21waWxlckFyZ3M+CgogICAgICAgICAgICAgICAgICAgIDwhLS08ZXhlY3V0YWJsZT4ke0pBVkE4X0hPTUV9PC9leGVjdXRhYmxlPi0tPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y29tcGlsZXJBcmdzPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJnPi1YRGlnbm9yZS5zeW1ib2wuZmlsZTwvYXJnPgogICAgICAgICAgICAgICAgICAgIDwvY29tcGlsZXJBcmdzPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>奖品版本控制
-
-1.生成奖品记录时记录当时有效的奖品信息</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgPCEtLTxleGVjdXRhYmxlPiR7SkFWQThfSE9NRX08L2V4ZWN1dGFibGU+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsKG1lc3NhZ2UgPSAi1tC9sdDFz6Kyu8Tczqq/1SIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI2lmICgkc2hpcm8uaGFzUGVybWlzc2lvbigic3VwcGxpZXI6cGxhbnQ6ZWRpdCIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZXVyZWthPURFQlVHCmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZGlzY292ZXJ5PURFQlVHCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZXVyZWthPURFQlVHCmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZGlzY292ZXJ5PURFQlVHCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY29tLmRha3VuLmppYW56aG9uZyIgbGV2ZWw9IkRFQlVHIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZXVyZWthPU9GRgpsb2dnaW5nLmxldmVsLmNvbS5uZXRmbGl4LmRpc2NvdmVyeT1PRkYK</text>
+      <register name="7" type="4">
+        <text>奖品版本控制
+
+1.生成奖品记录时记录当时有效的奖品信息</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nLmFwcGxpY2F0aW9uLm5hbWU9c2VydmljZS1jZW50ZXIK</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsKG1lc3NhZ2UgPSAi1tC9sdDFz6Kyu8Tczqq/1SIpCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXVyZWthLmNsaWVudC5zZXJ2aWNlVXJsLmRlZmF1bHRab25lPWh0dHA6Ly9sb2NhbGhvc3Q6NDA0MC9ldXJla2EvCg==</text>
+        <text encoding="base64">CmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZXVyZWthPURFQlVHCmxvZ2dpbmcubGV2ZWwuY29tLm5ldGZsaXguZGlzY292ZXJ5PURFQlVHCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
