@@ -153,6 +153,7 @@
         <mark key="^" line="14" column="30" />
         <mark key="." line="14" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.5.1.RELEASE/spring-boot-starter-parent-1.5.1.RELEASE.pom" timestamp="1512369376029" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1512119473620">
         <mark key="'" line="23" column="20" />
         <mark key="[" line="23" column="27" />
