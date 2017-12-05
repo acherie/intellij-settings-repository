@@ -10,6 +10,9 @@
         <mark key="]" line="14" column="72" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.0.RELEASE/spring-boot-autoconfigure-1.4.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.java" timestamp="1511764149325">
+        <mark key="'" line="771" column="17" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/TextUtils.java" timestamp="1512378290318">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
@@ -25,6 +28,9 @@
         <mark key="[" line="119" column="0" />
         <mark key="]" line="123" column="20" />
         <mark key="." line="108" column="0" />
+      </file>
+      <file name="/ProductBottleService.java" timestamp="1512091559173">
+        <mark key="'" line="12" column="33" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MonitoringConfigurator.java" timestamp="1512358671681">
         <mark key="[" line="66" column="13" />
@@ -61,6 +67,9 @@
         <mark key="]" line="1" column="52" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.pom" timestamp="1512471873233">
+        <mark key="'" line="124" column="26" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/com/dakun/nongyequan/product/service/ProductBottleServiceIT.java" timestamp="1511849790716">
         <mark key="'" line="21" column="45" />
         <mark key="[" line="23" column="9" />
@@ -88,6 +97,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/ResultGenerator.java" timestamp="1512437800723" />
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-bean-validators/2.7.0/springfox-bean-validators-2.7.0.pom" timestamp="1512471916020" />
       <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1512372525088">
         <mark key="'" line="677" column="16" />
         <mark key="[" line="650" column="12" />
@@ -128,6 +138,9 @@
         <mark key="^" line="79" column="42" />
       </file>
       <file name="D:/IdeaProjects/es/parent/pom.xml" timestamp="1512444076252" />
+      <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/DiscoveryClient.java" timestamp="1512124036176">
+        <mark key="'" line="408" column="12" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/resources/application-test.properties" timestamp="1512120153789">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="52" />
@@ -184,6 +197,9 @@
         <mark key="." line="105" column="89" />
         <mark key="^" line="105" column="89" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/export/MetricExportProperties.java" timestamp="1512110523304">
+        <mark key="'" line="114" column="52" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom" timestamp="1512462933351">
         <mark key="'" line="870" column="23" />
       </file>
@@ -194,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="54" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
-      <jump line="260" column="33" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
       <jump line="325" column="11" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
       <jump line="2" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
       <jump line="281" column="33" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
@@ -294,6 +308,8 @@
       <jump line="202" column="41" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
       <jump line="42" column="22" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
       <jump line="45" column="23" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
+      <jump line="38" column="25" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.pom" />
+      <jump line="124" column="26" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.pom" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -324,7 +340,7 @@
         <text>exception</text>
       </register>
       <register name="/" type="4">
-        <text>guava</text>
+        <text>swagger</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -385,9 +401,9 @@
       </register>
     </registers>
     <search>
-      <last-search>guava</last-search>
+      <last-search>swagger</last-search>
       <last-offset />
-      <last-pattern>guava</last-pattern>
+      <last-pattern>swagger</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -395,7 +411,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcGVjaWZpY2F0aW9uTGluZVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxwcm9kdWN0TGlzdFw+</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5SW5mb0R0b1w+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUxvdHRvcnlJbmZvXD4=</entry>
@@ -415,6 +430,7 @@
         <entry>gu</entry>
         <entry>google</entry>
         <entry>guava</entry>
+        <entry>swagger</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
