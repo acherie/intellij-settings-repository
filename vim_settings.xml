@@ -163,17 +163,16 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512546577033">
+      <file name="/Dummy.txt" timestamp="1512551929666">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/ServerUtils.java" timestamp="1512541397671">
-        <mark key="'" line="10" column="69" />
         <mark key="[" line="6" column="23" />
-        <mark key="]" line="28" column="10" />
-        <mark key="^" line="28" column="10" />
-        <mark key="." line="28" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-test.properties" timestamp="1512354536981">
         <mark key="[" line="1" column="0" />
@@ -181,11 +180,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="45" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/pom.xml" timestamp="1512546355306">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/pom.xml" timestamp="1512551848887">
         <mark key="'" line="88" column="16" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="D:/Projects/zhuannong/docker/Dockerfile" timestamp="1511768437326">
         <mark key="[" line="7" column="0" />
@@ -341,8 +340,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPm1hdmVuLXB1YmxpYzwvaWQ+CiAgICAgICAgICAgIDxuYW1lPlByaXZhdGUgTWF2ZW4gcmVwb3NpdG9yeSBncm91cDwvbmFtZT4KICAgICAgICAgICAgPHVybD5odHRwOi8vMTkyLjE2OC41MC4xMDA6ODA4MS9yZXBvc2l0b3J5L21hdmVuLXB1YmxpYzwvdXJsPgogICAgICAgIDwvcmVwb3NpdG9yeT4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NvdW50VXNlci5zZXRQb3J0cmFpdChRaW5pdUZpbGUuZ2V0ZG93bmxvYWR1cmwoUWluaXVDb25zdGFudC5Eb21haW5fYWNjb3VudCwgYWNjb3VudFVzZXIuZ2V0UG9ydHJhaXQoKSwKICAgICAgICAgICAgICAgICIiLCBRaW5pdUNvbnN0YW50LnBvcnRyYWl0X2Rvd25sb2FkX3dlYnBhZ2VfZXhwKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-SNAPSHOT</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -363,7 +362,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>TextUtils</text>
+        <text>-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>JWTU</text>
