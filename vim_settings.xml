@@ -115,6 +115,7 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="50" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLotteryRecordController.java" timestamp="1512610951937" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCodeBo.java" timestamp="1511766204885">
         <mark key="[" line="69" column="4" />
         <mark key="]" line="69" column="9" />
@@ -186,6 +187,7 @@
         <mark key="]" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" timestamp="1512610883675" />
       <file name="D:/Projects/zhuannong/docker/Dockerfile" timestamp="1511768437326">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
