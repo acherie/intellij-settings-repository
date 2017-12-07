@@ -59,7 +59,7 @@
         <mark key="." line="66" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/.bowerrc" timestamp="1512637417268" />
-      <file name="/Dummy.txt" timestamp="1512636941321">
+      <file name="/Dummy.txt" timestamp="1512638367136">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/pom.xml" timestamp="1512551848887">
@@ -80,7 +80,9 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/bower.json" timestamp="1512637085877" />
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/bower.json" timestamp="1512638348401">
+        <mark key="'" line="49" column="5" />
+      </file>
       <file name="/fragment.java" timestamp="1512630931457">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -88,11 +90,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="4" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/mapper/ProductLotteryRecordMapper.java" />
-      <jump line="70" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLotteryRecordService.java" />
-      <jump line="9" column="17" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/mapper/ProductBottleMapper.java" />
-      <jump line="63" column="21" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" />
-      <jump line="298" column="6" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStockVo.java" />
       <jump line="73" column="46" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" />
       <jump line="79" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" />
@@ -188,6 +185,11 @@
       <jump line="79" column="56" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/pom.xml" />
       <jump line="19" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" />
       <jump line="19" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" />
+      <jump line="26" column="28" filename="D:/Projects/nongtianquan/nongtianquan-front/master/bower.json" />
+      <jump line="43" column="5" filename="D:/Projects/nongtianquan/nongtianquan-front/master/bower.json" />
+      <jump line="44" column="5" filename="D:/Projects/nongtianquan/nongtianquan-front/master/bower.json" />
+      <jump line="46" column="5" filename="D:/Projects/nongtianquan/nongtianquan-front/master/bower.json" />
+      <jump line="49" column="5" filename="D:/Projects/nongtianquan/nongtianquan-front/master/bower.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -218,7 +220,7 @@
         <text>isDebugEnabled</text>
       </register>
       <register name="/" type="4">
-        <text>-SNAPSHOT</text>
+        <text>jquery</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -279,9 +281,9 @@
       </register>
     </registers>
     <search>
-      <last-search>-SNAPSHOT</last-search>
+      <last-search>jquery</last-search>
       <last-offset />
-      <last-pattern>-SNAPSHOT</last-pattern>
+      <last-pattern>jquery</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -289,7 +291,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZXN1bHRHZW5lcmF0b3JcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUJvdHRsZUluZm9cPg==</entry>
         <entry encoding="base64">XDx0cmlnZ2Vyc1w+</entry>
         <entry>lottery</entry>
@@ -309,6 +310,7 @@
         <entry>JWTU</entry>
         <entry>SNAPSHOT</entry>
         <entry>-SNAPSHOT</entry>
+        <entry>jquery</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
