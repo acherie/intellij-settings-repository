@@ -8,7 +8,9 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/Mapper.java" timestamp="1512625790130" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/package.json" timestamp="1512639993180" />
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/mapperhelper/MapperHelper.java" timestamp="1512625902667" />
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/gulpfile.js" timestamp="1512643372660" />
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/gulpfile.js" timestamp="1512648124131">
+        <mark key="'" line="143" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java" timestamp="1512632840463" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" timestamp="1512632819540">
         <mark key="[" line="66" column="0" />
@@ -64,7 +66,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStockVo.java" />
       <jump line="73" column="46" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" />
       <jump line="79" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" />
       <jump line="100" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductLotteryRecordMapper.xml" />
@@ -164,6 +165,7 @@
       <jump line="44" column="5" filename="D:/Projects/nongtianquan/nongtianquan-front/master/bower.json" />
       <jump line="46" column="5" filename="D:/Projects/nongtianquan/nongtianquan-front/master/bower.json" />
       <jump line="49" column="5" filename="D:/Projects/nongtianquan/nongtianquan-front/master/bower.json" />
+      <jump line="143" column="24" filename="D:/Projects/nongtianquan/nongtianquan-front/master/gulpfile.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -194,7 +196,7 @@
         <text>isDebugEnabled</text>
       </register>
       <register name="/" type="4">
-        <text>jquery</text>
+        <text>reload</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -255,9 +257,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jquery</last-search>
+      <last-search>reload</last-search>
       <last-offset />
-      <last-pattern>jquery</last-pattern>
+      <last-pattern>reload</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -265,7 +267,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lcmF0ZUJvdHRsZUluZm9cPg==</entry>
         <entry encoding="base64">XDx0cmlnZ2Vyc1w+</entry>
         <entry>lottery</entry>
         <entry encoding="base64">XDxsb3R0ZXJ5X2lkXD4=</entry>
@@ -285,6 +286,7 @@
         <entry>SNAPSHOT</entry>
         <entry>-SNAPSHOT</entry>
         <entry>jquery</entry>
+        <entry>reload</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
