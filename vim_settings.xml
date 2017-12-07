@@ -15,18 +15,6 @@
         <mark key="]" line="70" column="4" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1512632421904" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/pom.xml" timestamp="1512618985309">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" timestamp="1512627130444">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="69" column="5" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/resources/META-INF/spring-devtools.properties" timestamp="1512626455078">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="21" />
@@ -36,6 +24,7 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1512641418411" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/META-INF/spring-devtools.properties" timestamp="1512626464831" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/io/VFS.java" timestamp="1512632641492" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-center/pom.xml" timestamp="1512642631748" />
       <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0.pom" timestamp="1512618847485">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="44" />
@@ -49,21 +38,9 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/resources/application-production.properties" timestamp="1512631400194" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.java" timestamp="1512632875809" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" timestamp="1512627240127">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="70" column="5" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/.bowerrc" timestamp="1512637417268" />
       <file name="/Dummy.txt" timestamp="1512638367136">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/pom.xml" timestamp="1512551848887">
-        <mark key="'" line="88" column="16" />
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuFile.java" timestamp="1512530895973">
         <mark key="[" line="126" column="0" />
