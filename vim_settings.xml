@@ -43,13 +43,14 @@
         <mark key="." line="93" column="40" />
         <mark key="^" line="93" column="40" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java" timestamp="1512632840463" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-test.properties" timestamp="1512120123605">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="52" />
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" timestamp="1512627082234">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" timestamp="1512632819540">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="70" column="4" />
       </file>
@@ -59,6 +60,7 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="110" column="109" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1512632421904" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/pom.xml" timestamp="1512618985309">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="60" column="0" />
@@ -149,6 +151,7 @@
         <mark key="." line="69" column="9" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/META-INF/spring-devtools.properties" timestamp="1512626464831" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/io/VFS.java" timestamp="1512632641492" />
       <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0.pom" timestamp="1512618847485">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="44" />
@@ -173,6 +176,7 @@
         <mark key="." line="38" column="36" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/resources/application-production.properties" timestamp="1512631400194" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.java" timestamp="1512632875809" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLottery.java" timestamp="1512111920109">
         <mark key="[" line="37" column="37" />
         <mark key="]" line="37" column="36" />
