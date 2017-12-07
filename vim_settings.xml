@@ -65,12 +65,6 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/pom.xml" timestamp="1512618625620">
-        <mark key="'" line="43" column="26" />
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="43" column="26" />
-        <mark key="." line="43" column="26" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1512354576760">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="14" column="30" />
@@ -111,18 +105,6 @@
         <mark key="]" line="252" column="81" />
         <mark key="." line="252" column="81" />
         <mark key="^" line="252" column="81" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1512618594917">
-        <mark key="'" line="61" column="12" />
-        <mark key="[" line="79" column="26" />
-        <mark key="]" line="79" column="26" />
-        <mark key="." line="79" column="26" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/pom.xml" timestamp="1512618641567">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="46" column="26" />
-        <mark key="]" line="46" column="26" />
-        <mark key="." line="46" column="26" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialSearchController.java" timestamp="1512542531531">
         <mark key="[" line="168" column="34" />
@@ -167,13 +149,6 @@
         <mark key="." line="69" column="9" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/META-INF/spring-devtools.properties" timestamp="1512626464831" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/pom.xml" timestamp="1512618653403">
-        <mark key="'" line="79" column="56" />
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="48" column="26" />
-        <mark key="." line="48" column="26" />
-        <mark key="^" line="47" column="37" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0.pom" timestamp="1512618847485">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="44" />
@@ -197,6 +172,7 @@
         <mark key="^" line="38" column="36" />
         <mark key="." line="38" column="36" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/resources/application-production.properties" timestamp="1512631400194" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLottery.java" timestamp="1512111920109">
         <mark key="[" line="37" column="37" />
         <mark key="]" line="37" column="36" />
@@ -220,6 +196,9 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512631744256">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/ServerUtils.java" timestamp="1512541397671">
         <mark key="[" line="6" column="23" />
@@ -287,7 +266,7 @@
         <mark key="^" line="19" column="40" />
         <mark key="." line="19" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1512626430487">
+      <file name="/fragment.java" timestamp="1512630931457">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
