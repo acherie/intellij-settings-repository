@@ -6,21 +6,21 @@
     </globalmarks>
     <filemarks>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/Mapper.java" timestamp="1512625790130" />
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/app.init.js" timestamp="1512702007693">
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/app.init.js" timestamp="1512712986242">
         <mark key="[" line="22" column="56" />
         <mark key="]" line="22" column="57" />
         <mark key="." line="22" column="57" />
       </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/package.json" timestamp="1512639993180" />
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/mapperhelper/MapperHelper.java" timestamp="1512625902667" />
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/constants.js" timestamp="1512703950811">
-        <mark key="'" line="2" column="41" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/constants.js" timestamp="1512712277244">
+        <mark key="'" line="90" column="58" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
         <mark key="^" line="125" column="80" />
-        <mark key="." line="33" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/gulpfile.js" timestamp="1512703231363">
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/gulpfile.js" timestamp="1512712562494">
         <mark key="'" line="148" column="14" />
         <mark key="[" line="368" column="12" />
         <mark key="]" line="368" column="12" />
@@ -44,12 +44,12 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1512641418411" />
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/vendor.json" timestamp="1512704915180">
-        <mark key="'" line="20" column="20" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/vendor.json" timestamp="1512712466400">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="99" column="67" />
+        <mark key="]" line="99" column="67" />
         <mark key="^" line="76" column="45" />
-        <mark key="." line="24" column="0" />
+        <mark key="." line="99" column="67" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/META-INF/spring-devtools.properties" timestamp="1512626464831" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/io/VFS.java" timestamp="1512632641492" />
@@ -61,10 +61,10 @@
         <mark key="^" line="47" column="37" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-center/pom.xml" timestamp="1512642631748" />
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/config.js" timestamp="1512701711256">
-        <mark key="[" line="24" column="107" />
-        <mark key="]" line="24" column="107" />
-        <mark key="." line="24" column="107" />
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/config.js" timestamp="1512712492089">
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0.pom" timestamp="1512618847485">
         <mark key="[" line="33" column="21" />
@@ -74,7 +74,7 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/resources/application-production.properties" timestamp="1512631400194" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.java" timestamp="1512632875809" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/.bowerrc" timestamp="1512637417268" />
-      <file name="/Dummy.txt" timestamp="1512704915772">
+      <file name="/Dummy.txt" timestamp="1512712314722">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1512704791438">
@@ -98,8 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLotteryRecordService.java" />
-      <jump line="29" column="4" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLotteryRecord.java" />
       <jump line="1" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" />
       <jump line="29" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" />
       <jump line="139" column="48" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" />
@@ -198,13 +196,15 @@
       <jump line="43" column="31" filename="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/constants.js" />
       <jump line="2" column="41" filename="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/constants.js" />
       <jump line="20" column="20" filename="D:/Projects/nongtianquan/nongtianquan-front/master/vendor.json" />
+      <jump line="90" column="58" filename="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/constants.js" />
+      <jump line="54" column="0" filename="D:/Projects/nongtianquan/nongtianquan-front/master/vendor.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBCZWFuKCJzcWxTZXNzaW9uQmF0Y2giKQogICAgcHVibGljIFNxbFNlc3Npb25UZW1wbGF0ZSBzcWxTZXNzaW9uQmF0Y2goU3FsU2Vzc2lvbkZhY3Rvcnkgc3FsU2Vzc2lvbkZhY3RvcnkpIHsKCiAgICAgICAgcmV0dXJuIG5ldyBTcWxTZXNzaW9uVGVtcGxhdGUoc3FsU2Vzc2lvbkZhY3RvcnksIEV4ZWN1dG9yVHlwZS5CQVRDSCk7CiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -225,10 +225,10 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>// 标签</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>chosen</text>
+        <text>print</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -237,49 +237,49 @@
         <text encoding="base64">ICAgIGd1bHAud2F0Y2goc291cmNlLnN0eWxlcy50aGVtZXMud2F0Y2gsIFsnc3R5bGVzOnRoZW1lcyddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAiYm93ZXJfY29tcG9uZW50cy9wcmludC1hcmVhL2RlbW8vanF1ZXJ5LlByaW50QXJlYS5qcyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NsYXNzeWxvYWRlcic6IFsndmVuZG9yL2pxdWVyeS1jbGFzc3lsb2FkZXIvanMvanF1ZXJ5LmNsYXNzeWxvYWRlci5taW4uanMnXSwK</text>
+        <text encoding="base64">ICAgICJib3dlcl9jb21wb25lbnRzL2Nob3Nlbl92MS4yLjAvY2hvc2VuLmpxdWVyeS5taW4uanMiLAogICAgImJvd2VyX2NvbXBvbmVudHMvY2hvc2VuX3YxLjIuMC9jaG9zZW4ubWluLmNzcyIsCiAgICAiYm93ZXJfY29tcG9uZW50cy9jaG9zZW5fdjEuMi4wL2Nob3Nlbi1zcHJpdGUucG5nIiwKICAgICJib3dlcl9jb21wb25lbnRzL2Nob3Nlbl92MS4yLjAvY2hvc2VuLXNwcml0ZUAyeC5wbmciLAogICAgImJvd2VyX2NvbXBvbmVudHMvYW5ndWxhci1jaG9zZW4tbG9jYWx5dGljcy9jaG9zZW4uanMiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJib3dlcl9jb21wb25lbnRzL2pxdWVyeS1jbGFzc3lsb2FkZXIvanMvanF1ZXJ5LmNsYXNzeWxvYWRlci5taW4uanMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge25hbWU6ICdsb2NhbHl0aWNzLmRpcmVjdGl2ZXMnLCBmaWxlczogWyd2ZW5kb3IvY2hvc2VuX3YxLjIuMC9jaG9zZW4uanF1ZXJ5Lm1pbi5qcycsCiAgICAgICAgICAgICAgICAndmVuZG9yL2Nob3Nlbl92MS4yLjAvY2hvc2VuLm1pbi5jc3MnLAogICAgICAgICAgICAgICAgJ3ZlbmRvci9hbmd1bGFyLWNob3Nlbi1sb2NhbHl0aWNzL2Nob3Nlbi5qcyddfSwK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluOiBbJ2ltZyddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NsYXNzeWxvYWRlcic6IFsndmVuZG9yL2pxdWVyeS1jbGFzc3lsb2FkZXIvanMvanF1ZXJ5LmNsYXNzeWxvYWRlci5taW4uanMnXSwK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJib3dlcl9jb21wb25lbnRzL2pxdWVyeS1jbGFzc3lsb2FkZXIvanMvanF1ZXJ5LmNsYXNzeWxvYWRlci5taW4uanMiLAo=</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xvYWRHb29nbGVNYXBzSlMnOiBbJ2FwcC92ZW5kb3IvZ21hcC9sb2FkLWdvb2dsZS1tYXBzLmpzJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluOiBbJ2ltZyddCg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGF0YWJsZXMnOiBbJ3ZlbmRvci9kYXRhdGFibGVzL21lZGlhL2pzL2pxdWVyeS5kYXRhVGFibGVzLm1pbi5qcycsCiAgICAgICAgICAgICAgICAnYXBwL3ZlbmRvci9kYXRhdGFibGUtYm9vdHN0cmFwL2Nzcy9kYXRhVGFibGVzLmJvb3RzdHJhcC5jc3MnXSwKICAgICAgICAgICAgJ2RhdGF0YWJsZXMtcHVnaW5zJzogWydhcHAvdmVuZG9yL2RhdGF0YWJsZS1ib290c3RyYXAvanMvZGF0YVRhYmxlcy5ib290c3RyYXAuanMnLAogICAgICAgICAgICAgICAgJ2FwcC92ZW5kb3IvZGF0YXRhYmxlLWJvb3RzdHJhcC9qcy9kYXRhVGFibGVzLmJvb3RzdHJhcFBhZ2luYXRpb24uanMnLAogICAgICAgICAgICAgICAgJ3ZlbmRvci9kYXRhdGFibGVzLWNvbHZpcy9qcy9kYXRhVGFibGVzLmNvbFZpcy5qcycsCiAgICAgICAgICAgICAgICAndmVuZG9yL2RhdGF0YWJsZXMtY29sdmlzL2Nzcy9kYXRhVGFibGVzLmNvbFZpcy5jc3MnXSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NwYXJrbGluZXMnOiBbJ2FwcC92ZW5kb3Ivc3BhcmtsaW5lcy9qcXVlcnkuc3BhcmtsaW5lLm1pbi5qcyddLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -289,9 +289,9 @@
       </register>
     </registers>
     <search>
-      <last-search>chosen</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>chosen</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -299,8 +299,6 @@
     </search>
     <history>
       <history-search>
-        <entry>guava</entry>
-        <entry>swagger</entry>
         <entry encoding="base64">XDxndWF2YVw+</entry>
         <entry>fastjson</entry>
         <entry>apache</entry>
@@ -319,6 +317,8 @@
         <entry>datatable</entry>
         <entry>app</entry>
         <entry>chosen</entry>
+        <entry encoding="base64">XDxQcmludEFyZWFcPg==</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
