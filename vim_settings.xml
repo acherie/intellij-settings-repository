@@ -5,7 +5,25 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/Mapper.java" timestamp="1512625790130" />
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/vendor.json" timestamp="1512712466400">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="99" column="67" />
+        <mark key="]" line="99" column="67" />
+        <mark key="^" line="76" column="45" />
+        <mark key="." line="99" column="67" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/pom.xml" timestamp="1512618653403">
+        <mark key="'" line="79" column="56" />
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="26" />
+        <mark key="^" line="47" column="37" />
+      </file>
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/config.js" timestamp="1512712492089">
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+      </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/app.init.js" timestamp="1512726877723">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -17,7 +35,12 @@
         <mark key="." line="37" column="64" />
         <mark key="^" line="37" column="64" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/mapperhelper/MapperHelper.java" timestamp="1512625902667" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/BeforeRequestLoggingFilter.java" timestamp="1512627806318">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+      </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/constants.js" timestamp="1512714085541">
         <mark key="'" line="82" column="58" />
         <mark key="[" line="100" column="0" />
@@ -31,14 +54,31 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="363" column="57" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java" timestamp="1512632840463" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1512632421904" />
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1512954935247" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" timestamp="1512627105088">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="70" column="4" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/app/js/app.js" timestamp="1512718447244" />
+      <file name="/Dummy.txt" timestamp="1512726880064">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/.gitignore" timestamp="1512720154916">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1512958911968">
+        <mark key="[" line="104" column="45" />
+        <mark key="]" line="104" column="45" />
+        <mark key="." line="104" column="45" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuFile.java" timestamp="1512530895973">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductComposition.java" timestamp="1512704802025">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -50,60 +90,6 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1512641418411" />
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/vendor.json" timestamp="1512712466400">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="99" column="67" />
-        <mark key="]" line="99" column="67" />
-        <mark key="^" line="76" column="45" />
-        <mark key="." line="99" column="67" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/META-INF/spring-devtools.properties" timestamp="1512626464831" />
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/io/VFS.java" timestamp="1512632641492" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/pom.xml" timestamp="1512618653403">
-        <mark key="'" line="79" column="56" />
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="48" column="26" />
-        <mark key="." line="48" column="26" />
-        <mark key="^" line="47" column="37" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-center/pom.xml" timestamp="1512642631748" />
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/config.js" timestamp="1512712492089">
-        <mark key="[" line="35" column="35" />
-        <mark key="]" line="35" column="35" />
-        <mark key="." line="35" column="35" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0-sources.jar!/com/dakun/jianzhong/utils/AbstractService.java" timestamp="1512627069557" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/BeforeRequestLoggingFilter.java" timestamp="1512627806318">
-        <mark key="[" line="38" column="22" />
-        <mark key="]" line="38" column="36" />
-        <mark key="^" line="38" column="36" />
-        <mark key="." line="38" column="36" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/resources/application-production.properties" timestamp="1512631400194" />
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.java" timestamp="1512632875809" />
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/.bowerrc" timestamp="1512637417268" />
-      <file name="/Dummy.txt" timestamp="1512726880064">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/.gitignore" timestamp="1512720154916">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/index.html" timestamp="1512714154872" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1512704791438">
-        <mark key="[" line="104" column="45" />
-        <mark key="]" line="104" column="45" />
-        <mark key="." line="104" column="45" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuFile.java" timestamp="1512530895973">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountAddressService.java" timestamp="1512627056685" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PerformancePostFilter.java" timestamp="1512627659998">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="28" column="36" />
@@ -318,7 +304,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
