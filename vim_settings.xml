@@ -74,6 +74,7 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.3/jpush-client-3.3.3-sources.jar!/cn/jpush/api/JPushClient.java" timestamp="1513067592018" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1512984777376">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="39" />
@@ -96,21 +97,24 @@
       <file name="/Dummy.txt" timestamp="1513050798319">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1512977969017">
-        <mark key="'" line="111" column="12" />
-      </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/.gitignore" timestamp="1512720154916">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="7" column="21" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/JPushService.java" timestamp="1513067224772">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1512958911968">
         <mark key="[" line="104" column="45" />
         <mark key="]" line="104" column="45" />
         <mark key="." line="104" column="45" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/push/Jpush.java" timestamp="1513062969798" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/push/Jpush.java" timestamp="1513066836196" />
       <file name="D:/Projects/nongtianquan/code-generator/src/main/java/generator/engine/impl/controller/ControllerBaseEngine.java" timestamp="1513049613462" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuFile.java" timestamp="1512530895973">
         <mark key="[" line="126" column="0" />
@@ -128,10 +132,6 @@
         <mark key="]" line="87" column="66" />
         <mark key="." line="87" column="66" />
         <mark key="^" line="87" column="66" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductProduceInfo.java" timestamp="1512982311194">
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="39" column="27" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1512998322234">
         <mark key="'" line="231" column="78" />
@@ -156,9 +156,6 @@
         <mark key="]" line="28" column="36" />
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
-      </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/bower.json" timestamp="1512698732442">
-        <mark key="'" line="49" column="5" />
       </file>
       <file name="/fragment.java" timestamp="1512630931457">
         <mark key="[" line="0" column="0" />
