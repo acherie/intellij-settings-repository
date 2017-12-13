@@ -30,6 +30,7 @@
         <mark key="]" line="270" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/ClientConfig.java" timestamp="1513069271372" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1513147262735" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1512984777376">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="39" />
@@ -43,7 +44,7 @@
         <mark key="." line="173" column="20" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleCommentController.java" timestamp="1513049807938" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/JPushService.java" timestamp="1513135903256">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/JPushService.java" timestamp="1513145744676">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="75" column="15" />
         <mark key="^" line="75" column="15" />
@@ -65,6 +66,11 @@
         <mark key="^" line="2" column="21" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" timestamp="1513133011611" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountUserService.java" timestamp="1513147627252">
+        <mark key="[" line="135" column="51" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/code-generator/src/main/java/generator/parameter/SystemParameters.java" timestamp="1513049717496">
         <mark key="[" line="7" column="46" />
         <mark key="]" line="7" column="106" />
@@ -86,9 +92,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.3/jpush-client-3.3.3-sources.jar!/cn/jpush/api/push/model/notification/InterfaceAdapter.java" timestamp="1513071104694" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.java" timestamp="1513068017068" />
-      <file name="/RegExp Fragment (ProductReportController.java:9098).regexp" timestamp="1512983694539">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Projects/nongtianquan/code-generator/.gitignore" timestamp="1513050792203">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="9" column="6" />
@@ -96,9 +99,7 @@
         <mark key="." line="9" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" timestamp="1513063054326" />
-      <file name="/Dummy.txt" timestamp="1513050798319">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/mapper/AccountUserMapper.xml" timestamp="1513146283474" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" timestamp="1513131285255" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/.gitignore" timestamp="1512720154916">
         <mark key="[" line="4" column="0" />
@@ -226,7 +227,7 @@
         <text encoding="base64">ICAgIEBCZWFuKCJzcWxTZXNzaW9uQmF0Y2giKQogICAgcHVibGljIFNxbFNlc3Npb25UZW1wbGF0ZSBzcWxTZXNzaW9uQmF0Y2goU3FsU2Vzc2lvbkZhY3Rvcnkgc3FsU2Vzc2lvbkZhY3RvcnkpIHsKCiAgICAgICAgcmV0dXJuIG5ldyBTcWxTZXNzaW9uVGVtcGxhdGUoc3FsU2Vzc2lvbkZhY3RvcnksIEV4ZWN1dG9yVHlwZS5CQVRDSCk7CiAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKE1lc3NhZ2UuY29udGVudChhbGVydCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -247,7 +248,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>registrationId</text>
+        <text>userLogin</text>
       </register>
       <register name="/" type="4">
         <text>jpush</text>
@@ -259,13 +260,13 @@
         <text>sendNotificationAll</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKE1lc3NhZ2UuY29udGVudChhbGVydCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKE1lc3NhZ2UuY29udGVudChhbGVydCkpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
@@ -274,10 +275,10 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
@@ -289,19 +290,19 @@
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShqUHVzaFByb3BlcnRpZXMuZ2V0QXBwS2V5KCkpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShqUHVzaFByb3BlcnRpZXMuZ2V0QXBwS2V5KCkpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
