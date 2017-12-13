@@ -6,6 +6,7 @@
     </globalmarks>
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.3/jpush-client-3.3.3-sources.jar!/cn/jpush/api/push/model/PushPayload.java" timestamp="1513069785430" />
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/resp/BaseResult.java" timestamp="1513150409984" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/package.json" timestamp="1512723560209">
         <mark key="[" line="37" column="60" />
         <mark key="]" line="37" column="64" />
@@ -32,12 +33,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java" timestamp="1513068399189" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java" timestamp="1513068007701" />
-      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.3/jpush-client-3.3.3-sources.jar!/cn/jpush/api/JPushClient.java" timestamp="1513149272034">
-        <mark key="[" line="846" column="67" />
-        <mark key="]" line="846" column="104" />
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.3/jpush-client-3.3.3-sources.jar!/cn/jpush/api/JPushClient.java" timestamp="1513150613996">
+        <mark key="[" line="851" column="0" />
+        <mark key="]" line="855" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/ClientConfig.java" timestamp="1513069271372" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1513148125597">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1513151256345">
         <mark key="[" line="187" column="0" />
         <mark key="]" line="188" column="94" />
       </file>
@@ -54,11 +55,11 @@
         <mark key="." line="173" column="20" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleCommentController.java" timestamp="1513049807938" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/JPushService.java" timestamp="1513149625441">
-        <mark key="[" line="101" column="45" />
-        <mark key="]" line="101" column="43" />
-        <mark key="^" line="101" column="43" />
-        <mark key="." line="101" column="43" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/JPushService.java" timestamp="1513151234481">
+        <mark key="[" line="114" column="38" />
+        <mark key="]" line="114" column="52" />
+        <mark key="." line="114" column="52" />
+        <mark key="^" line="114" column="52" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountUser.java" timestamp="1513147822927">
         <mark key="'" line="10" column="13" />
@@ -160,6 +161,7 @@
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/resp/ResponseWrapper.java" timestamp="1513150578187" />
     </filemarks>
     <jumps>
       <jump line="47" column="30" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLotteryRecord.java" />
@@ -267,8 +269,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBCZWFuKCJzcWxTZXNzaW9uQmF0Y2giKQogICAgcHVibGljIFNxbFNlc3Npb25UZW1wbGF0ZSBzcWxTZXNzaW9uQmF0Y2goU3FsU2Vzc2lvbkZhY3Rvcnkgc3FsU2Vzc2lvbkZhY3RvcnkpIHsKCiAgICAgICAgcmV0dXJuIG5ldyBTcWxTZXNzaW9uVGVtcGxhdGUoc3FsU2Vzc2lvbkZhY3RvcnksIEV4ZWN1dG9yVHlwZS5CQVRDSCk7CiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>(&quot;&quot;)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -289,7 +291,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>(&quot;&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>jpush</text>
@@ -297,47 +299,47 @@
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
       </register>
-      <register name="0" type="4">
-        <text>, boolean clearAlias, boolean clearTag</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBEZWZhdWx0UmVzdWx0IHVwZGF0ZURldmljZVRhZ0FsaWFzKFN0cmluZyByZWdpc3RyYXRpb25JZCwgU3RyaW5nIGFsaWFzLCAgCiAgICAgICAgICAgIAlTZXQ8U3RyaW5nPiB0YWdzVG9BZGQsIFNldDxTdHJpbmc+IHRhZ3NUb1JlbW92ZSkKICAgICAgICAgICAgdGhyb3dzIEFQSUNvbm5lY3Rpb25FeGNlcHRpb24sIEFQSVJlcXVlc3RFeGNlcHRpb24gewogICAgCXJldHVybiBfZGV2aWNlQ2xpZW50LnVwZGF0ZURldmljZVRhZ0FsaWFzKHJlZ2lzdHJhdGlvbklkLCBhbGlhcywgdGFnc1RvQWRkLCB0YWdzVG9SZW1vdmUpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LCBTdHJpbmcgYWxpYXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTZXQ8U3RyaW5nPiB0YWdzVG9BZGQsIFNldDxTdHJpbmc+IHRhZ3NUb1JlbW92ZQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKE1lc3NhZ2UuY29udGVudChhbGVydCkpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gX2RldmljZUNsaWVudC51cGRhdGVEZXZpY2VUYWdBbGlhcyhyZWdpc3RyYXRpb25JZCwgYWxpYXMsIHRhZ3NUb0FkZCwgdGFnc1RvUmVtb3ZlKTsK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEZWZhdWx0UmVzdWx0IAo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
