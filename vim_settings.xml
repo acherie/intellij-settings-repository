@@ -81,7 +81,7 @@
         <mark key="." line="15" column="48" />
       </file>
       <file name="D:/Projects/nongtianquan/code-generator/src/main/java/generator/engine/impl/controller/ControllerBaseEngine.java" timestamp="1513049613462" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" timestamp="1513065941223" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" timestamp="1513155858852" />
       <file name="D:/Projects/nongtianquan/code-generator/src/main/java/generator/parameter/UserParameters.java" timestamp="1513049864479">
         <mark key="[" line="87" column="60" />
         <mark key="]" line="87" column="66" />
@@ -97,11 +97,12 @@
         <mark key="^" line="2" column="21" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" timestamp="1513133011611" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountUserService.java" timestamp="1513154315463">
-        <mark key="'" line="155" column="37" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountUserService.java" timestamp="1513155675212">
+        <mark key="'" line="159" column="37" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="142" column="56" />
+        <mark key="." line="142" column="56" />
+        <mark key="^" line="142" column="56" />
       </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/vendor.json" timestamp="1512712466400">
         <mark key="'" line="54" column="0" />
@@ -145,6 +146,9 @@
         <mark key="." line="9" column="6" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" timestamp="1513063054326" />
+      <file name="/Dummy.txt" timestamp="1513155587791">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/mapper/AccountUserMapper.xml" timestamp="1513146283474" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" timestamp="1513131285255" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/.gitignore" timestamp="1512720154916">
