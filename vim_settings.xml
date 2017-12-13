@@ -21,7 +21,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java" timestamp="1513068399189" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java" timestamp="1513068007701" />
-      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.3/jpush-client-3.3.3-sources.jar!/cn/jpush/api/JPushClient.java" timestamp="1513067592018" />
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.3/jpush-client-3.3.3-sources.jar!/cn/jpush/api/JPushClient.java" timestamp="1513133362400" />
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/ClientConfig.java" timestamp="1513069271372" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1512984777376">
         <mark key="[" line="7" column="12" />
@@ -57,7 +57,7 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" timestamp="1513131451649" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" timestamp="1513133011611" />
       <file name="D:/Projects/nongtianquan/code-generator/src/main/java/generator/parameter/SystemParameters.java" timestamp="1513049717496">
         <mark key="[" line="7" column="46" />
         <mark key="]" line="7" column="106" />
