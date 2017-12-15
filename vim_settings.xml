@@ -36,6 +36,7 @@
         <mark key="." line="37" column="64" />
         <mark key="^" line="37" column="64" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0-sources.jar!/com/dakun/jianzhong/utils/AbstractService.java" timestamp="1513318553037" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/application.properties" timestamp="1513158820644">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="43" />
@@ -54,11 +55,11 @@
         <mark key="^" line="38" column="36" />
         <mark key="." line="38" column="36" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountSystemMessage.java" timestamp="1513317313925">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="34" column="33" />
-        <mark key="." line="34" column="33" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountSystemMessage.java" timestamp="1513319027483">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
         <mark key="^" line="34" column="33" />
       </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/constants.js" timestamp="1512714085541">
@@ -75,6 +76,7 @@
         <mark key="." line="40" column="46" />
         <mark key="^" line="40" column="46" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0-sources.jar!/com/dakun/jianzhong/utils/ReplaceProvider.java" timestamp="1513318641622" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/gulpfile.js" timestamp="1512718518734">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
@@ -87,6 +89,7 @@
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0-sources.jar!/com/dakun/jianzhong/utils/Mapper.java" timestamp="1513318560261" />
       <file name="D:/Projects/nongtianquan/code-generator/.gitignore" timestamp="1513050792203">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="9" column="6" />
@@ -105,12 +108,11 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1513214230270" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/pom.xml" timestamp="1513063673178">
-        <mark key="[" line="161" column="21" />
-        <mark key="]" line="173" column="20" />
-        <mark key="^" line="173" column="20" />
-        <mark key="." line="173" column="20" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/pom.xml" timestamp="1513318863324">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="178" column="20" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1513155587791">
         <mark key="[" line="0" column="0" />
@@ -142,6 +144,11 @@
         <mark key="^" line="18" column="8" />
         <mark key="." line="18" column="8" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1513318814945">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="220" column="20" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountSystemMessageService.java" timestamp="1513307137665">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="35" column="36" />
@@ -156,12 +163,12 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" timestamp="1513302295412">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" timestamp="1513318774863">
         <mark key="'" line="407" column="20" />
-        <mark key="[" line="374" column="0" />
-        <mark key="]" line="376" column="17" />
-        <mark key="." line="376" column="17" />
-        <mark key="^" line="376" column="17" />
+        <mark key="[" line="414" column="73" />
+        <mark key="]" line="415" column="23" />
+        <mark key="." line="415" column="23" />
+        <mark key="^" line="415" column="23" />
       </file>
       <file name="D:/Projects/nongtianquan/code-generator/src/main/java/generator/parameter/UserParameters.java" timestamp="1513234372352">
         <mark key="[" line="25" column="83" />
@@ -204,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="69" filename="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/ServerUtils.java" />
       <jump line="81" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
       <jump line="61" column="12" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
       <jump line="13" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/pom.xml" />
@@ -304,13 +310,14 @@
       <jump line="30" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountSystemMessageController.java" />
       <jump line="111" column="3" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountSystemMessageController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountSystemMessageController.java" />
+      <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBCZWFuKCJzcWxTZXNzaW9uQmF0Y2giKQogICAgcHVibGljIFNxbFNlc3Npb25UZW1wbGF0ZSBzcWxTZXNzaW9uQmF0Y2goU3FsU2Vzc2lvbkZhY3Rvcnkgc3FsU2Vzc2lvbkZhY3RvcnkpIHsKCiAgICAgICAgcmV0dXJuIG5ldyBTcWxTZXNzaW9uVGVtcGxhdGUoc3FsU2Vzc2lvbkZhY3RvcnksIEV4ZWN1dG9yVHlwZS5CQVRDSCk7CiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Transactional</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBSYW5nZShtaW4gPSAwLCBtYXggPSA1LCBtZXNzYWdlID0gIr3TytXIy7LOyv207c7zIikK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -334,60 +341,58 @@
         <text>Transactional</text>
       </register>
       <register name="/" type="4">
-        <text>ServiceExc</text>
+        <text>dev</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExpc3Q8QWNjb3VudFVzZXI+PiBwYXJ0aXRpb24gPSBMaXN0cy5wYXJ0aXRpb24odXNlcnMsIDEwMDApOwoKICAgICAgICBzYXZlUGFydGl0aW9uKGFsZXJ0LCBwdXNoSWQsIHBhcnRpdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1kZXZ0b29sczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBSYW5nZShtaW4gPSAwLCBtYXggPSA1LCBtZXNzYWdlID0gIr3TytXIy7LOyv207c7zIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiLyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VzLmFkZChtc2cpOwogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0PFN0cmluZz4gdXNlcklkc1NldCA9IFNldHMubmV3SGFzaFNldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxBY2NvdW50TWVzc2FnZT4gbWVzc2FnZXMgPSBMaXN0cy5uZXdBcnJheUxpc3QoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSA7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHRoaXMuc2F2ZShtZXNzYWdlcyk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>else if (AccountSystemMessage.TYPE_DEALER == type) {
-            
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiLyIpCg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSlB1c2hTZXJ2aWNlIGpQdXNoU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0PFN0cmluZz4gdXNlcklkc1NldCA9IFNldHMubmV3SGFzaFNldCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -397,9 +402,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ServiceExc</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>ServiceExc</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +412,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jquery</entry>
         <entry>reload</entry>
         <entry>file-uplo</entry>
         <entry>file-upload</entry>
@@ -427,6 +431,7 @@
         <entry>jpush</entry>
         <entry encoding="base64">XDxTdHJpbmdVdGlsc1w+</entry>
         <entry>ServiceExc</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
