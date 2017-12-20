@@ -70,10 +70,10 @@
         <mark key="^" line="80" column="87" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/model/vo/SocialExampleVo.java" timestamp="1513666074448" />
-      <file name="/Dummy.txt" timestamp="1513735846991">
+      <file name="/Dummy.txt" timestamp="1513739650091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountMessage.java" timestamp="1513674201110" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountMessage.java" timestamp="1513739367417" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountSystemMessageService.java" timestamp="1513589567489">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="108" column="74" />
@@ -85,6 +85,7 @@
         <mark key="'" line="1" column="0" />
         <mark key="[" line="139" column="5" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/mapper/AccountMessageMapper.xml" timestamp="1513739385899" />
     </filemarks>
     <jumps>
       <jump line="41" column="39" filename="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/constants.js" />
