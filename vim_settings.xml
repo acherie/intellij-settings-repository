@@ -44,7 +44,7 @@
       <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/utils/UserLogUtils.java" timestamp="1513741869766" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/TimedSupervisorTask.java" timestamp="1513569415304" />
       <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/service/UserStatusHistoryService.java" timestamp="1513741919026" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialExampleService.java" timestamp="1513666097178">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialExampleService.java" timestamp="1513758503509">
         <mark key="'" line="52" column="13" />
         <mark key="[" line="88" column="0" />
       </file>
@@ -53,6 +53,11 @@
         <mark key="]" line="91" column="5" />
         <mark key="." line="91" column="5" />
         <mark key="^" line="91" column="5" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialAuditHistoryService.java" timestamp="1513758176040">
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/SocialExampleService.java" timestamp="1513665677442">
         <mark key="'" line="46" column="0" />
