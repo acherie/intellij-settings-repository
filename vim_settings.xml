@@ -63,11 +63,6 @@
         <mark key="." line="91" column="5" />
         <mark key="^" line="91" column="5" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialAuditHistoryService.java" timestamp="1513759669154">
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleController.java" timestamp="1513838610046">
         <mark key="'" line="200" column="8" />
         <mark key="[" line="35" column="3" />
@@ -162,6 +157,7 @@
       <file name="/Dummy.txt" timestamp="1513837887815">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1513843597187" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/.gitignore" timestamp="1512720154916">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
