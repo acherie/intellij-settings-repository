@@ -5,7 +5,25 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountMessageController.java" timestamp="1513755801372" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/model/SocialAuditHistory.java" timestamp="1513762020287">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="9" column="44" />
+        <mark key="^" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/pom.xml" timestamp="1513835573896">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="105" column="23" />
+        <mark key="]" line="105" column="25" />
+        <mark key="." line="105" column="25" />
+        <mark key="^" line="105" column="25" />
+      </file>
+      <file name="D:/Projects/nongtianquan/code-generator/src/main/java/generator/parameter/SystemParameters.java" timestamp="1513754803932">
+        <mark key="[" line="7" column="93" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialArticleService.java" timestamp="1513825323195">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="166" column="0" />
@@ -16,10 +34,11 @@
       <file name="/a.dummy" timestamp="1513239356766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/config/SwaggerConfigurator.java" timestamp="1513828126522">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/config/SwaggerConfigurator.java" timestamp="1513836016031">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
       </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/package.json" timestamp="1512723560209">
         <mark key="[" line="37" column="60" />
@@ -33,12 +52,36 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="11" column="19" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/config/JPushConfiturator.java" timestamp="1513238631723">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="22" column="52" />
+        <mark key="^" line="22" column="52" />
+        <mark key="." line="22" column="52" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/constant/AuditState.java" timestamp="1513761475676">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="58" />
+        <mark key="." line="9" column="58" />
+        <mark key="^" line="9" column="58" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/resources/mapper/SocialExampleMapper.xml" timestamp="1513759642427">
+        <mark key="[" line="68" column="49" />
+        <mark key="]" line="68" column="49" />
+        <mark key="^" line="63" column="24" />
+        <mark key="." line="68" column="49" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountSystemMessage.java" timestamp="1513672264694">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="34" column="33" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/BeforeRequestLoggingFilter.java" timestamp="1512627806318">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+        <mark key="." line="38" column="36" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/resources/mapper/SocialExampleTagMapper.xml" timestamp="1513666270006">
         <mark key="'" line="13" column="0" />
@@ -47,11 +90,30 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="21" column="3" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountSystemMessageController.java" timestamp="1513756734539">
+        <mark key="'" line="60" column="49" />
+        <mark key="[" line="114" column="86" />
+        <mark key="]" line="114" column="103" />
+        <mark key="." line="114" column="103" />
+        <mark key="^" line="114" column="103" />
+      </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/gulpfile.js" timestamp="1512718518734">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
         <mark key="^" line="363" column="57" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/push/exception/JPushException.java" timestamp="1513242590038">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="27" column="24" />
+        <mark key="^" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+      </file>
+      <file name="D:/Projects/nongtianquan/code-generator/.gitignore" timestamp="1513050792203">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+        <mark key="." line="9" column="6" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1513759410897">
         <mark key="[" line="162" column="5" />
@@ -65,9 +127,32 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/utils/UserLogUtils.java" timestamp="1513741869766" />
-      <file name="$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12-sources.jar!/com/netflix/discovery/TimedSupervisorTask.java" timestamp="1513569415304" />
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/service/UserStatusHistoryService.java" timestamp="1513741919026" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/client/AccountUserService.java" timestamp="1513821301890">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+      </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1513835718771" />
+      <file name="/Dummy.txt" timestamp="1513756770947">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/.gitignore" timestamp="1512720154916">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/social-service.iml" timestamp="1513835528847">
+        <mark key="'" line="47" column="44" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountSystemMessageService.java" timestamp="1513589567489">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="108" column="74" />
+        <mark key="]" line="108" column="88" />
+        <mark key="." line="108" column="88" />
+        <mark key="^" line="108" column="88" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialExampleService.java" timestamp="1513824957788">
         <mark key="'" line="149" column="8" />
         <mark key="[" line="149" column="0" />
@@ -105,105 +190,6 @@
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1513562546073">
-        <mark key="[" line="193" column="58" />
-        <mark key="]" line="193" column="63" />
-        <mark key="." line="193" column="63" />
-        <mark key="^" line="193" column="63" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/model/SocialExample.java" timestamp="1513761313908">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger2/2.6.1/springfox-swagger2-2.6.1-sources.jar!/springfox/documentation/swagger2/web/Swagger2Controller.java" timestamp="1513828241694" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/model/SocialAuditHistory.java" timestamp="1513762020287">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="9" column="44" />
-        <mark key="^" line="9" column="44" />
-        <mark key="." line="9" column="44" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/pom.xml" timestamp="1513828774939">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="105" column="23" />
-        <mark key="]" line="105" column="25" />
-        <mark key="." line="105" column="25" />
-        <mark key="^" line="105" column="25" />
-      </file>
-      <file name="D:/Projects/nongtianquan/code-generator/src/main/java/generator/parameter/SystemParameters.java" timestamp="1513754803932">
-        <mark key="[" line="7" column="93" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/config/JPushConfiturator.java" timestamp="1513238631723">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="22" column="52" />
-        <mark key="^" line="22" column="52" />
-        <mark key="." line="22" column="52" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/constant/AuditState.java" timestamp="1513761475676">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="58" />
-        <mark key="." line="9" column="58" />
-        <mark key="^" line="9" column="58" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/resources/mapper/SocialExampleMapper.xml" timestamp="1513759642427">
-        <mark key="[" line="68" column="49" />
-        <mark key="]" line="68" column="49" />
-        <mark key="^" line="63" column="24" />
-        <mark key="." line="68" column="49" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/BeforeRequestLoggingFilter.java" timestamp="1512627806318">
-        <mark key="[" line="38" column="22" />
-        <mark key="]" line="38" column="36" />
-        <mark key="^" line="38" column="36" />
-        <mark key="." line="38" column="36" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountSystemMessageController.java" timestamp="1513756734539">
-        <mark key="'" line="60" column="49" />
-        <mark key="[" line="114" column="86" />
-        <mark key="]" line="114" column="103" />
-        <mark key="." line="114" column="103" />
-        <mark key="^" line="114" column="103" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/push/exception/JPushException.java" timestamp="1513242590038">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="27" column="24" />
-        <mark key="^" line="27" column="24" />
-        <mark key="." line="27" column="24" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/model/vo/SocialExampleVo.java" timestamp="1513759578820" />
-      <file name="D:/Projects/nongtianquan/code-generator/.gitignore" timestamp="1513050792203">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="9" column="6" />
-        <mark key="^" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/client/AccountUserService.java" timestamp="1513821301890">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="28" column="19" />
-        <mark key="." line="28" column="19" />
-        <mark key="^" line="28" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513756770947">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger2/2.6.1/springfox-swagger2-2.6.1-sources.jar!/springfox/documentation/swagger2/annotations/EnableSwagger2.java" timestamp="1513828673383" />
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/.gitignore" timestamp="1512720154916">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountMessage.java" timestamp="1513739367417" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountSystemMessageService.java" timestamp="1513589567489">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="108" column="74" />
-        <mark key="]" line="108" column="88" />
-        <mark key="." line="108" column="88" />
-        <mark key="^" line="108" column="88" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialExampleController.java" timestamp="1513824295888">
         <mark key="'" line="46" column="13" />
         <mark key="[" line="176" column="43" />
@@ -211,13 +197,18 @@
         <mark key="^" line="178" column="55" />
         <mark key="." line="178" column="55" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1513562546073">
+        <mark key="[" line="193" column="58" />
+        <mark key="]" line="193" column="63" />
+        <mark key="." line="193" column="63" />
+        <mark key="^" line="193" column="63" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PerformancePostFilter.java" timestamp="1512627659998">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="28" column="36" />
         <mark key="." line="28" column="36" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/mapper/AccountMessageMapper.xml" timestamp="1513739385899" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/query/AccountMessageQuery.java" timestamp="1513327684096">
         <mark key="[" line="13" column="39" />
         <mark key="]" line="14" column="33" />
@@ -227,10 +218,13 @@
       <file name="/fragment.java" timestamp="1513820417521">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/utils/LogUtils.java" timestamp="1513742062469" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/model/SocialExample.java" timestamp="1513761313908">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="4" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/JPushService.java" />
       <jump line="12" column="6" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountSystemMessageService.java" />
       <jump line="30" column="64" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountSystemMessageService.java" />
       <jump line="268" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
@@ -330,13 +324,14 @@
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialArticleService.java" />
       <jump line="193" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/pom.xml" />
+      <jump line="47" column="44" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/social-service.iml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIs/7z6IiKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.6.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -360,7 +355,7 @@
         <text>.6.1</text>
       </register>
       <register name="/" type="4">
-        <text>fox</text>
+        <text>springfox</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -369,25 +364,25 @@
         <text encoding="base64">ICAgIHB1YmxpYyBTb2NpYWxFeGFtcGxlIGF1ZGl0KFNvY2lhbEF1ZGl0Vm8gYXVkaXRWbykgewoKICAgICAgICBpZiAoT2JqZWN0cy5pc051bGwoYXVkaXRWbykpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQoKICAgICAgICBJbnRlZ2VyIGV4YW1wbGVJZCA9IGF1ZGl0Vm8uZ2V0U29jaWFsSWQoKTsKICAgICAgICBTb2NpYWxFeGFtcGxlIGV4YW1wbGUgPSB0aGlzLmdldChleGFtcGxlSWQpOwoKICAgICAgICBpZiAoQXVkaXRTdGF0ZS5ORVcudmFsdWUgIT0gZXhhbXBsZS5nZXRTdGF0ZSgpKSB7CiAgICAgICAgICAgIGxvZ2dlci53YXJuKCJhdWRpdCAtPiDKvre2yfO6y6Osyr63tte0zKxbe31dsrvKx9DCvajXtMysW3t9XSIsIGV4YW1wbGUuZ2V0U3RhdGUoKSwgQXVkaXRTdGF0ZS5ORVcudmFsdWUpOwogICAgICAgICAgICB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbigiyr63tte0zKzS0bjEseSjrMnzusvKp7DcIik7CiAgICAgICAgfQogICAgICAgIEludGVnZXIgbmV3U3RhdGUgPSBhdWRpdFZvLmlzUGFzcygpID8gQXVkaXRTdGF0ZS5BQ0NFUFRFRC52YWx1ZSA6IEF1ZGl0U3RhdGUuUkVKRUNURUQudmFsdWU7CgogICAgICAgIFNvY2lhbEF1ZGl0SGlzdG9yeSBhdWRpdEhpc3RvcnkgPSBuZXcgU29jaWFsQXVkaXRIaXN0b3J5KCk7CgogICAgICAgIFN0cmluZyB1c2VybmFtZSA9IGFjY291bnRVc2VyU2VydmljZS5nZXRVc2VybmFtZUJ5SWQoYXVkaXRWby5nZXRVc2VySWQoKSk7CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzRW1wdHkodXNlcm5hbWUpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBTZXJ2aWNlRXhjZXB0aW9uKCK1x8K808O7p8601dK1vSIpOwogICAgICAgIH0KCiAgICAgICAgZXhhbXBsZS5zZXRTdGF0ZShuZXdTdGF0ZSk7CiAgICAgICAgdGhpcy51cGRhdGUoZXhhbXBsZSk7CgogICAgICAgIGF1ZGl0SGlzdG9yeS5zZXRVc2VySWQoYXVkaXRWby5nZXRVc2VySWQoKSk7CiAgICAgICAgYXVkaXRIaXN0b3J5LnNldFVzZXJOYW1lKHVzZXJuYW1lKTsKICAgICAgICBhdWRpdEhpc3Rvcnkuc2V0VHlwZShTb2NpYWxBdWRpdEhpc3RvcnkuVFlQRV9FWEFNUExFKTsKICAgICAgICBhdWRpdEhpc3Rvcnkuc2V0U29jaWFsSWQoYXVkaXRWby5nZXRTb2NpYWxJZCgpKTsKICAgICAgICBhdWRpdEhpc3Rvcnkuc2V0QmVmb3JlKFN0cmluZy52YWx1ZU9mKGV4YW1wbGUuZ2V0U3RhdGUoKSkpOwogICAgICAgIGF1ZGl0SGlzdG9yeS5zZXRBZnRlcihTdHJpbmcudmFsdWVPZihuZXdTdGF0ZSkpOwogICAgICAgIGF1ZGl0SGlzdG9yeS5zZXRJbmZvKGF1ZGl0Vm8uZ2V0SW5mbygpKTsKCiAgICAgICAgYXVkaXRIaXN0b3J5U2VydmljZS5zYXZlKGF1ZGl0SGlzdG9yeSk7CgogICAgICAgIHJldHVybiBleGFtcGxlOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVuYWJsZVN3YWdnZXIyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNwcmluZ2ZveC5kb2N1bWVudGF0aW9uLnN3YWdnZXIyLmFubm90YXRpb25zLkVuYWJsZVN3YWdnZXIyOwo=</text>
+        <text encoding="base64">QEVuYWJsZVN3YWdnZXIyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">aW1wb3J0IHNwcmluZ2ZveC5kb2N1bWVudGF0aW9uLnN3YWdnZXIyLmFubm90YXRpb25zLkVuYWJsZVN3YWdnZXIyOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
@@ -399,7 +394,7 @@
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
@@ -411,7 +406,7 @@
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGFtcGxlLnNldFN0YXRlKG5ld1N0YXRlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -421,17 +416,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fox</last-search>
+      <last-search>springfox</last-search>
       <last-offset />
-      <last-pattern>fox</last-pattern>
+      <last-pattern>springfox</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>print-area</entry>
         <entry encoding="base64">XDxuZ0Fubm90YXRlXD4=</entry>
         <entry>datatable</entry>
         <entry>app</entry>
@@ -451,6 +445,7 @@
         <entry encoding="base64">XDxhY2NvdW50SWRcPg==</entry>
         <entry encoding="base64">XDxhY2NvdW50VXNlclNlcnZpY2VDbGllbnRcPg==</entry>
         <entry>fox</entry>
+        <entry>springfox</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
