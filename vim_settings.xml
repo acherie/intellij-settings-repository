@@ -5,9 +5,6 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialArticleService.java" timestamp="1513837272699">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.7/rxjava-2.1.7-sources.jar!/io/reactivex/Flowable.java" timestamp="1513926448867" />
       <file name="/a.dummy" timestamp="1513239356766">
         <mark key="[" line="0" column="0" />
@@ -63,9 +60,6 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/pom.xml" timestamp="1513925576322" />
       <file name="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.7/rxjava-2.1.7-sources.jar!/io/reactivex/ObservableOnSubscribe.java" timestamp="1513926765146" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/social-service.iml" timestamp="1513835528847">
-        <mark key="'" line="47" column="44" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/resources/mapper/SocialAuditHistoryMapper.xml" timestamp="1513837093980">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="13" column="29" />
@@ -191,6 +185,7 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminController.java" timestamp="1513846328518" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1513932051952" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialExampleController.java" timestamp="1513837609665">
         <mark key="'" line="46" column="13" />
         <mark key="[" line="176" column="43" />
