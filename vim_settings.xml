@@ -35,21 +35,19 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/AccountUserServiceClient.java" timestamp="1513928155538" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/pom.xml" timestamp="1513925576322" />
+      <file name="/application-pro.properties" timestamp="1514007274747" />
       <file name="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.1.7/rxjava-2.1.7-sources.jar!/io/reactivex/ObservableOnSubscribe.java" timestamp="1513926765146" />
+      <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/controller/ScanQrcodeController.java" timestamp="1514007523845">
+        <mark key="'" line="40" column="19" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1514004024194">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="14" column="30" />
         <mark key="^" line="14" column="30" />
         <mark key="." line="14" column="30" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleController.java" timestamp="1513838610046">
-        <mark key="'" line="200" column="8" />
-        <mark key="[" line="35" column="3" />
-        <mark key="]" line="36" column="50" />
-        <mark key="^" line="36" column="50" />
-        <mark key="." line="36" column="50" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6-sources.jar!/com/netflix/hystrix/AbstractCommand.java" timestamp="1513933942513" />
+      <file name="D:/Projects/zhuannong/src/main/resources/application-pro.properties" timestamp="1514007310510" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6-sources.jar!/com/netflix/hystrix/HystrixCachedObservable.java" timestamp="1513933867628" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6-sources.jar!/com/netflix/hystrix/HystrixCommand.java" timestamp="1513855954113" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountUserService.java" timestamp="1513937016542">
@@ -58,25 +56,11 @@
         <mark key="." line="68" column="28" />
         <mark key="^" line="68" column="28" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/pom.xml" timestamp="1513837839607">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="167" column="27" />
-        <mark key="]" line="167" column="31" />
-        <mark key="." line="167" column="31" />
-        <mark key="^" line="167" column="31" />
-      </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/config.js" timestamp="1513847161462">
         <mark key="[" line="316" column="43" />
         <mark key="]" line="316" column="67" />
         <mark key="^" line="316" column="67" />
         <mark key="." line="316" column="67" />
-      </file>
-      <file name="D:/ProjectsDemo/rxjavademo/src/main/java/acherie/RxJavaApp.java" timestamp="1513929104950">
-        <mark key="'" line="16" column="7" />
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="38" />
-        <mark key="." line="22" column="38" />
-        <mark key="^" line="42" column="53" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductInspector.java" timestamp="1513934953031">
         <mark key="[" line="25" column="38" />
@@ -97,20 +81,12 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminController.java" timestamp="1513846328518" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-center/src/main/java/com/dakun/jianzhong/ServiceCenter.java" timestamp="1513992012499" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1513932051952" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialExampleController.java" timestamp="1513837609665">
-        <mark key="'" line="46" column="13" />
-        <mark key="[" line="176" column="43" />
-        <mark key="]" line="178" column="55" />
-        <mark key="^" line="178" column="55" />
-        <mark key="." line="178" column="55" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6-sources.jar!/com/netflix/hystrix/HystrixCommandResponseFromCache.java" timestamp="1513933849548" />
       <file name="/fragment.java" timestamp="1513991028972">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
       <jump line="295" column="50" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
       <jump line="37" column="61" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
       <jump line="313" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
@@ -210,6 +186,7 @@
       <jump line="47" column="44" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/social-service.iml" />
       <jump line="15" column="7" filename="D:/ProjectsDemo/rxjavademo/src/main/java/acherie/RxJavaApp.java" />
       <jump line="181" column="61" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" />
+      <jump line="40" column="19" filename="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/controller/ScanQrcodeController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -240,7 +217,7 @@
         <text>String.valueOf(value)</text>
       </register>
       <register name="/" type="4">
-        <text>springfox</text>
+        <text encoding="base64">XDxhcGlTZXJ2aWNlVXJsXD4=</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -301,17 +278,16 @@
       </register>
     </registers>
     <search>
-      <last-search>springfox</last-search>
+      <last-search encoding="base64">XDxhcGlTZXJ2aWNlVXJsXD4=</last-search>
       <last-offset />
-      <last-pattern>springfox</last-pattern>
+      <last-pattern encoding="base64">XDxhcGlTZXJ2aWNlVXJsXD4=</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZ0Fubm90YXRlXD4=</entry>
         <entry>datatable</entry>
         <entry>app</entry>
         <entry>chosen</entry>
@@ -331,6 +307,7 @@
         <entry encoding="base64">XDxhY2NvdW50VXNlclNlcnZpY2VDbGllbnRcPg==</entry>
         <entry>fox</entry>
         <entry>springfox</entry>
+        <entry encoding="base64">XDxhcGlTZXJ2aWNlVXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
