@@ -91,11 +91,12 @@
         <mark key="." line="41" column="65" />
         <mark key="^" line="41" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513936981122">
+      <file name="/Dummy.txt" timestamp="1513991028980">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1513843597187" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminController.java" timestamp="1513846328518" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-center/src/main/java/com/dakun/jianzhong/ServiceCenter.java" timestamp="1513991067541" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1513932051952" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialExampleController.java" timestamp="1513837609665">
         <mark key="'" line="46" column="13" />
@@ -105,7 +106,7 @@
         <mark key="." line="178" column="55" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6-sources.jar!/com/netflix/hystrix/HystrixCommandResponseFromCache.java" timestamp="1513933849548" />
-      <file name="/fragment.java" timestamp="1513820417521">
+      <file name="/fragment.java" timestamp="1513991028972">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
