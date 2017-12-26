@@ -18,9 +18,11 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java" timestamp="1514277534578" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/constant/MessageType.java" timestamp="1514250382644" />
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1514249594499" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Long.java" timestamp="1514258087015" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java" timestamp="1514270874831" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1514290982444">
+        <mark key="'" line="44" column="29" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCodeBo.java" timestamp="1514280292225">
         <mark key="'" line="105" column="52" />
         <mark key="[" line="105" column="0" />
@@ -70,7 +72,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
       <jump line="335" column="12" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
       <jump line="29" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/push/JPushService.java" />
       <jump line="57" column="22" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/push/JPushService.java" />
@@ -170,6 +171,7 @@
       <jump line="17" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCodeBo.java" />
       <jump line="84" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/utils/SnowflakeIdWorker.java" />
       <jump line="108" column="52" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCodeBo.java" />
+      <jump line="44" column="29" filename="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -200,7 +202,7 @@
         <text>String.format(&quot;%04d&quot;, TextUtils.getRandNum(4));</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dpblw+</text>
+        <text encoding="base64">XDxyZWRpc1RlbXBsYXRlXD4=</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -261,17 +263,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dpblw+</last-search>
+      <last-search encoding="base64">XDxyZWRpc1RlbXBsYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dpblw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZWRpc1RlbXBsYXRlXD4=</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>app</entry>
         <entry>chosen</entry>
         <entry encoding="base64">XDxQcmludEFyZWFcPg==</entry>
         <entry>print</entry>
@@ -291,6 +292,7 @@
         <entry>springfox</entry>
         <entry encoding="base64">XDxhcGlTZXJ2aWNlVXJsXD4=</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
+        <entry encoding="base64">XDxyZWRpc1RlbXBsYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
