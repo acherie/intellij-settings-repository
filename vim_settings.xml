@@ -51,6 +51,7 @@
         <mark key="." line="47" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Long.java" timestamp="1514258087015" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialExampleService.java" timestamp="1514340780690" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java" timestamp="1514270874831" />
       <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/controller/ScanQrcodeController.java" timestamp="1514007523845">
         <mark key="'" line="40" column="19" />
@@ -87,17 +88,13 @@
         <mark key="." line="69" column="52" />
         <mark key="^" line="69" column="52" />
       </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/config.js" timestamp="1513847161462">
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/config.js" timestamp="1514339878162">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="67" />
         <mark key="^" line="5" column="67" />
         <mark key="." line="5" column="67" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0-sources.jar!/com/dakun/jianzhong/utils/AbstractService.java" timestamp="1514254305373" />
-      <file name="/ProductIdentityCodeBo.java" timestamp="1514278242610">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="48" column="63" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecification.java" timestamp="1514280997148" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application.properties" timestamp="1514281453603" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductInspector.java" timestamp="1514338733787">
@@ -107,6 +104,7 @@
         <mark key="." line="26" column="33" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/SmsController.java" timestamp="1514250012471" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialAuditHistoryController.java" timestamp="1514340889213" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductInspectorController.java" timestamp="1513936111560">
         <mark key="[" line="34" column="111" />
         <mark key="]" line="41" column="65" />
@@ -126,16 +124,12 @@
         <mark key="." line="326" column="71" />
         <mark key="^" line="326" column="71" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCode.java" timestamp="1514278728330">
-        <mark key="[" line="71" column="33" />
-        <mark key="]" line="71" column="33" />
-        <mark key="." line="71" column="33" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-production.properties" timestamp="1514281429157" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" timestamp="1514293455405" />
       <file name="D:/Projects/zhuannong/src/main/resources/templates/login.html" timestamp="1514010952093">
         <mark key="'" line="144" column="48" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialExampleController.java" timestamp="1514340721709" />
       <file name="/fragment.java" timestamp="1513991028972">
         <mark key="[" line="0" column="0" />
       </file>
