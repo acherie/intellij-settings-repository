@@ -88,10 +88,10 @@
         <mark key="^" line="69" column="52" />
       </file>
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/config.js" timestamp="1513847161462">
-        <mark key="[" line="316" column="43" />
-        <mark key="]" line="316" column="67" />
-        <mark key="^" line="316" column="67" />
-        <mark key="." line="316" column="67" />
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="67" />
+        <mark key="^" line="5" column="67" />
+        <mark key="." line="5" column="67" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0-sources.jar!/com/dakun/jianzhong/utils/AbstractService.java" timestamp="1514254305373" />
       <file name="/ProductIdentityCodeBo.java" timestamp="1514278242610">
@@ -100,7 +100,7 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecification.java" timestamp="1514280997148" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application.properties" timestamp="1514281453603" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductInspector.java" timestamp="1513934953031">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductInspector.java" timestamp="1514338733787">
         <mark key="[" line="25" column="38" />
         <mark key="]" line="26" column="33" />
         <mark key="^" line="26" column="33" />
@@ -117,8 +117,15 @@
       <file name="/Dummy.txt" timestamp="1514337519921">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1514337984672" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/ReplaceProvider.java" timestamp="1514255770840" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/client/AccountUserServiceClient.java" timestamp="1514336491082" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1514256555912">
+        <mark key="[" line="326" column="39" />
+        <mark key="]" line="326" column="71" />
+        <mark key="." line="326" column="71" />
+        <mark key="^" line="326" column="71" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCode.java" timestamp="1514278728330">
         <mark key="[" line="71" column="33" />
         <mark key="]" line="71" column="33" />
