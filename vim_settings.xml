@@ -12,6 +12,7 @@
         <mark key="." line="14" column="32" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuConstant.java" timestamp="1514365744623" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountMessageController.java" timestamp="1514460098351" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialArticleService.java" timestamp="1514367870483" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/app.init.js" timestamp="1514353645618">
         <mark key="[" line="19" column="30" />
@@ -45,6 +46,7 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" timestamp="1514460192042" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1514360273638">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="14" column="47" />
@@ -54,17 +56,15 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MonitoringConfigurator.java" timestamp="1514428379738" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" timestamp="1514376665793" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/config.js" timestamp="1514354740581" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountSystemMessageController.java" timestamp="1514460226340" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/annotation/EnableBinding.java" timestamp="1514429613391" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialAuditHistoryController.java" timestamp="1514346389230" />
-      <file name="/Dummy.txt" timestamp="1514354936646">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/messaging/Source.java" timestamp="1514431252141" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminMessageController.java" timestamp="1514460265758" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-stream-rabbit/1.0.0.RELEASE/spring-cloud-starter-stream-rabbit-1.0.0.RELEASE.pom" timestamp="1514376062215" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/config/RabbitMessageChannelBinderConfiguration.java" timestamp="1514429224030" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" timestamp="1514449544537" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/query/AccountMessageQuery.java" timestamp="1514460088063" />
     </filemarks>
     <jumps>
       <jump line="105" column="39" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/push/JPushService.java" />
