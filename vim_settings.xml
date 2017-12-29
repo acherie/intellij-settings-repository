@@ -6,7 +6,7 @@
     </globalmarks>
     <filemarks>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialArticleService.java" timestamp="1514367870483" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/StreamConfigurator.java" timestamp="1514541909348">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/StreamConfigurator.java" timestamp="1514542279748">
         <mark key="[" line="45" column="35" />
         <mark key="]" line="45" column="50" />
         <mark key="." line="45" column="50" />
@@ -46,7 +46,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" timestamp="1514449544537" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-amqp/4.3.7.RELEASE/spring-integration-amqp-4.3.7.RELEASE-sources.jar!/org/springframework/integration/amqp/inbound/AmqpInboundChannelAdapter.java" timestamp="1514538069207" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/query/AccountMessageQuery.java" timestamp="1514460088063" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/stream/Apply.java" timestamp="1514541904248">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/stream/Apply.java" timestamp="1514542267620">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="32" />
         <mark key="^" line="14" column="32" />
