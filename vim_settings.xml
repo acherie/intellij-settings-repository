@@ -5,60 +5,24 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/stream/Apply.java" timestamp="1514449399357">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuConstant.java" timestamp="1514365744623" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountMessageController.java" timestamp="1514460098351" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialArticleService.java" timestamp="1514367870483" />
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/app.init.js" timestamp="1514353645618">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="36" />
-        <mark key="^" line="19" column="36" />
-        <mark key="." line="19" column="36" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/StreamConfigurator.java" timestamp="1514540933752">
+        <mark key="[" line="45" column="35" />
+        <mark key="]" line="45" column="50" />
+        <mark key="." line="45" column="50" />
+        <mark key="^" line="45" column="50" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0-sources.jar!/com/dakun/jianzhong/utils/ResultGenerator.java" timestamp="1514515259300" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/handler/ServiceActivatingHandler.java" timestamp="1514536036384" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/StreamConfigurator.java" timestamp="1514536187021">
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="31" column="42" />
-        <mark key="." line="31" column="42" />
-        <mark key="^" line="31" column="42" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.6.RELEASE/spring-messaging-4.3.6.RELEASE-sources.jar!/org/springframework/messaging/MessageHandler.java" timestamp="1514530542667" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binding/MessageConverterConfigurer.java" timestamp="1514539232685" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/amqp/RabbitProperties.java" timestamp="1514449184715" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/annotation/StreamListener.java" timestamp="1514450376748" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1514538224758">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="79" />
-        <mark key="." line="14" column="79" />
-        <mark key="^" line="14" column="79" />
-      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1514540333248" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleCommentController.java" timestamp="1514513049904" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/messaging/Sink.java" timestamp="1514429135614" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.0.RELEASE/spring-amqp-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/support/AmqpHeaders.java" timestamp="1514536172179" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.6.RELEASE/spring-messaging-4.3.6.RELEASE-sources.jar!/org/springframework/messaging/MessageChannel.java" timestamp="1514452544323" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1514429386437">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/AbstractBinder.java" timestamp="1514538851633" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/A.java" timestamp="1514454603213">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="16" column="4" />
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
-      </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/controllers/company.js" timestamp="1514347280214">
-        <mark key="'" line="225" column="42" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" timestamp="1514460192042" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/config/RabbitBinderConfigurationProperties.java" timestamp="1514536428272" />
-      <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/controller/ScanQrcodeController.java" timestamp="1514007523845">
-        <mark key="'" line="40" column="19" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1514360273638">
         <mark key="[" line="14" column="45" />
@@ -67,47 +31,62 @@
         <mark key="." line="14" column="47" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MonitoringConfigurator.java" timestamp="1514428379738" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleController.java" timestamp="1514518313114">
-        <mark key="'" line="45" column="13" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" timestamp="1514376665793" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1514290982444">
-        <mark key="'" line="44" column="29" />
-      </file>
-      <file name="/SocialExampleCommentController.java" timestamp="1514337031646">
-        <mark key="'" line="110" column="12" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.6.RELEASE/spring-messaging-4.3.6.RELEASE-sources.jar!/org/springframework/messaging/SubscribableChannel.java" timestamp="1514539135084" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/config.js" timestamp="1514354740581" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/RabbitCommonProperties.java" timestamp="1514536566815" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceConfiguration.java" timestamp="1514536306059" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/RabbitConsumerProperties.java" timestamp="1514536538026" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceConfiguration.java" timestamp="1514538691562" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.0.RELEASE/spring-rabbit-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/listener/adapter/MessageListenerAdapter.java" timestamp="1514465499992" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountSystemMessageController.java" timestamp="1514460226340" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/annotation/EnableBinding.java" timestamp="1514429613391" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialAuditHistoryController.java" timestamp="1514515297886" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/Binding.java" timestamp="1514538729994" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/handler/MethodInvokingMessageProcessor.java" timestamp="1514536068152" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.0.RELEASE/spring-rabbit-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/listener/adapter/AbstractAdaptableMessageListener.java" timestamp="1514465565258" />
-      <file name="/Dummy.txt" timestamp="1514515151304">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-stream-rabbit/1.0.0.RELEASE/spring-cloud-starter-stream-rabbit-1.0.0.RELEASE.pom" timestamp="1514376062215" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/config/RabbitMessageChannelBinderConfiguration.java" timestamp="1514536436158" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" timestamp="1514449544537" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-amqp/4.3.7.RELEASE/spring-integration-amqp-4.3.7.RELEASE-sources.jar!/org/springframework/integration/amqp/inbound/AmqpInboundChannelAdapter.java" timestamp="1514538069207" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/query/AccountMessageQuery.java" timestamp="1514460088063" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/stream/Apply.java" timestamp="1514539352697">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="32" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuConstant.java" timestamp="1514365744623" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountMessageController.java" timestamp="1514460098351" />
+      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/app.init.js" timestamp="1514353645618">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="19" column="36" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0-sources.jar!/com/dakun/jianzhong/utils/ResultGenerator.java" timestamp="1514515259300" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/handler/ServiceActivatingHandler.java" timestamp="1514536036384" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.6.RELEASE/spring-messaging-4.3.6.RELEASE-sources.jar!/org/springframework/messaging/MessageHandler.java" timestamp="1514530542667" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/annotation/StreamListener.java" timestamp="1514450376748" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1514539276206">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="79" />
+        <mark key="." line="14" column="79" />
+        <mark key="^" line="14" column="79" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/messaging/Sink.java" timestamp="1514429135614" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.0.RELEASE/spring-amqp-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/support/AmqpHeaders.java" timestamp="1514536172179" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" timestamp="1514460192042" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/config/RabbitBinderConfigurationProperties.java" timestamp="1514536428272" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/RabbitCommonProperties.java" timestamp="1514536566815" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/RabbitConsumerProperties.java" timestamp="1514536538026" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/channel/PublishSubscribeChannel.java" timestamp="1514541095568" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/annotation/EnableBinding.java" timestamp="1514538655278" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/channel/AbstractSubscribableChannel.java" timestamp="1514541069803" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialAuditHistoryController.java" timestamp="1514515297886" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.0.RELEASE/spring-rabbit-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/listener/adapter/AbstractAdaptableMessageListener.java" timestamp="1514465565258" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1514540379303" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/messaging/Source.java" timestamp="1514431252141" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminMessageController.java" timestamp="1514460265758" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/client/AccountUserServiceClient.java" timestamp="1514513054172" />
       <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/PageInfo.java" timestamp="1514515283371" />
-      <file name="D:/Projects/zhuannong/src/main/resources/templates/login.html" timestamp="1514010952093">
-        <mark key="'" line="144" column="48" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-stream-rabbit/1.0.0.RELEASE/spring-cloud-starter-stream-rabbit-1.0.0.RELEASE.pom" timestamp="1514376062215" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/config/RabbitMessageChannelBinderConfiguration.java" timestamp="1514536436158" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialExampleController.java" timestamp="1514518393020">
-        <mark key="'" line="36" column="13" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/AbstractMessageChannelBinder.java" timestamp="1514538863922" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/Binder.java" timestamp="1514538774482" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/RabbitExtendedBindingProperties.java" timestamp="1514536605586" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" timestamp="1514449544537" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-amqp/4.3.7.RELEASE/spring-integration-amqp-4.3.7.RELEASE-sources.jar!/org/springframework/integration/amqp/inbound/AmqpInboundChannelAdapter.java" timestamp="1514538069207" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/query/AccountMessageQuery.java" timestamp="1514460088063" />
     </filemarks>
     <jumps>
       <jump line="129" column="37" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/push/JPushService.java" />
@@ -216,7 +195,7 @@
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIs/7z6IiKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>contentType</text>
+        <text>Source.OUTPUT</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -237,7 +216,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>contentType</text>
+        <text>Source.OUTPUT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZWxlcGhvbmVcPg==</text>
