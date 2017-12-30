@@ -30,6 +30,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="26" column="45" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-amqp/4.3.7.RELEASE/spring-integration-amqp-4.3.7.RELEASE-sources.jar!/org/springframework/integration/amqp/outbound/AsyncAmqpOutboundGateway.java" timestamp="1514610665661" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1514429386437">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/A.java" timestamp="1514454603213">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="16" column="4" />
@@ -43,10 +49,20 @@
         <mark key="." line="14" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/mapping/AbstractHeaderMapper.java" timestamp="1514609412289" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-amqp/4.3.7.RELEASE/spring-integration-amqp-4.3.7.RELEASE-sources.jar!/org/springframework/integration/amqp/outbound/AbstractAmqpOutboundEndpoint.java" timestamp="1514609478348" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/RabbitMessageChannelBinder.java" timestamp="1514610027204" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/AbstractMessageChannelBinder.java" timestamp="1514610042303" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-amqp/4.3.7.RELEASE/spring-integration-amqp-4.3.7.RELEASE-sources.jar!/org/springframework/integration/amqp/outbound/AmqpOutboundEndpoint.java" timestamp="1514609453993" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-amqp/4.3.7.RELEASE/spring-integration-amqp-4.3.7.RELEASE-sources.jar!/org/springframework/integration/amqp/outbound/AbstractAmqpOutboundEndpoint.java" timestamp="1514610658350" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/RabbitMessageChannelBinder.java" timestamp="1514610397709" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/DefaultBinding.java" timestamp="1514610381876" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.0.RELEASE/spring-rabbit-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java" timestamp="1514610795034" />
+      <file name="/Dummy.txt" timestamp="1514610266837">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/AbstractMessageChannelBinder.java" timestamp="1514610249945" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-amqp/4.3.7.RELEASE/spring-integration-amqp-4.3.7.RELEASE-sources.jar!/org/springframework/integration/amqp/outbound/AmqpOutboundEndpoint.java" timestamp="1514610711428" />
+      <file name="/fragment.java" timestamp="1514610266806">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="129" column="37" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/push/JPushService.java" />
