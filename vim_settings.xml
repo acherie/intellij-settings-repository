@@ -5,7 +5,8 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" timestamp="1514947202044">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" timestamp="1514971827345">
+        <mark key="'" line="104" column="19" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -25,6 +26,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.0.RELEASE/spring-rabbit-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitAdmin.java" timestamp="1514860557200" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/annotation/StreamListener.java" timestamp="1514860398357" />
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/sql/Timestamp.java" timestamp="1514971426504" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.6.RELEASE/spring-messaging-4.3.6.RELEASE-sources.jar!/org/springframework/messaging/MessageChannel.java" timestamp="1514873526713" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1514961775557">
         <mark key="'" line="113" column="24" />
@@ -33,17 +35,7 @@
         <mark key="^" line="182" column="29" />
         <mark key="." line="182" column="29" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1514429386437">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1514886886442" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialExampleService.java" timestamp="1514892802463">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-      </file>
       <file name="/ProductBottleService.java" timestamp="1514883964652" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java" timestamp="1514969153477" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1514863273805" />
@@ -65,11 +57,6 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/SystemConfigController.java" timestamp="1514862499736" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/client/AccountUserService.java" timestamp="1514892489715" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/jade/views/qrVerify.jade" timestamp="1514882246474" />
-      <file name="/Dummy.txt" timestamp="1514884004558">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1514969041203">
         <mark key="'" line="185" column="57" />
         <mark key="[" line="231" column="36" />
@@ -77,9 +64,10 @@
         <mark key="." line="231" column="53" />
         <mark key="^" line="231" column="53" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1514946323732" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1514971435188" />
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Date.java" timestamp="1514971414960" />
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/condition/UpdateByConditionSelectiveMapper.java" timestamp="1514886590174" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1514960859736">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1514971881933">
         <mark key="[" line="427" column="25" />
         <mark key="]" line="427" column="34" />
         <mark key="^" line="427" column="34" />
@@ -104,11 +92,6 @@
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/controllers/qrApply.js" timestamp="1514969819312" />
     </filemarks>
     <jumps>
-      <jump line="317" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
-      <jump line="316" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
-      <jump line="337" column="6" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
-      <jump line="297" column="5" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
-      <jump line="363" column="12" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
       <jump line="377" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
       <jump line="356" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
       <jump line="400" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
@@ -204,6 +187,11 @@
       <jump line="118" column="69" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" />
       <jump line="150" column="60" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" />
       <jump line="184" column="57" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" />
+      <jump line="72" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
+      <jump line="99" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
+      <jump line="100" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
+      <jump line="103" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
+      <jump line="104" column="19" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -234,7 +222,7 @@
         <text>数据错误</text>
       </register>
       <register name="/" type="4">
-        <text>getApp</text>
+        <text>approve</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -296,9 +284,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getApp</last-search>
+      <last-search>approve</last-search>
       <last-offset />
-      <last-pattern>getApp</last-pattern>
+      <last-pattern>approve</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -306,7 +294,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Ym9vdHN0JmNzcw==</entry>
         <entry>bootstrap</entry>
         <entry>app-rtl.css</entry>
         <entry>jpush</entry>
@@ -326,6 +313,7 @@
         <entry encoding="base64">XDxJTlBVVF9DSEFOTkVMX0FUVFJJQlVURVw+</entry>
         <entry encoding="base64">XDx1c2VyU2VydmljZUNsaWVudFw+</entry>
         <entry>getApp</entry>
+        <entry>approve</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
