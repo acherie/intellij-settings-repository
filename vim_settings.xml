@@ -92,7 +92,12 @@
         <mark key="'" line="52" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/condition/UpdateByConditionSelectiveMapper.java" timestamp="1514886590174" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1514946552866" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1514960859736">
+        <mark key="[" line="427" column="25" />
+        <mark key="]" line="427" column="34" />
+        <mark key="^" line="427" column="34" />
+        <mark key="." line="427" column="34" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-production.properties" timestamp="1514864023395" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/CommonsRequestLoggingFilter.java" timestamp="1514893294948" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1514944974043">
