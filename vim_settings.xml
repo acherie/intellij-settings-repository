@@ -24,12 +24,15 @@
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="34" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/StreamConfigurator.java" timestamp="1514879091503">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/StreamConfigurator.java" timestamp="1515035691454">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.0.RELEASE/spring-rabbit-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitAdmin.java" timestamp="1514860557200" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/config/annotation/AbstractMethodAnnotationPostProcessor.java" timestamp="1514615270867">
+        <mark key="'" line="89" column="32" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/annotation/StreamListener.java" timestamp="1514860398357" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1515033269597">
         <mark key="[" line="5" column="44" />
@@ -44,17 +47,11 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/sql/Timestamp.java" timestamp="1514971426504" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.6.RELEASE/spring-messaging-4.3.6.RELEASE-sources.jar!/org/springframework/messaging/MessageChannel.java" timestamp="1514873526713" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1514961775557">
-        <mark key="'" line="113" column="24" />
-        <mark key="[" line="178" column="68" />
-        <mark key="]" line="182" column="29" />
-        <mark key="^" line="182" column="29" />
-        <mark key="." line="182" column="29" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1514429386437">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1515036299773">
+        <mark key="[" line="119" column="52" />
+        <mark key="]" line="120" column="20" />
+        <mark key="." line="120" column="20" />
+        <mark key="^" line="120" column="20" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1514886886442" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialExampleService.java" timestamp="1514892802463">
@@ -65,6 +62,9 @@
       <file name="/ProductBottleService.java" timestamp="1514883964652" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java" timestamp="1514969153477" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1515028637875" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" timestamp="1515036218121">
+        <mark key="'" line="50" column="41" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor.java" timestamp="1514892944850" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/ReportUploadTask.java" timestamp="1514942537392">
         <mark key="[" line="38" column="27" />
@@ -129,10 +129,6 @@
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/controllers/qrApply.js" timestamp="1514969819312" />
     </filemarks>
     <jumps>
-      <jump line="377" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
-      <jump line="356" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
-      <jump line="400" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
-      <jump line="60" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountSystemMessage.java" />
       <jump line="34" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountSystemMessage.java" />
       <jump line="41" column="9" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountSystemMessageService.java" />
       <jump line="28" column="48" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountSystemMessageService.java" />
@@ -229,13 +225,17 @@
       <jump line="100" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
       <jump line="103" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
       <jump line="104" column="19" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
+      <jump line="38" column="31" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" />
+      <jump line="51" column="40" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" />
+      <jump line="27" column="64" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" />
+      <jump line="50" column="41" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIs/7z6IiKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>rabbit</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -256,10 +256,10 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>数据错误</text>
+        <text>rabbit</text>
       </register>
       <register name="/" type="4">
-        <text>approve</text>
+        <text>stream</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -321,9 +321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>approve</last-search>
+      <last-search>stream</last-search>
       <last-offset />
-      <last-pattern>approve</last-pattern>
+      <last-pattern>stream</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -331,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bootstrap</entry>
         <entry>app-rtl.css</entry>
         <entry>jpush</entry>
         <entry encoding="base64">XDxTdHJpbmdVdGlsc1w+</entry>
@@ -351,6 +350,7 @@
         <entry encoding="base64">XDx1c2VyU2VydmljZUNsaWVudFw+</entry>
         <entry>getApp</entry>
         <entry>approve</entry>
+        <entry>stream</entry>
       </history-search>
       <history-cmd>
         <entry>argus</entry>
