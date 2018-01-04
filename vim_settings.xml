@@ -45,6 +45,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" timestamp="1515047968097" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/sql/Timestamp.java" timestamp="1514971426504" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.6.RELEASE/spring-messaging-4.3.6.RELEASE-sources.jar!/org/springframework/messaging/MessageChannel.java" timestamp="1514873526713" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1515036299773">
@@ -101,6 +102,7 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-test.properties" timestamp="1515028602715">
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/test/java/generator/engine/impl/mq/KafkaEngine.java" timestamp="1515047926202" />
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/common/condition/UpdateByConditionSelectiveMapper.java" timestamp="1514886590174" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1515036989741">
         <mark key="[" line="129" column="0" />
