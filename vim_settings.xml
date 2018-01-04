@@ -53,12 +53,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaAutoConfiguration.java" timestamp="1515050427589" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/client/AccountUserService.java" timestamp="1514892489715" />
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/jade/views/qrVerify.jade" timestamp="1514882246474" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1515059881152">
-        <mark key="'" line="189" column="57" />
-        <mark key="[" line="146" column="24" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="148" column="90" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1515060565422">
+        <mark key="'" line="191" column="57" />
+        <mark key="[" line="149" column="96" />
+        <mark key="]" line="149" column="106" />
+        <mark key="." line="149" column="106" />
+        <mark key="^" line="149" column="106" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1514971435188" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/config/KafkaBinderConfiguration.java" timestamp="1515050090768" />
