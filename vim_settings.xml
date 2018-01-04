@@ -25,8 +25,14 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.0.RELEASE/spring-rabbit-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitAdmin.java" timestamp="1514860557200" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/producer/KafkaProducer.java" timestamp="1515067172152">
+        <mark key="'" line="179" column="4" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/config/annotation/AbstractMethodAnnotationPostProcessor.java" timestamp="1514615270867">
+        <mark key="'" line="89" column="32" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/annotation/StreamListener.java" timestamp="1514860398357" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1515065907171">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1515067130220">
         <mark key="]" line="8" column="56" />
         <mark key="^" line="8" column="56" />
         <mark key="." line="8" column="56" />
@@ -41,7 +47,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" timestamp="1515049846674" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/sql/Timestamp.java" timestamp="1514971426504" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.6.RELEASE/spring-messaging-4.3.6.RELEASE-sources.jar!/org/springframework/messaging/MessageChannel.java" timestamp="1514873526713" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/kafka_client_jaas.conf" timestamp="1515065922197">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/kafka_client_jaas.conf" timestamp="1515066835351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.1/kafka-clients-0.9.0.1-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java" timestamp="1515044818207" />
@@ -55,7 +61,10 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java" timestamp="1514969153477" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/FileInputStream.java" timestamp="1515054834378" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1515028637875" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/MetadataUpdater.java" timestamp="1515055837077" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/MetadataUpdater.java" timestamp="1515067348494" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" timestamp="1515036218121">
+        <mark key="'" line="50" column="41" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/config/KafkaBinderConfigurationProperties.java" timestamp="1515054631734">
         <mark key="'" line="256" column="29" />
       </file>
@@ -109,8 +118,8 @@
         <mark key="." line="129" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/KafkaMessageChannelBinder.java" timestamp="1515057233750" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/NetworkClient.java" timestamp="1515055863367">
-        <mark key="'" line="602" column="42" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/NetworkClient.java" timestamp="1515067407030">
+        <mark key="'" line="597" column="24" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-production.properties" timestamp="1514864023395" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/common/security/JaasUtils.java" timestamp="1515053422659" />
@@ -133,9 +142,6 @@
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/controllers/qrApply.js" timestamp="1514969819312" />
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountSystemMessageService.java" />
-      <jump line="30" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountSystemMessageController.java" />
-      <jump line="111" column="3" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountSystemMessageController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountSystemMessageController.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
       <jump line="9" column="17" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/mapper/AccountMessageMapper.java" />
@@ -233,6 +239,9 @@
       <jump line="15" column="33" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" />
       <jump line="16" column="33" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" />
       <jump line="602" column="42" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/NetworkClient.java" />
+      <jump line="179" column="4" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/producer/KafkaProducer.java" />
+      <jump line="565" column="16" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/NetworkClient.java" />
+      <jump line="597" column="24" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/NetworkClient.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -263,7 +272,7 @@
         <text>levelList.get(level).size()</text>
       </register>
       <register name="/" type="4">
-        <text>Bootstrap</text>
+        <text>Error</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -324,9 +333,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Bootstrap</last-search>
+      <last-search>Error</last-search>
       <last-offset />
-      <last-pattern>Bootstrap</last-pattern>
+      <last-pattern>Error</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -334,7 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdHJpbmdVdGlsc1w+</entry>
         <entry>ServiceExc</entry>
         <entry>dev</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
@@ -354,6 +362,7 @@
         <entry>stream</entry>
         <entry encoding="base64">XDxjb25maWd1cmF0aW9uXD4=</entry>
         <entry>Bootstrap</entry>
+        <entry>Error</entry>
       </history-search>
       <history-cmd>
         <entry>argume</entry>
