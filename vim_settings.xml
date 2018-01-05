@@ -35,6 +35,7 @@
         <mark key="]" line="153" column="20" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1514886886442" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/ConsumerProperties.java" timestamp="1515131926490" />
       <file name="/ProductBottleService.java" timestamp="1514883964652" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java" timestamp="1514969153477" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1515028637875" />
@@ -104,12 +105,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.0.RELEASE/spring-rabbit-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitAdmin.java" timestamp="1514860557200" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/annotation/StreamListener.java" timestamp="1514860398357" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1515128456037">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1515132023571">
+        <mark key="[" line="9" column="58" />
+        <mark key="]" line="10" column="63" />
+        <mark key="." line="10" column="63" />
+        <mark key="^" line="10" column="63" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1515128565093">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1515131775267">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
