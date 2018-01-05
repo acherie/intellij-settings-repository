@@ -70,7 +70,7 @@
         <mark key="." line="134" column="34" />
         <mark key="^" line="134" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.0/kafka-clients-0.10.2.0-sources.jar!/org/apache/kafka/clients/consumer/Consumer.java" timestamp="1515133097134" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.0/kafka-clients-0.10.2.0-sources.jar!/org/apache/kafka/clients/consumer/Consumer.java" timestamp="1515138870996" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/stream/Apply.java" timestamp="1514614149646">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="21" column="23" />
@@ -119,6 +119,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/RabbitMessageChannelBinder.java" timestamp="1514860765321" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/RabbitConsumerProperties.java" timestamp="1514860689991" />
       <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0-sources.jar!/com/dakun/jianzhong/utils/AbstractService.java" timestamp="1514874366667" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.1.2.RELEASE/spring-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/kafka/listener/KafkaMessageListenerContainer.java" timestamp="1515138949754" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.0/kafka-clients-0.10.2.0-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java" timestamp="1515137486698" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1514968848351" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.9.0.1/kafka_2.11-0.9.0.1.jar!/kafka/utils/ZkUtils.class" timestamp="1515053384708" />
@@ -139,7 +140,7 @@
         <mark key="[" line="8" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/client/AccountUserServiceClient.java" timestamp="1515135756304" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/KafkaMessageChannelBinder.java" timestamp="1515057233750" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/KafkaMessageChannelBinder.java" timestamp="1515138726030" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-production.properties" timestamp="1514864023395" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialExampleController.java" timestamp="1514892554302" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/ProductConfigurator.java" timestamp="1514945182954">
@@ -148,6 +149,7 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.1.2.RELEASE/spring-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/kafka/support/TopicPartitionInitialOffset.java" timestamp="1515139241743" />
       <file name="/fragment.java" timestamp="1514876754117">
         <mark key="[" line="0" column="0" />
       </file>
