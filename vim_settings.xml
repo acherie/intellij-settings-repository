@@ -5,13 +5,18 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" timestamp="1514971827345">
+        <mark key="'" line="104" column="19" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/SynchronousQueue.java" timestamp="1514893065787" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/KafkaExtendedBindingProperties.java" timestamp="1515049923289" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductSpecificationMapper.xml" timestamp="1515119832822">
-        <mark key="[" line="66" column="16" />
-        <mark key="]" line="67" column="23" />
-        <mark key="^" line="67" column="23" />
-        <mark key="." line="67" column="23" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/StreamConfigurator.java" timestamp="1515157717845">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binding/MessageConverterConfigurer.java" timestamp="1515153459840" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/dispatcher/UnicastingDispatcher.java" timestamp="1515154535948" />
@@ -20,26 +25,15 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" timestamp="1515049846674" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/sql/Timestamp.java" timestamp="1514971426504" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.6.RELEASE/spring-messaging-4.3.6.RELEASE-sources.jar!/org/springframework/messaging/MessageChannel.java" timestamp="1514873526713" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1515128174808">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="58" />
-        <mark key="^" line="139" column="33" />
-        <mark key="." line="128" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.java" timestamp="1515069219974" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1514886886442" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/ConsumerProperties.java" timestamp="1515145298778" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.0/kafka-clients-0.10.2.0-sources.jar!/org/apache/kafka/common/serialization/ByteArraySerializer.java" timestamp="1515156656960" />
       <file name="/ProductBottleService.java" timestamp="1514883964652" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java" timestamp="1514969153477" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1515028637875" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" timestamp="1515118895981" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductStandardService.java" timestamp="1515120220923" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/ReportUploadTask.java" timestamp="1514942537392">
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="28" />
-        <mark key="." line="38" column="28" />
-        <mark key="^" line="38" column="28" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductBottleInfoDto.java" timestamp="1515064775329" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportAuditVo.java" timestamp="1514882146706" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.0.RELEASE/spring-amqp-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/core/AbstractDeclarable.java" timestamp="1514860510422" />
@@ -57,26 +51,8 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/CommonsRequestLoggingFilter.java" timestamp="1514893294948" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.1.2.RELEASE/spring-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/kafka/core/KafkaTemplate.java" timestamp="1515148140384" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.0/kafka-clients-0.10.2.0-sources.jar!/org/apache/kafka/common/TopicPartition.java" timestamp="1515136099607" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1514970087711">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="134" column="34" />
-        <mark key="." line="134" column="34" />
-        <mark key="^" line="134" column="34" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.0/kafka-clients-0.10.2.0-sources.jar!/org/apache/kafka/clients/consumer/Consumer.java" timestamp="1515138870996" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.1.2.RELEASE/spring-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/kafka/listener/AbstractMessageListenerContainer.java" timestamp="1515143984122" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductReportTemp.java" timestamp="1514944678289">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
-        <mark key="^" line="16" column="50" />
-      </file>
-      <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/app.init.js" timestamp="1515134112106">
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="21" column="52" />
-        <mark key="^" line="21" column="52" />
-        <mark key="." line="21" column="52" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/channel/AbstractExecutorChannel.java" timestamp="1515152824241" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.0.RELEASE/spring-rabbit-1.7.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitAdmin.java" timestamp="1514860557200" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.0/kafka-clients-0.10.2.0-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1515136430720" />
@@ -84,25 +60,29 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-dev.properties" timestamp="1515145212539" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/annotation/StreamListener.java" timestamp="1514860398357" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/handler/AbstractMessageHandler.java" timestamp="1515152465132" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1515155524924">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1515157199650">
         <mark key="'" line="10" column="69" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="70" />
-        <mark key="." line="14" column="72" />
-        <mark key="^" line="14" column="72" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1515155785747">
-        <mark key="[" line="34" column="52" />
-        <mark key="]" line="35" column="44" />
-        <mark key="^" line="35" column="44" />
-        <mark key="." line="35" column="44" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1515158638501">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingProperties.java" timestamp="1515147999564" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.0/kafka-clients-0.10.2.0-sources.jar!/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.java" timestamp="1515136336305" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.1.2.RELEASE/spring-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/kafka/listener/ConcurrentMessageListenerContainer.java" timestamp="1515144013915" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.1/kafka-clients-0.9.0.1-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java" timestamp="1515044818207" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialExampleService.java" timestamp="1514892802463">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/FileInputStream.java" timestamp="1515054834378" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultHashOperations.java" timestamp="1515069542391" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/KafkaProducerProperties.java" timestamp="1515156965961" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/MetadataUpdater.java" timestamp="1515067348494" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-messaging/4.3.6.RELEASE/spring-messaging-4.3.6.RELEASE-sources.jar!/org/springframework/messaging/converter/MappingJackson2MessageConverter.java" timestamp="1515152882834" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.0/kafka-clients-0.10.2.0-sources.jar!/org/apache/kafka/clients/consumer/internals/SubscriptionState.java" timestamp="1515136392794" />
@@ -110,7 +90,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/RabbitMessageChannelBinder.java" timestamp="1514860765321" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/RabbitConsumerProperties.java" timestamp="1514860689991" />
       <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0-sources.jar!/com/dakun/jianzhong/utils/AbstractService.java" timestamp="1514874366667" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.1.2.RELEASE/spring-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/kafka/listener/KafkaMessageListenerContainer.java" timestamp="1515147540344" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.1.2.RELEASE/spring-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/kafka/listener/KafkaMessageListenerContainer.java" timestamp="1515158270781" />
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.0/kafka-clients-0.10.2.0-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java" timestamp="1515137486698" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/channel/PublishSubscribeChannel.java" timestamp="1515152739600" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.3.7.RELEASE/spring-integration-core-4.3.7.RELEASE-sources.jar!/org/springframework/integration/dispatcher/BroadcastingDispatcher.java" timestamp="1515154464442" />
@@ -136,22 +116,18 @@
         <mark key="[" line="8" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/client/AccountUserServiceClient.java" timestamp="1515135756304" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1515154205452">
-        <mark key="[" line="140" column="67" />
-        <mark key="]" line="157" column="44" />
-        <mark key="^" line="157" column="44" />
-        <mark key="." line="157" column="44" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1515158401823">
+        <mark key="'" line="120" column="8" />
+        <mark key="[" line="141" column="67" />
+        <mark key="]" line="158" column="44" />
+        <mark key="^" line="158" column="44" />
+        <mark key="." line="158" column="44" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/KafkaMessageChannelBinder.java" timestamp="1515154805381" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/KafkaMessageChannelBinder.java" timestamp="1515156867783" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-production.properties" timestamp="1514864023395" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/AbstractMessageChannelBinder.java" timestamp="1515155970691" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/1.1.2.RELEASE/spring-cloud-stream-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/AbstractMessageChannelBinder.java" timestamp="1515157952495" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.1.2.RELEASE/spring-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/kafka/core/DefaultKafkaProducerFactory.java" timestamp="1515156395965" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialExampleController.java" timestamp="1514892554302" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/ProductConfigurator.java" timestamp="1514945182954">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="26" />
-        <mark key="^" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.1.2.RELEASE/spring-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/kafka/support/TopicPartitionInitialOffset.java" timestamp="1515139241743" />
       <file name="/fragment.java" timestamp="1515156026231">
         <mark key="[" line="0" column="0" />
@@ -160,7 +136,6 @@
       <file name="D:/Projects/nongtianquan/nongtianquan-front/master/js/modules/controllers/qrApply.js" timestamp="1514969819312" />
     </filemarks>
     <jumps>
-      <jump line="327" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMessageService.java" />
       <jump line="195" column="4" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountMessageController.java" />
       <jump line="127" column="12" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountMessageController.java" />
       <jump line="116" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountMessageController.java" />
@@ -260,13 +235,14 @@
       <jump line="86" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" />
       <jump line="21" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" />
       <jump line="10" column="69" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" />
+      <jump line="120" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIs/7z6IiKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nLmNsb3VkLnN0cmVhbS5iaW5kaW5ncy5hcHBseV9vdXRwdXQuY29udGVudFR5cGU9YXBwbGljYXRpb24vanNvbgo=</text>
+        <text encoding="base64">bG9nZ2luZy5sZXZlbC5vcmcuc3ByaW5nZnJhbWV3b3JrLmthZmthPVRSQUNFCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -287,7 +263,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>application/json</text>
+        <text>msg</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
@@ -299,49 +275,49 @@
         <text encoding="base64">c3ByaW5nLmNsb3VkLnN0cmVhbS5iaW5kaW5ncy5hcHBseV9vdXRwdXQuY29udGVudFR5cGU9YXBwbGljYXRpb24vanNvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLmNsb3VkLnN0cmVhbS5iaW5kaW5ncy5hcHBseV9pbnB1dC5jb250ZW50VHlwZT1hcHBsaWNhdGlvbi9qc29uCg==</text>
+        <text encoding="base64">bG9nZ2luZy5sZXZlbC5vcmcuc3ByaW5nZnJhbWV3b3JrLmthZmthPVRSQUNFCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLmNsb3VkLnN0cmVhbS5rYWZrYS5iaW5kZXIuYXV0by1jcmVhdGUtdG9waWNzPWZhbHNlCg==</text>
+        <text encoding="base64">CiAgICBAU3RyZWFtTGlzdGVuZXIoQXBwbHkuSU5QVVQpCiAgICBwdWJsaWMgdm9pZCBjb25zdW1lcihAUGF5bG9hZCBQcm9kdWN0QXBwbHkgbXNnLAogICAgICAgICAgICAgICAgICAgICAgICAgQEhlYWRlcihLYWZrYUhlYWRlcnMuQUNLTk9XTEVER01FTlQpIEFja25vd2xlZGdtZW50IGFja25vd2xlZGdtZW50KSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEpTT04udG9KU09OU3RyaW5nKG1zZykpOwogICAgICAgIGlmIChhY2tub3dsZWRnbWVudCAhPSBudWxsKSB7CiAgICAgICAgICAgIGFja25vd2xlZGdtZW50LmFja25vd2xlZGdlKCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAU3RyZWFtTGlzdGVuZXIoQXBwbHkuSU5QVVQpCiAgICBwdWJsaWMgdm9pZCBjb25zdW1lcihAUGF5bG9hZCBTdHJpbmcgbXNnLAogICAgICAgICAgICAgICAgICAgICAgICAgQEhlYWRlcihLYWZrYUhlYWRlcnMuQUNLTk9XTEVER01FTlQpIEFja25vd2xlZGdtZW50IGFja25vd2xlZGdtZW50KSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1zZyk7CiAgICAgICAgaWYgKGFja25vd2xlZGdtZW50ICE9IG51bGwpIHsKICAgICAgICAgICAgYWNrbm93bGVkZ21lbnQuYWNrbm93bGVkZ2UoKTsKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmNsb3VkLnN0cmVhbS5rYWZrYS5iaW5kaW5ncy5hcHBseV9vdXRwdXQucHJvZHVjZXIuY29uZmlndXJhdGlvbi5rZXkuc2VyaWFsaXplcj1vcmcuYXBhY2hlLmthZmthLmNvbW1vbi5zZXJpYWxpemF0aW9uLlN0cmluZ1NlcmlhbGl6ZXIKc3ByaW5nLmNsb3VkLnN0cmVhbS5rYWZrYS5iaW5kaW5ncy5hcHBseV9vdXRwdXQucHJvZHVjZXIuY29uZmlndXJhdGlvbi52YWx1ZS5zZXJpYWxpemVyPW9yZy5hcGFjaGUua2Fma2EuY29tbW9uLnNlcmlhbGl6YXRpb24uU3RyaW5nU2VyaWFsaXplcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3ByaW5nLmNsb3VkLnN0cmVhbS5rYWZrYS5iaW5kaW5ncy5hcHBseV9pbnB1dC5jb25zdW1lci5hdXRvQ29tbWl0T2Zmc2V0PWZhbHNlCg==</text>
+        <text encoding="base64">c3ByaW5nLmNsb3VkLnN0cmVhbS5rYWZrYS5iaW5kaW5ncy4K</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmNsb3VkLnN0cmVhbS5iaW5kaW5ncy5hcHBseV9pbnB1dC5jb250ZW50VHlwZT1hcHBsaWNhdGlvbi9qc29uCg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmNsb3VkLnN0cmVhbS5rYWZrYS5iaW5kZXIuYXV0by1jcmVhdGUtdG9waWNzPWZhbHNlCg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nLmNsb3VkLnN0cmVhbS5iaW5kaW5ncy5hcHBseV9pbnB1dC5jb25zdW1lci5hdXRvQ29tbWl0T25FcnJvcj10cnVlCg==</text>
+        <text encoding="base64">CiAgICBAU3RyZWFtTGlzdGVuZXIoQXBwbHkuSU5QVVQpCiAgICBwdWJsaWMgdm9pZCBjb25zdW1lcihAUGF5bG9hZCBTdHJpbmcgbXNnLAogICAgICAgICAgICAgICAgICAgICAgICAgQEhlYWRlcihLYWZrYUhlYWRlcnMuQUNLTk9XTEVER01FTlQpIEFja25vd2xlZGdtZW50IGFja25vd2xlZGdtZW50KSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1zZyk7CiAgICAgICAgaWYgKGFja25vd2xlZGdtZW50ICE9IG51bGwpIHsKICAgICAgICAgICAgYWNrbm93bGVkZ21lbnQuYWNrbm93bGVkZ2UoKTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9nZ2luZy5sZXZlbC5vcmcuYXBhY2hlLmthZmthPURFQlVHCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
