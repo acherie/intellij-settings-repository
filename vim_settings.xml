@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -49,8 +49,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.0/kafka-clients-0.10.2.0-sources.jar!/org/apache/kafka/common/security/JaasUtils.java" timestamp="1515224083271" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductStandard.java" timestamp="1515213093118" />
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/security/auth/login/Configuration.java" timestamp="1515224195335" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/core/BoundHashOperations.java" timestamp="1515205303341" />
+      <file name="C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/security/provider/ConfigFile.class" timestamp="1515224273937" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-test.properties" timestamp="1515218644822">
         <mark key="[" line="31" column="27" />
         <mark key="]" line="31" column="46" />
