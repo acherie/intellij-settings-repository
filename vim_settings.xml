@@ -9,6 +9,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/web/bind/method/annotation/BaseMethodArgumentResolver.java" timestamp="1515380359271" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductScanQrcodeService.java" timestamp="1515382058825" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ScanQrScodeProductInfoVo.java" timestamp="1515381946004" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductScanQrcodeMapper.xml" timestamp="1515382099062" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/exception/BaseException.java" timestamp="1515380311914" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" timestamp="1515380690326" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1515303238300">
@@ -25,6 +28,7 @@
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1515377225729" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestHeader.java" timestamp="1515377730340" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java" timestamp="1515377985182" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/mapper/ProductScanQrcodeMapper.java" timestamp="1515382082630" />
     </filemarks>
     <jumps>
       <jump line="3" column="17" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/model/SocialExample.java" />
