@@ -8,11 +8,17 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/MapSession.java" timestamp="1515395440036" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.java" timestamp="1515477502760" />
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/web/bind/method/annotation/BaseMethodArgumentResolver.java" timestamp="1515380359271" />
+      <file name="/File Header.txt.ft" timestamp="1515481809555">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisSessionExpirationPolicy.java" timestamp="1515395815709" />
       <file name="D:/IdeaProjects/guns/guns-admin/src/main/resources/logback-spring.xml" timestamp="1515462298831" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/web/filter/OrderedRequestContextFilter.java" timestamp="1515477201768" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/web/filter/OrderedRequestContextFilter.java" timestamp="1515481102691" />
       <file name="D:/IdeaProjects/sisyphe-framework/framework-cache/framework-cache-core/src/main/java/cn/sisyphe/framework/cache/core/annotation/S2CacheRegistrar.java" timestamp="1515404167360" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/session/HashMapSessionConfiguration.java" timestamp="1515399132169" />
+      <file name="/Interface.txt.ft" timestamp="1515481743738">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/cache/BaseCacheAspect.java" timestamp="1515465949586" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/AccountAdminService.java" timestamp="1515479516199">
         <mark key="[" line="18" column="4" />
@@ -29,9 +35,16 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/context/request/RequestAttributes.java" timestamp="1515479901582" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/push/JPushService.java" timestamp="1515397171102" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductScanQrcodeService.java" timestamp="1515382058825" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PostFilter.java" timestamp="1515480834260" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductScanQrcodeMapper.xml" timestamp="1515382099062" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/trace/WebRequestTraceFilter.java" timestamp="1515469357565" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerExecutionChain.java" timestamp="1515383173697" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/LoginUserUtils.java" timestamp="1515480584533">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+      </file>
       <file name="D:/IdeaProjects/guns/guns-admin/src/main/java/com/stylefeng/guns/config/web/ShiroConfig.java" timestamp="1515462396962" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/AccountAdminClient.java" timestamp="1515479079403">
         <mark key="[" line="11" column="20" />
@@ -40,6 +53,9 @@
         <mark key="." line="12" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/RequestContextFilter.java" timestamp="1515479825935" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1515229701767">
+        <mark key="[" line="9" column="38" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/data/redis/config/annotation/web/http/EnableRedisHttpSession.java" timestamp="1515396378607" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/config/HttpSessionConfig.java" timestamp="1515396668952">
         <mark key="[" line="12" column="23" />
@@ -47,7 +63,12 @@
         <mark key="." line="15" column="8" />
         <mark key="^" line="15" column="8" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1515377321239" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1515480884407">
+        <mark key="[" line="192" column="58" />
+        <mark key="]" line="192" column="65" />
+        <mark key="." line="192" column="65" />
+        <mark key="^" line="192" column="65" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountUserService.java" timestamp="1515401878020" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/TraceWebFilterAutoConfiguration.java" timestamp="1515469322422" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/session/LoginUserService.java" timestamp="1515464063445">
@@ -62,6 +83,9 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/i18n/LocaleChangeInterceptor.java" timestamp="1515397079635" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/web/http/OncePerRequestFilter.java" timestamp="1515393693657" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/data/redis/config/ConfigureNotifyKeyspaceEventsAction.java" timestamp="1515395137409" />
+      <file name="/HTML File.txt.ft" timestamp="1515481808237">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/mapper/ProductScanQrcodeMapper.java" timestamp="1515382082630" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/context/request/AbstractRequestAttributes.java" timestamp="1515479853736" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" timestamp="1515395795018" />
@@ -74,14 +98,17 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/serializer/SerializationException.java" timestamp="1515397969415" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/web/servlet/WebFilterHandler.java" timestamp="1515469182006" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/handler/UserRoleAuthorizationInterceptor.java" timestamp="1515390444774" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1515303238300">
+        <mark key="[" line="120" column="9" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerAdapter.java" timestamp="1515397030836" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/core/BoundKeyOperations.java" timestamp="1515466540401" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java" timestamp="1515390599350" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/AccountAdmin.java" timestamp="1515477858846">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="96" column="4" />
-        <mark key="." line="14" column="0" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/AccountAdmin.java" timestamp="1515482268361">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+        <mark key="." line="23" column="25" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/session/LoginUser.java" timestamp="1515400768288">
         <mark key="[" line="14" column="21" />
@@ -89,14 +116,12 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/application-dev.properties" timestamp="1515467951661">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountAdmin.java" timestamp="1515477841454">
-        <mark key="'" line="6" column="6" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountAdmin.java" timestamp="1515482031402">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="D:/IdeaProjects/es/common/src/main/java/com/sishuok/es/common/exception/BaseException.java" timestamp="1515380311914" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.6.RELEASE/spring-beans-4.3.6.RELEASE-sources.jar!/org/springframework/beans/factory/config/EmbeddedValueResolver.java" timestamp="1515394927391" />
@@ -110,38 +135,28 @@
         <mark key="^" line="88" column="22" />
       </file>
       <file name="D:/IdeaProjects/guns/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/mapping/MenuDao.xml" timestamp="1515462543559" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" timestamp="1515383416749">
-        <mark key="'" line="179" column="31" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/context/request/RequestContextListener.java" timestamp="1515479604034" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/TraceRepositoryAutoConfiguration.java" timestamp="1515469331409" />
       <file name="D:/IdeaProjects/guns/guns-admin/src/main/java/com/stylefeng/guns/core/shiro/factory/ShiroFactroy.java" timestamp="1515462579529" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.java" timestamp="1515396885923" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountMineController.java" timestamp="1515480769439" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestHeader.java" timestamp="1515377730340" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1515467945100" />
+      <file name="/ActionScript File Header.txt.ft" timestamp="1515481808304">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/sisyphe-framework/framework-auth/framework-auth-logic/src/main/java/cn/sisyphe/framework/auth/logic/annotation/ScopeAuthAdvice.java" timestamp="1515404210189" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/context/request/ServletRequestAttributes.java" timestamp="1515479870901" />
       <file name="D:/IdeaProjects/guns/guns-admin/src/main/java/com/stylefeng/guns/core/log/factory/LogTaskFactory.java" timestamp="1515462732924" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/cors/CorsConfiguration.java" timestamp="1515390503511" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/kafka_client_jaas.conf" timestamp="1515404679729" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/metrics/MetricsHandlerInterceptor.java" timestamp="1515382842073" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/context/request/RequestContextHolder.java" timestamp="1515470331835">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/web/http/SessionRepositoryFilter.java" timestamp="1515393668460" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMineService.java" timestamp="1515404527731">
-        <mark key="'" line="107" column="34" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/AccountAdminHolder.java" timestamp="1515470452382">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/data/redis/config/annotation/web/http/RedisHttpSessionConfiguration.java" timestamp="1515395067130" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/session/RedisSessionConfiguration.java" timestamp="1515399385350" />
       <file name="D:/IdeaProjects/guns/guns-admin/src/main/java/com/stylefeng/guns/modular/system/dao/MenuDao.java" timestamp="1515462535632" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultHashOperations.java" timestamp="1515467059752" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialArticleController.java" timestamp="1515480729611" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java" timestamp="1515390673843" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/web/servlet/AbstractFilterRegistrationBean.java" timestamp="1515468880208" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java" timestamp="1515396747145" />
@@ -149,16 +164,16 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/core/BoundHashOperations.java" timestamp="1515467046268" />
       <file name="D:/IdeaProjects/guns/guns-admin/src/main/java/com/stylefeng/guns/GunsApplication.java" timestamp="1515462334623" />
       <file name="D:/IdeaProjects/guns/guns-admin/src/main/java/com/stylefeng/guns/config/MybatisPlusConfig.java" timestamp="1515462377797" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/web/servlet/FilterRegistrationBean.java" timestamp="1515468821163" />
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/extra/aop/UserCacheAspect.java" timestamp="1515467167949">
-        <mark key="'" line="57" column="17" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/web/servlet/FilterRegistrationBean.java" timestamp="1515481165163" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/trace/TraceRepository.java" timestamp="1515469268191" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/OncePerRequestFilter.java" timestamp="1515469394478" />
       <file name="D:/IdeaProjects/guns/guns-admin/src/main/java/com/stylefeng/guns/GunsServletInitializer.java" timestamp="1515462312970" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11-sources.jar!/javax/servlet/http/HttpServletRequestWrapper.java" timestamp="1515390402288" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/web/http/HeaderHttpSessionStrategy.java" timestamp="1515393091486" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/client/AccountUserService.java" timestamp="1515479067635" />
+      <file name="/Dummy.txt" timestamp="1515480623931">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerInterceptor.java" timestamp="1515390311937" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ScanQrScodeProductInfoVo.java" timestamp="1515381946004" />
       <file name="D:/IdeaProjects/sisyphe-framework/framework-cache/framework-cache-core/src/main/java/cn/sisyphe/framework/cache/core/CacheHelper.java" timestamp="1515404136015" />
@@ -168,14 +183,25 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" timestamp="1515398084046" />
       <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.0/service-common-1.0.0-sources.jar!/com/dakun/jianzhong/utils/Result.java" timestamp="1515478819534" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerMapping.java" timestamp="1515390545720" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/AccountAdminFilter.java" timestamp="1515480215009">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="65" column="21" />
-        <mark key="]" line="65" column="64" />
-        <mark key="^" line="65" column="64" />
-        <mark key="." line="65" column="64" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/AccountAdminFilter.java" timestamp="1515481222190">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="33" column="79" />
+        <mark key="]" line="33" column="83" />
+        <mark key="^" line="33" column="83" />
+        <mark key="." line="33" column="83" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1515481743236">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultBoundKeyOperations.java" timestamp="1515466686544" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/config/web/AccountAdminFilter.java" timestamp="1515482692240">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1515400660942">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="140" column="44" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialExampleService.java" />
@@ -281,10 +307,10 @@
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIs/7z6IiKQo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItPDu6fD+7PGIikK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QFdlYkZpbHRlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kYWt1bi5qaWFuemhvbmcuY2xpZW50LkFjY291bnRBZG1pblNlcnZpY2U7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -305,7 +331,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>用户名称</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -317,49 +343,49 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtcmVkaXM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFdlYkZpbHRlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kYWt1bi5qaWFuemhvbmcuY2xpZW50LkFjY291bnRBZG1pblNlcnZpY2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItPDu6fD+7PGIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">QFdlYkZpbHRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJyb2xlX2lkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneSA9IEdlbmVyYXRpb25UeXBlLklERU5USVRZKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
