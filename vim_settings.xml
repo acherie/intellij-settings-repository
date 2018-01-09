@@ -17,6 +17,7 @@
       <file name="/Interface.txt.ft" timestamp="1515481743738">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/resources/org/hsweb/web/dao/impl/mybatis/mapper/user/UserMapper.xml" timestamp="1515496436205" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/AccountAdminService.java" timestamp="1515479516199">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="10" />
@@ -34,13 +35,6 @@
         <mark key="]" line="29" column="18" />
         <mark key="^" line="29" column="18" />
         <mark key="." line="29" column="18" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1515486431335">
-        <mark key="'" line="54" column="32" />
-        <mark key="[" line="55" column="21" />
-        <mark key="]" line="55" column="34" />
-        <mark key="." line="55" column="34" />
-        <mark key="^" line="55" column="34" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/LoginUserUtils.java" timestamp="1515480584533">
         <mark key="[" line="16" column="14" />
@@ -69,28 +63,14 @@
         <mark key="." line="192" column="65" />
         <mark key="^" line="192" column="65" />
       </file>
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/form/FormServiceImpl.java" timestamp="1515491287548" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/form/FormServiceImpl.java" timestamp="1515496488491" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/web/exceptions/BaseExceptionHandlerAdvice.java" timestamp="1515485369678">
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="32" />
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/session/LoginUserService.java" timestamp="1515464063445">
-        <mark key="'" line="12" column="36" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/AopAuthorizeValidatorAutoConfiguration.java" timestamp="1515490411904" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/exceptions/BaseExceptionHandlerAdvice.java" timestamp="1515485763327">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="37" />
-      </file>
       <file name="/HTML File.txt.ft" timestamp="1515481808237">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,13 +114,6 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountAdmin.java" timestamp="1515482031402">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="32" />
-        <mark key="^" line="32" column="32" />
-      </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-concurrent/hsweb-web-concurrent-cache/src/main/java/org/hsweb/concureent/cache/monitor/RedisMonitorCache.java" timestamp="1515490827418" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountAdminService.java" timestamp="1515489398025">
         <mark key="'" line="23" column="13" />
@@ -161,13 +134,14 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1515481808304">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/resource/ResourcesServiceImpl.java" timestamp="1515492358624" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/resource/ResourcesServiceImpl.java" timestamp="1515496318017" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/client/ProductCompanyClient.java" timestamp="1515487900365">
         <mark key="[" line="16" column="41" />
         <mark key="]" line="16" column="69" />
         <mark key="^" line="16" column="69" />
         <mark key="." line="16" column="69" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.7.RELEASE/spring-context-4.2.7.RELEASE-sources.jar!/org/springframework/cache/annotation/Caching.java" timestamp="1515496293420" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/AccountAdminHolder.java" timestamp="1515470452382">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="13" column="0" />
@@ -188,7 +162,7 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/user/UserServiceImpl.java" timestamp="1515490762417" />
+      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/user/UserServiceImpl.java" timestamp="1515496386608" />
       <file name="/Dummy.txt" timestamp="1515480623931">
         <mark key="[" line="0" column="0" />
       </file>
@@ -199,13 +173,6 @@
         <mark key="^" line="15" column="36" />
       </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/AbstractServiceImpl.java" timestamp="1515491311591" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/AccountAdminFilter.java" timestamp="1515481222190">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="33" column="79" />
-        <mark key="]" line="33" column="83" />
-        <mark key="^" line="33" column="83" />
-        <mark key="." line="33" column="83" />
-      </file>
       <file name="/Class.txt.ft" timestamp="1515481743236">
         <mark key="[" line="0" column="0" />
       </file>
