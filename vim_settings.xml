@@ -53,9 +53,6 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/ProductApplication.java" timestamp="1515488173646" />
       <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/service/UserService.java" timestamp="1515498006809" />
       <file name="D:/IdeaProjects/iBase4J/iBase4J-SYS-Service/src/main/java/org/ibase4j/service/SysRoleService.java" timestamp="1515497094272" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1515575047263">
-        <mark key="[" line="120" column="9" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/exception/IllegalArgumentException.java" timestamp="1515548244450" />
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/util/ByteSource.java" timestamp="1515498548653" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-concurrent/hsweb-web-concurrent-cache/src/main/java/org/hsweb/concureent/cache/monitor/RedisMonitorCache.java" timestamp="1515490827418" />
@@ -101,6 +98,12 @@
       </file>
       <file name="/fragment.java" timestamp="1515487818211">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductTrademarkController.java" timestamp="1515576252278">
+        <mark key="[" line="165" column="12" />
+        <mark key="]" line="165" column="18" />
+        <mark key="^" line="165" column="18" />
+        <mark key="." line="165" column="18" />
       </file>
     </filemarks>
     <jumps>
