@@ -5,11 +5,20 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" timestamp="1515554457994">
+        <mark key="[" line="63" column="29" />
+      </file>
+      <file name="/a.dummy" timestamp="1515485795430">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/web/exceptions/BaseExceptionHandler.java" timestamp="1515485914485">
         <mark key="[" line="59" column="79" />
         <mark key="]" line="59" column="89" />
         <mark key="^" line="59" column="89" />
         <mark key="." line="59" column="89" />
+      </file>
+      <file name="/Interface.txt.ft" timestamp="1515481743738">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/IdeaProjects/iBase4J/pom.xml" timestamp="1515497290012" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/resources/org/hsweb/web/dao/impl/mybatis/mapper/user/UserMapper.xml" timestamp="1515496436205" />
@@ -34,6 +43,7 @@
         <mark key="^" line="35" column="42" />
         <mark key="." line="35" column="42" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/type/TypeHandler.java" timestamp="1515554677734" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1515486431335">
         <mark key="'" line="54" column="32" />
         <mark key="[" line="55" column="21" />
@@ -52,6 +62,9 @@
         <mark key="]" line="12" column="17" />
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1515229701767">
+        <mark key="[" line="9" column="38" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/config/HttpSessionConfig.java" timestamp="1515396668952">
         <mark key="[" line="12" column="23" />
@@ -91,6 +104,7 @@
       </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/AopAuthorizeValidatorAutoConfiguration.java" timestamp="1515490411904" />
       <file name="D:/IdeaProjects/iBase4J/iBase4J-SYS-Web/src/main/java/org/ibase4j/web/LoginController.java" timestamp="1515497245384" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/type/BooleanTypeHandler.java" timestamp="1515554668332" />
       <file name="D:/IdeaProjects/iBase4J/iBase4J-SYS-Service/src/main/java/org/ibase4j/service/SysCacheService.java" timestamp="1515497192799" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/exceptions/BaseExceptionHandlerAdvice.java" timestamp="1515485763327">
         <mark key="'" line="27" column="13" />
@@ -99,6 +113,9 @@
         <mark key="." line="27" column="37" />
         <mark key="^" line="27" column="37" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1515481808237">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" timestamp="1515551895979">
         <mark key="'" line="39" column="13" />
         <mark key="[" line="138" column="0" />
@@ -106,11 +123,11 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/ProductApplication.java" timestamp="1515488173646" />
       <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/service/UserService.java" timestamp="1515498006809" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminController.java" timestamp="1515552072982">
-        <mark key="[" line="146" column="27" />
-        <mark key="]" line="146" column="28" />
-        <mark key="." line="146" column="28" />
-        <mark key="^" line="146" column="28" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminController.java" timestamp="1515553706820">
+        <mark key="[" line="143" column="27" />
+        <mark key="]" line="143" column="28" />
+        <mark key="." line="143" column="28" />
+        <mark key="^" line="143" column="28" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/exception/UnauthorizedException.java" timestamp="1515484402932">
         <mark key="[" line="17" column="14" />
@@ -125,10 +142,13 @@
       </file>
       <file name="D:/IdeaProjects/iBase4J/iBase4J-SYS-Service/src/main/java/org/ibase4j/service/SysRoleService.java" timestamp="1515497094272" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/exceptions/ExceptionHandlerAdvice.java" timestamp="1515485848383">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="63" />
-        <mark key="." line="27" column="63" />
-        <mark key="^" line="27" column="63" />
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="63" />
+        <mark key="." line="13" column="63" />
+        <mark key="^" line="13" column="63" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1515303238300">
+        <mark key="[" line="120" column="9" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/AccountAdmin.java" timestamp="1515482268361">
         <mark key="[" line="21" column="30" />
@@ -151,18 +171,18 @@
         <mark key="." line="8" column="21" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountAdmin.java" timestamp="1515551728467">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="32" column="34" />
-        <mark key="." line="32" column="34" />
-        <mark key="^" line="32" column="34" />
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="34" />
       </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-concurrent/hsweb-web-concurrent-cache/src/main/java/org/hsweb/concureent/cache/monitor/RedisMonitorCache.java" timestamp="1515490827418" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountAdminService.java" timestamp="1515550351404">
-        <mark key="'" line="31" column="13" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-datasource/src/main/java/org/hsweb/web/datasource/dynamic/DynamicDataSourceServiceImpl.java" timestamp="1515490911124" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/exceptions/BaseExceptionHandlerAdvice.java" timestamp="1515486463808">
@@ -172,8 +192,13 @@
         <mark key="^" line="14" column="69" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-commons/1.0.1/hsweb-commons-1.0.1-sources.jar!/org/hsweb/commons/MD5.java" timestamp="1515490732146" />
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/sql/PreparedStatement.java" timestamp="1515554746169" />
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/authorize/AopAuthorizeValidator.java" timestamp="1515490427959" />
+      <file name="/ActionScript File Header.txt.ft" timestamp="1515481808304">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/resource/ResourcesServiceImpl.java" timestamp="1515496318017" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/type/BaseTypeHandler.java" timestamp="1515554711917" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/client/ProductCompanyClient.java" timestamp="1515487900365">
         <mark key="[" line="16" column="41" />
         <mark key="]" line="16" column="69" />
@@ -213,6 +238,9 @@
         <mark key="." line="13" column="18" />
       </file>
       <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/user/UserServiceImpl.java" timestamp="1515496386608" />
+      <file name="/Dummy.txt" timestamp="1515554141445">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/pom.xml" timestamp="1515483875687">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="36" />
@@ -235,11 +263,17 @@
         <mark key="." line="33" column="83" />
       </file>
       <file name="D:/IdeaProjects/iBase4J/iBase4J-Biz-Service/src/main/java/org/ibase4j/service/MemberService.java" timestamp="1515497614532" />
+      <file name="/Class.txt.ft" timestamp="1515481743236">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/exception/UnauthenticatedException.java" timestamp="1515483759452">
         <mark key="[" line="16" column="36" />
         <mark key="]" line="16" column="36" />
         <mark key="." line="16" column="36" />
         <mark key="^" line="17" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1515487818211">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
