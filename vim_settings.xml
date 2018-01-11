@@ -17,12 +17,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportQrService.java" timestamp="1515642648347">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportQrService.java" timestamp="1515649814069">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="50" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="80" column="34" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="82" column="31" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="81" column="59" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1515633705293" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/client/ProductCompanyService.java" timestamp="1515551838180">
@@ -36,6 +36,7 @@
         <mark key="]" line="222" column="0" />
         <mark key="." line="222" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java" timestamp="1515649628349" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/LoginUserUtils.java" timestamp="1515566825848">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="10" column="17" />
@@ -216,7 +217,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>specification</text>
+        <text>++</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tb25cPg==</text>
@@ -234,43 +235,43 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgUHJvZHVjdEFwcGx5U2VydmljZSBhcHBseVNlcnZpY2U7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBQcm9kdWN0U3BlY2lmaWNhdGlvblNlcnZpY2Ugc3BlY2lmaWNhdGlvblNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IHBhY2thZ2VzLnNpemUoKTsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFByb2R1Y3RQYWNrYWdlIGFQYWNrYWdlIDogcGFja2FnZXMpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWN0U3BlY2lmaWNhdGlvbiBzcGVjID0KICAgICAgICAgICAgICAgIHNwZWNpZmljYXRpb25TZXJ2aWNlLmdldFNwZWNpZmljYXRpb25BbmRQYWNrYWdlc0J5SWQoYXBwbHkuZ2V0U3BlY2lmaWNhdGlvbklkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBseVNlcnZpY2UuZ2V0SW5mb0J5SWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRQcm9kdWN0LnNldFN0YXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
