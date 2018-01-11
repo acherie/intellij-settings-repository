@@ -5,24 +5,29 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" timestamp="1515635380004">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="34" column="38" />
+        <mark key="^" line="34" column="52" />
+        <mark key="." line="34" column="38" />
+      </file>
       <file name="/a.dummy" timestamp="1515485795430">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Interface.txt.ft" timestamp="1515481743738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/IdeaProjects/iBase4J/pom.xml" timestamp="1515497290012" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-dao/hsweb-web-dao-mybatis/src/main/resources/org/hsweb/web/dao/impl/mybatis/mapper/user/UserMapper.xml" timestamp="1515496436205" />
-      <file name="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar!/org/apache/commons/codec/digest/DigestUtils.java" timestamp="1515499102859" />
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/service/PasswordService.java" timestamp="1515498062670" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStateChangeVo.java" timestamp="1515549777431" />
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1515633705293" />
+      <file name="/ActionScript File Header.txt.ft" timestamp="1515481808304">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/client/ProductCompanyService.java" timestamp="1515551838180">
         <mark key="[" line="34" column="35" />
         <mark key="]" line="35" column="42" />
         <mark key="^" line="35" column="42" />
         <mark key="." line="35" column="42" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/type/TypeHandler.java" timestamp="1515554677734" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/LoginUserUtils.java" timestamp="1515566825848">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="10" column="17" />
@@ -32,7 +37,14 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1515229701767">
         <mark key="[" line="9" column="38" />
       </file>
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/form/FormServiceImpl.java" timestamp="1515496488491" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" timestamp="1515635478561">
+        <mark key="'" line="44" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/query/ProductSpecificationQuery.java" timestamp="1515573220248">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductTrademark.java" timestamp="1515566945164">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="29" />
@@ -43,56 +55,26 @@
         <mark key="^" line="28" column="40" />
         <mark key="." line="28" column="40" />
       </file>
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-controller/src/main/java/org/hsweb/web/controller/AopAuthorizeValidatorAutoConfiguration.java" timestamp="1515490411904" />
-      <file name="D:/IdeaProjects/iBase4J/iBase4J-SYS-Web/src/main/java/org/ibase4j/web/LoginController.java" timestamp="1515497245384" />
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/type/BooleanTypeHandler.java" timestamp="1515554668332" />
-      <file name="D:/IdeaProjects/iBase4J/iBase4J-SYS-Service/src/main/java/org/ibase4j/service/SysCacheService.java" timestamp="1515497192799" />
       <file name="/HTML File.txt.ft" timestamp="1515481808237">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/ProductApplication.java" timestamp="1515488173646" />
-      <file name="D:/IdeaProjects/es/web/src/main/java/com/sishuok/es/sys/user/service/UserService.java" timestamp="1515498006809" />
-      <file name="D:/IdeaProjects/iBase4J/iBase4J-SYS-Service/src/main/java/org/ibase4j/service/SysRoleService.java" timestamp="1515497094272" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/src/main/java/com/dakun/jianzhong/utils/exception/IllegalArgumentException.java" timestamp="1515548244450" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/util/ByteSource.java" timestamp="1515498548653" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-concurrent/hsweb-web-concurrent-cache/src/main/java/org/hsweb/concureent/cache/monitor/RedisMonitorCache.java" timestamp="1515490827418" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-datasource/src/main/java/org/hsweb/web/datasource/dynamic/DynamicDataSourceServiceImpl.java" timestamp="1515490911124" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportInfoVo.java" timestamp="1515575051033" />
-      <file name="$MAVEN_REPOSITORY$/org/hsweb/hsweb-commons/1.0.1/hsweb-commons-1.0.1-sources.jar!/org/hsweb/commons/MD5.java" timestamp="1515490732146" />
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/sql/PreparedStatement.java" timestamp="1515554746169" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-core/src/main/java/org/hsweb/web/core/authorize/AopAuthorizeValidator.java" timestamp="1515490427959" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductInspection.java" timestamp="1515575064310" />
-      <file name="/ActionScript File Header.txt.ft" timestamp="1515481808304">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/resource/ResourcesServiceImpl.java" timestamp="1515496318017" />
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0-sources.jar!/org/apache/ibatis/type/BaseTypeHandler.java" timestamp="1515554711917" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.7.RELEASE/spring-context-4.2.7.RELEASE-sources.jar!/org/springframework/cache/annotation/Caching.java" timestamp="1515496293420" />
-      <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.1-SNAPSHOT/service-common-1.0.1-SNAPSHOT-sources.jar!/com/dakun/jianzhong/utils/MD5.java" timestamp="1515498115762" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE-sources.jar!/org/springframework/util/DigestUtils.java" timestamp="1515498925190" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/query/ProductSpecificationQuery.java" timestamp="1515573220248">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-      </file>
-      <file name="D:/IdeaProjects/jeesite/src/main/java/com/thinkgem/jeesite/common/supcan/SupcanController.java" timestamp="1515497842051" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/draft/CacheDraftService.java" timestamp="1515491239128" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/SimpleHash.java" timestamp="1515498528937" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-starter/src/main/java/org/hsweb/web/starter/SystemInitialize.java" timestamp="1515491151356" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportVo.java" timestamp="1515575094414" />
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/user/UserServiceImpl.java" timestamp="1515496386608" />
       <file name="/Dummy.txt" timestamp="1515554141445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2-sources.jar!/org/apache/shiro/crypto/hash/Md5Hash.java" timestamp="1515498156871" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1515634764822" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/query/AccountAdminQuery.java" timestamp="1515550771323">
         <mark key="[" line="6" column="50" />
         <mark key="]" line="14" column="34" />
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="D:/IdeaProjects/hsweb-framework/hsweb-web-service/hsweb-web-service-simple/src/main/java/org/hsweb/web/service/impl/AbstractServiceImpl.java" timestamp="1515491311591" />
-      <file name="D:/IdeaProjects/iBase4J/iBase4J-Biz-Service/src/main/java/org/ibase4j/service/MemberService.java" timestamp="1515497614532" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1515635500656">
+        <mark key="[" line="312" column="15" />
+        <mark key="]" line="312" column="14" />
+        <mark key="^" line="312" column="14" />
+        <mark key="." line="312" column="14" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductApplyDto.java" timestamp="1515634830370" />
       <file name="/Class.txt.ft" timestamp="1515481743236">
         <mark key="[" line="0" column="0" />
       </file>
@@ -107,8 +89,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/controller/SocialExampleController.java" />
-      <jump line="170" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialExampleService.java" />
       <jump line="149" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialExampleService.java" />
       <jump line="176" column="53" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialArticleService.java" />
       <jump line="195" column="47" filename="D:/Projects/nongtianquan/zhuannong-backend/social-service/src/main/java/com/dakun/jianzhong/service/SocialArticleService.java" />
@@ -207,13 +187,15 @@
       <jump line="54" column="32" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
       <jump line="23" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountAdminService.java" />
       <jump line="39" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductBottleController.java" />
+      <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
+      <jump line="44" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItPDu6fD+7PGIikK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocXVlcnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -234,7 +216,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>, hidden = true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21tb25cPg==</text>
@@ -246,13 +228,13 @@
         <text>tCompanyId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocXVlcnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocXVlcnkpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -261,16 +243,16 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
@@ -288,7 +270,7 @@
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -304,7 +286,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
