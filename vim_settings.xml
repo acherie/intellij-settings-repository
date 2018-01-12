@@ -30,11 +30,17 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountCompanyPageController.java" timestamp="1515728562037" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1515652818203">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="26" />
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
+      </file>
+      <file name="D:/Projects/nongtianquan/code-generator/src/main/java/generator/parameter/UserParameters.java" timestamp="1515728259892">
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1515229701767">
         <mark key="[" line="9" column="38" />
@@ -44,6 +50,17 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="30" />
         <mark key="." line="8" column="30" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountCompanyPage.java" timestamp="1515728359631">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/code-generator/src/main/java/generator/parameter/SystemParameters.java" timestamp="1515728203242">
+        <mark key="[" line="7" column="93" />
+        <mark key="]" line="7" column="109" />
+        <mark key="." line="7" column="109" />
+        <mark key="^" line="7" column="109" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/jade/views/partials/sidebar.jade" timestamp="1515722409161" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application.properties" timestamp="1515726104660">
@@ -80,9 +97,6 @@
       </file>
       <file name="/fragment.java" timestamp="1515668495867">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountAdmin.java" timestamp="1515663189624">
-        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -192,7 +206,7 @@
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItPDu6fD+7PGIikK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogvcfJq2lkcwogICAgICovCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -213,7 +227,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>zuul</text>
+        <text>social</text>
       </register>
       <register name="/" type="4">
         <text>fei</text>
@@ -222,52 +236,52 @@
         <text>getOrderDetailUrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWNsb3VkLXN0YXJ0ZXItZmVpZ248L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB7InNvY2lhbF9leGFtcGxlX2NvbW1lbnQiLCJzb2NpYWwiLCAgICAgICJleGFtcGxlL2NvbW1lbnQiLCAgICAgICAiMSJ9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogvcfJq2lkcwogICAgICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog0rPD5mlkCiAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoguavLvmlkCiAgICAgKi8K</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nZ2luZy5sZXZlbC5vcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkLm5ldGZsaXguZmVpZ249REVCVUcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCK78cihtbHHsLXHwry688youdzA7dPDu6csIGFkbWluSWQ6IFt7fV0iLCBhZG1pbklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5zZXNzaW9uPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctc2Vzc2lvbjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">bG9nZ2luZy5sZXZlbC5vcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkLm5ldGZsaXguZmVpZ249REVCVUcK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4zLjEuUkVMRUFTRTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
