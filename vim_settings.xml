@@ -97,12 +97,12 @@
       <file name="/Dummy.txt" timestamp="1515756689434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1515812527638">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1515814462013">
         <mark key="'" line="408" column="75" />
         <mark key="[" line="72" column="39" />
-        <mark key="]" line="439" column="15" />
-        <mark key="^" line="439" column="15" />
-        <mark key="." line="439" column="15" />
+        <mark key="]" line="75" column="3" />
+        <mark key="^" line="75" column="3" />
+        <mark key="." line="75" column="3" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminController.java" timestamp="1515760335421">
         <mark key="'" line="131" column="68" />
