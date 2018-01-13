@@ -87,12 +87,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1515809972619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductCompanyRelationService.java" timestamp="1515820586803">
-        <mark key="'" line="66" column="15" />
-        <mark key="[" line="53" column="33" />
-        <mark key="]" line="53" column="72" />
-        <mark key="." line="53" column="72" />
-        <mark key="^" line="53" column="72" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductCompanyRelationService.java" timestamp="1515831247061">
+        <mark key="'" line="77" column="15" />
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="44" column="49" />
+        <mark key="." line="44" column="49" />
+        <mark key="^" line="44" column="49" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStateChangeVo.java" timestamp="1515747575669">
         <mark key="[" line="24" column="27" />
@@ -128,6 +128,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" timestamp="1515832255412">
+        <mark key="'" line="143" column="46" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1515652818203">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="26" />
@@ -144,11 +147,10 @@
         <mark key="." line="49" column="68" />
         <mark key="^" line="49" column="68" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductCompanyController.java" timestamp="1515818865991">
-        <mark key="[" line="116" column="8" />
-        <mark key="]" line="115" column="82" />
-        <mark key="^" line="115" column="82" />
-        <mark key="." line="115" column="82" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductCompanyController.java" timestamp="1515829853425">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1515654598697">
         <mark key="[" line="172" column="0" />
@@ -178,11 +180,11 @@
         <mark key="^" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductCompanyRelation.java" timestamp="1515820143285">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-        <mark key="^" line="10" column="39" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductCompanyRelation.java" timestamp="1515830587858">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/InfoController.java" timestamp="1515759470329">
         <mark key="[" line="59" column="46" />
@@ -193,12 +195,12 @@
       <file name="/fragment.java" timestamp="1515759452681">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductCompanyRelationController.java" timestamp="1515819300568">
-        <mark key="'" line="120" column="28" />
-        <mark key="[" line="104" column="63" />
-        <mark key="]" line="104" column="110" />
-        <mark key="." line="104" column="110" />
-        <mark key="^" line="104" column="110" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductCompanyRelationController.java" timestamp="1515831040209">
+        <mark key="'" line="112" column="28" />
+        <mark key="[" line="97" column="38" />
+        <mark key="]" line="98" column="37" />
+        <mark key="^" line="98" column="37" />
+        <mark key="." line="98" column="37" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountAdmin.java" timestamp="1515809920756">
         <mark key="'" line="9" column="18" />
@@ -209,14 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
-      <jump line="104" column="19" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
-      <jump line="38" column="31" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" />
-      <jump line="51" column="40" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" />
-      <jump line="27" column="64" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" />
-      <jump line="50" column="41" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Camden.SR6/spring-cloud-dependencies-Camden.SR6.pom" />
-      <jump line="35" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/config/KafkaBinderConfigurationProperties.java" />
-      <jump line="252" column="15" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/config/KafkaBinderConfigurationProperties.java" />
       <jump line="255" column="53" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/config/KafkaBinderConfigurationProperties.java" />
       <jump line="256" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/config/KafkaBinderConfigurationProperties.java" />
       <jump line="13" column="33" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" />
@@ -309,13 +303,21 @@
       <jump line="62" column="15" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductCompanyRelationService.java" />
       <jump line="450" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" />
+      <jump line="12" column="30" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
+      <jump line="54" column="8" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
+      <jump line="55" column="7" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
+      <jump line="57" column="27" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
+      <jump line="61" column="7" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
+      <jump line="63" column="27" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
+      <jump line="64" column="18" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
+      <jump line="143" column="46" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItPDu6fD+7PGIikK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>企业关联已存在</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -336,10 +338,10 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>企业关联已存在</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>vendor</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -348,31 +350,31 @@
         <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL2VuYWJsZSIpCiAgICBwdWJsaWMgUmVzdWx0IGVuYWJsZShJbnRlZ2VyIGlkKSB7CgogICAgICAgIFByb2R1Y3RDb21wYW55UmVsYXRpb24gcmVsYXRpb24gPSBwcm9kdWN0Q29tcGFueVJlbGF0aW9uU2VydmljZS5nZXQoaWQpOwogICAgICAgIFBlcm1pc3Npb25VdGlscy5jaGVja0NvbXBhbnkocmVsYXRpb24uZ2V0Q29tcGFueUlkKCkpOwoKICAgICAgICBQcm9kdWN0U3RhdGVDaGFuZ2VWbyBjaGFuZ2VWbyA9IG5ldyBQcm9kdWN0U3RhdGVDaGFuZ2VWbyhpZCwKICAgICAgICAgICAgICAgIFByb2R1Y3RDb21wYW55UmVsYXRpb24uU1RBVEVfRElTQUJMRSwKICAgICAgICAgICAgICAgIFByb2R1Y3RDb21wYW55UmVsYXRpb24uU1RBVEVfRU5BQkxFKTsKICAgICAgICAKICAgICAgICBwcm9kdWN0Q29tcGFueVJlbGF0aW9uU2VydmljZS5jaGFuZ2VSZWxhdGlvbihjaGFuZ2VWbyk7CgogICAgICAgIHJldHVybiBSZXN1bHRHZW5lcmF0b3IuZ2VuU3VjY2Vzc1Jlc3VsdCgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZWxhdGlvbi5zZXRTdGF0ZShzdGF0ZUNoYW5nZVZvLmdldE5ld1N0YXRlKCkuYnl0ZVZhbHVlKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAUG9zdE1hcHBpbmcoIi9kZWxldGUiKQogICAgcHVibGljIFJlc3VsdCBkZWxldGUoQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IHRydWUpIEludGVnZXIgaWQpIHsKICAgICAgICBwcm9kdWN0Q29tcGFueVJlbGF0aW9uU2VydmljZS5kZWxldGVCeUlkKGlkKTsKICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlblN1Y2Nlc3NSZXN1bHQoKTsKICAgIH0K</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBAUG9zdE1hcHBpbmcoIi9hZGQtYmF0Y2giKQogICAgcHVibGljIFJlc3VsdCBhZGRCYXRjaChAUmVxdWVzdEJvZHkgTGlzdDxQcm9kdWN0Q29tcGFueVJlbGF0aW9uPiBwcm9kdWN0Q29tcGFueVJlbGF0aW9uKSB7CiAgICAgICAgcHJvZHVjdENvbXBhbnlSZWxhdGlvblNlcnZpY2Uuc2F2ZShwcm9kdWN0Q29tcGFueVJlbGF0aW9uKTsKICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlblN1Y2Nlc3NSZXN1bHQocHJvZHVjdENvbXBhbnlSZWxhdGlvbik7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgR2V0TWFwcGluZwogICAgcHVibGljIFJlc3VsdDxMaXN0PFByb2R1Y3RTcGVjaWZpY2F0aW9uT2ZBcHBseVZvPj4gbGlzdFNwZWNBcHBseVZvQnlDb21wYW55SWQoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIrmry7652MGquavLvrLp0a8iKQogICAgQEdldE1hcHBpbmcoIi9jb21wYW55L3JlbGF0ZS9saXN0IikKICAgIHB1YmxpYyBSZXN1bHQ8TGlzdDxQcm9kdWN0Q29tcGFueT4+IGxpc3RCaXpDb21wYW5pZXNCeVByb2R1Y2VUeXBlKEBSZXF1ZXN0UGFyYW0gSW50ZWdlciBwcm9kdWNlVHlwZSkgewoKCiAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKCiAgICAgICAgLy8gzq/N0LD817Cy+sa3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
@@ -390,7 +392,7 @@
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -400,17 +402,16 @@
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>vendor</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>vendor</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTlBVVF9DSEFOTkVMX0FUVFJJQlVURVw+</entry>
         <entry encoding="base64">XDx1c2VyU2VydmljZUNsaWVudFw+</entry>
         <entry>getApp</entry>
         <entry>approve</entry>
@@ -430,6 +431,7 @@
         <entry>fei</entry>
         <entry>company</entry>
         <entry>list</entry>
+        <entry>vendor</entry>
       </history-search>
       <history-cmd>
         <entry>argume</entry>
