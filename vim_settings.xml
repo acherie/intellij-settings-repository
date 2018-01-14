@@ -94,6 +94,9 @@
         <mark key="." line="44" column="49" />
         <mark key="^" line="44" column="49" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/pom.xml" timestamp="1515911422304">
+        <mark key="'" line="35" column="36" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductStateChangeVo.java" timestamp="1515747575669">
         <mark key="[" line="24" column="27" />
         <mark key="]" line="26" column="35" />
@@ -110,6 +113,9 @@
         <mark key="^" line="443" column="32" />
         <mark key="." line="443" column="32" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1515911230519" />
+      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10-sources.jar!/io/swagger/annotations/ApiOperation.java" timestamp="1515911876680" />
+      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.10/swagger-annotations-1.5.10-sources.jar!/io/swagger/annotations/Api.java" timestamp="1515911823463" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminController.java" timestamp="1515760335421">
         <mark key="'" line="131" column="68" />
         <mark key="[" line="131" column="54" />
@@ -152,11 +158,11 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1515654598697">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="174" column="18" />
-        <mark key="^" line="174" column="18" />
-        <mark key="." line="174" column="18" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1515911909979">
+        <mark key="[" line="38" column="3" />
+        <mark key="]" line="39" column="24" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="39" column="24" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1515229701767">
         <mark key="[" line="9" column="38" />
@@ -211,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="53" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/config/KafkaBinderConfigurationProperties.java" />
       <jump line="256" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/config/KafkaBinderConfigurationProperties.java" />
       <jump line="13" column="33" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" />
       <jump line="14" column="33" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" />
@@ -311,13 +316,14 @@
       <jump line="63" column="27" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
       <jump line="64" column="18" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
       <jump line="143" column="46" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
+      <jump line="35" column="36" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItPDu6fD+7PGIikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>企业关联已存在</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqILmry763x8/kwuu52MGqyerH67XEyc+xqAogICAgICogQHBhcmFtIGFwcGx5SWQKICAgICAqIEByZXR1cm4KICAgICAqLwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -341,7 +347,7 @@
         <text>企业关联已存在</text>
       </register>
       <register name="/" type="4">
-        <text>vendor</text>
+        <text>swagger</text>
       </register>
       <register name="o" type="4">
         <text>getOrderDetailUrl</text>
@@ -350,49 +356,49 @@
         <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL2VuYWJsZSIpCiAgICBwdWJsaWMgUmVzdWx0IGVuYWJsZShJbnRlZ2VyIGlkKSB7CgogICAgICAgIFByb2R1Y3RDb21wYW55UmVsYXRpb24gcmVsYXRpb24gPSBwcm9kdWN0Q29tcGFueVJlbGF0aW9uU2VydmljZS5nZXQoaWQpOwogICAgICAgIFBlcm1pc3Npb25VdGlscy5jaGVja0NvbXBhbnkocmVsYXRpb24uZ2V0Q29tcGFueUlkKCkpOwoKICAgICAgICBQcm9kdWN0U3RhdGVDaGFuZ2VWbyBjaGFuZ2VWbyA9IG5ldyBQcm9kdWN0U3RhdGVDaGFuZ2VWbyhpZCwKICAgICAgICAgICAgICAgIFByb2R1Y3RDb21wYW55UmVsYXRpb24uU1RBVEVfRElTQUJMRSwKICAgICAgICAgICAgICAgIFByb2R1Y3RDb21wYW55UmVsYXRpb24uU1RBVEVfRU5BQkxFKTsKICAgICAgICAKICAgICAgICBwcm9kdWN0Q29tcGFueVJlbGF0aW9uU2VydmljZS5jaGFuZ2VSZWxhdGlvbihjaGFuZ2VWbyk7CgogICAgICAgIHJldHVybiBSZXN1bHRHZW5lcmF0b3IuZ2VuU3VjY2Vzc1Jlc3VsdCgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqILmry763x8/kwuu52MGqyerH67XEyc+xqAogICAgICogQHBhcmFtIGFwcGx5SWQKICAgICAqIEByZXR1cm4KICAgICAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWxhdGlvbi5zZXRTdGF0ZShzdGF0ZUNoYW5nZVZvLmdldE5ld1N0YXRlKCkuYnl0ZVZhbHVlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAUG9zdE1hcHBpbmcoIi9kZWxldGUiKQogICAgcHVibGljIFJlc3VsdCBkZWxldGUoQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IHRydWUpIEludGVnZXIgaWQpIHsKICAgICAgICBwcm9kdWN0Q29tcGFueVJlbGF0aW9uU2VydmljZS5kZWxldGVCeUlkKGlkKTsKICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlblN1Y2Nlc3NSZXN1bHQoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZWxhdGlvbi5zZXRTdGF0ZShzdGF0ZUNoYW5nZVZvLmdldE5ld1N0YXRlKCkuYnl0ZVZhbHVlKCkpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAUG9zdE1hcHBpbmcoIi9hZGQtYmF0Y2giKQogICAgcHVibGljIFJlc3VsdCBhZGRCYXRjaChAUmVxdWVzdEJvZHkgTGlzdDxQcm9kdWN0Q29tcGFueVJlbGF0aW9uPiBwcm9kdWN0Q29tcGFueVJlbGF0aW9uKSB7CiAgICAgICAgcHJvZHVjdENvbXBhbnlSZWxhdGlvblNlcnZpY2Uuc2F2ZShwcm9kdWN0Q29tcGFueVJlbGF0aW9uKTsKICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlblN1Y2Nlc3NSZXN1bHQocHJvZHVjdENvbXBhbnlSZWxhdGlvbik7CiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBAUG9zdE1hcHBpbmcoIi9kZWxldGUiKQogICAgcHVibGljIFJlc3VsdCBkZWxldGUoQFJlcXVlc3RQYXJhbShyZXF1aXJlZCA9IHRydWUpIEludGVnZXIgaWQpIHsKICAgICAgICBwcm9kdWN0Q29tcGFueVJlbGF0aW9uU2VydmljZS5kZWxldGVCeUlkKGlkKTsKICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlblN1Y2Nlc3NSZXN1bHQoKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIrmry7652MGquavLvrLp0a8iKQogICAgQEdldE1hcHBpbmcoIi9jb21wYW55L3JlbGF0ZS9saXN0IikKICAgIHB1YmxpYyBSZXN1bHQ8TGlzdDxQcm9kdWN0Q29tcGFueT4+IGxpc3RCaXpDb21wYW5pZXNCeVByb2R1Y2VUeXBlKEBSZXF1ZXN0UGFyYW0gSW50ZWdlciBwcm9kdWNlVHlwZSkgewoKCiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBAUG9zdE1hcHBpbmcoIi9hZGQtYmF0Y2giKQogICAgcHVibGljIFJlc3VsdCBhZGRCYXRjaChAUmVxdWVzdEJvZHkgTGlzdDxQcm9kdWN0Q29tcGFueVJlbGF0aW9uPiBwcm9kdWN0Q29tcGFueVJlbGF0aW9uKSB7CiAgICAgICAgcHJvZHVjdENvbXBhbnlSZWxhdGlvblNlcnZpY2Uuc2F2ZShwcm9kdWN0Q29tcGFueVJlbGF0aW9uKTsKICAgICAgICByZXR1cm4gUmVzdWx0R2VuZXJhdG9yLmdlblN1Y2Nlc3NSZXN1bHQocHJvZHVjdENvbXBhbnlSZWxhdGlvbik7CiAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIrmry7652MGquavLvrLp0a8iKQogICAgQEdldE1hcHBpbmcoIi9jb21wYW55L3JlbGF0ZS9saXN0IikKICAgIHB1YmxpYyBSZXN1bHQ8TGlzdDxQcm9kdWN0Q29tcGFueT4+IGxpc3RCaXpDb21wYW5pZXNCeVByb2R1Y2VUeXBlKEBSZXF1ZXN0UGFyYW0gSW50ZWdlciBwcm9kdWNlVHlwZSkgewoKCiAgICB9Cg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -402,9 +408,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vendor</last-search>
+      <last-search>swagger</last-search>
       <last-offset />
-      <last-pattern>vendor</last-pattern>
+      <last-pattern>swagger</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -412,7 +418,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyU2VydmljZUNsaWVudFw+</entry>
         <entry>getApp</entry>
         <entry>approve</entry>
         <entry>stream</entry>
@@ -432,6 +437,7 @@
         <entry>company</entry>
         <entry>list</entry>
         <entry>vendor</entry>
+        <entry>swagger</entry>
       </history-search>
       <history-cmd>
         <entry>argume</entry>
