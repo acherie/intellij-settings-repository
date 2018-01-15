@@ -216,6 +216,7 @@
         <mark key="^" line="51" column="52" />
         <mark key="." line="51" column="52" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/application-dev.properties" timestamp="1516011158360" />
     </filemarks>
     <jumps>
       <jump line="86" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" />
