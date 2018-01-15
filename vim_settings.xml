@@ -16,6 +16,13 @@
       <file name="/a.dummy" timestamp="1515485795430">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountPageController.java" timestamp="1516007824997">
+        <mark key="'" line="25" column="13" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="116" column="19" />
+        <mark key="^" line="116" column="19" />
+        <mark key="." line="116" column="19" />
+      </file>
       <file name="/Interface.txt.ft" timestamp="1515481743738">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,7 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="597" column="24" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1-sources.jar!/org/apache/kafka/clients/NetworkClient.java" />
       <jump line="86" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java" />
       <jump line="21" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" />
       <jump line="10" column="69" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" />
@@ -227,6 +233,7 @@
       <jump line="251" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
       <jump line="39" column="24" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminController.java" />
+      <jump line="25" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountPageController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
