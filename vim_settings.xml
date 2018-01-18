@@ -5,34 +5,36 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountAdminService.java" timestamp="1516240109249">
+        <mark key="[" line="69" column="5" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/application-production.properties" timestamp="1516170559531">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="12" column="21" />
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/PathMatchingFilter.java" timestamp="1516175402136" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/application.properties" timestamp="1516173937165" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/mgt/PathMatchingFilterChainResolver.java" timestamp="1516176917662" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/shiro/web/filter/outworker/OutworkerBaseJwtFilter.java" timestamp="1516161406848" />
-      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1516161317035" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/service/qiniu/QiniuConstant.java" timestamp="1516187086428" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/mgt/DefaultFilterChainManager.java" timestamp="1516177563937" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1516157226867">
         <mark key="[" line="267" column="0" />
         <mark key="]" line="267" column="0" />
         <mark key="." line="267" column="0" />
         <mark key="^" line="136" column="46" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/QiniuImageFilter.java" timestamp="1516187444249">
-        <mark key="'" line="19" column="45" />
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="46" column="45" />
-        <mark key="^" line="46" column="45" />
-        <mark key="." line="46" column="45" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/AbstractPathMatchingFilter.java" timestamp="1516239797721">
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="14" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/monitoring/TracerFactory.java" timestamp="1516158951728" />
-      <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/filters/ZuulServletFilter.java" timestamp="1516159159934" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PathMatchFilter.java" timestamp="1516238815675">
+        <mark key="[" line="6" column="22" />
+      </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1516236114684" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/QiniuImageFilter.java" timestamp="1516239385162">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/Application.java" timestamp="1516178571155">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -50,27 +52,19 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/config/ZuulFilterConfigurator.java" timestamp="1516178596343">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/config/ZuulFilterConfigurator.java" timestamp="1516239686635">
         <mark key="'" line="13" column="4" />
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="47" column="37" />
-        <mark key="^" line="47" column="37" />
-        <mark key="." line="47" column="37" />
+        <mark key="[" line="47" column="67" />
+        <mark key="]" line="48" column="70" />
+        <mark key="^" line="48" column="70" />
+        <mark key="." line="48" column="70" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring-config-shiro.xml" timestamp="1516168758674" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductComposition.java" timestamp="1516157618649" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-kafka/1.1.2.RELEASE/spring-cloud-stream-binder-kafka-1.1.2.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/kafka/KafkaProducerProperties.java" timestamp="1516161221693" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/util/WebUtils.java" timestamp="1516178328600" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" timestamp="1516172059050" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1516187508331" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLicenseController.java" timestamp="1516157376747" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/utils/FilterUtils.java" timestamp="1516187274983">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="26" column="57" />
         <mark key="." line="26" column="57" />
         <mark key="^" line="26" column="57" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dakun/jianzhong/service-common/1.0.1-SNAPSHOT/service-common-1.0.1-20180109.081544-4-sources.jar!/com/dakun/jianzhong/utils/MD5.java" timestamp="1516170618013" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1516069650504">
         <mark key="'" line="255" column="52" />
         <mark key="[" line="704" column="67" />
@@ -78,22 +72,25 @@
         <mark key="." line="704" column="73" />
         <mark key="^" line="704" column="73" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/ZuulFilter.java" timestamp="1516173002799" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PathMatchingFilter.java" timestamp="1516239725283">
+        <mark key="'" line="21" column="36" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="45" column="75" />
+        <mark key="^" line="45" column="75" />
+        <mark key="." line="45" column="75" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/ImageController.java" timestamp="1516187135404">
         <mark key="[" line="146" column="47" />
         <mark key="]" line="146" column="25" />
         <mark key="^" line="146" column="25" />
         <mark key="." line="146" column="25" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/java/com/fuhuadata/web/springmvc/customs/CompanyAction.java" timestamp="1516161337653" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegisterProduct.java" timestamp="1516157217199">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/BeforeRequestLoggingFilter.java" timestamp="1516161080938" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecification.java" timestamp="1516172087546" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application.properties" timestamp="1516187542867">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application.properties" timestamp="1516239293513">
         <mark key="[" line="15" column="48" />
         <mark key="]" line="15" column="48" />
         <mark key="^" line="15" column="48" />
@@ -118,27 +115,18 @@
         <mark key="^" line="465" column="65" />
         <mark key="." line="465" column="65" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/ServletDetectionFilter.java" timestamp="1516173061870" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/service-common/pom.xml" timestamp="1516170516190" />
-      <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/monitoring/MonitoringHelper.java" timestamp="1516158958422" />
-      <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/FilterProcessor.java" timestamp="1516159066124" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.3.2/shiro-web-1.3.2-sources.jar!/org/apache/shiro/web/filter/mgt/SimpleNamedFilterList.java" timestamp="1516174678123" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1516157308254">
         <mark key="[" line="439" column="38" />
         <mark key="]" line="439" column="38" />
         <mark key="." line="439" column="38" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminController.java" timestamp="1516096961434">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountAdminController.java" timestamp="1516239937082">
         <mark key="'" line="39" column="24" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="60" column="34" />
-        <mark key="." line="60" column="34" />
-        <mark key="^" line="60" column="34" />
+        <mark key="[" line="215" column="8" />
+        <mark key="]" line="212" column="31" />
+        <mark key="." line="212" column="31" />
+        <mark key="^" line="212" column="31" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-production.properties" timestamp="1516169896664" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" timestamp="1516155231530" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-spring/1.3.2/shiro-spring-1.3.2-sources.jar!/org/apache/shiro/spring/web/ShiroFilterFactoryBean.java" timestamp="1516176857400" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/Servlet30WrapperFilter.java" timestamp="1516173051166" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1516097648900">
         <mark key="'" line="87" column="69" />
         <mark key="[" line="253" column="5" />
@@ -146,10 +134,8 @@
         <mark key="^" line="253" column="14" />
         <mark key="." line="253" column="14" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLicenseService.java" timestamp="1516157350649" />
     </filemarks>
     <jumps>
-      <jump line="6" column="36" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/session/LoginUserService.java" />
       <jump line="135" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMineService.java" />
       <jump line="27" column="30" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMineService.java" />
       <jump line="72" column="34" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountMineService.java" />
@@ -249,13 +235,14 @@
       <jump line="10" column="45" filename="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/QiniuImageFilter.java" />
       <jump line="53" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/Application.java" />
       <jump line="13" column="4" filename="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/config/ZuulFilterConfigurator.java" />
+      <jump line="15" column="36" filename="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PathMatchingFilter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItPDu6fD+7PGIikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBGaWx0ZXJNYXRjaFByb3BlcnRpZXMgZ2V0TWF0Y2hQcm9wZXJ0aWVzKCkgewogICAgICAgIHJldHVybiBtYXRjaFByb3BlcnRpZXM7CiAgICB9CgogICAgQEF1dG93aXJlZAogICAgcHVibGljIHZvaWQgc2V0TWF0Y2hQcm9wZXJ0aWVzKEZpbHRlck1hdGNoUHJvcGVydGllcyBtYXRjaFByb3BlcnRpZXMpIHsKICAgICAgICB0aGlzLm1hdGNoUHJvcGVydGllcyA9IG1hdGNoUHJvcGVydGllczsKICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -276,7 +263,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ZuulFilter</text>
       </register>
       <register name="/" type="4">
         <text>configuration</text>
@@ -294,49 +281,49 @@
                                                    HttpServletResponse response</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBGaWx0ZXJNYXRjaFByb3BlcnRpZXMgZ2V0TWF0Y2hQcm9wZXJ0aWVzKCkgewogICAgICAgIHJldHVybiBtYXRjaFByb3BlcnRpZXM7CiAgICB9CgogICAgQEF1dG93aXJlZAogICAgcHVibGljIHZvaWQgc2V0TWF0Y2hQcm9wZXJ0aWVzKEZpbHRlck1hdGNoUHJvcGVydGllcyBtYXRjaFByb3BlcnRpZXMpIHsKICAgICAgICB0aGlzLm1hdGNoUHJvcGVydGllcyA9IG1hdGNoUHJvcGVydGllczsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgZmlsdGVyVHlwZSgpIHsKICAgICAgICByZXR1cm4gInByZSI7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGZpbHRlck9yZGVyKCkgewogICAgICAgIHJldHVybiAxOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gc2hvdWxkRmlsdGVyKCkgewogICAgICAgIE1hcDxTdHJpbmcsIFNldDxTdHJpbmc+PiBmaWx0ZXJDaGFpblNldCA9IGdldE1hdGNoUHJvcGVydGllcygpLmdldEZpbHRlckNoYWluU2V0KCk7CgogICAgICAgIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0ID0gUmVxdWVzdENvbnRleHQuZ2V0Q3VycmVudENvbnRleHQoKS5nZXRSZXF1ZXN0KCk7CiAgICAgICAgU3RyaW5nIHJlcXVlc3RVUkkgPSByZXF1ZXN0LmdldFJlcXVlc3RVUkkoKTsKICAgICAgICBTZXQ8U3RyaW5nPiBmaWx0ZXJOYW1lcyA9IEZpbHRlclV0aWxzLmFudE1hdGNoZXIoZmlsdGVyQ2hhaW5TZXQsIHJlcXVlc3RVUkkpOwoKICAgICAgICByZXR1cm4gZmlsdGVyTmFtZXMuY29udGFpbnMoZmlsdGVyTmFtZSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgUHJlRmlsdGVyIGFjY2Vzc0ZpbHRlcigpIHsKICAgICAgICByZXR1cm4gbmV3IFByZUZpbHRlcigpOwogICAgfQoKICAgIEBCZWFuCiAgICBwdWJsaWMgUG9zdEZpbHRlciBwb3N0RmlsdGVyKCkgewogICAgICAgIHJldHVybiBuZXcgUG9zdEZpbHRlcigpOwogICAgfQoKICAgIEBCZWFuCiAgICBwdWJsaWMgQmVmb3JlUmVxdWVzdExvZ2dpbmdGaWx0ZXIgYmVmb3JlUmVxdWVzdExvZ2dpbmdGaWx0ZXIoKSB7CgogICAgICAgIEJlZm9yZVJlcXVlc3RMb2dnaW5nRmlsdGVyIGZpbHRlciA9IG5ldyBCZWZvcmVSZXF1ZXN0TG9nZ2luZ0ZpbHRlcigpOwogICAgICAgIGZpbHRlci5zZXRJbmNsdWRlUXVlcnlTdHJpbmcodHJ1ZSk7CiAgICAgICAgZmlsdGVyLnNldEluY2x1ZGVQYXlsb2FkKHRydWUpOwogICAgICAgIGZpbHRlci5zZXRNYXhQYXlsb2FkTGVuZ3RoKDEwMDAwKTsKICAgICAgICBmaWx0ZXIuc2V0SW5jbHVkZUhlYWRlcnMoZmFsc2UpOwoKICAgICAgICByZXR1cm4gZmlsdGVyOwogICAgfQoKICAgIEBCZWFuCiAgICBwdWJsaWMgUGVyZm9ybWFuY2VQcmVGaWx0ZXIgcGVyZm9ybWFuY2VQcmVGaWx0ZXIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBQZXJmb3JtYW5jZVByZUZpbHRlcigpOwogICAgfQoKICAgIEBCZWFuCiAgICBwdWJsaWMgUGVyZm9ybWFuY2VQb3N0RmlsdGVyIHBlcmZvcm1hbmNlUG9zdEZpbHRlcigpIHsKICAgICAgICByZXR1cm4gbmV3IFBlcmZvcm1hbmNlUG9zdEZpbHRlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1pbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1pbzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi40PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oItfUtqjS5bn9wsvG98bw1/fTw8HLIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIEZpbHRlck1hdGNoUHJvcGVydGllcyBtYXRjaFByb3BlcnRpZXM7</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJEZWZpbml0aW9uLmZvckVhY2goKGZpbHRlckV4cCwgZmlsdGVycykgLT4gewogICAgICAgICAgICBpZiAocGF0aE1hdGNoZXIubWF0Y2goZmlsdGVyRXhwLCB1cmwpKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGZpbHRlck5hbWUgPSAiaW1hZ2VGaWx0ZXIiOwo=</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgUHJlRmlsdGVyIGFjY2Vzc0ZpbHRlcigpIHsKICAgICAgICByZXR1cm4gbmV3IFByZUZpbHRlcigpOwogICAgfQoKICAgIEBCZWFuCiAgICBwdWJsaWMgUG9zdEZpbHRlciBwb3N0RmlsdGVyKCkgewogICAgICAgIHJldHVybiBuZXcgUG9zdEZpbHRlcigpOwogICAgfQoKICAgIEBCZWFuCiAgICBwdWJsaWMgQmVmb3JlUmVxdWVzdExvZ2dpbmdGaWx0ZXIgYmVmb3JlUmVxdWVzdExvZ2dpbmdGaWx0ZXIoKSB7CgogICAgICAgIEJlZm9yZVJlcXVlc3RMb2dnaW5nRmlsdGVyIGZpbHRlciA9IG5ldyBCZWZvcmVSZXF1ZXN0TG9nZ2luZ0ZpbHRlcigpOwogICAgICAgIGZpbHRlci5zZXRJbmNsdWRlUXVlcnlTdHJpbmcodHJ1ZSk7CiAgICAgICAgZmlsdGVyLnNldEluY2x1ZGVQYXlsb2FkKHRydWUpOwogICAgICAgIGZpbHRlci5zZXRNYXhQYXlsb2FkTGVuZ3RoKDEwMDAwKTsKICAgICAgICBmaWx0ZXIuc2V0SW5jbHVkZUhlYWRlcnMoZmFsc2UpOwoKICAgICAgICByZXR1cm4gZmlsdGVyOwogICAgfQoKICAgIEBCZWFuCiAgICBwdWJsaWMgUGVyZm9ybWFuY2VQcmVGaWx0ZXIgcGVyZm9ybWFuY2VQcmVGaWx0ZXIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBQZXJmb3JtYW5jZVByZUZpbHRlcigpOwogICAgfQoKICAgIEBCZWFuCiAgICBwdWJsaWMgUGVyZm9ybWFuY2VQb3N0RmlsdGVyIHBlcmZvcm1hbmNlUG9zdEZpbHRlcigpIHsKICAgICAgICByZXR1cm4gbmV3IFBlcmZvcm1hbmNlUG9zdEZpbHRlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -352,7 +339,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
