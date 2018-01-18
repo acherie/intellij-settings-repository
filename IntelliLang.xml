@@ -4,5 +4,9 @@
       <display-name>ExampleProperty.value (io.swagger.annotations)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("io.swagger.annotations.ExampleProperty")]]></place>
     </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>JWTUtils.createJWT (com.dakun.jianzhong.utils)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createJWT").withParameters("java.lang.String", "java.lang.String", "long").definedInClass("com.dakun.jianzhong.utils.JWTUtils"))]]></place>
+    </injection>
   </component>
 </application>
