@@ -50,6 +50,12 @@
       <file name="/JSON Fragment (PostFilter.java:3938).json" timestamp="1516242617492">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/PerformanceFilter.java" timestamp="1516590404183">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application-test.yml" timestamp="1516274837193">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="7" column="34" />
@@ -68,6 +74,7 @@
         <mark key="^" line="17" column="54" />
         <mark key="." line="17" column="54" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PerformancePreFilter.java" timestamp="1516590037370" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/FilterMatchProperties.java" timestamp="1516255379742">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="17" column="0" />
@@ -81,15 +88,12 @@
         <mark key="^" line="44" column="68" />
         <mark key="." line="44" column="68" />
       </file>
-      <file name="/ProductSpecificationService.java" timestamp="1516261660780">
-        <mark key="'" line="19" column="47" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PathMatchFilter.java" timestamp="1516238815675">
         <mark key="[" line="6" column="22" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1516325851453" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1516584767966" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/ApplicationConfigurator.java" timestamp="1516586880335" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/ApplicationConfigurator.java" timestamp="1516590022854" />
       <file name="/Dummy.txt" timestamp="1516274855356">
         <mark key="[" line="0" column="0" />
       </file>
@@ -135,17 +139,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" timestamp="1516266854546">
-        <mark key="'" line="115" column="22" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/CommonsRequestLoggingFilter.java" timestamp="1516585597526" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/AccountAdminFilter.java" timestamp="1516590185282" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/application-test.properties" timestamp="1516273676899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/ProductApplyService.java" timestamp="1516261665684">
-        <mark key="'" line="35" column="13" />
       </file>
       <file name="/JSON Fragment (LoginUtils.java:281).json" timestamp="1516242719280">
         <mark key="[" line="0" column="0" />
@@ -158,6 +157,7 @@
         <mark key="." line="40" column="47" />
         <mark key="^" line="40" column="47" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PerformancePostFilter.java" timestamp="1516590084896" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/vo/PasswordVo.java" timestamp="1516413666569">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="27" column="40" />
