@@ -12,6 +12,7 @@
         <mark key="^" line="45" column="75" />
         <mark key="." line="45" column="75" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1516585051016" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/utils/AdminConstant.java" timestamp="1516246653591">
         <mark key="[" line="11" column="0" />
       </file>
@@ -21,6 +22,7 @@
         <mark key="^" line="21" column="81" />
         <mark key="." line="21" column="81" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/AbstractRequestLoggingFilter.java" timestamp="1516585858101" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApproveMapper.xml" timestamp="1516261695959">
         <mark key="[" line="31" column="34" />
         <mark key="]" line="31" column="63" />
@@ -86,9 +88,15 @@
         <mark key="[" line="6" column="22" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1516325851453" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1516417875125" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1516584767966" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/ApplicationConfigurator.java" timestamp="1516585896948" />
       <file name="/Dummy.txt" timestamp="1516274855356">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1516585385133">
+        <mark key="]" line="205" column="7" />
+        <mark key="^" line="205" column="7" />
+        <mark key="." line="205" column="7" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/QiniuImageFilter.java" timestamp="1516254438418">
         <mark key="[" line="21" column="25" />
@@ -130,6 +138,7 @@
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" timestamp="1516266854546">
         <mark key="'" line="115" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/filter/CommonsRequestLoggingFilter.java" timestamp="1516585597526" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/resources/application-test.properties" timestamp="1516273676899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
