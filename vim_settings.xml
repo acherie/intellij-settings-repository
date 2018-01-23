@@ -5,13 +5,6 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1516697506169" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/utils/AdminConstant.java" timestamp="1516246653591">
-        <mark key="[" line="11" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/product-service.iml" timestamp="1516688212323">
-        <mark key="'" line="24" column="45" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountAdminService.java" timestamp="1516606911394">
         <mark key="[" line="130" column="34" />
         <mark key="]" line="130" column="44" />
@@ -21,12 +14,6 @@
       <file name="D:/IdeaProjects/webmagic/webmagic-core/src/main/java/us/codecraft/webmagic/Request.java" timestamp="1516689040081" />
       <file name="/JSON Fragment (PostFilter.java:3938).json" timestamp="1516242617492">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/PerformanceFilter.java" timestamp="1516590404183">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/selector/Selectors.java" timestamp="1516690909526" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1516676014213">
@@ -39,18 +26,7 @@
         <mark key="[" line="6" column="22" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1516688162316" />
-      <file name="/Dummy.txt" timestamp="1516687633464">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1516697493829">
-        <mark key="[" line="225" column="19" />
-        <mark key="]" line="225" column="24" />
-        <mark key="^" line="225" column="24" />
-        <mark key="." line="225" column="24" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1516697426407" />
       <file name="D:/IdeaProjects/webmagic/webmagic-core/src/main/java/us/codecraft/webmagic/Page.java" timestamp="1516689546279" />
-      <file name="$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/Page.java" timestamp="1516699841047" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1516679940830">
         <mark key="[" line="292" column="66" />
         <mark key="]" line="293" column="50" />
@@ -64,8 +40,40 @@
         <mark key="." line="257" column="20" />
       </file>
       <file name="D:/IdeaProjects/webmagic/webmagic-core/src/main/java/us/codecraft/webmagic/downloader/HttpUriRequestConverter.java" timestamp="1516689250771" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1516697466226" />
+      <file name="$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/selector/HtmlNode.java" timestamp="1516705652042" />
       <file name="D:/IdeaProjects/webmagic/webmagic-core/src/main/java/us/codecraft/webmagic/selector/AbstractSelectable.java" timestamp="1516690148411" />
+      <file name="$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/selector/CssSelector.java" timestamp="1516705353750" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1516705228939">
+        <mark key="[" line="37" column="35" />
+        <mark key="]" line="74" column="31" />
+        <mark key="." line="74" column="31" />
+        <mark key="^" line="74" column="31" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1516697506169" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/utils/AdminConstant.java" timestamp="1516246653591">
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/product-service.iml" timestamp="1516688212323">
+        <mark key="'" line="24" column="45" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/PerformanceFilter.java" timestamp="1516590404183">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1516687633464">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1516697493829">
+        <mark key="[" line="225" column="19" />
+        <mark key="]" line="225" column="24" />
+        <mark key="^" line="225" column="24" />
+        <mark key="." line="225" column="24" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1516697426407" />
+      <file name="$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/Page.java" timestamp="1516699841047" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1516697466226" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLicenseService.java" timestamp="1516676275921">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="52" column="30" />
@@ -78,12 +86,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="23" column="40" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1516704894018">
-        <mark key="[" line="72" column="36" />
-        <mark key="]" line="73" column="31" />
-        <mark key="." line="73" column="31" />
-        <mark key="^" line="73" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1516605282334">
         <mark key="[" line="0" column="0" />
