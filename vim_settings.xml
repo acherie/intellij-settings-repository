@@ -28,6 +28,7 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="11" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1516763681254" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1516676014213">
         <mark key="[" line="266" column="44" />
         <mark key="]" line="267" column="12" />
@@ -37,7 +38,7 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PathMatchFilter.java" timestamp="1516238815675">
         <mark key="[" line="6" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516761401236">
+      <file name="/Dummy.txt" timestamp="1516764022535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1516697493829">
@@ -50,11 +51,11 @@
         <mark key="'" line="196" column="14" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/vendor/ueditor/ueditor.config.js" timestamp="1516759511336" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1516762754762">
-        <mark key="[" line="233" column="46" />
-        <mark key="]" line="233" column="56" />
-        <mark key="^" line="233" column="56" />
-        <mark key="." line="233" column="56" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1516764550465">
+        <mark key="[" line="231" column="81" />
+        <mark key="]" line="231" column="103" />
+        <mark key="^" line="231" column="103" />
+        <mark key="." line="231" column="103" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1516688103055">
         <mark key="[" line="245" column="21" />
