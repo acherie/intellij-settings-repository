@@ -92,11 +92,12 @@
         <mark key="^" line="52" column="30" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1516775939087">
-        <mark key="[" line="97" column="61" />
-        <mark key="]" line="99" column="49" />
-        <mark key="." line="99" column="49" />
-        <mark key="^" line="99" column="49" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1516777592594">
+        <mark key="'" line="86" column="8" />
+        <mark key="[" line="99" column="61" />
+        <mark key="]" line="100" column="26" />
+        <mark key="." line="100" column="26" />
+        <mark key="^" line="100" column="26" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/vo/PasswordVo.java" timestamp="1516605716306">
         <mark key="[" line="16" column="0" />
@@ -115,8 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/AccountAdminFilter.java" />
-      <jump line="27" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/exceptions/BaseExceptionHandlerAdvice.java" />
       <jump line="28" column="20" filename="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/exceptions/ExceptionHandlerAdvice.java" />
       <jump line="29" column="38" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/exceptions/BaseExceptionHandlerAdvice.java" />
       <jump line="55" column="27" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
@@ -215,6 +214,8 @@
       <jump line="25" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductPackageService.java" />
       <jump line="24" column="45" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/product-service.iml" />
       <jump line="196" column="14" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" />
+      <jump line="87" column="29" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" />
+      <jump line="86" column="8" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -260,19 +261,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXQK</text>
+        <text encoding="base64">ICAgICAgICB1cmwgKz0gY29tcGFueU5hbWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBjb21wYW55TmFtZSA9ICK4o7uqIjsKICAgICAgICBTdHJpbmcgY29tcGFueU5hbWUgPSAiIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ZXVyZWthLmluc3RhbmNlLmlwLWFkZHJlc3M9MTkyLjE2OC41MC4xMDQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnVpbGRlci5zZXRQYXJhbWV0ZXIoInBhZ2Vub3ciLCBTdHJpbmcudmFsdWVPZihpKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICBwYWdlLmFkZFRhcmdldFJlcXVlc3QoYnVpbGRlci5idWlsZCgpLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBjb21wYW55TmFtZSA9ICK4o7uqIjsKICAgICAgICBTdHJpbmcgY29tcGFueU5hbWUgPSAiIjsK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
@@ -284,19 +285,19 @@
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnVpbGRlci5zZXRQYXJhbWV0ZXIoInBhZ2Vub3ciLCBTdHJpbmcudmFsdWVPZihpKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICBwYWdlLmFkZFRhcmdldFJlcXVlc3QoYnVpbGRlci5idWlsZCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVUklCdWlsZGVyIGJ1aWxkZXI7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgYnVpbGRlciA9IG5ldyBVUklCdWlsZGVyKExJU1RfQkFTRV9VUkwpOwogICAgICAgICAgICAgICAgICAgICAgICBidWlsZGVyLnNldFBhcmFtZXRlcigic2NvbF9hcnRpY2xlRmllbGQwMyIsIGNvbXBhbnlOYW1lKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChVUklTeW50YXhFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihlLmdldE1lc3NhZ2UoKSwgZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
