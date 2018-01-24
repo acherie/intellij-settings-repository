@@ -12,85 +12,38 @@
         <mark key="'" line="24" column="45" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/vendor/ueditor/lang/zh-cn/zh-cn.js" timestamp="1516760261290" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountAdminService.java" timestamp="1516606911394">
-        <mark key="[" line="130" column="34" />
-        <mark key="]" line="130" column="44" />
-        <mark key="^" line="130" column="44" />
-        <mark key="." line="130" column="44" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URL.java" timestamp="1516758712692" />
       <file name="/JSON Fragment (PostFilter.java:3938).json" timestamp="1516242617492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/PerformanceFilter.java" timestamp="1516590404183">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1516763681254" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1516676014213">
-        <mark key="[" line="266" column="44" />
-        <mark key="]" line="267" column="12" />
-        <mark key="^" line="267" column="12" />
-        <mark key="." line="267" column="12" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PathMatchFilter.java" timestamp="1516238815675">
         <mark key="[" line="6" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516764022535">
+      <file name="/Dummy.txt" timestamp="1516765338598">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1516697493829">
-        <mark key="[" line="225" column="19" />
-        <mark key="]" line="225" column="24" />
-        <mark key="^" line="225" column="24" />
-        <mark key="." line="225" column="24" />
-      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1516765375540" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1516761132046">
         <mark key="'" line="196" column="14" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/vendor/ueditor/ueditor.config.js" timestamp="1516759511336" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1516764550465">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1516765362203">
         <mark key="[" line="231" column="81" />
         <mark key="]" line="231" column="103" />
         <mark key="^" line="231" column="103" />
         <mark key="." line="231" column="103" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1516688103055">
-        <mark key="[" line="245" column="21" />
-        <mark key="]" line="257" column="20" />
-        <mark key="^" line="257" column="20" />
-        <mark key="." line="257" column="20" />
-      </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/js/modules/controllers/qrApply.js" timestamp="1516758860148" />
       <file name="D:/Projects/zhuannong-front/qr-source-front/vendor/ueditor/dialogs/image/image.js" timestamp="1516760092067" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLicenseService.java" timestamp="1516676275921">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="52" column="30" />
-        <mark key="^" line="52" column="30" />
-        <mark key="." line="52" column="30" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1516758739941">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="90" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/vo/PasswordVo.java" timestamp="1516605716306">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1516605282334">
+      <file name="/fragment.java" timestamp="1516765336136">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/AccountAdmin.java" timestamp="1516601412636">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="68" />
-        <mark key="." line="24" column="68" />
-        <mark key="^" line="24" column="68" />
       </file>
     </filemarks>
     <jumps>
