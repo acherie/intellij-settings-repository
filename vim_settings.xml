@@ -65,6 +65,7 @@
         <mark key="'" line="196" column="14" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/vendor/ueditor/ueditor.config.js" timestamp="1516759511336" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/client/utils/URIBuilder.java" timestamp="1516774686952" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1516765362203">
         <mark key="[" line="230" column="81" />
         <mark key="]" line="230" column="103" />
@@ -91,11 +92,11 @@
         <mark key="^" line="52" column="30" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1516758739941">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="90" column="0" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1516775939087">
+        <mark key="[" line="97" column="61" />
+        <mark key="]" line="99" column="49" />
+        <mark key="." line="99" column="49" />
+        <mark key="^" line="99" column="49" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/model/vo/PasswordVo.java" timestamp="1516605716306">
         <mark key="[" line="16" column="0" />
@@ -219,8 +220,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItPDu6fD+7PGIikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>设置上报数量为实际上报最高包装等级数量</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -241,7 +242,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>设置上报数量为实际上报最高包装等级数量</text>
+        <text>&quot;福华&quot;</text>
       </register>
       <register name="/" type="4">
         <text>webmagic</text>
@@ -253,16 +254,16 @@
         <text>//page-wrapper/div[@style]/table/tbody/tr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWN0Qm90dGxlIGJvdHRsZSA9IGJvdHRsZXMuZ2V0KDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidWlsZGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBjb21wYW55TmFtZSA9ICK4o7uqIjsKICAgICAgICBTdHJpbmcgY29tcGFueU5hbWUgPSAiIjsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ZXVyZWthLmluc3RhbmNlLmlwLWFkZHJlc3M9MTkyLjE2OC41MC4xMDQK</text>
@@ -271,31 +272,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG9uY2xpY2sgPSBsYXN0LmF0dHIoIm9uY2xpY2siKTsKICAgICAgICAgICAgTWF0Y2hlciBtYXRjaGVyID0gTlVNQkVSX1BBVFRFUk4ubWF0Y2hlcihvbmNsaWNrKTsKICAgICAgICAgICAgaWYgKG1hdGNoZXIuZmluZCgpKSB7CiAgICAgICAgICAgICAgICBTdHJpbmcgdG90YWxOdW0gPSBtYXRjaGVyLmdyb3VwKCk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odG90YWxOdW0pOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnVpbGRlci5zZXRQYXJhbWV0ZXIoInBhZ2Vub3ciLCBTdHJpbmcudmFsdWVPZihpKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICBwYWdlLmFkZFRhcmdldFJlcXVlc3QoYnVpbGRlci5idWlsZCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtbC5zZWxlY3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGxhc3RQYWdlTGlua0NzcyA9ICIucGFnaW5hdGlvbiBhOmNvbnRhaW5zT3duKM6y0rMpIjsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGh0bWwuJChsYXN0UGFnZUxpbmtDc3MpLm1hdGNoKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGF0dGVybiBwYXR0ZXJuID0gUGF0dGVybi5jb21waWxlKCInKFxcZD8pJyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVUklCdWlsZGVyIGJ1aWxkZXI7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgYnVpbGRlciA9IG5ldyBVUklCdWlsZGVyKExJU1RfQkFTRV9VUkwpOwogICAgICAgICAgICAgICAgICAgICAgICBidWlsZGVyLnNldFBhcmFtZXRlcigic2NvbF9hcnRpY2xlRmllbGQwMyIsIGNvbXBhbnlOYW1lKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChVUklTeW50YXhFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihlLmdldE1lc3NhZ2UoKSwgZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGh0bWwuJChsYXN0UGFnZUxpbmtDc3MpKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
