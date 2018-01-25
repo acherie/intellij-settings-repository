@@ -83,7 +83,7 @@
         <mark key="^" line="82" column="37" />
         <mark key="." line="82" column="37" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1516855078638">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1516859039346">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="95" column="0" />
         <mark key="]" line="114" column="50" />
@@ -96,12 +96,7 @@
         <mark key="." line="178" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/QrApplyTask.java" timestamp="1516784390929" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1516773709570">
-        <mark key="[" line="266" column="43" />
-        <mark key="]" line="266" column="97" />
-        <mark key="^" line="266" column="97" />
-        <mark key="." line="266" column="97" />
-      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductBottleService.java" timestamp="1516773709570" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/utils/AdminConstant.java" timestamp="1516246653591">
         <mark key="[" line="11" column="0" />
       </file>
@@ -128,7 +123,7 @@
         <mark key="." line="18" column="11" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1516763681254" />
-      <file name="/Dummy.txt" timestamp="1516855090073">
+      <file name="/Dummy.txt" timestamp="1516858964977">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
