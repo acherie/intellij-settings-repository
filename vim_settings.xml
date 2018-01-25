@@ -8,7 +8,6 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApprove.java" timestamp="1516781730879">
         <mark key="'" line="10" column="13" />
         <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="0" />
         <mark key="." line="21" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1516781463380">
@@ -71,19 +70,19 @@
         <mark key="]" line="16" column="30" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/vendor/ueditor/dialogs/image/image.js" timestamp="1516760092067" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductCompanyController.java" timestamp="1516786809413">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductCompanyController.java" timestamp="1516855641106">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="82" column="31" />
         <mark key="]" line="82" column="37" />
         <mark key="^" line="82" column="37" />
         <mark key="." line="82" column="37" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1516851643986">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1516855078638">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="100" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="114" column="50" />
+        <mark key="." line="114" column="50" />
+        <mark key="^" line="114" column="50" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductStandardService.java" timestamp="1516781396534">
         <mark key="[" line="178" column="0" />
@@ -123,7 +122,7 @@
         <mark key="." line="18" column="11" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1516763681254" />
-      <file name="/Dummy.txt" timestamp="1516781475152">
+      <file name="/Dummy.txt" timestamp="1516855090073">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
