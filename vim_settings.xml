@@ -12,11 +12,6 @@
         <mark key="." line="111" column="76" />
         <mark key="^" line="111" column="76" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApprove.java" timestamp="1516953646415">
-        <mark key="'" line="10" column="13" />
-        <mark key="[" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/vendor/ueditor/lang/zh-cn/zh-cn.js" timestamp="1516760261290" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountAdminService.java" timestamp="1516959565608">
         <mark key="[" line="130" column="34" />
@@ -24,12 +19,9 @@
         <mark key="^" line="130" column="44" />
         <mark key="." line="130" column="44" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/service/qiniu/QiniuFile.java" timestamp="1516966498160" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/DefaultFilterFactory.java" timestamp="1516961332096" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendErrorFilter.java" timestamp="1516962051471" />
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.2.1/pagehelper-4.2.1-sources.jar!/com/github/pagehelper/Page.java" timestamp="1516954160194">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="81" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/resources/application.yml" timestamp="1516959899698">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="12" />
@@ -62,10 +54,6 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/CompanyLoginFilter.java" timestamp="1516959150780" />
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/js/modules/controllers/qrApply.js" timestamp="1516758860148" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductStandard.java" timestamp="1516781366591">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="30" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1516856387096">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="8" column="14" />
@@ -102,6 +90,7 @@
         <mark key="^" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/ImageController.java" timestamp="1516966457749" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URL.java" timestamp="1516758712692" />
       <file name="$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/Spider.java" timestamp="1516783739124" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1516763681254" />
