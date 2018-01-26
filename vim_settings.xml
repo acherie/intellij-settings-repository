@@ -1,16 +1,16 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterProcessor.java" timestamp="1516934056121">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterProcessor.java" timestamp="1516934801142">
         <mark key="'" line="2" column="7" />
-        <mark key="[" line="136" column="17" />
-        <mark key="]" line="136" column="36" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="85" column="25" />
         <mark key="^" line="136" column="36" />
-        <mark key="." line="136" column="36" />
+        <mark key="." line="85" column="25" />
       </file>
       <file name="/a.dummy" timestamp="1516932117966">
         <mark key="[" line="0" column="0" />
