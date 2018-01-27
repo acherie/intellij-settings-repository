@@ -12,12 +12,7 @@
         <mark key="." line="38" column="54" />
         <mark key="^" line="38" column="54" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountAdminService.java" timestamp="1516959565608">
-        <mark key="[" line="130" column="34" />
-        <mark key="]" line="130" column="44" />
-        <mark key="^" line="130" column="44" />
-        <mark key="." line="130" column="44" />
-      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductInspectionService.java" timestamp="1517020760532" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/service/qiniu/QiniuFile.java" timestamp="1516966498160" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/DefaultFilterFactory.java" timestamp="1516961332096" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendErrorFilter.java" timestamp="1516962051471" />
@@ -27,6 +22,7 @@
         <mark key="^" line="267" column="12" />
         <mark key="." line="267" column="12" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductInspectionDetailService.java" timestamp="1517020776891" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1516946953051">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -41,28 +37,10 @@
       <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/ZuulRunner.java" timestamp="1516961368472" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductScanQrcodeMapper.xml" timestamp="1516946308126" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/filters/ZuulServletFilter.java" timestamp="1516961395505" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductApproveType.java" timestamp="1516780950698">
-        <mark key="[" line="31" column="44" />
-        <mark key="]" line="31" column="47" />
-        <mark key="^" line="31" column="47" />
-        <mark key="." line="31" column="47" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/nio/charset/Charset.java" timestamp="1516783434349" />
       <file name="D:/Projects/zhuannong-front/qr-source-front/vendor/ueditor/ueditor.config.js" timestamp="1516759511336" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendResponseFilter.java" timestamp="1516961891592" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1516948284595">
-        <mark key="[" line="230" column="81" />
-        <mark key="]" line="230" column="103" />
-        <mark key="^" line="230" column="103" />
-        <mark key="." line="230" column="103" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/context/ContextLifecycleFilter.java" timestamp="1516961221641" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1516849676661">
-        <mark key="[" line="245" column="21" />
-        <mark key="]" line="257" column="20" />
-        <mark key="^" line="257" column="20" />
-        <mark key="." line="257" column="20" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/CompanyLoginFilter.java" timestamp="1516959150780" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/config/ZuulFilterConfigurator.java" timestamp="1516967825870">
         <mark key="[" line="12" column="37" />
@@ -77,12 +55,6 @@
         <mark key="." line="30" column="88" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/js/modules/controllers/qrApply.js" timestamp="1516758860148" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductBottleState.java" timestamp="1516856387096">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="8" column="14" />
-        <mark key="^" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-      </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/vendor/ueditor/dialogs/image/image.js" timestamp="1516760092067" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/RibbonRoutingFilter.java" timestamp="1516963125535" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/web/ZuulController.java" timestamp="1516961975187" />
@@ -112,11 +84,8 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper/3.4.0/mapper-3.4.0-sources.jar!/tk/mybatis/mapper/mapperhelper/SqlHelper.java" timestamp="1516872078885" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1516958810499">
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="224" column="23" />
-        <mark key="^" line="224" column="23" />
-        <mark key="." line="224" column="23" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1517020682491">
+        <mark key="'" line="196" column="14" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductBottle.java" timestamp="1516946831217" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/FilterProcessor.java" timestamp="1517017501059" />
