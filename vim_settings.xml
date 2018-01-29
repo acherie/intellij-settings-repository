@@ -49,7 +49,8 @@
         <mark key="^" line="30" column="88" />
         <mark key="." line="30" column="88" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/selector/HtmlNode.java" timestamp="1517207120269" />
+      <file name="$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/selector/HtmlNode.java" timestamp="1517208131142" />
+      <file name="$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3-sources.jar!/us/codecraft/webmagic/selector/CssSelector.java" timestamp="1517208092850" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1517193717017" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/LocalDate.java" timestamp="1517193989885" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/web/PerformanceFilter.java" timestamp="1516590404183">
@@ -58,7 +59,7 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516967848171">
+      <file name="/Dummy.txt" timestamp="1517207991836">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
