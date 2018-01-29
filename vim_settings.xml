@@ -5,12 +5,12 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterProcessor.java" timestamp="1517195243443">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterProcessor.java" timestamp="1517196894102">
         <mark key="'" line="187" column="38" />
-        <mark key="[" line="194" column="13" />
-        <mark key="]" line="196" column="0" />
-        <mark key="^" line="194" column="12" />
-        <mark key="." line="196" column="0" />
+        <mark key="[" line="197" column="48" />
+        <mark key="]" line="195" column="68" />
+        <mark key="^" line="195" column="68" />
+        <mark key="." line="195" column="68" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/error/ErrorFilter.java" timestamp="1516967763771">
         <mark key="[" line="33" column="25" />
@@ -64,7 +64,7 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1517020682491">
         <mark key="'" line="196" column="14" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1517195196675">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1517196885013">
         <mark key="[" line="59" column="19" />
         <mark key="]" line="59" column="26" />
       </file>
