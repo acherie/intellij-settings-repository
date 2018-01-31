@@ -21,21 +21,14 @@
       <file name="/a.dummy" timestamp="1517368691252">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/ImageController.java" timestamp="1517385917859" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductDosageService.java" timestamp="1517378385484" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/ResourcePesticideService.java" timestamp="1517304501875">
-        <mark key="'" line="53" column="3" />
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="31" column="37" />
-        <mark key="^" line="31" column="37" />
-        <mark key="." line="31" column="37" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterSpider.java" timestamp="1517363972768">
         <mark key="[" line="32" column="62" />
         <mark key="]" line="32" column="77" />
         <mark key="." line="32" column="77" />
         <mark key="^" line="32" column="77" />
       </file>
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1517310839868" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.1.RELEASE/spring-boot-1.5.1.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" timestamp="1517378114309" />
       <file name="/Dummy.txt" timestamp="1517378892204">
         <mark key="[" line="0" column="0" />
@@ -49,13 +42,14 @@
         <mark key="." line="33" column="27" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1517382927756">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="254" column="22" />
-        <mark key="^" line="254" column="22" />
-        <mark key="." line="254" column="22" />
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="231" column="22" />
+        <mark key="^" line="231" column="22" />
+        <mark key="." line="231" column="22" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveSpider.java" timestamp="1517360407508" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/ProductApplication.java" timestamp="1517378139563" />
+      <file name="$MAVEN_REPOSITORY$/com/qiniu/qiniu-java-sdk/7.2.6/qiniu-java-sdk-7.2.6-sources.jar!/com/qiniu/util/Auth.java" timestamp="1517385971946" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1517226363077">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
