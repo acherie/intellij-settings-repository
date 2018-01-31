@@ -23,7 +23,7 @@
         <mark key="^" line="262" column="34" />
         <mark key="." line="262" column="34" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1517297275873">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1517382927756">
         <mark key="[" line="253" column="0" />
         <mark key="]" line="254" column="22" />
         <mark key="^" line="254" column="22" />
@@ -71,11 +71,6 @@
         <mark key="]" line="77" column="55" />
         <mark key="." line="77" column="55" />
         <mark key="^" line="77" column="55" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1517378939470">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveProcessor.java" timestamp="1517364924824" />
       <file name="/fragment.java" timestamp="1517367743138">
