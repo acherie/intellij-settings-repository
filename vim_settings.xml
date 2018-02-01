@@ -37,7 +37,7 @@
       <file name="/a.dummy" timestamp="1517368691252">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/ImageController.java" timestamp="1517453167182">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/ImageController.java" timestamp="1517454895163">
         <mark key="[" line="113" column="77" />
         <mark key="]" line="114" column="54" />
         <mark key="^" line="114" column="54" />
@@ -54,6 +54,7 @@
         <mark key="^" line="23" column="72" />
         <mark key="." line="23" column="72" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qiniu/qiniu-java-sdk/7.2.6/qiniu-java-sdk-7.2.6-sources.jar!/com/qiniu/storage/UploadManager.java" timestamp="1517454817672" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterSpider.java" timestamp="1517363972768">
         <mark key="[" line="32" column="62" />
         <mark key="]" line="32" column="77" />
