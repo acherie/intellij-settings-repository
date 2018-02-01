@@ -37,7 +37,7 @@
       <file name="/a.dummy" timestamp="1517368691252">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/ImageController.java" timestamp="1517449304983">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/ImageController.java" timestamp="1517450133140">
         <mark key="[" line="113" column="77" />
         <mark key="]" line="114" column="54" />
         <mark key="^" line="114" column="54" />
@@ -257,7 +257,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>actionlist</text>
       </register>
       <register name="z" type="4">
         <text>wiki:proc:frei:view</text>
@@ -296,7 +296,6 @@
         <entry encoding="base64">XDxMSVNUX1VSTFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>argume</entry>
         <entry>regis</entry>
         <entry>.s/\\/\//g</entry>
         <entry encoding="base64">JzwsJz5zL0dMT0JBTC9fZ2xvYmFsL2dj</entry>
@@ -316,6 +315,7 @@
         <entry encoding="base64">JzwsJz5zLyQvLC9j</entry>
         <entry>vsp</entry>
         <entry>buffers</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
