@@ -37,7 +37,7 @@
       <file name="/a.dummy" timestamp="1517368691252">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/ImageController.java" timestamp="1517452333935">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/ImageController.java" timestamp="1517453167182">
         <mark key="[" line="113" column="77" />
         <mark key="]" line="114" column="54" />
         <mark key="^" line="114" column="54" />
@@ -71,6 +71,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1517446530577" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecArticleService.java" timestamp="1517453967996" />
     </filemarks>
     <jumps>
       <jump line="63" column="27" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
