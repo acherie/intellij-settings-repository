@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -10,27 +10,9 @@
       <file name="/a.dummy" timestamp="1517368691252">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/view/freemarker/FreeMarkerView.java" timestamp="1517465138609" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/ImageController.java" timestamp="1517454895163">
-        <mark key="[" line="113" column="77" />
-        <mark key="]" line="114" column="54" />
-        <mark key="^" line="114" column="54" />
-        <mark key="." line="114" column="54" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/qiniu/qiniu-java-sdk/7.2.6/qiniu-java-sdk-7.2.6-sources.jar!/com/qiniu/storage/UploadManager.java" timestamp="1517454817672" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/templates/spec/article.ftl" timestamp="1517467526383">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="7" column="8" />
-        <mark key="^" line="7" column="8" />
-        <mark key="." line="7" column="8" />
-      </file>
-      <file name="D:/Projects/zhuannong/src/main/resources/logback.xml" timestamp="1517476519484" />
       <file name="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.25-incubating/freemarker-2.3.25-incubating-sources.jar!/freemarker/ext/servlet/FreemarkerServlet.java" timestamp="1517465427403" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/CharArrayWriter.java" timestamp="1517468034936" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/template/AbstractViewResolverProperties.java" timestamp="1517466439639" />
-      <file name="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.25-incubating/freemarker-2.3.25-incubating-sources.jar!/freemarker/core/Environment.java" timestamp="1517473504952">
-        <mark key="'" line="160" column="19" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1517467062114">
         <mark key="[" line="22" column="35" />
       </file>
@@ -40,24 +22,11 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517475138081">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/freemarker/FreeMarkerAutoConfiguration.java" timestamp="1517466553122" />
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/js/app.init.js" timestamp="1517455687755" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/view/UrlBasedViewResolver.java" timestamp="1517464945877" />
-      <file name="D:/Projects/zhuannong/docker/Dockerfile" timestamp="1517474978334" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1517476453481">
         <mark key="'" line="113" column="19" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1517226363077">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
-      <file name="D:/Projects/zhuannong/src/main/resources/application.properties" timestamp="1517476219549" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/view/freemarker/FreeMarkerViewResolver.java" timestamp="1517464828584" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/FreeMarkerService.java" timestamp="1517468419280">
         <mark key="'" line="22" column="63" />
@@ -66,22 +35,55 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.6.RELEASE/spring-context-support-4.3.6.RELEASE-sources.jar!/org/springframework/ui/freemarker/FreeMarkerConfigurationFactory.java" timestamp="1517464614155" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/freemarker/FreeMarkerProperties.java" timestamp="1517467074094" />
-      <file name="D:/Projects/zhuannong/src/main/resources/templates/login.html" timestamp="1517475120818">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="D:/Projects/zhuannong/src/main/resources/templates/index_scanQr.html" timestamp="1517476600708">
+      <file name="D:/Projects/zhuannong/src/main/resources/templates/index_scanQr.html" timestamp="1517477427196">
         <mark key="[" line="38" column="68" />
       </file>
-      <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/controller/ScanQrcodeController.java" timestamp="1517476664410">
+      <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/controller/ScanQrcodeController.java" timestamp="1517477554255">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.25-incubating/freemarker-2.3.25-incubating-sources.jar!/freemarker/template/Template.java" timestamp="1517467946780" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/resource/ResourceUrlEncodingFilter.java" timestamp="1517466324947" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/view/freemarker/FreeMarkerView.java" timestamp="1517465138609" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/controller/ImageController.java" timestamp="1517454895163">
+        <mark key="[" line="113" column="77" />
+        <mark key="]" line="114" column="54" />
+        <mark key="^" line="114" column="54" />
+        <mark key="." line="114" column="54" />
+      </file>
+      <file name="D:/Projects/zhuannong/src/main/resources/templates/qr_2nd/index_scanQr.html" timestamp="1517477561936" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/templates/spec/article.ftl" timestamp="1517467526383">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+      </file>
+      <file name="D:/Projects/zhuannong/src/main/resources/logback.xml" timestamp="1517476519484" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/template/AbstractViewResolverProperties.java" timestamp="1517466439639" />
+      <file name="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.25-incubating/freemarker-2.3.25-incubating-sources.jar!/freemarker/core/Environment.java" timestamp="1517473504952">
+        <mark key="'" line="160" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1517475138081">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/freemarker/FreeMarkerAutoConfiguration.java" timestamp="1517466553122" />
+      <file name="D:/Projects/zhuannong/docker/Dockerfile" timestamp="1517474978334" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductRegister.java" timestamp="1517226363077">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="D:/Projects/zhuannong/src/main/resources/application.properties" timestamp="1517476219549" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.6.RELEASE/spring-context-support-4.3.6.RELEASE-sources.jar!/org/springframework/ui/freemarker/FreeMarkerConfigurationFactory.java" timestamp="1517464614155" />
+      <file name="D:/Projects/zhuannong/src/main/resources/templates/login.html" timestamp="1517475120818">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterPipeline.java" timestamp="1517368741849">
         <mark key="'" line="98" column="0" />
         <mark key="[" line="77" column="28" />
@@ -89,7 +91,6 @@
         <mark key="." line="77" column="55" />
         <mark key="^" line="77" column="55" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE-sources.jar!/org/springframework/web/servlet/resource/ResourceUrlEncodingFilter.java" timestamp="1517466324947" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/template/TemplateLocation.java" timestamp="1517464635660" />
       <file name="/fragment.java" timestamp="1517475138039">
         <mark key="[" line="0" column="0" />
