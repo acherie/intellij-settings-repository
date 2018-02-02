@@ -23,7 +23,7 @@
       <file name="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.25-incubating/freemarker-2.3.25-incubating-sources.jar!/freemarker/core/Environment.java" timestamp="1517473504952">
         <mark key="'" line="160" column="19" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1517535577338">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1517537328079">
         <mark key="[" line="22" column="35" />
       </file>
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1517534292510" />
@@ -52,6 +52,9 @@
         <mark key="]" line="22" column="14" />
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" timestamp="1517537541740">
+        <mark key="'" line="33" column="13" />
       </file>
       <file name="D:/Projects/zhuannong/src/main/resources/templates/login.html" timestamp="1517475120818">
         <mark key="[" line="100" column="0" />
@@ -85,7 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="12" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductSpecificationMapper.xml" />
       <jump line="39" column="44" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductSpecificationMapper.xml" />
       <jump line="251" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
@@ -185,6 +187,7 @@
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecArticleService.java" />
       <jump line="160" column="19" filename="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.25-incubating/freemarker-2.3.25-incubating-sources.jar!/freemarker/core/Environment.java" />
       <jump line="113" column="19" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
+      <jump line="33" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
