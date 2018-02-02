@@ -60,12 +60,7 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" timestamp="1517537541740">
         <mark key="'" line="33" column="13" />
       </file>
-      <file name="D:/Projects/zhuannong/src/main/resources/templates/qr_2nd/spec_article.html" timestamp="1517552922180">
-        <mark key="[" line="60" column="104" />
-        <mark key="]" line="60" column="125" />
-        <mark key="^" line="60" column="125" />
-        <mark key="." line="60" column="125" />
-      </file>
+      <file name="D:/Projects/zhuannong/src/main/resources/templates/qr_2nd/spec_article.html" timestamp="1517562647813" />
       <file name="D:/Projects/zhuannong/src/main/resources/templates/login.html" timestamp="1517475120818">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
@@ -75,11 +70,7 @@
       <file name="D:/Projects/zhuannong/src/main/resources/templates/index_scanQr.html" timestamp="1517477427196">
         <mark key="[" line="38" column="68" />
       </file>
-      <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/controller/ScanQrcodeController.java" timestamp="1517477554255">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.3.1/feign-core-9.3.1-sources.jar!/feign/Feign.java" timestamp="1517562557853" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterPipeline.java" timestamp="1517368741849">
         <mark key="'" line="98" column="0" />
         <mark key="[" line="77" column="28" />
