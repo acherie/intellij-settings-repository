@@ -56,11 +56,13 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" timestamp="1517537541740">
         <mark key="'" line="33" column="13" />
       </file>
+      <file name="D:/Projects/zhuannong/src/main/resources/templates/qr_2nd/spec_article.html" timestamp="1517541855854" />
       <file name="D:/Projects/zhuannong/src/main/resources/templates/login.html" timestamp="1517475120818">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/thymeleaf/ThymeleafAutoConfiguration.java" timestamp="1517541703761" />
       <file name="D:/Projects/zhuannong/src/main/resources/templates/index_scanQr.html" timestamp="1517477427196">
         <mark key="[" line="38" column="68" />
       </file>
