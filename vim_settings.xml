@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
@@ -50,13 +50,6 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/FreeMarkerService.java" timestamp="1517468419280">
-        <mark key="'" line="22" column="63" />
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="22" column="14" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" timestamp="1517537541740">
         <mark key="'" line="33" column="13" />
       </file>
@@ -71,22 +64,14 @@
         <mark key="[" line="38" column="68" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.3.1/feign-core-9.3.1-sources.jar!/feign/Feign.java" timestamp="1517562557853" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterPipeline.java" timestamp="1517368741849">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="77" column="28" />
-        <mark key="]" line="77" column="55" />
-        <mark key="." line="77" column="55" />
-        <mark key="^" line="77" column="55" />
-      </file>
       <file name="/fragment.java" timestamp="1517475138039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecArticleService.java" timestamp="1517473935968">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="145" column="39" />
-        <mark key="]" line="145" column="42" />
-        <mark key="." line="145" column="42" />
-        <mark key="^" line="145" column="42" />
+      <file name="D:/Projects/zhuannong/pom.xml" timestamp="1517564245728">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
     </filemarks>
     <jumps>
