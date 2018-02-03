@@ -5,6 +5,7 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" />
     </globalmarks>
     <filemarks>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductStandardController.java" timestamp="1517627747793" />
       <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/controller/TagDetailController.java" timestamp="1517575027135">
         <mark key="[" line="58" column="42" />
         <mark key="]" line="63" column="19" />
@@ -25,9 +26,6 @@
         <mark key="]" line="10" column="27" />
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductScanQrcodeService.java" timestamp="1517560207600">
-        <mark key="'" line="62" column="79" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1517574673159">
         <mark key="'" line="200" column="40" />
@@ -90,16 +88,13 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.25-incubating/freemarker-2.3.25-incubating-sources.jar!/freemarker/core/Environment.java" timestamp="1517473504952">
-        <mark key="'" line="160" column="19" />
-      </file>
       <file name="/Dummy.txt" timestamp="1517574090179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ScanQrScodeProductInfoVo.java" timestamp="1517560228000" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApproveController.java" timestamp="1517626260054">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApproveController.java" timestamp="1517628836271">
         <mark key="'" line="60" column="31" />
         <mark key="[" line="62" column="33" />
         <mark key="]" line="62" column="33" />
@@ -115,7 +110,7 @@
       <file name="D:/Projects/zhuannong/src/main/resources/application.properties" timestamp="1517574232349">
         <mark key="[" line="10" column="27" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" timestamp="1517626209042">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" timestamp="1517628406072">
         <mark key="'" line="72" column="33" />
         <mark key="[" line="74" column="33" />
         <mark key="]" line="74" column="33" />
@@ -129,7 +124,7 @@
         <mark key="." line="100" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.3.1/feign-core-9.3.1-sources.jar!/feign/Feign.java" timestamp="1517562557853" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterPipeline.java" timestamp="1517368741849">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterPipeline.java" timestamp="1517628348587">
         <mark key="'" line="98" column="0" />
         <mark key="[" line="77" column="28" />
         <mark key="]" line="77" column="55" />
