@@ -56,7 +56,7 @@
         <mark key="." line="77" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/thymeleaf/ThymeleafAutoConfiguration.java" timestamp="1517541703761" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" timestamp="1517574467006">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" timestamp="1517622531747">
         <mark key="[" line="48" column="18" />
         <mark key="]" line="48" column="30" />
       </file>
@@ -115,11 +115,11 @@
       <file name="D:/Projects/zhuannong/src/main/resources/application.properties" timestamp="1517574232349">
         <mark key="[" line="10" column="27" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" timestamp="1517572830218">
-        <mark key="'" line="36" column="13" />
-        <mark key="[" line="74" column="122" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" timestamp="1517623484694">
+        <mark key="'" line="72" column="33" />
+        <mark key="[" line="91" column="22" />
         <mark key="]" line="77" column="58" />
-        <mark key="." line="77" column="58" />
+        <mark key="." line="91" column="51" />
         <mark key="^" line="77" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/FeignClient.java" timestamp="1517574440034" />
@@ -145,7 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="14" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
       <jump line="205" column="14" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
       <jump line="222" column="14" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
       <jump line="112" column="4" filename="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" />
@@ -245,6 +244,7 @@
       <jump line="73" column="0" filename="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/client/product/model/ProductSpecification.java" />
       <jump line="76" column="0" filename="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/client/product/model/ProductSpecification.java" />
       <jump line="78" column="5" filename="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/client/product/model/ProductSpecification.java" />
+      <jump line="72" column="33" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductRegisterController.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
