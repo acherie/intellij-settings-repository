@@ -25,6 +25,7 @@
         <mark key="^" line="22" column="70" />
         <mark key="." line="22" column="70" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductStandardController.java" timestamp="1517812142419" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/templates/spec/article.ftl" timestamp="1517467526383">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="7" column="8" />
@@ -32,7 +33,7 @@
         <mark key="." line="7" column="8" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/package.json" timestamp="1517809686325" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1517798067514">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1517811522115">
         <mark key="'" line="165" column="0" />
         <mark key="[" line="162" column="30" />
         <mark key="]" line="162" column="35" />
@@ -55,7 +56,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApproveController.java" timestamp="1517797915987">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApproveController.java" timestamp="1517812378443">
         <mark key="'" line="142" column="0" />
         <mark key="[" line="144" column="41" />
         <mark key="]" line="145" column="87" />
