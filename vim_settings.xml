@@ -26,7 +26,6 @@
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/package.json" timestamp="1517809686325" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1517811522115">
-        <mark key="'" line="165" column="0" />
         <mark key="[" line="162" column="30" />
         <mark key="]" line="162" column="35" />
         <mark key="." line="162" column="35" />
@@ -118,7 +117,7 @@
         <mark key="." line="100" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterPipeline.java" timestamp="1517823271721">
-        <mark key="'" line="98" column="0" />
+        <mark key="'" line="101" column="0" />
       </file>
     </filemarks>
     <jumps>
