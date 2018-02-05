@@ -31,12 +31,6 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/service/AccountAdminService.java" timestamp="1517859756875" />
       <file name="/RegisterPipeline.java" timestamp="1517865779897" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductStandardController.java" timestamp="1517822834682">
-        <mark key="[" line="190" column="37" />
-        <mark key="]" line="191" column="72" />
-        <mark key="^" line="191" column="72" />
-        <mark key="." line="191" column="72" />
-      </file>
       <file name="D:/Projects/zhuannong/src/main/resources/application-test.properties" timestamp="1517833492679">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="15" />
@@ -44,11 +38,10 @@
         <mark key="." line="4" column="15" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductStandardType.java" timestamp="1517818292605" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1517869721669">
-        <mark key="[" line="207" column="20" />
-        <mark key="]" line="207" column="25" />
-        <mark key="^" line="207" column="25" />
-        <mark key="." line="207" column="25" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/service/qiniu/QiniuConstant.java" timestamp="1517834950057">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/package.json" timestamp="1517809686325" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1517837876520">
@@ -65,6 +58,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductScanQrcodeService.java" timestamp="1517871310791">
+        <mark key="[" line="437" column="0" />
+        <mark key="]" line="437" column="0" />
+        <mark key="." line="437" column="0" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/js/app.init.js" timestamp="1517840713530" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductScanQrcodeMapper.xml" timestamp="1517860260373">
@@ -124,7 +122,6 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductCompanyController.java" timestamp="1517822725641" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecCommentService.java" timestamp="1517842811003" />
-      <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/controller/ScanQrcodeController.java" timestamp="1517869014086" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecArticle.java" timestamp="1517850192099">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="28" />
@@ -137,6 +134,7 @@
         <mark key="^" line="241" column="16" />
         <mark key="." line="241" column="16" />
       </file>
+      <file name="D:/Projects/zhuannong/src/main/resources/application-pro.properties" timestamp="1517872264085" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/StandardAttachVo.java" timestamp="1517817797610">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="10" column="4" />
@@ -188,7 +186,7 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517869681256">
+      <file name="/Dummy.txt" timestamp="1517871352916">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="31" />
       </file>
