@@ -20,10 +20,9 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/ProductStandardType.java" timestamp="1517818292605" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1517823412563">
-        <mark key="[" line="202" column="55" />
-        <mark key="]" line="203" column="40" />
-        <mark key="^" line="203" column="40" />
-        <mark key="." line="203" column="40" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/package.json" timestamp="1517809686325" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1517811522115">
@@ -44,12 +43,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApproveService.java" timestamp="1517797335661">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="110" column="64" />
-        <mark key="." line="110" column="64" />
-        <mark key="^" line="110" column="64" />
       </file>
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/gulpfile.js" timestamp="1517809958018" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuConstant.java" timestamp="1517824202205">
@@ -125,11 +118,7 @@
         <mark key="." line="100" column="0" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterPipeline.java" timestamp="1517823271721">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="77" column="81" />
-        <mark key="]" line="78" column="25" />
-        <mark key="." line="78" column="25" />
-        <mark key="^" line="78" column="25" />
+        <mark key="'" line="98" column="0" />
       </file>
     </filemarks>
     <jumps>
