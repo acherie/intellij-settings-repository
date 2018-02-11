@@ -57,6 +57,7 @@
         <mark key="." line="53" column="99" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductRegisterService.java" timestamp="1518309828839" />
+      <file name="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/service/weiXin/AuthorService.java" timestamp="1518311662473" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1517837876520">
         <mark key="[" line="162" column="30" />
         <mark key="]" line="162" column="35" />
@@ -192,6 +193,7 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="18" column="28" />
       </file>
+      <file name="/CoreService.java" timestamp="1518311615061" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterPipeline.java" timestamp="1517865789988">
         <mark key="'" line="91" column="0" />
         <mark key="[" line="77" column="13" />
