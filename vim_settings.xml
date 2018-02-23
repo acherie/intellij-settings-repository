@@ -37,6 +37,7 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIndexService.java" timestamp="1519367831094" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1517837876520">
         <mark key="[" line="162" column="30" />
         <mark key="]" line="162" column="35" />
@@ -77,6 +78,7 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="61" column="21" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Objects.java" timestamp="1519367204503" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecPromotionService.java" timestamp="1517867357150">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="68" column="22" />
@@ -135,6 +137,7 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductStandardService.java" timestamp="1519367748563" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductReport.java" timestamp="1518418102437">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="13" column="47" />
@@ -148,7 +151,7 @@
         <mark key="." line="85" column="40" />
         <mark key="^" line="85" column="40" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportAuditVo.java" timestamp="1518417471013">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportAuditVo.java" timestamp="1519366859794">
         <mark key="[" line="12" column="32" />
         <mark key="]" line="12" column="56" />
         <mark key="^" line="12" column="56" />
@@ -172,7 +175,7 @@
         <mark key="^" line="53" column="99" />
         <mark key="." line="53" column="99" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportVo.java" timestamp="1518405706910">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ProductReportVo.java" timestamp="1519367397513">
         <mark key="[" line="30" column="28" />
         <mark key="]" line="30" column="25" />
         <mark key="^" line="30" column="25" />
@@ -195,7 +198,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1519362578380">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportService.java" timestamp="1519367965602">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="236" column="8" />
         <mark key="]" line="237" column="16" />
@@ -233,7 +236,7 @@
         <mark key="^" line="99" column="34" />
         <mark key="." line="99" column="34" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1518417526687">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductReportController.java" timestamp="1519367509842">
         <mark key="[" line="242" column="33" />
         <mark key="]" line="243" column="0" />
         <mark key="^" line="243" column="0" />
