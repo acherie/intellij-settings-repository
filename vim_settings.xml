@@ -22,6 +22,12 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application.properties" timestamp="1519615121175" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Objects.java" timestamp="1519367204503" />
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-service/src/main/java/com/fuhuadata/service/impl/mybatis/MenuServiceImpl.java" timestamp="1519696239034" />
+      <file name="D:/Projects/nongtianquan/code-generator/src/main/java/generator/parameter/UserParameters.java" timestamp="1519710461392">
+        <mark key="[" line="60" column="57" />
+        <mark key="]" line="60" column="62" />
+        <mark key="^" line="60" column="62" />
+        <mark key="." line="60" column="62" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecCommentService.java" timestamp="1519637515071">
         <mark key="[" line="92" column="46" />
         <mark key="]" line="92" column="66" />
@@ -180,8 +186,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItPDu6fD+7PGIikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>{&quot;imageActionName&quot;:&quot;uploadimage&quot;,&quot;imageFieldName&quot;:&quot;upfile&quot;,&quot;imageMaxSize&quot;:2048000,&quot;imageAllowFiles&quot;:[&quot;.png&quot;,&quot;.jpg&quot;,&quot;.jpeg&quot;,&quot;.gif&quot;,&quot;.bmp&quot;],&quot;imageCompressEnable&quot;:true,&quot;imageCompressBorder&quot;:1600,&quot;imageInsertAlign&quot;:&quot;none&quot;,&quot;imageUrlPrefix&quot;:&quot;&quot;,&quot;imagePathFormat&quot;:&quot;/ueditor/jsp/upload/image/{yyyy}{mm}{dd}/{time}{rand:6}&quot;,&quot;scrawlActionName&quot;:&quot;uploadscrawl&quot;,&quot;scrawlFieldName&quot;:&quot;upfile&quot;,&quot;scrawlPathFormat&quot;:&quot;/ueditor/jsp/upload/image/{yyyy}{mm}{dd}/{time}{rand:6}&quot;,&quot;scrawlMaxSize&quot;:2048000,&quot;scrawlUrlPrefix&quot;:&quot;&quot;,&quot;scrawlInsertAlign&quot;:&quot;none&quot;,&quot;snapscreenActionName&quot;:&quot;uploadimage&quot;,&quot;snapscreenPathFormat&quot;:&quot;/ueditor/jsp/upload/image/{yyyy}{mm}{dd}/{time}{rand:6}&quot;,&quot;snapscreenUrlPrefix&quot;:&quot;&quot;,&quot;snapscreenInsertAlign&quot;:&quot;none&quot;,&quot;catcherLocalDomain&quot;:[&quot;127.0.0.1&quot;,&quot;localhost&quot;,&quot;img.baidu.com&quot;],&quot;catcherActionName&quot;:&quot;catchimage&quot;,&quot;catcherFieldName&quot;:&quot;source&quot;,&quot;catcherPathFormat&quot;:&quot;/ueditor/jsp/upload/image/{yyyy}{mm}{dd}/{time}{rand:6}&quot;,&quot;catcherUrlPrefix&quot;:&quot;&quot;,&quot;catcherMaxSize&quot;:2048000,&quot;catcherAllowFiles&quot;:[&quot;.png&quot;,&quot;.jpg&quot;,&quot;.jpeg&quot;,&quot;.gif&quot;,&quot;.bmp&quot;],&quot;videoActionName&quot;:&quot;uploadvideo&quot;,&quot;videoFieldName&quot;:&quot;upfile&quot;,&quot;videoPathFormat&quot;:&quot;/ueditor/jsp/upload/video/{yyyy}{mm}{dd}/{time}{rand:6}&quot;,&quot;videoUrlPrefix&quot;:&quot;&quot;,&quot;videoMaxSize&quot;:102400000,&quot;videoAllowFiles&quot;:[&quot;.flv&quot;,&quot;.swf&quot;,&quot;.mkv&quot;,&quot;.avi&quot;,&quot;.rm&quot;,&quot;.rmvb&quot;,&quot;.mpeg&quot;,&quot;.mpg&quot;,&quot;.ogg&quot;,&quot;.ogv&quot;,&quot;.mov&quot;,&quot;.wmv&quot;,&quot;.mp4&quot;,&quot;.webm&quot;,&quot;.mp3&quot;,&quot;.wav&quot;,&quot;.mid&quot;],&quot;fileActionName&quot;:&quot;uploadfile&quot;,&quot;fileFieldName&quot;:&quot;upfile&quot;,&quot;filePathFormat&quot;:&quot;/ueditor/jsp/upload/file/{yyyy}{mm}{dd}/{time}{rand:6}&quot;,&quot;fileUrlPrefix&quot;:&quot;&quot;,&quot;fileMaxSize&quot;:51200000,&quot;fileAllowFiles&quot;:[&quot;.png&quot;,&quot;.jpg&quot;,&quot;.jpeg&quot;,&quot;.gif&quot;,&quot;.bmp&quot;,&quot;.flv&quot;,&quot;.swf&quot;,&quot;.mkv&quot;,&quot;.avi&quot;,&quot;.rm&quot;,&quot;.rmvb&quot;,&quot;.mpeg&quot;,&quot;.mpg&quot;,&quot;.ogg&quot;,&quot;.ogv&quot;,&quot;.mov&quot;,&quot;.wmv&quot;,&quot;.mp4&quot;,&quot;.webm&quot;,&quot;.mp3&quot;,&quot;.wav&quot;,&quot;.mid&quot;,&quot;.rar&quot;,&quot;.zip&quot;,&quot;.tar&quot;,&quot;.gz&quot;,&quot;.7z&quot;,&quot;.bz2&quot;,&quot;.cab&quot;,&quot;.iso&quot;,&quot;.doc&quot;,&quot;.docx&quot;,&quot;.xls&quot;,&quot;.xlsx&quot;,&quot;.ppt&quot;,&quot;.pptx&quot;,&quot;.pdf&quot;,&quot;.txt&quot;,&quot;.md&quot;,&quot;.xml&quot;],&quot;imageManagerActionName&quot;:&quot;listimage&quot;,&quot;imageManagerListPath&quot;:&quot;/ueditor/jsp/upload/image/&quot;,&quot;imageManagerListSize&quot;:20,&quot;imageManagerUrlPrefix&quot;:&quot;&quot;,&quot;imageManagerInsertAlign&quot;:&quot;none&quot;,&quot;imageManagerAllowFiles&quot;:[&quot;.png&quot;,&quot;.jpg&quot;,&quot;.jpeg&quot;,&quot;.gif&quot;,&quot;.bmp&quot;],&quot;fileManagerActionName&quot;:&quot;listfile&quot;,&quot;fileManagerListPath&quot;:&quot;/ueditor/jsp/upload/file/&quot;,&quot;fileManagerUrlPrefix&quot;:&quot;&quot;,&quot;fileManagerListSize&quot;:20,&quot;fileManagerAllowFiles&quot;:[&quot;.png&quot;,&quot;.jpg&quot;,&quot;.jpeg&quot;,&quot;.gif&quot;,&quot;.bmp&quot;,&quot;.flv&quot;,&quot;.swf&quot;,&quot;.mkv&quot;,&quot;.avi&quot;,&quot;.rm&quot;,&quot;.rmvb&quot;,&quot;.mpeg&quot;,&quot;.mpg&quot;,&quot;.ogg&quot;,&quot;.ogv&quot;,&quot;.mov&quot;,&quot;.wmv&quot;,&quot;.mp4&quot;,&quot;.webm&quot;,&quot;.mp3&quot;,&quot;.wav&quot;,&quot;.mid&quot;,&quot;.rar&quot;,&quot;.zip&quot;,&quot;.tar&quot;,&quot;.gz&quot;,&quot;.7z&quot;,&quot;.bz2&quot;,&quot;.cab&quot;,&quot;.iso&quot;,&quot;.doc&quot;,&quot;.docx&quot;,&quot;.xls&quot;,&quot;.xlsx&quot;,&quot;.ppt&quot;,&quot;.pptx&quot;,&quot;.pdf&quot;,&quot;.txt&quot;,&quot;.md&quot;,&quot;.xml&quot;]}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -211,7 +217,7 @@
         <text>getOrderDetailUrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2R1Y3RJbnNwZWN0aW9uRGV0YWlsPiBkZXRhaWxzID0gcmVwb3J0Vm8uZ2V0SW5zcGVjdGlvbkRldGFpbHMoKTsKICAgICAgICBib29sZWFuIGFwcHJvdmVkID0gc3RhbmRhcmRTZXJ2aWNlLmNoZWNrU3RhbmRhcmRJbnNwZWN0aW9uKHJlcG9ydFRlbXAuZ2V0U3RhbmRhcmRJZCgpLCBkZXRhaWxzKTsKICAgICAgICAvLyDWyrzsveG5+wogICAgICAgIGJ5dGUgcXVhbGlmeUZsYWcgPSBhcHByb3ZlZCA/IChieXRlKSAxIDogKGJ5dGUpIDA7CgogICAgICAgIFByb2R1Y3RJbnNwZWN0aW9uIGluc3BlY3Rpb24gPSBuZXcgUHJvZHVjdEluc3BlY3Rpb24oKTsKICAgICAgICBpbnNwZWN0aW9uLnNldEluc3BlY3RvcklkKHJlcG9ydFZvLmdldEluc3BlY3RvcklkKCkpOwogICAgICAgIGluc3BlY3Rpb24uc2V0SW5zcGVjdG9yTmFtZShyZXBvcnRWby5nZXRJbnNwZWN0b3JOYW1lKCkpOwogICAgICAgIGluc3BlY3Rpb24uc2V0UmV2aWV3ZXJJZChyZXBvcnRWby5nZXRSZXZpZXdlcklkKCkpOwogICAgICAgIGluc3BlY3Rpb24uc2V0UmV2aWV3ZXJOYW1lKHJlcG9ydFZvLmdldFJldmlld2VyTmFtZSgpKTsKICAgICAgICBpbnNwZWN0aW9uLnNldEluc3BlY3REYXRlKHJlcG9ydFRlbXAuZ2V0UmVwb3J0VGltZSgpKTsKICAgICAgICBpbnNwZWN0aW9uLnNldFF1YWxpZnlGbGFnKHF1YWxpZnlGbGFnKTsKICAgICAgICBpbnNwZWN0aW9uLnNldERldGFpbHMoZGV0YWlscyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyJwcm9kdWN0X2xpbmUiLCAgICAgICAicHJvZHVjdCIsICJsaW5lIiwgICAgICAgICAiMSJ9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -220,43 +226,43 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWN0SW5zcGVjdGlvbiBpbnNwZWN0aW9uID0gbmV3IFByb2R1Y3RJbnNwZWN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHN0YW5kYXJkSWQgPSByZXBvcnRUZW1wLmdldFN0YW5kYXJkSWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWN0SW5zcGVjdGlvbiBpbnNwZWN0aW9uID0gbmV3IFByb2R1Y3RJbnNwZWN0aW9uKCk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ZXVyZWthLmluc3RhbmNlLmlwLWFkZHJlc3M9MTkyLjE2OC41MC4xMDQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHN0YW5kYXJkSWQgPSByZXBvcnRUZW1wLmdldFN0YW5kYXJkSWQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdXQoYWRtaW4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXQoYWRtaW4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
