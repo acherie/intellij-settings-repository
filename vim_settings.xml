@@ -120,7 +120,8 @@
         <mark key="^" line="60" column="62" />
         <mark key="." line="60" column="62" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecCommentService.java" timestamp="1519801251191">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductSpecificationCode.java" timestamp="1519802129592" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecCommentService.java" timestamp="1519801773053">
         <mark key="[" line="92" column="46" />
         <mark key="]" line="92" column="66" />
         <mark key="^" line="92" column="66" />
@@ -191,6 +192,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="31" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1519801813517" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecComment.java" timestamp="1517868213631">
         <mark key="[" line="59" column="5" />
         <mark key="]" line="62" column="6" />
@@ -210,6 +212,7 @@
         <mark key="." line="67" column="31" />
         <mark key="^" line="145" column="87" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1519802030928" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLine.java" timestamp="1519719095259">
         <mark key="'" line="52" column="13" />
         <mark key="[" line="37" column="0" />
@@ -217,6 +220,8 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductApplyDto.java" timestamp="1519801926424" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCode.java" timestamp="1519802110636" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecPromotion.java" timestamp="1517847058679">
         <mark key="[" line="13" column="7" />
         <mark key="]" line="13" column="10" />
