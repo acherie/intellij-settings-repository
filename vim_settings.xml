@@ -145,6 +145,7 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLicenseController.java" timestamp="1519806210809" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCodeBo.java" timestamp="1519803308193" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApprovePipeline.java" timestamp="1517860642969">
         <mark key="[" line="84" column="77" />
@@ -170,6 +171,7 @@
         <mark key="^" line="195" column="25" />
         <mark key="." line="124" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/resource-service/src/main/java/com/dakun/jianzhong/controller/ResourcePesticideController.java" timestamp="1519805955607" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecTotalService.java" timestamp="1517843370005">
         <mark key="[" line="53" column="57" />
         <mark key="]" line="53" column="99" />
@@ -213,7 +215,7 @@
         <mark key="." line="67" column="31" />
         <mark key="^" line="145" column="87" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1519802030928" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1519805586527" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLine.java" timestamp="1519719095259">
         <mark key="'" line="52" column="13" />
         <mark key="[" line="37" column="0" />
@@ -223,12 +225,14 @@
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductApplyDto.java" timestamp="1519801926424" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductIdentityCode.java" timestamp="1519802955798" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLicenseDetail.java" timestamp="1519806082605" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecPromotion.java" timestamp="1517847058679">
         <mark key="[" line="13" column="7" />
         <mark key="]" line="13" column="10" />
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/ResourcePesticideClient.java" timestamp="1519805948963" />
       <file name="D:/Projects/zhuannong-front/qr-source-front/master/vendor.json" timestamp="1517810059393">
         <mark key="[" line="99" column="22" />
         <mark key="]" line="99" column="34" />
