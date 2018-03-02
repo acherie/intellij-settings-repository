@@ -54,7 +54,7 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductScanQrcodeMapper.xml" timestamp="1517860260373">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductScanQrcodeMapper.xml" timestamp="1519898689747">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="13" />
         <mark key="^" line="15" column="13" />
@@ -168,6 +168,7 @@
         <mark key="^" line="195" column="25" />
         <mark key="." line="124" column="0" />
       </file>
+      <file name="D:/Projects/zhuannong/src/main/resources/templates/qr_2nd/index_scanQr.html" timestamp="1519898647987" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecTotalService.java" timestamp="1517843370005">
         <mark key="[" line="53" column="57" />
         <mark key="]" line="53" column="99" />
@@ -197,6 +198,7 @@
         <mark key="." line="62" column="6" />
         <mark key="^" line="62" column="6" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ScanQrScodeProductInfoVo.java" timestamp="1519898677475" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecVideo.java" timestamp="1517852501007">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="10" />
