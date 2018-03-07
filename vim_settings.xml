@@ -113,7 +113,6 @@
         <mark key="." line="62" column="6" />
         <mark key="^" line="62" column="6" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductScanQrcodeService.java" timestamp="1520319536443" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductScanQrcodeMapper.xml" timestamp="1520319601135">
         <mark key="'" line="28" column="12" />
         <mark key="[" line="15" column="12" />
@@ -134,7 +133,6 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/vo/ScanQrScodeProductInfoVo.java" timestamp="1520319480909" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecPromotionService.java" timestamp="1517867357150">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="68" column="22" />
@@ -161,7 +159,7 @@
         <mark key="." line="67" column="31" />
         <mark key="^" line="145" column="87" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1520319683223">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1520390939518">
         <mark key="'" line="518" column="12" />
         <mark key="[" line="290" column="0" />
         <mark key="]" line="290" column="0" />
@@ -173,6 +171,9 @@
         <mark key="]" line="37" column="0" />
         <mark key="^" line="15" column="12" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" timestamp="1520391714761">
+        <mark key="'" line="45" column="13" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/FreeMarkerService.java" timestamp="1517468419280">
         <mark key="'" line="22" column="63" />
@@ -265,7 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="77" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterProcessor.java" />
       <jump line="155" column="19" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterProcessor.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterProcessor.java" />
       <jump line="2" column="7" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterProcessor.java" />
@@ -365,6 +365,7 @@
       <jump line="24" column="12" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductScanQrcodeMapper.xml" />
       <jump line="27" column="12" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductScanQrcodeMapper.xml" />
       <jump line="28" column="12" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductScanQrcodeMapper.xml" />
+      <jump line="45" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductReportTempService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -462,7 +463,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
