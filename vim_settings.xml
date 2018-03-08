@@ -185,18 +185,18 @@
         <mark key="^" line="53" column="99" />
         <mark key="." line="53" column="99" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductWaterIdentityCodeBo.java" timestamp="1520492292732">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="48" column="58" />
-        <mark key="." line="48" column="58" />
-        <mark key="^" line="48" column="58" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductWaterIdentityCodeBo.java" timestamp="1520494050077">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="43" column="13" />
+        <mark key="." line="43" column="13" />
+        <mark key="^" line="43" column="13" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductWaterIdentityCode.java" timestamp="1520491496968">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="50" column="33" />
-        <mark key="^" line="50" column="33" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductWaterIdentityCode.java" timestamp="1520493309130">
+        <mark key="[" line="86" column="30" />
+        <mark key="]" line="87" column="33" />
+        <mark key="." line="87" column="33" />
+        <mark key="^" line="87" column="33" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecVideoController.java" timestamp="1519632237670">
         <mark key="'" line="57" column="20" />
@@ -240,7 +240,7 @@
         <mark key="." line="67" column="31" />
         <mark key="^" line="145" column="87" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1520415576744">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1520493660043">
         <mark key="'" line="518" column="12" />
         <mark key="[" line="290" column="0" />
         <mark key="]" line="290" column="0" />
@@ -408,8 +408,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gItPDu6fD+7PGIikK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqILvxyKHQo9Hpus0KICAgICAqCiAgICAgKiBAcGFyYW0gcmFuZG9tTnVtCiAgICAgKiBAcmV0dXJuCiAgICAgKi8KICAgIHByaXZhdGUgU3RyaW5nIGdldENoZWNrc3VtKFN0cmluZyByYW5kb21OdW0pIHsKCiAgICAgICAgaW50IGNoZWNrc3VtID0gSW50ZWdlci5wYXJzZUludChyYW5kb21OdW0pICUgOTk5OTsKCiAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoIiUwNGQiLCBjaGVja3N1bSk7CiAgICB9CgogICAgLyoqCiAgICAgKiC87NHp0KPR6brNCiAgICAgKgogICAgICogQHBhcmFtIGlkZW50aXR5Q29kZQogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgYm9vbGVhbiB2YWxpZGF0ZUNoZWNrc3VtKFByb2R1Y3RJZGVudGl0eUNvZGUgaWRlbnRpdHlDb2RlKSB7CgogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">CQkvL7Lp0a+92Na5yNW003RhYl9zeXNfc2V0dGluZ7Ht1tAKCQlTeXNTZXR0aW5nQmVhbiBzeXNTZXR0aW5nQmVhbiA9IHRyYWRlVXRpbFNlcnZpY2UuZ2V0U3lzU2V0dGluZyh0aGlzLmdldERvbWFpbk5vKHJlcXVlc3QpKTsKCQlTeXN0ZW0ub3V0LnByaW50bG4oIisrKysrKysrKysrKysrc3lzU2V0dGluZ0JlYW4rKysrKysrKysrKysrKysrKysrKysrKysrIitzeXNTZXR0aW5nQmVhbi50b0pTT05TdHJpbmcoKSk7CgkJaWYoc3lzU2V0dGluZ0JlYW4hPW51bGwpewoJCQloYW5kbGVyLnB1dCgibnVtOSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTkoKSk7Ly+4tr/uvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW0yIiwgc3lzU2V0dGluZ0JlYW4uZ2V0TnVtMigpKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW0zKCkpOy8v0em79b3Y1rnI1QoJCQloYW5kbGVyLnB1dCgibnVtNSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTUoKSk7Ly/R6caxvdjWucjVCgkJCWhhbmRsZXIucHV0KCJudW04NSIsIHN5c1NldHRpbmdCZWFuLmdldE51bTg1KCkvMTAwMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCBzeXNTZXR0aW5nQmVhbi5nZXROdW04NigpLzEwMDApOy8v0enGsbv1v+6xyMD9LzEwMDAKCQl9ZWxzZXsKCQkJaGFuZGxlci5wdXQoIm51bTkiLCAwKTsvL7i2v+692Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTIiLCAwKTsvL7eiu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTMiLCAwKTsvL9Hpu/W92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTUiLCAwKTsvL9HpxrG92Na5yNUKCQkJaGFuZGxlci5wdXQoIm51bTg1IiwgMCk7Ly/R6bv1u/W/7rHIwP0vMTAwMAoJCQloYW5kbGVyLnB1dCgibnVtODYiLCAwKTsvL9HpxrG79b/uscjA/S8xMDAwCgkJfQo=</text>
@@ -430,7 +430,7 @@
         <text>getGoodsDetailUrl</text>
       </register>
       <register name="-" type="4">
-        <text>getSpecificationLineNumber(specification.getId(), apply.getLineId())</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYlw+</text>
