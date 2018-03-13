@@ -45,6 +45,7 @@
         <mark key="^" line="20" column="46" />
         <mark key="." line="20" column="46" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" timestamp="1520908522953" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/account-service/src/main/java/com/dakun/jianzhong/controller/AccountUserController.java" timestamp="1517837876520">
         <mark key="[" line="162" column="30" />
         <mark key="]" line="162" column="35" />
@@ -184,6 +185,10 @@
         <mark key="]" line="127" column="26" />
         <mark key="." line="127" column="26" />
         <mark key="^" line="127" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1520908242534">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1520835927591">
         <mark key="[" line="371" column="0" />
