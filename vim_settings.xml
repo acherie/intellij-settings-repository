@@ -5,70 +5,23 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ExecutorConfigurationSupport.java" timestamp="1520839081895" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" timestamp="1520927093471">
         <mark key="[" line="87" column="75" />
         <mark key="]" line="87" column="74" />
         <mark key="^" line="87" column="74" />
         <mark key="." line="87" column="74" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0-sources.jar!/org/mybatis/spring/mapper/MapperFactoryBean.java" timestamp="1520909370410" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/QrOriginalApplyTask.java" timestamp="1520841631891">
         <mark key="[" line="79" column="29" />
         <mark key="]" line="79" column="36" />
         <mark key="." line="79" column="36" />
         <mark key="^" line="79" column="36" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/src/main/java/com/fuhuadata/dao/datasource/DataSourceRouter.java" timestamp="1520911882494" />
       <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1520911733631">
         <mark key="'" line="631" column="24" />
         <mark key="[" line="24" column="34" />
         <mark key="]" line="24" column="43" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" timestamp="1520919827561">
-        <mark key="'" line="35" column="11" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="11" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="27" column="11" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLineGroup.java" timestamp="1520903612754">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/FutureTask.java" timestamp="1520839033458" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1520911916905">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="69" />
-        <mark key="." line="9" column="69" />
-        <mark key="^" line="9" column="69" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineGroupService.java" timestamp="1520848157551">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="25" />
-        <mark key="^" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1-sources.jar!/com/zaxxer/hikari/HikariDataSource.java" timestamp="1520911331334" />
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.0/mybatis-spring-1.3.0-sources.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.java" timestamp="1520909393558" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1520911739291">
-        <mark key="'" line="96" column="27" />
-        <mark key="[" line="158" column="43" />
-        <mark key="]" line="159" column="30" />
-        <mark key="." line="159" column="30" />
-        <mark key="^" line="159" column="30" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/LockSupport.java" timestamp="1520941188965" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisNcConfigurator.java" timestamp="1520926702636">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="53" column="70" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-web/src/main/resources/spring/springbeans-dao.xml" timestamp="1520911898721" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.java" timestamp="1520913488932" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/QrApplyTask.java" timestamp="1520840200314" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecification.java" timestamp="1520935193445">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="32" />
@@ -82,7 +35,26 @@
         <mark key="." line="82" column="27" />
         <mark key="^" line="82" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceInitializer.java" timestamp="1520913478867" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisConfigurator.java" timestamp="1520919827561">
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE-sources.jar!/org/springframework/core/io/ClassPathResource.java" timestamp="1520989738995" />
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1520989326581" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLineGroup.java" timestamp="1520903612754">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1520911916905">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="69" />
+        <mark key="." line="9" column="69" />
+        <mark key="^" line="9" column="69" />
+      </file>
       <file name="/Dummy.txt" timestamp="1520919932974">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="31" />
@@ -98,6 +70,12 @@
         <mark key="^" line="53" column="24" />
         <mark key="." line="53" column="24" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineGroupService.java" timestamp="1520848157551">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="25" />
+        <mark key="^" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1520925341915">
         <mark key="'" line="271" column="0" />
         <mark key="[" line="288" column="65" />
@@ -105,21 +83,29 @@
         <mark key="^" line="289" column="64" />
         <mark key="." line="289" column="64" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1520938971388" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLine.java" timestamp="1520924481277">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" timestamp="1520941171980" />
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/RunnableFuture.java" timestamp="1520838711320" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceBuilder.java" timestamp="1520910425781" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1520911739291">
+        <mark key="'" line="96" column="27" />
+        <mark key="[" line="158" column="43" />
+        <mark key="]" line="159" column="30" />
+        <mark key="." line="159" column="30" />
+        <mark key="^" line="159" column="30" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisNcConfigurator.java" timestamp="1520926702636">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="54" column="70" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/pom.xml" timestamp="1520911705466">
         <mark key="'" line="142" column="36" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="19" column="20" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/ProductConfigurator.java" timestamp="1520840110774" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLineController.java" timestamp="1520848487271">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="177" column="0" />
@@ -127,7 +113,6 @@
         <mark key="^" line="136" column="72" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.1.RELEASE/spring-boot-autoconfigure-1.5.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.java" timestamp="1520911647899" />
     </filemarks>
     <jumps>
       <jump line="62" column="25" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/RegisterPipeline.java" />
@@ -327,7 +312,7 @@
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
