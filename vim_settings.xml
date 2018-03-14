@@ -17,11 +17,6 @@
         <mark key="." line="79" column="36" />
         <mark key="^" line="79" column="36" />
       </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/pom.xml" timestamp="1520911733631">
-        <mark key="'" line="631" column="24" />
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="24" column="43" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecification.java" timestamp="1520935193445">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="32" />
@@ -70,6 +65,9 @@
         <mark key="^" line="53" column="24" />
         <mark key="." line="53" column="24" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductBottle.java" timestamp="1520993323815">
+        <mark key="[" line="29" column="32" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineGroupService.java" timestamp="1520848157551">
         <mark key="[" line="44" column="20" />
         <mark key="]" line="44" column="25" />
@@ -102,11 +100,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="54" column="70" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="D:/Projects/fuhuadata/fuhuadata/fuhuadata-dao/pom.xml" timestamp="1520911705466">
-        <mark key="'" line="142" column="36" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="19" column="20" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLineController.java" timestamp="1520848487271">
         <mark key="'" line="0" column="0" />
