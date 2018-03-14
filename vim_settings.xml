@@ -30,12 +30,7 @@
         <mark key="." line="9" column="69" />
         <mark key="^" line="9" column="69" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuUtils.java" timestamp="1521009552901">
-        <mark key="[" line="22" column="105" />
-        <mark key="]" line="22" column="125" />
-        <mark key="^" line="22" column="125" />
-        <mark key="." line="22" column="125" />
-      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuUtils.java" timestamp="1521012288103" />
       <file name="$MAVEN_REPOSITORY$/com/qiniu/qiniu-java-sdk/7.2.6/qiniu-java-sdk-7.2.6-sources.jar!/com/qiniu/util/Auth.java" timestamp="1521010906708" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineGroupService.java" timestamp="1520848157551">
         <mark key="[" line="44" column="20" />
@@ -113,7 +108,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1520990140263" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIdentityCodeService.java" timestamp="1521007679619" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuFile.java" timestamp="1521009722917" />
-      <file name="/fragment.java" timestamp="1520995361210">
+      <file name="/fragment.java" timestamp="1521012301414">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
