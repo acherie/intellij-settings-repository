@@ -11,12 +11,6 @@
         <mark key="^" line="89" column="42" />
         <mark key="." line="89" column="42" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/query/ProductSpecificationQuery.java" timestamp="1520994626849">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="71" />
-        <mark key="^" line="28" column="71" />
-        <mark key="." line="28" column="71" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/QrOriginalApplyTask.java" timestamp="1520841631891">
         <mark key="[" line="79" column="29" />
         <mark key="]" line="79" column="36" />
@@ -29,6 +23,52 @@
         <mark key="." line="67" column="34" />
         <mark key="^" line="67" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE-sources.jar!/org/springframework/core/io/ClassPathResource.java" timestamp="1520989738995" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1520911916905">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="69" />
+        <mark key="." line="9" column="69" />
+        <mark key="^" line="9" column="69" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuUtils.java" timestamp="1521009552901">
+        <mark key="[" line="22" column="105" />
+        <mark key="]" line="22" column="125" />
+        <mark key="^" line="22" column="125" />
+        <mark key="." line="22" column="125" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/qiniu/qiniu-java-sdk/7.2.6/qiniu-java-sdk-7.2.6-sources.jar!/com/qiniu/util/Auth.java" timestamp="1521009693962" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineGroupService.java" timestamp="1520848157551">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="25" />
+        <mark key="^" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/LockSupport.java" timestamp="1520989958568" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisNcConfigurator.java" timestamp="1520926702636">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="54" column="70" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" timestamp="1520996369552">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="^" line="203" column="75" />
+        <mark key="." line="210" column="0" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1521006820094" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/SpecType.java" timestamp="1520996196809">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/query/ProductSpecificationQuery.java" timestamp="1520994626849">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="71" />
+        <mark key="^" line="28" column="71" />
+        <mark key="." line="28" column="71" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductSpecification.java" timestamp="1520935193445">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="32" />
@@ -40,14 +80,6 @@
         <mark key="]" line="62" column="41" />
         <mark key="^" line="62" column="41" />
         <mark key="." line="62" column="41" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE-sources.jar!/org/springframework/core/io/ClassPathResource.java" timestamp="1520989738995" />
-      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1520989326581" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1520911916905">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="69" />
-        <mark key="." line="9" column="69" />
-        <mark key="^" line="9" column="69" />
       </file>
       <file name="/Dummy.txt" timestamp="1520992186870">
         <mark key="[" line="0" column="0" />
@@ -71,12 +103,6 @@
         <mark key="^" line="36" column="33" />
         <mark key="." line="36" column="33" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineGroupService.java" timestamp="1520848157551">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="25" />
-        <mark key="^" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1521007604067">
         <mark key="'" line="271" column="0" />
         <mark key="[" line="578" column="11" />
@@ -86,26 +112,7 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1520990140263" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIdentityCodeService.java" timestamp="1521007679619" />
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/LockSupport.java" timestamp="1520989958568" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisNcConfigurator.java" timestamp="1520926702636">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="54" column="70" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductSpecificationController.java" timestamp="1520996369552">
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="^" line="203" column="75" />
-        <mark key="." line="210" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/api-gateway/src/main/java/com/dakun/jianzhong/filter/PreFilter.java" timestamp="1521006820094" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/SpecType.java" timestamp="1520996196809">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuFile.java" timestamp="1521009722917" />
       <file name="/fragment.java" timestamp="1520995361210">
         <mark key="[" line="0" column="0" />
       </file>
