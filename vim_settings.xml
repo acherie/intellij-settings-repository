@@ -76,6 +76,13 @@
         <mark key="^" line="62" column="41" />
         <mark key="." line="62" column="41" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductWaterIdentityCodeBo.java" timestamp="1521014098787">
+        <mark key="'" line="107" column="19" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="91" column="27" />
+        <mark key="." line="91" column="27" />
+        <mark key="^" line="91" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1520992186870">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="31" />
@@ -106,7 +113,12 @@
         <mark key="." line="578" column="10" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java" timestamp="1520990140263" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIdentityCodeService.java" timestamp="1521007679619" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductIdentityCodeService.java" timestamp="1521013722520">
+        <mark key="[" line="106" column="31" />
+        <mark key="]" line="106" column="52" />
+        <mark key="^" line="106" column="52" />
+        <mark key="." line="106" column="52" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/qiniu/QiniuFile.java" timestamp="1521009722917" />
       <file name="/fragment.java" timestamp="1521012301414">
         <mark key="[" line="0" column="0" />
