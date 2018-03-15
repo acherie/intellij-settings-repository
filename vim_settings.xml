@@ -5,6 +5,12 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" timestamp="1521079845659">
+        <mark key="[" line="75" column="13" />
+        <mark key="]" line="75" column="39" />
+        <mark key="^" line="75" column="39" />
+        <mark key="." line="75" column="39" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/query/ProductSpecificationQuery.java" timestamp="1520994626849">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="71" />
@@ -53,11 +59,11 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="48" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1521006709322">
-        <mark key="[" line="51" column="3" />
-        <mark key="]" line="53" column="24" />
-        <mark key="^" line="53" column="24" />
-        <mark key="." line="53" column="24" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1521079771351">
+        <mark key="[" line="157" column="133" />
+        <mark key="]" line="158" column="40" />
+        <mark key="^" line="158" column="40" />
+        <mark key="." line="158" column="40" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-test.properties" timestamp="1521078208281" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineGroupService.java" timestamp="1520848157551">
@@ -66,6 +72,7 @@
         <mark key="^" line="44" column="25" />
         <mark key="." line="44" column="25" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1521079401987" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisNcConfigurator.java" timestamp="1520926702636">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
