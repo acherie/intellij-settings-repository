@@ -5,92 +5,20 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="D:/ProjectsDemo/rxjavademo/src/test/java/acherie/sort/SortTest.java" timestamp="1521187623247">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="11" />
-        <mark key="." line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/query/ProductSpecificationQuery.java" timestamp="1520994626849">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="71" />
-        <mark key="^" line="28" column="71" />
-        <mark key="." line="28" column="71" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.7/influxdb-java-2.7-sources.jar!/org/influxdb/dto/Point.java" timestamp="1521429141722" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/EnvironmentEndpoint.java" timestamp="1521426574151" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/QrOriginalApplyTask.java" timestamp="1520841631891">
-        <mark key="[" line="79" column="29" />
-        <mark key="]" line="79" column="36" />
-        <mark key="." line="79" column="36" />
-        <mark key="^" line="79" column="36" />
-      </file>
-      <file name="D:/ProjectsDemo/rxjavademo/src/main/java/acherie/sort/Sorts.java" timestamp="1521189406980">
-        <mark key="'" line="8" column="10" />
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="27" />
-        <mark key="." line="53" column="27" />
-        <mark key="^" line="53" column="27" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/repository/InMemoryMultiMetricRepository.java" timestamp="1521428188103" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/writer/Delta.java" timestamp="1521426773190" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/MetricRepositoryAutoConfiguration.java" timestamp="1521428088466" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/monitor/LongGauge.java" timestamp="1521427346056" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/writer/DefaultCounterService.java" timestamp="1521427843928" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1521006043616">
-        <mark key="[" line="62" column="18" />
-        <mark key="]" line="62" column="41" />
-        <mark key="^" line="62" column="41" />
-        <mark key="." line="62" column="41" />
-      </file>
-      <file name="D:/ProjectsDemo/rxjavademo/src/main/java/acherie/sort/SortTest.java" timestamp="1521114225815">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="18" column="45" />
-        <mark key="^" line="18" column="45" />
-        <mark key="." line="18" column="45" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/dto/ProductWaterIdentityCodeBo.java" timestamp="1521018265026">
-        <mark key="'" line="107" column="19" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="91" column="27" />
-        <mark key="." line="91" column="27" />
-        <mark key="^" line="91" column="27" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/DefaultMonitorRegistry.java" timestamp="1521427630856" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/monitor/Gauge.java" timestamp="1521427372623" />
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1521269544565" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1521078198064">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="69" />
-        <mark key="." line="9" column="69" />
-        <mark key="^" line="9" column="69" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductCompanyRelationService.java" timestamp="1521108282626">
-        <mark key="[" line="99" column="29" />
-        <mark key="]" line="99" column="55" />
-        <mark key="^" line="99" column="55" />
-        <mark key="." line="99" column="55" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/info/Info.java" timestamp="1521426675039" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecificationService.java" timestamp="1521100171154">
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="0" />
-        <mark key="." line="457" column="0" />
-        <mark key="^" line="2" column="48" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineGroupService.java" timestamp="1520848157551">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="25" />
-        <mark key="^" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-      </file>
-      <file name="D:/ProjectsDemo/rxjavademo/src/main/java/acherie/sort/QuickSort.java" timestamp="1521186432515">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="15" column="40" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/CounterService.java" timestamp="1521427767125" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/repository/redis/RedisMetricRepository.java" timestamp="1521427250279" />
+      <file name="$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.7/influxdb-java-2.7-sources.jar!/org/influxdb/InfluxDB.java" timestamp="1521429092366" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisNcConfigurator.java" timestamp="1521422377780">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -98,27 +26,8 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/BasicMonitorRegistry.java" timestamp="1521427685555" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MonitoringConfigurator.java" timestamp="1521422401170" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MonitoringConfigurator.java" timestamp="1521429126714" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/MonitorRegistry.java" timestamp="1521427672718" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/QcReportbillBService.java" timestamp="1521167780332">
-        <mark key="[" line="64" column="67" />
-        <mark key="]" line="64" column="78" />
-        <mark key="^" line="64" column="78" />
-        <mark key="." line="64" column="78" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLineController.java" timestamp="1521114312271">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="195" column="36" />
-        <mark key="." line="144" column="0" />
-      </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/constant/SpecType.java" timestamp="1520996196809">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductCompanyController.java" />
