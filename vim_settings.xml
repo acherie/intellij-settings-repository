@@ -24,6 +24,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/info/Info.java" timestamp="1521426675039" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/CounterService.java" timestamp="1521427767125" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/repository/redis/RedisMetricRepository.java" timestamp="1521427250279" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/Endpoint.java" timestamp="1521509479490" />
       <file name="$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.7/influxdb-java-2.7-sources.jar!/org/influxdb/InfluxDB.java" timestamp="1521429092366" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisNcConfigurator.java" timestamp="1521422377780">
         <mark key="[" line="21" column="0" />
