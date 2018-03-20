@@ -5,26 +5,19 @@
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.7/influxdb-java-2.7-sources.jar!/org/influxdb/dto/Point.java" timestamp="1521429141722" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/EnvironmentEndpoint.java" timestamp="1521426574151" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/reader/MetricReader.java" timestamp="1521511322713" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/repository/InMemoryMultiMetricRepository.java" timestamp="1521428188103" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/buffer/BufferMetricReader.java" timestamp="1521514419406" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/writer/Delta.java" timestamp="1521426773190" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/MetricRepositoryAutoConfiguration.java" timestamp="1521511309518" />
-      <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/monitor/LongGauge.java" timestamp="1521427346056" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/writer/DefaultCounterService.java" timestamp="1521427843928" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/DefaultMonitorRegistry.java" timestamp="1521427630856" />
-      <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/monitor/Gauge.java" timestamp="1521427372623" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1521435017783">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="69" />
         <mark key="." line="9" column="69" />
         <mark key="^" line="9" column="69" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/SystemPublicMetrics.java" timestamp="1521455209270" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/info/Info.java" timestamp="1521426675039" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/CounterService.java" timestamp="1521427767125" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/repository/redis/RedisMetricRepository.java" timestamp="1521427250279" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/Endpoint.java" timestamp="1521509479490" />
       <file name="$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.7/influxdb-java-2.7-sources.jar!/org/influxdb/InfluxDB.java" timestamp="1521429092366" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MybatisNcConfigurator.java" timestamp="1521422377780">
@@ -33,11 +26,19 @@
         <mark key="^" line="54" column="70" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/BasicMonitorRegistry.java" timestamp="1521427685555" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/buffer/CounterBuffers.java" timestamp="1521511348062" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/PublicMetrics.java" timestamp="1521435277315" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/MonitoringConfigurator.java" timestamp="1521434559048" />
       <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/MonitorRegistry.java" timestamp="1521427672718" />
+      <file name="$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.7/influxdb-java-2.7-sources.jar!/org/influxdb/dto/Point.java" timestamp="1521429141722" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/repository/InMemoryMultiMetricRepository.java" timestamp="1521428188103" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/MetricRepositoryAutoConfiguration.java" timestamp="1521511309518" />
+      <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/monitor/LongGauge.java" timestamp="1521427346056" />
+      <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/monitor/Gauge.java" timestamp="1521427372623" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/SystemPublicMetrics.java" timestamp="1521455209270" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/CounterService.java" timestamp="1521427767125" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/1.5.1.RELEASE/spring-boot-actuator-1.5.1.RELEASE-sources.jar!/org/springframework/boot/actuate/metrics/repository/redis/RedisMetricRepository.java" timestamp="1521427250279" />
+      <file name="$MAVEN_REPOSITORY$/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1-sources.jar!/com/netflix/servo/BasicMonitorRegistry.java" timestamp="1521427685555" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductCompanyController.java" />
