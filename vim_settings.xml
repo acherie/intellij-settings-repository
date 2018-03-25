@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="H" line="519" column="41" filename="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" protocol="file" />
     </globalmarks>
@@ -22,7 +22,6 @@
         <mark key="^" line="28" column="71" />
         <mark key="." line="28" column="71" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java" timestamp="1521684784587" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/QrOriginalApplyTask.java" timestamp="1520841631891">
         <mark key="[" line="79" column="29" />
         <mark key="]" line="79" column="36" />
@@ -40,7 +39,6 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="49" column="39" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/BinaryJedis.java" timestamp="1521684722657" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1521006043616">
         <mark key="[" line="62" column="18" />
         <mark key="]" line="62" column="41" />
@@ -59,6 +57,7 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1521801507307" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1521435017783">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="69" />
@@ -75,7 +74,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-test.properties" timestamp="1521715079551" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineGroupService.java" timestamp="1520848157551">
         <mark key="[" line="44" column="20" />
         <mark key="]" line="44" column="25" />
@@ -87,6 +85,9 @@
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
         <mark key="^" line="15" column="40" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1521801572214">
+        <mark key="'" line="514" column="51" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLine.java" timestamp="1521617523566">
         <mark key="'" line="60" column="0" />
@@ -151,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="24" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/FreeMarkerService.java" />
       <jump line="21" column="63" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/FreeMarkerService.java" />
       <jump line="129" column="11" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecArticleService.java" />
       <jump line="0" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecArticleService.java" />
@@ -251,6 +251,7 @@
       <jump line="40" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductCompany.java" />
       <jump line="56" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLine.java" />
       <jump line="58" column="0" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductLine.java" />
+      <jump line="514" column="51" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
