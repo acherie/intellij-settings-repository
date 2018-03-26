@@ -177,6 +177,9 @@
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="/fragment.java" timestamp="1522035905019">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="129" column="11" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductSpecArticleService.java" />
