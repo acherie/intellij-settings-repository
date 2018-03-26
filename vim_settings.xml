@@ -81,14 +81,12 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="/application.properties" timestamp="1521957628377" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductSpecCommentMapper.xml" timestamp="1521958145536" />
       <file name="D:/Workspace_MyEclipse/TYW_ctcshop-web/webpage/ctcshop/sell/app/brandList.html" timestamp="1521801507307" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1521958600645">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.properties" timestamp="1522029255948">
         <mark key="[" line="5" column="58" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-        <mark key="^" line="7" column="41" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
       </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductCompanyRelationService.java" timestamp="1521108282626">
         <mark key="[" line="99" column="29" />
@@ -99,7 +97,7 @@
       <file name="D:/Projects/zhuannong/src/main/resources/application-dev.properties" timestamp="1521957092697">
         <mark key="[" line="12" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521715118262">
+      <file name="/Dummy.txt" timestamp="1522029209955">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="31" />
       </file>
