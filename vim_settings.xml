@@ -56,12 +56,16 @@
         <mark key="^" line="131" column="22" />
         <mark key="." line="131" column="22" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/event/ApplyAddToInkChainListener.java" timestamp="1522650667712">
-        <mark key="'" line="18" column="85" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="27" column="51" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.6.RELEASE/spring-tx-4.3.6.RELEASE-sources.jar!/org/springframework/transaction/event/TransactionalEventListener.java" timestamp="1522651814574" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/InkChainClient.java" timestamp="1522652399504">
+        <mark key="[" line="7" column="3" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/event/ApplyAddToInkChainListener.java" timestamp="1522652079146">
+        <mark key="'" line="28" column="31" />
+        <mark key="[" line="38" column="52" />
+        <mark key="]" line="39" column="80" />
+        <mark key="." line="39" column="80" />
+        <mark key="^" line="39" column="80" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/context/event/SimpleApplicationEventMulticaster.java" timestamp="1522648676235" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductLineGroupService.java" timestamp="1520848157551">
@@ -77,13 +81,6 @@
         <mark key="^" line="15" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/context/event/AbstractApplicationEventMulticaster.java" timestamp="1522648741763" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.yml" timestamp="1522122708255">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="50" />
-        <mark key="^" line="47" column="49" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" timestamp="1522118309211">
         <mark key="[" line="164" column="21" />
         <mark key="]" line="164" column="20" />
@@ -144,7 +141,7 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1522649707448">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductApplyMapper.xml" timestamp="1522651302162">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -192,6 +189,7 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="35" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/FeignClientsConfiguration.java" timestamp="1522652501167" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductApplyService.java" timestamp="1522649127777">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="291" column="36" />
@@ -214,20 +212,13 @@
         <mark key="^" line="30" column="47" />
         <mark key="." line="30" column="47" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLineController.java" timestamp="1521700147337">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="83" column="70" />
-        <mark key="]" line="84" column="32" />
-        <mark key="^" line="84" column="32" />
-        <mark key="." line="84" column="32" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/FeignClient.java" timestamp="1522652420574" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/ProductConfigurator.java" timestamp="1522638968521" />
       <file name="/fragment.java" timestamp="1522035905019">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="32" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
       <jump line="200" column="40" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/pom.xml" />
       <jump line="47" column="5" filename="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/client/product/model/ProductSpecification.java" />
       <jump line="43" column="0" filename="D:/Projects/zhuannong/src/main/java/com/dakun/nongyequanWeb/client/product/model/ProductSpecification.java" />
@@ -327,6 +318,7 @@
       <jump line="132" column="28" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductApply.java" />
       <jump line="9" column="13" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/model/ProductBottle.java" />
       <jump line="18" column="85" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/event/ApplyAddToInkChainListener.java" />
+      <jump line="24" column="31" filename="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/event/ApplyAddToInkChainListener.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -372,43 +364,43 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWZmZXIgc3RyaW5nQnVmZmVyID0gbmV3IFN0cmluZ0J1ZmZlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ZXVyZWthLmluc3RhbmNlLmlwLWFkZHJlc3M9MTkyLjE2OC41MC4xMDQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWZmZXIgc3RyaW5nQnVmZmVyID0gbmV3IFN0cmluZ0J1ZmZlcigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIocnqx+u1pdSqyrax8MLrCiAgICAgKiBAcGFyYW0gYXBwbHlJZAogICAgICogQHJldHVybgogICAgICovCiAgICBMaXN0PFN0cmluZz4gbGlzdEFwcGx5SWRlbnRpdHlDb2RlKEludGVnZXIgYXBwbHlJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>#buyCenterLink()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9Imxpc3RBcHBseUlkZW50aXR5Q29kZSIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IAogICAgPC9zZWxlY3Q+Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogu/HIocnqx+u1pdSqyrax8MLrCiAgICAgKiBAcGFyYW0gYXBwbHlJZAogICAgICogQHJldHVybgogICAgICovCiAgICBMaXN0PFN0cmluZz4gbGlzdEFwcGx5SWRlbnRpdHlDb2RlKEludGVnZXIgYXBwbHlJZCk7Cg==</text>
       </register>
       <register name="v" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYHBfYnV0dG9uYCAoYHBlcm1pc3Npb25gLCBgbWVudV9pZGAsIGBidXR0b25fbmFtZWAsIGBwb3N0dXJsYCwgYGJhY2t1cGApIFZBTFVFUyAoJyonLCBAbWVudWlkLCAnyKuyvycsIE5VTEwsIE5VTEwpOwpJTlNFUlQgSU5UTyBgcF9idXR0b25gIChgcGVybWlzc2lvbmAsIGBtZW51X2lkYCwgYGJ1dHRvbl9uYW1lYCwgYHBvc3R1cmxgLCBgYmFja3VwYCkgVkFMVUVTICgndmlldycsIEBtZW51aWQsICey6b+0JywgTlVMTCwgTlVMTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9Imxpc3RBcHBseUlkZW50aXR5Q29kZSIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLlN0cmluZyI+CiAgICAgICAgc2VsZWN0IAogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>#websiteDefaultLink()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">U0VMRUNUIEBtZW51aWQgOj0gbS5tZW51X2lkIEZST00gcF9tZW51IG0gSU5ORVIgSk9JTiBwX21lbnUgcCBPTiBwLm1lbnVfaWQ9bS5wYXJlbnRfaWQgV0hFUkUgbS5tZW51X25hbWU9J7v5sb7Qxc+iJyBBTkQgcC5tZW51X25hbWU9J7rP1/e/zbunJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJvdHRsZUluZm9EdG8xOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
