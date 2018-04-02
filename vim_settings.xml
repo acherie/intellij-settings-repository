@@ -50,6 +50,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/FeignContext.java" timestamp="1522653634444" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/mapper/ProductBottleMapper.xml" timestamp="1522649695626">
         <mark key="[" line="131" column="19" />
         <mark key="]" line="131" column="22" />
@@ -93,6 +94,7 @@
         <mark key="^" line="55" column="70" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/client/AccountAdminMessageServiceClient.java" timestamp="1522653483869" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.properties" timestamp="1521715475775">
         <mark key="[" line="9" column="38" />
       </file>
@@ -170,12 +172,14 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.java" timestamp="1522653031996" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductCompanyRelationService.java" timestamp="1521108282626">
         <mark key="[" line="99" column="29" />
         <mark key="]" line="99" column="55" />
         <mark key="^" line="99" column="55" />
         <mark key="." line="99" column="55" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/FeignClientsRegistrar.java" timestamp="1522653496388" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductApplyController.java" timestamp="1522640535182" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/spider/ApproveSpider.java" timestamp="1522637129589" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/event/ApplyAddToInkChainListner.java" timestamp="1522640639739">
@@ -206,13 +210,8 @@
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/task/event/ApplyAddToInkChain.java" timestamp="1522638790541">
         <mark key="[" line="6" column="31" />
       </file>
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/EventConfigurator.java" timestamp="1522641323875">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="30" column="47" />
-        <mark key="^" line="30" column="47" />
-        <mark key="." line="30" column="47" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/FeignClient.java" timestamp="1522652420574" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/FeignClientFactoryBean.java" timestamp="1522653613457" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/ProductConfigurator.java" timestamp="1522638968521" />
       <file name="/fragment.java" timestamp="1522035905019">
         <mark key="[" line="0" column="0" />
