@@ -82,7 +82,7 @@
         <mark key="^" line="15" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/context/event/AbstractApplicationEventMulticaster.java" timestamp="1522648741763" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.yml" timestamp="1522658712895">
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-dev.yml" timestamp="1522736235149">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="82" column="16" />
         <mark key="]" line="82" column="22" />
@@ -174,6 +174,13 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-test.yml" timestamp="1522736344405">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="68" column="22" />
+        <mark key="]" line="71" column="36" />
+        <mark key="." line="71" column="36" />
+        <mark key="^" line="71" column="36" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.java" timestamp="1522653031996" />
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/service/ProductCompanyRelationService.java" timestamp="1521108282626">
         <mark key="[" line="99" column="29" />
@@ -182,7 +189,7 @@
         <mark key="." line="99" column="55" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/FeignClientsRegistrar.java" timestamp="1522653496388" />
-      <file name="/Dummy.txt" timestamp="1522657485774">
+      <file name="/Dummy.txt" timestamp="1522736352744">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="31" />
       </file>
@@ -203,15 +210,29 @@
         <mark key="^" line="7" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/Targeter.java" timestamp="1522655044612" />
-      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/EventConfigurator.java" timestamp="1522641323875">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="30" column="47" />
-        <mark key="^" line="30" column="47" />
-        <mark key="." line="30" column="47" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/EventConfigurator.java" timestamp="1522736035492">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/FeignClient.java" timestamp="1522652420574" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/FeignClientFactoryBean.java" timestamp="1522653613457" />
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.3.1/feign-core-9.3.1-sources.jar!/feign/ReflectiveFeign.java" timestamp="1522654658760" />
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/resources/application-production.yml" timestamp="1522736331141">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="61" column="22" />
+        <mark key="]" line="64" column="36" />
+        <mark key="." line="64" column="36" />
+        <mark key="^" line="64" column="36" />
+      </file>
+      <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/controller/ProductLineController.java" timestamp="1521700147337">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="83" column="70" />
+        <mark key="]" line="84" column="32" />
+        <mark key="^" line="84" column="32" />
+        <mark key="." line="84" column="32" />
+      </file>
       <file name="D:/Projects/nongtianquan/zhuannong-backend/product-service/src/main/java/com/dakun/jianzhong/config/ProductConfigurator.java" timestamp="1522638968521" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.6.RELEASE/spring-cloud-netflix-core-1.2.6.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/DefaultTargeter.java" timestamp="1522655041869" />
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.3.1/feign-core-9.3.1-sources.jar!/feign/Client.java" timestamp="1522654536881" />
